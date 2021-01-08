@@ -41,6 +41,8 @@ os.system('rm -rf playlists')
 os.mkdir('playlists')
 for playlist in playlists_to_version_control:
     file = open(f'playlists/{playlist}', 'w')
+    file.write('[\n')
     for song in get_playlist(playlist):
-        file.write(f'{str(song)}\n')
+        file.write(f'  {str(song)}\n')
+    file.write(']')
     file.close()
