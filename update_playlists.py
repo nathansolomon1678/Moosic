@@ -43,9 +43,9 @@ playlists_to_version_control = {
 os.system('rm -rf playlists')
 os.mkdir('playlists')
 for playlist in playlists_to_version_control:
-    file = open(f'playlists/{playlist}.json', 'w')
-    file.write('[\n')
+    file = open(f'playlists/{playlist}', 'w')
     for song in get_playlist(playlist):
-        file.write(f'  {str(song)}\n')
-    file.write(']')
+        file.write(f'{str(song)}\n')
     file.close()
+
+print("Don't forget to commit and push these updates!  :)")
