@@ -40,6 +40,7 @@ def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
 playlists_to_version_control = {
     '496qzGOJjyhvnAkGS7Z5nR',  # For now, I'll just be version controlling my main playlist
 }
+
 os.system('rm -rf playlists')
 os.mkdir('playlists')
 for playlist in playlists_to_version_control:
