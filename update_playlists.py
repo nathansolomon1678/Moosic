@@ -27,10 +27,10 @@ def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
     songs = [song['track'] for song in songs]
     # This next line is only necessary because Eli Yasui took "There you go" off Spotify & I refuse to accept that
     songs = [song for song in songs if song is not None]
-    songs = [{'Title':         song['name'],
+    songs = [{'ID':            song['id'],
+              'Title':         song['name'],
               'Artists':       [artist['name'] for artist in song['artists']],
               'Duration':      song['duration_ms'] / 1000,
-              'ID':            song['id'],
              } for song in songs]
     if sort:
         # By default, sort alphabetically
