@@ -398,6 +398,7 @@
 {'Title': 'Holy Ground', 'Artists': ['Taylor Swift'], 'Duration': 201.853, 'ID': '5d2Kn9oAAh9S2EbyCo1i52'}
 {'Title': 'Home', 'Artists': ['Phillip Phillips'], 'Duration': 210.173, 'ID': '4rsW3WCZBGwhHfJWuHRwyT'}
 {'Title': 'Home', 'Artists': ['Toby Fox'], 'Duration': 123.0, 'ID': '6eQ3H5tlCt8EkAXH6Tk0Ez'}
+{'Title': 'Home - 2019 - Remaster', 'Artists': ['Edward Sharpe & The Magnetic Zeros'], 'Duration': 306.373, 'ID': '7KWGfnsUU4Ri46TIvjpAPx'}
 {'Title': 'Home to Sacramento', 'Artists': ['The Steam Machine'], 'Duration': 193.053, 'ID': '0kw5YFCZwj52l5SvxD6SVW'}
 {'Title': 'Hot Air Balloon', 'Artists': ['Owl City'], 'Duration': 213.106, 'ID': '2dgxZM98rGyN2cI357Npeq'}
 {'Title': 'Hot Stuff - 12" Version', 'Artists': ['Donna Summer'], 'Duration': 407.053, 'ID': '2Vnw8zKmjhr1jczUeaqiQg'}
@@ -479,6 +480,7 @@
 {'Title': 'Invisible Thread', 'Artists': ['Matt Gould', 'Griffin Matthews'], 'Duration': 216.234, 'ID': '43DR2luRqGd35mGKkgNRJa'}
 {'Title': 'Invisible Touch - 2007 Remaster', 'Artists': ['Genesis'], 'Duration': 209.586, 'ID': '0xpBr84T3FTm9j4D1MdPtk'}
 {'Title': 'Iris', 'Artists': ['The Goo Goo Dolls'], 'Duration': 289.533, 'ID': '6Qyc6fS4DsZjB2mRW9DsQs'}
+{'Title': 'Ironic', 'Artists': ['Alanis Morissette'], 'Duration': 225.933, 'ID': '4oGTdOClZUxcM2H3UmXlwL'}
 {'Title': 'Isengard Unleashed', 'Artists': ['Howard Shore', 'Ben Del Maestro', 'Elizabeth Fraser'], 'Duration': 301.04, 'ID': '2nGuqMjkSITvVIwV0fCcjB'}
 {'Title': 'Istanbul (Not Constantinople)', 'Artists': ['They Might Be Giants'], 'Duration': 153.813, 'ID': '63vL5oxWrlvaJ0ayNaQnbX'}
 {'Title': "It Ain't Me", 'Artists': ['Kygo', 'Selena Gomez'], 'Duration': 220.773, 'ID': '6mDTcLsheIzu5tvaF25kl4'}
@@ -517,6 +519,7 @@
 {'Title': 'La Gozadera (feat. Marc Anthony)', 'Artists': ['Gente De Zona', 'Marc Anthony'], 'Duration': 203.16, 'ID': '0OMRAvrtLWE2TvcXorRiB9'}
 {'Title': 'La Isla Bonita', 'Artists': ['Madonna'], 'Duration': 242.946, 'ID': '2Iib2MV3ECFJAourgP9dlY'}
 {'Title': 'Lambada - Original Version 1989', 'Artists': ['Kaoma'], 'Duration': 207.466, 'ID': '6xepovPqjvrkEw9Y5AMmTm'}
+{'Title': 'Lampshades on Fire', 'Artists': ['Modest Mouse'], 'Duration': 187.72, 'ID': '5jJ69cMDMC0aeWPjZo6VP2'}
 {'Title': 'Land of Confusion', 'Artists': ['Genesis'], 'Duration': 286.226, 'ID': '37T5HmPt4Qi9JHpcy7j1uU'}
 {'Title': 'Land of Shattered Dreams', 'Artists': ['DragonForce'], 'Duration': 299.826, 'ID': '5KfFMjQudJFlc5xo7yORJz'}
 {'Title': 'Land of Snow and Sorrow', 'Artists': ['Wintersun'], 'Duration': 501.68, 'ID': '3WpmO13nUtLDRZujMgu4ss'}
@@ -538,6 +541,7 @@
 {'Title': "Life's A Mess (feat. Halsey)", 'Artists': ['Juice WRLD', 'Halsey'], 'Duration': 202.193, 'ID': '5wWAwzGp2OaaoIkwcz6wZs'}
 {'Title': 'Lightning Field', 'Artists': ['John Mackey', 'Broken Arrow High School Wind Ensemble', 'Joseph Missal'], 'Duration': 337.32, 'ID': '28xyApu2GcijUwDKbbJshG'}
 {'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 210.633, 'ID': '44906V2WC6k59u06A8CO9D'}
+{'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 211.8, 'ID': '7gUpO6td4OOnu0Lf9vhcIV'}
 {'Title': 'Line Without a Hook', 'Artists': ['Ricky Montgomery'], 'Duration': 249.586, 'ID': '5jvgec3P4jyoZUPTy2pWDR'}
 {'Title': 'Linger', 'Artists': ['The Cranberries'], 'Duration': 274.706, 'ID': '0gEyKnHvgkrkBM6fbeHdwK'}
 {'Title': 'Little Do You Know', 'Artists': ['Alex & Sierra'], 'Duration': 185.2, 'ID': '1almCHdsfikRPfVB9VrEdT'}
@@ -717,6 +721,7 @@
 {'Title': 'Play That Song', 'Artists': ['Train'], 'Duration': 243.253, 'ID': '77hjM9bMmgfTGJXv14UFmi'}
 {'Title': 'Pocket Full Of Gold', 'Artists': ['American Authors'], 'Duration': 180.213, 'ID': '4KSQ9el0QgTKKie5oCtKLe'}
 {'Title': 'Pocketful of Sunshine', 'Artists': ['Natasha Bedingfield'], 'Duration': 202.906, 'ID': '1uigwk5hNV84zRd5YQQRTk'}
+{'Title': 'Pompeii', 'Artists': ['Bastille'], 'Duration': 214.147, 'ID': '3gbBpTdY8lnQwqxNCcf795'}
 {'Title': 'Postcards From Richard Nixon', 'Artists': ['Elton John'], 'Duration': 315.186, 'ID': '2kSpNkYlQCRCZX0a6tW02a'}
 {'Title': 'Price Tag', 'Artists': ['Jessie J', 'B.o.B'], 'Duration': 223.053, 'ID': '5mvKuE9Lf9ARVXVXA32kK9'}
 {'Title': 'Primadonna', 'Artists': ['MARINA'], 'Duration': 221.075, 'ID': '5tFMuAw6X2R4NLx97g7n9q'}
@@ -955,6 +960,7 @@
 {'Title': 'The Heart Asks Pleasure First / The Promise - Edit', 'Artists': ['Michael Nyman'], 'Duration': 191.866, 'ID': '2Yjv7MOdst5y6fFsq4cKOL'}
 {'Title': 'The Hero in Your Heart', 'Artists': ['Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 240.683, 'ID': '0pZvRsxO57jXB8vsOsvQ9d'}
 {'Title': 'The Imitation Game', 'Artists': ['Alexandre Desplat', 'London Symphony Orchestra'], 'Duration': 157.026, 'ID': '0o9ivTBX7mjTnaUYF4Gk6t'}
+{'Title': 'The Last Goodbye', 'Artists': ['Billy Boyd'], 'Duration': 247.36, 'ID': '38I1wMOr8wsW1y7twIyQlb'}
 {'Title': 'The Last Time', 'Artists': ['Taylor Swift', 'Gary Lightbody'], 'Duration': 298.293, 'ID': '7vvIpJZye5cRR6De1LKM0m'}
 {'Title': 'The Less I Know The Better', 'Artists': ['Tame Impala'], 'Duration': 216.32, 'ID': '6K4t31amVTZDgR3sKmwUJJ'}
 {'Title': 'The Longest Time', 'Artists': ['Billy Joel'], 'Duration': 217.906, 'ID': '5DH7nDryMhpixm4G4B7RP9'}
@@ -977,6 +983,7 @@
 {'Title': 'The Sacrifice of Faramir (feat. Billy Boyd Performing "The Edge of Night")', 'Artists': ['Howard Shore', 'Billy Boyd'], 'Duration': 248.493, 'ID': '5z89FzQzTQOwSJFlMp6UFd'}
 {'Title': 'The Saga Begins (Lyrical Adaption of "American Pie")', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 328.773, 'ID': '74sUbOF9Zm8LdGUJjxleTl'}
 {'Title': 'The Schuyler Sisters', 'Artists': ['Renée Elise Goldsberry', 'Phillipa Soo', 'Jasmine Cephas-Jones', 'Leslie Odom Jr.', 'Original Broadway Cast of Hamilton'], 'Duration': 186.542, 'ID': '71X7bPDljJHrmEGYCe7kQ8'}
+{'Title': 'The Scientist', 'Artists': ['Coldplay'], 'Duration': 309.6, 'ID': '75JFxkI2RXiU7L9VXzMkle'}
 {'Title': 'The Shape Of Water', 'Artists': ['Alexandre Desplat'], 'Duration': 222.573, 'ID': '2VzJH2QeNO1PiZwXZMvx7g'}
 {'Title': "The Sky's the Limit", 'Artists': ['Jason Derulo'], 'Duration': 222.826, 'ID': '5MiRdR9TLtpUyXDDTO2Lgd'}
 {'Title': 'The Sound of Silence', 'Artists': ['Simon & Garfunkel'], 'Duration': 185.44, 'ID': '2LkaNhCrNVmcYgXJeLVmsw'}
