@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """ Updates the local copies of playlists
 
 Those changes are saved in the playlists/ directory """
