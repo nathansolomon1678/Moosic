@@ -50,12 +50,9 @@ def playlist_name(id):
 def add_songs(playlist, songs):
     """ Given a playlist ID & a list of song IDs, adds all those songs to the playlist """
     # Can only add 100 at a time, so split songs into chunks of 100
-    while len(songs) >= 100:
+    while len(songs) > 0:
         s.playlist_add_items(playlist, songs[:100])
         del songs[:100]
-    # Since the number of songs likely wasn't divisible by 100, add the remaining ones
-    if len(songs) > 0:
-        s.playlist_add_items(playlist, songs)
 
 def copy(main, feeders):
     """ Copies all unique songs from feeder playlists to a main playlist """

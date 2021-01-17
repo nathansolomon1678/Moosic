@@ -284,6 +284,7 @@
 {'ID': '1rp3XLpOzVOzAKBnQqBBby', 'Title': 'Darkshines', 'Artists': ['Muse'], 'Duration': 286.693}
 {'ID': '6cJLfIqwh0tCKRjYM3WpZ5', 'Title': 'Darte un Beso', 'Artists': ['Prince Royce'], 'Duration': 206.933}
 {'ID': '71a9vOAsTH6ze4bonGsZdK', 'Title': 'Day Is Done - 2004 Remaster', 'Artists': ['Peter, Paul and Mary'], 'Duration': 202.973}
+{'ID': '7uEcCGtM1FBBGIhPozhJjv', 'Title': 'Daydream Believer', 'Artists': ['The Monkees'], 'Duration': 179.613}
 {'ID': '5dkbjvKXEMacSPUSFK3FBb', 'Title': 'Daylight', 'Artists': ['Maroon 5'], 'Duration': 225.4}
 {'ID': '1fzAuUVbzlhZ1lJAx9PtY6', 'Title': 'Daylight', 'Artists': ['Taylor Swift'], 'Duration': 293.453}
 {'ID': '6TwfdLbaxTKzQi3AgsZNzx', 'Title': 'Daylight', 'Artists': ['Maroon 5'], 'Duration': 225.306}
@@ -810,6 +811,7 @@
 {'ID': '1M9uq2yCiOhsO6BFozo2OE', 'Title': 'Maneater', 'Artists': ['Nelly Furtado'], 'Duration': 258.839}
 {'ID': '7CML07e8m56LrmgkC4Bl3Z', 'Title': 'Maniac - From "Flashdance"', 'Artists': ['Michael Sembello'], 'Duration': 260.6}
 {'ID': '7Di7t9yGoxdZRLAt5a4pi0', 'Title': 'Manic Monday', 'Artists': ['The Bangles'], 'Duration': 184.173}
+{'ID': '00vYs0qZA40Z8AAaN7xmMO', 'Title': 'Manic Monday', 'Artists': ['The Bangles'], 'Duration': 184.16}
 {'ID': '0B6mIIDuB5fquxcRCHJrwg', 'Title': 'Map of Your Head', 'Artists': ['Muse'], 'Duration': 263.599}
 {'ID': '6HpQZ8laTb0l3IMMcq9fMp', 'Title': 'Markus Main Theme - Markus', 'Artists': ['John Paesano'], 'Duration': 181.015}
 {'ID': '7iocNjLrxPHLl8njgRlv5U', 'Title': 'Married Life', 'Artists': ['Michael Giacchino'], 'Duration': 250.573}
@@ -1005,6 +1007,7 @@
 {'ID': '24ySl2hOPGCDcxBxFIqWBu', 'Title': 'Rain On Me (with Ariana Grande)', 'Artists': ['Lady Gaga', 'Ariana Grande'], 'Duration': 182.2}
 {'ID': '2cZrrQMjB63c0iIugYH9zS', 'Title': 'Rain Over Me (feat. Marc Anthony)', 'Artists': ['Pitbull', 'Marc Anthony'], 'Duration': 231.573}
 {'ID': '2Tuc96S4JToUiQSLW3aMec', 'Title': 'Rainbow', 'Artists': ['Kesha'], 'Duration': 218.64}
+{'ID': '2PpNgmrS9mAyrkRAwn6YPq', 'Title': 'Rainbow in the Dark', 'Artists': ['Dio'], 'Duration': 256.933}
 {'ID': '0cMaMqufVDYahIgLUUfbe5', 'Title': 'Rais Lebled', 'Artists': ['El General'], 'Duration': 226.115}
 {'ID': '1gv4xPanImH17bKZ9rOveR', 'Title': 'Raise Your Glass', 'Artists': ['P!nk'], 'Duration': 202.96}
 {'ID': '5jkFvD4UJrmdoezzT1FRoP', 'Title': 'Rasputin', 'Artists': ['Boney M.'], 'Duration': 351.573}
@@ -1247,6 +1250,7 @@
 {'ID': '1Px4jqDnQFulhG7Dl3nK0C', 'Title': 'Te Voy a Esperar (feat. Belinda)', 'Artists': ['Juan Magán', 'Belinda'], 'Duration': 215.813}
 {'ID': '29HaKOpeLSYvqdFyEQSRdj', 'Title': 'Teach Your Children', 'Artists': ['Crosby, Stills, Nash & Young'], 'Duration': 173.466}
 {'ID': '3G6hD9B2ZHOsgf4WfNu7X1', 'Title': 'Team', 'Artists': ['Lorde'], 'Duration': 193.058}
+{'ID': '3bnVBN67NBEzedqQuWrpP4', 'Title': 'Tear in My Heart', 'Artists': ['Twenty One Pilots'], 'Duration': 188.493}
 {'ID': '4pJi1rVt9GNegU9kywjg4z', 'Title': 'Teardrops on My Guitar - Pop Version', 'Artists': ['Taylor Swift'], 'Duration': 179.066}
 {'ID': '5jzKL4BDMClWqRguW5qZvh', 'Title': 'Teenage Dream', 'Artists': ['Katy Perry'], 'Duration': 227.741}
 {'ID': '4CM00vRilanLnW0FZNVUdQ', 'Title': 'Teenager In Love', 'Artists': ['Neon Trees'], 'Duration': 197.68}
