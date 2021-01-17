@@ -54,7 +54,8 @@ def add_songs(playlist, songs):
         s.playlist_add_items(playlist, songs[:100])
         del songs[:100]
     # Since the number of songs likely wasn't divisible by 100, add the remaining ones
-    s.playlist_add_items(playlist, songs)
+    if len(songs) > 0:
+        s.playlist_add_items(playlist, songs)
 
 def copy(main, feeders):
     """ Copies all unique songs from feeder playlists to a main playlist """
@@ -65,7 +66,7 @@ def copy(main, feeders):
         new_songs = {song['ID'] for song in get_playlist(feeder)} - songs
         add_songs(main, list(new_songs))
         songs = songs.union(new_songs)
-        print(f'Copied {len(new_songs)} new songs from {feeder_name} to {main_playlist_name}')
+        print(f'Copied {len(new_songs)} new songs from "{feeder_name}" to "{main_playlist_name}"')
 
 # Dictionary of main playlists to feeders for each of those
 # For example, the ID of a family playlist is the key to the IDs of individual playlists for each family member
@@ -83,6 +84,7 @@ for main, feeders in feeder_playlists.items():
 
 playlists_to_version_control = {
     '496qzGOJjyhvnAkGS7Z5nR',
+    '6PR9WVuDfnp98ZxvqTvdyy',
 }
 
 os.system('rm -rf playlists')
