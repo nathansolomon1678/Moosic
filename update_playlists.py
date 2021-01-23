@@ -131,5 +131,9 @@ for playlist in playlists_to_version_control:
     for song in songs:
         file.write(f'{str(song)}\n')
     file.close()
+print('\033[0;0m')  # Reset to normal output color & format
+os.system('git add playlists')
+os.system('git commit -m "Update playlists"')
+os.system('git push origin main')
 
-print('\033[0;36mDon\'t forget to commit and push these updates!  :)')
+print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes.')
