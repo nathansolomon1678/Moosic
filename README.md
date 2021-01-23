@@ -5,6 +5,7 @@ Contains various utilities to:
 * Copy feeder playlists into a main playlist (e.g. a family playlist)
 
 To setup this repository:
+* Fork the repo & clone your fork to your computer
 * Read the code and figure out what it does & how to use it
 * Create the JSON file with necessary info
 * Create an executable script in /etc/cron.daily to run update_playlists.py
