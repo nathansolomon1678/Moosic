@@ -35,7 +35,6 @@
 {'ID': '3U4isOIWM3VvDubwSI3y7a', 'Title': 'All of Me', 'Artists': ['John Legend'], 'Duration': 269.56}
 {'ID': '0bMbDctzMmTyK2j74j3nF3', 'Title': 'Alone, Pt. II', 'Artists': ['Alan Walker', 'Ava Max'], 'Duration': 179.052}
 {'ID': '4fq2YUONcgrCJ2SPndSeKC', 'Title': 'Already Gone', 'Artists': ['Kelly Clarkson'], 'Duration': 281.56}
-{'ID': '17VqlqPmnpytc9jnQPlxQh', 'Title': 'Amaranthine', 'Artists': ['Amaranthe'], 'Duration': 209.933}
 {'ID': '6nTiIhLmQ3FWhvrGafw2zj', 'Title': 'American Idiot', 'Artists': ['Green Day'], 'Duration': 176.346}
 {'ID': '5r96TaQquRrlo3Ym3ZlSL2', 'Title': 'Amish Paradise (Parody of "Gangsta\'s Paradise" by Coolio)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 202.92}
 {'ID': '1JCCdiru7fhstOIF4N7WJC', 'Title': 'Amnesia', 'Artists': ['5 Seconds of Summer'], 'Duration': 237.247}
@@ -164,7 +163,6 @@
 {'ID': '4g5LUzHFRr4Zlok8KzERmI', 'Title': 'Chiquitita', 'Artists': ['ABBA'], 'Duration': 327.04}
 {'ID': '3ZQgFtjJtmvUZZ8K5OBqIN', 'Title': 'Chlorine - Alternative Mix', 'Artists': ['Twenty One Pilots'], 'Duration': 191.14}
 {'ID': '7GDiHI4QQPPHDg5CvWrLqo', 'Title': 'Chopin - Nocturne Op. 9 No. 2 In E Flat Major', 'Artists': ['PianoDreams'], 'Duration': 234.057}
-{'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '6QK6RVVD9unPZaWuxFlZrM', 'Title': 'Cine mi-a-mpuscat maimuta', 'Artists': ['Fara Zahar'], 'Duration': 197.132}
 {'ID': '21jGcNKet2qwijlDFuPiPb', 'Title': 'Circles', 'Artists': ['Post Malone'], 'Duration': 215.28}
 {'ID': '60wwxj6Dd9NJlirf84wr2c', 'Title': 'Clarity', 'Artists': ['Zedd', 'Foxes'], 'Duration': 271.426}
@@ -318,6 +316,7 @@
 {'ID': '2lwwrWVKdf3LR9lbbhnr6R', 'Title': 'Float On', 'Artists': ['Modest Mouse'], 'Duration': 208.466}
 {'ID': '6lFUdRItQEsEuD7dSINL47', 'Title': 'Follow You', 'Artists': ['Bring Me The Horizon'], 'Duration': 231.106}
 {'ID': '6gyU6PaPpzTCUYzZcVICwk', 'Title': 'Follow You Follow Me - 2007 Remaster', 'Artists': ['Genesis'], 'Duration': 240.626}
+{'ID': '0HdcunWW5FsRqKr3lwJOIo', 'Title': 'Follow You Follow Me - Remastered 2007', 'Artists': ['Genesis'], 'Duration': 240.991}
 {'ID': '6W2VbtvMrDXm5vYeB7amkO', 'Title': 'Footloose', 'Artists': ['Kenny Loggins'], 'Duration': 220.706}
 {'ID': '1tDVgmIzvqIpgilWP3tc69', 'Title': 'Forever', 'Artists': ['CHVRCHES'], 'Duration': 224.459}
 {'ID': '0343bYQtSfznf6v90jRLRK', 'Title': 'Forever Young', 'Artists': ['John De Sohn', 'LIAMOO'], 'Duration': 167.911}
