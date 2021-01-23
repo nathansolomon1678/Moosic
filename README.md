@@ -11,3 +11,6 @@ To setup this repository:
 * Create an executable script in /etc/cron.daily to run update_playlists.py
 * Replace all playlist URLs and stuff in the code to suit your needs
 * Debug, because it sure ain't gonna work the first time
+
+Example usage:
+<img src="example_usage.png" />
