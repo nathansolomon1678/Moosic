@@ -1,4 +1,11 @@
 # Moosic
-Version control for my Spotify playlists
 
-Run `python setup_repository.py` right after cloning. Or, better yet, actually read (& edit) the code and then you'll know how to use it.
+Contains various utilities to:
+* Version control spotify playlists (to avoid accidentally deleting songs)
+* Copy feeder playlists into a main playlist (e.g. a family playlist)
+
+To setup this repository:
+* Read the code and figure out what it does & how to use it
+* Create the JSON file with necessary info
+* Create an executable script in /etc/cron.daily to run update_playlists.py
+* Replace all playlist URLs and stuff if the code to suit your needs
