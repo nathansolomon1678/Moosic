@@ -9,4 +9,5 @@ To setup this repository:
 * Read the code and figure out what it does & how to use it
 * Create the JSON file with necessary info
 * Create an executable script in /etc/cron.daily to run update_playlists.py
-* Replace all playlist URLs and stuff if the code to suit your needs
+* Replace all playlist URLs and stuff in the code to suit your needs
+* Debug, because it sure ain't gonna work the first time
