@@ -157,7 +157,6 @@
 {'ID': '2obblQ6tcePeOEVJV6nEGD', 'Title': "Cat's in the Cradle", 'Artists': ['Harry Chapin'], 'Duration': 222.951}
 {'ID': '3K7Q9PHUWPTaknlbFPThn2', 'Title': 'Celebration', 'Artists': ['Kool & The Gang'], 'Duration': 298.866}
 {'ID': '1sK10Me7qS9em2QTx6dYRe', 'Title': 'Chain Gang', 'Artists': ['Sam Cooke'], 'Duration': 160.0}
-{'ID': '7v1858htfU0srTDwhxeka8', 'Title': 'Chain Gang', 'Artists': ['Sam Cooke'], 'Duration': 155.173}
 {'ID': '3hBgVOpgET0AGtdwc5D8Qy', 'Title': 'Chariots Of Fire', 'Artists': ['Vangelis'], 'Duration': 211.208}
 {'ID': '11bD1JtSjlIgKgZG2134DZ', 'Title': 'Chasing Cars', 'Artists': ['Snow Patrol'], 'Duration': 267.933}
 {'ID': '6sVQNUvcVFTXvlk3ec0ngd', 'Title': 'Cherry-coloured Funk', 'Artists': ['Cocteau Twins'], 'Duration': 192.466}
@@ -177,7 +176,6 @@
 {'ID': '7BKLCZ1jbUBVqRi2FVlTVw', 'Title': 'Closer', 'Artists': ['The Chainsmokers', 'Halsey'], 'Duration': 244.96}
 {'ID': '1A5V1sxyCLpKJezp75tUXn', 'Title': 'Closing Time', 'Artists': ['Semisonic'], 'Duration': 274.16}
 {'ID': '3cLqK3LPVrTIzfENVmYLoU', 'Title': 'Code Monkey', 'Artists': ['Jonathan Coulton'], 'Duration': 189.28}
-{'ID': '1rIFZk9tTUtHP3vULR5wXe', 'Title': 'Code Monkey', 'Artists': ['Jonathan Coulton'], 'Duration': 190.56}
 {'ID': '1OYOLWqKmhkFIx2KC9ek1a', 'Title': 'Colors of the Wind - From "Pocahontas" / Soundtrack Version', 'Artists': ['Judy Kuhn'], 'Duration': 214.4}
 {'ID': '2TZ1apxMDlubCGMsOxcTbT', 'Title': 'Come Clean', 'Artists': ['Hilary Duff'], 'Duration': 214.56}
 {'ID': '0ouGDyldWWfeqfTYxX1bTZ', 'Title': 'Come Hang Out', 'Artists': ['AJR'], 'Duration': 266.239}
@@ -213,7 +211,6 @@
 {'ID': '4d2hD63oUGU3s7L66JD0BE', 'Title': 'Dance Again', 'Artists': ['Jennifer Lopez', 'Pitbull'], 'Duration': 237.266}
 {'ID': '2XU0oxnq2qxCpomAAuJY8K', 'Title': 'Dance Monkey', 'Artists': ['Tones And I'], 'Duration': 209.438}
 {'ID': '2BOqDYLOJBiMOXShCV1neZ', 'Title': 'Dancing On My Own', 'Artists': ['Calum Scott'], 'Duration': 260.285}
-{'ID': '4NtUY5IGzHCaqfZemmAu56', 'Title': 'Dancing Queen', 'Artists': ['ABBA'], 'Duration': 230.693}
 {'ID': '0GjEhVFGZW8afUYGChu3Rr', 'Title': 'Dancing Queen', 'Artists': ['ABBA'], 'Duration': 230.4}
 {'ID': '34x6hEJgGAOQvmlMql5Ige', 'Title': 'Danger Zone - From "Top Gun" Original Soundtrack', 'Artists': ['Kenny Loggins'], 'Duration': 215.133}
 {'ID': '2a1o6ZejUi8U3wzzOtCOYw', 'Title': 'Danza Kuduro', 'Artists': ['Don Omar', 'Lucenzo'], 'Duration': 198.773}
@@ -229,7 +226,6 @@
 {'ID': '3LlAyCYU26dvFZBDUIMb7a', 'Title': 'Demons', 'Artists': ['Imagine Dragons'], 'Duration': 175.2}
 {'ID': '5cJJZFR8CtHn5CdKLr17d6', 'Title': "Demons Are A Girl's Best Friend", 'Artists': ['Powerwolf'], 'Duration': 218.08}
 {'ID': '6habFhsOp2NvshLv26DqMb', 'Title': 'Despacito', 'Artists': ['Luis Fonsi', 'Daddy Yankee'], 'Duration': 229.36}
-{'ID': '6rPO02ozF3bM7NnOV4h6s2', 'Title': 'Despacito - Remix', 'Artists': ['Luis Fonsi', 'Daddy Yankee', 'Justin Bieber'], 'Duration': 228.826}
 {'ID': '4uQcgpptWmL2TrIqYMLat5', 'Title': 'Despre Tine', 'Artists': ['O-Zone'], 'Duration': 227.68}
 {'ID': '7FBLaia8vyWuZ6sz5HHdJo', 'Title': 'Diamonds and Rust', 'Artists': ["Blackmore's Night"], 'Duration': 294.306}
 {'ID': '6NJ5Q5QujNwwsst5mdSEfF', 'Title': 'Die Happy', 'Artists': ['DREAMERS'], 'Duration': 186.902}
@@ -323,7 +319,6 @@
 {'ID': '2k2Pwkt3Fqowcve91PiH4g', 'Title': 'Flight Of The Silverbird', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 201.793}
 {'ID': '2lwwrWVKdf3LR9lbbhnr6R', 'Title': 'Float On', 'Artists': ['Modest Mouse'], 'Duration': 208.466}
 {'ID': '6lFUdRItQEsEuD7dSINL47', 'Title': 'Follow You', 'Artists': ['Bring Me The Horizon'], 'Duration': 231.106}
-{'ID': '6gyU6PaPpzTCUYzZcVICwk', 'Title': 'Follow You Follow Me - 2007 Remaster', 'Artists': ['Genesis'], 'Duration': 240.626}
 {'ID': '0HdcunWW5FsRqKr3lwJOIo', 'Title': 'Follow You Follow Me - Remastered 2007', 'Artists': ['Genesis'], 'Duration': 240.991}
 {'ID': '6W2VbtvMrDXm5vYeB7amkO', 'Title': 'Footloose', 'Artists': ['Kenny Loggins'], 'Duration': 220.706}
 {'ID': '1tDVgmIzvqIpgilWP3tc69', 'Title': 'Forever', 'Artists': ['CHVRCHES'], 'Duration': 224.459}
@@ -476,7 +471,6 @@
 {'ID': '4bPQs0PHn4xbipzdPfn6du', 'Title': 'I Write Sins Not Tragedies', 'Artists': ['Panic! At The Disco'], 'Duration': 186.634}
 {'ID': '3cQGb2POE359G9WH81bF60', 'Title': "I'LL BE GONE", 'Artists': ['Linkin Park'], 'Duration': 211.093}
 {'ID': '3yQrGLCIYOcYopGthnfG3A', 'Title': 'I\'ll Make a Man Out of You - From "Mulan"/Soundtrack', 'Artists': ['Donny Osmond', 'Chorus - Mulan'], 'Duration': 199.493}
-{'ID': '1RC5Mb0VhnlhnMlFDnrvE0', 'Title': "I'm A Believer - Radio Edit", 'Artists': ['Smash Mouth'], 'Duration': 183.4}
 {'ID': '0mBL2JwjNYKtdFacHxvtJt', 'Title': "I'm A Believer - Soundtrack Version", 'Artists': ['Smash Mouth'], 'Duration': 185.76}
 {'ID': '34Vn9nKfztyLco9lJazy4j', 'Title': "I'm Already There", 'Artists': ['Lonestar'], 'Duration': 253.373}
 {'ID': '6otiaV2fagE3s8IvP6WkwG', 'Title': "I'm Just a Kid", 'Artists': ['Simple Plan'], 'Duration': 198.333}
@@ -960,7 +954,6 @@
 {'ID': '2gqofMRb7rtFt0DohPUi6x', 'Title': 'Sărbătoarea Nopților De Vară', 'Artists': ['O-Zone'], 'Duration': 236.053}
 {'ID': '58E1XVmZTODC67YNjneuXM', 'Title': 'Tainted Love', 'Artists': ['Soft Cell'], 'Duration': 153.84}
 {'ID': '6vQN2a9QSgWcm74KEZYfDL', 'Title': 'Take A Chance On Me', 'Artists': ['ABBA'], 'Duration': 243.933}
-{'ID': '5BckPAYcKEJuYs1eV1BHHe', 'Title': 'Take A Chance On Me', 'Artists': ['ABBA'], 'Duration': 243.933}
 {'ID': '2DOAJh50Pa1UNoqGt7dTA9', 'Title': 'Take Back the Night', 'Artists': ['Tryhardninja'], 'Duration': 323.094}
 {'ID': '0WCiI0ddWiu5F2kSHgfw5S', 'Title': 'Take It Off', 'Artists': ['Kesha'], 'Duration': 215.2}
 {'ID': '44EvEY72xMe7ZmFhSgLKX4', 'Title': 'Take Me Back', 'Artists': ['KONGOS'], 'Duration': 285.773}
@@ -1031,7 +1024,6 @@
 {'ID': '0CHvs1UmxA90B2apIpbWCC', 'Title': 'The Rains of Castamere', 'Artists': ['Ramin Djawadi', 'Serj Tankian'], 'Duration': 224.305}
 {'ID': '1lHtE5JDCas1EwXhQIMOIj', 'Title': 'The Reason', 'Artists': ['Hoobastank'], 'Duration': 232.8}
 {'ID': '4zkVWdm3GnVBawyd87x4Wj', 'Title': 'The Requiem', 'Artists': ['Linkin Park'], 'Duration': 121.12}
-{'ID': '70uNLwrFxum0Cj79PDygW2', 'Title': 'The Requiem', 'Artists': ['Linkin Park'], 'Duration': 121.12}
 {'ID': '5z89FzQzTQOwSJFlMp6UFd', 'Title': 'The Sacrifice of Faramir (feat. Billy Boyd Performing "The Edge of Night")', 'Artists': ['Howard Shore', 'Billy Boyd'], 'Duration': 248.493}
 {'ID': '74sUbOF9Zm8LdGUJjxleTl', 'Title': 'The Saga Begins (Lyrical Adaption of "American Pie")', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 328.773}
 {'ID': '71X7bPDljJHrmEGYCe7kQ8', 'Title': 'The Schuyler Sisters', 'Artists': ['Renée Elise Goldsberry', 'Phillipa Soo', 'Jasmine Cephas-Jones', 'Leslie Odom Jr.', 'Original Broadway Cast of Hamilton'], 'Duration': 186.542}
@@ -1151,7 +1143,6 @@
 {'ID': '3OW3uDpM7mgLe3xU6EYX5q', 'Title': 'What Hurts the Most - Radio Mix U.S.', 'Artists': ['Cascada'], 'Duration': 219.706}
 {'ID': '18lR4BzEs7e3qzc0KVkTpU', 'Title': "What I've Done", 'Artists': ['Linkin Park'], 'Duration': 205.613}
 {'ID': '4v6jydWBTAIqnyPVNyOAdc', 'Title': 'What Is Love', 'Artists': ['Haddaway'], 'Duration': 269.373}
-{'ID': '2IHaGyfxNoFPLJnaEg4GTs', 'Title': 'What Is Love - 7" Mix', 'Artists': ['Haddaway'], 'Duration': 270.373}
 {'ID': '4LJhJ6DQS7NwE7UKtvcM52', 'Title': "What's My Age Again?", 'Artists': ['blink-182'], 'Duration': 148.36}
 {'ID': '7f0jXNMu2xjQUtmKMuWhGA', 'Title': "What's Up?", 'Artists': ['4 Non Blondes'], 'Duration': 295.493}
 {'ID': '67T6l4q3zVjC5nZZPXByU8', 'Title': 'Whatcha Say', 'Artists': ['Jason Derulo'], 'Duration': 221.253}
