@@ -1,3 +1,4 @@
+{'ID': '1HOlb9rdNOmy9b1Fakicjo', 'Title': '#SELFIE', 'Artists': ['The Chainsmokers'], 'Duration': 183.75}
 {'ID': '2PzU4IB8Dr6mxV3lHuaG34', 'Title': "(I Can't Get No) Satisfaction - Mono Version", 'Artists': ['The Rolling Stones'], 'Duration': 222.813}
 {'ID': '0YPXkQthLWrhNGoKTbwCJ8', 'Title': '(I Just) Died In Your Arms', 'Artists': ['Cutting Crew'], 'Duration': 278.626}
 {'ID': '3MjUtNVVq3C8Fn0MP3zhXa', 'Title': '...Baby One More Time', 'Artists': ['Britney Spears'], 'Duration': 211.066}
@@ -75,6 +76,7 @@
 {'ID': '6z0QCh7CTU9bE5C7TAHK4R', 'Title': 'Apocalypse Please', 'Artists': ['Muse'], 'Duration': 252.866}
 {'ID': '1NrJYpdAi7uosDRPmSYrsG', 'Title': 'Apologize', 'Artists': ['OneRepublic'], 'Duration': 208.106}
 {'ID': '2Zj4FUsMtu9PMuJsHbGbdv', 'Title': 'Applause', 'Artists': ['Lady Gaga'], 'Duration': 212.333}
+{'ID': '0nJBiQvsxTbxTz5JHcvTBu', 'Title': 'April Rain', 'Artists': ['Delain'], 'Duration': 276.973}
 {'ID': '0HZlND4giwzgolBpaNIRGV', 'Title': 'Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered]', 'Artists': ['The 5th Dimension'], 'Duration': 289.293}
 {'ID': '5MqV2o7iLd0lNREZ7SYL05', 'Title': 'Are We the Waiting / St. Jimmy', 'Artists': ['Green Day'], 'Duration': 338.146}
 {'ID': '6GH5jr5cmjLU2LxMPHOg5B', 'Title': 'Arise', 'Artists': ['Chevelle'], 'Duration': 265.213}
@@ -532,6 +534,7 @@
 {'ID': '2bPg5VMINVxErc926XcyOu', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 158.866}
 {'ID': '4fIWvT19w9PR0VVBuPYpWA', 'Title': "Haven't Met You Yet", 'Artists': ['Michael Bublé'], 'Duration': 244.586}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
+{'ID': '36sZlJgvmP62qcEuAaV1uM', 'Title': 'Head Over Feet', 'Artists': ['Alanis Morissette'], 'Duration': 265.04}
 {'ID': '735rjks7kQgWCjTQlIHMuH', 'Title': 'Head over Feet - 2015 Remaster', 'Artists': ['Alanis Morissette'], 'Duration': 267.293}
 {'ID': '1V6gIisPpYqgFeWbMLI0bA', 'Title': 'Heart Attack', 'Artists': ['Demi Lovato'], 'Duration': 210.84}
 {'ID': '4v2rkl1mC3zVAz0nXMx9r4', 'Title': 'Heart Of Glass', 'Artists': ['Blondie'], 'Duration': 229.423}
@@ -561,6 +564,7 @@
 {'ID': '1XgpK29CGGjZnxPYkiRbh4', 'Title': 'Hey DJ', 'Artists': ['CNCO', 'Yandel'], 'Duration': 206.92}
 {'ID': '0aym2LBJBk9DAYuHHutrIl', 'Title': 'Hey Jude - Remastered 2015', 'Artists': ['The Beatles'], 'Duration': 425.653}
 {'ID': '5b2bu6yyATC1zMXDGScJ2d', 'Title': 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)', 'Artists': ['David Guetta', 'Afrojack', 'Bebe Rexha', 'Nicki Minaj'], 'Duration': 192.56}
+{'ID': '4WXzzCof26KJLTK5kK53dS', 'Title': 'Hey Stephen', 'Artists': ['Taylor Swift'], 'Duration': 254.306}
 {'ID': '4RCWB3V8V0dignt99LZ8vH', 'Title': 'Hey There Delilah', 'Artists': ["Plain White T's"], 'Duration': 232.533}
 {'ID': '2PpruBYCo4H7WOBJ7Q2EwM', 'Title': 'Hey Ya!', 'Artists': ['Outkast'], 'Duration': 235.213}
 {'ID': '7F02x6EKYIQV3VcTaTm7oN', 'Title': 'Hey You', 'Artists': ['Pink Floyd'], 'Duration': 278.44}
@@ -807,6 +811,7 @@
 {'ID': '5qhHm4dN4L2dhRb2TfzGPw', 'Title': 'Lonely Eyes', 'Artists': ['Lauv'], 'Duration': 196.493}
 {'ID': '4faFAhOflLzhfJECveRwva', 'Title': 'Lonely No More', 'Artists': ['Rob Thomas'], 'Duration': 226.64}
 {'ID': '4yEoBe0b9paEGQrUIGxBCb', 'Title': 'Look On The Bright Side Of Life (All Things Dull And Ugly) - From "Life Of Brian" Original Motion Picture Soundtrack', 'Artists': ['Monty Python'], 'Duration': 238.293}
+{'ID': '1P17dC1amhFzptugyAO7Il', 'Title': 'Look What You Made Me Do', 'Artists': ['Taylor Swift'], 'Duration': 211.853}
 {'ID': '59tskctgqUmjCWAwhzYAFm', 'Title': 'Looking at Me', 'Artists': ['Sabrina Carpenter'], 'Duration': 181.12}
 {'ID': '0BF04q5kqVzOkLNqTAi5bk', 'Title': 'Loreley', 'Artists': ["Blackmore's Night"], 'Duration': 216.28}
 {'ID': '31AOj9sFz2gM0O3hMARRBx', 'Title': 'Losing My Religion', 'Artists': ['R.E.M.'], 'Duration': 268.426}
@@ -1218,6 +1223,7 @@
 {'ID': '3L7GkV6vTx76kxL0QXf01Z', 'Title': 'Song of the Lost Girl - Kara', 'Artists': ['Philip Sheppard'], 'Duration': 187.445}
 {'ID': '4rg2mXbKkP8gJSXAxg8yJk', 'Title': 'Space Dementia', 'Artists': ['Muse'], 'Duration': 380.76}
 {'ID': '4kQXDJq81X6cl390rnqpVo', 'Title': 'Space Oddity', 'Artists': ['Major Tom Band'], 'Duration': 285.253}
+{'ID': '6kEyuKmF4kZylB5LcuRd8Y', 'Title': 'Space Oddity', 'Artists': ['David Bowie'], 'Duration': 226.666}
 {'ID': '6aLCZUnreez0cBOjKNeLDH', 'Title': 'Spanish Bombs', 'Artists': ['The Clash'], 'Duration': 198.866}
 {'ID': '689DTIE4YIRfuIUG58Z2H2', 'Title': 'Spanish Flea', 'Artists': ['Herb Alpert & The Tijuana Brass'], 'Duration': 126.893}
 {'ID': '6nW2oWzvN1EBnTA044X48d', 'Title': 'Sparkling Sky Laser', 'Artists': ['Fear, and Loathing in Las Vegas'], 'Duration': 225.653}
@@ -1534,6 +1540,7 @@
 {'ID': '0mBREiw4ppCXccM7rsk2RC', 'Title': "Wavin' Flag", 'Artists': ["K'NAAN"], 'Duration': 220.52}
 {'ID': '57nNNkgk768QVXq3uHxu5e', 'Title': 'Ways to Go', 'Artists': ['Grouplove'], 'Duration': 215.52}
 {'ID': '1PCvKFPWnTXAe2oaReVUcr', 'Title': 'We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)', 'Artists': ['Pitbull', 'Jennifer Lopez', 'Claudia Leitte'], 'Duration': 222.52}
+{'ID': '6uKvnGeg6xgzPTH3QSPTB6', 'Title': 'We Are The Others', 'Artists': ['Delain'], 'Duration': 199.28}
 {'ID': '6gNvDcqF3cKuOTJVWNOfJM', 'Title': 'We Are The Others (New Ballad Version)', 'Artists': ['Delain'], 'Duration': 222.2}
 {'ID': '7a86XRg84qjasly9f6bPSD', 'Title': 'We Are Young (feat. Janelle Monáe)', 'Artists': ['fun.', 'Janelle Monáe'], 'Duration': 250.626}
 {'ID': '6OnfBiiSc9RGKiBKKtZXgQ', 'Title': 'We Built This City', 'Artists': ['Starship'], 'Duration': 296.08}
