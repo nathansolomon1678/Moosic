@@ -111,6 +111,7 @@
 {'ID': '7e7HOmWvWP12DfPT8oj7ok', 'Title': 'Beautiful with You', 'Artists': ['Halestorm'], 'Duration': 196.28}
 {'ID': '3f3omU8n47Mqyab5nCaGyT', 'Title': 'Because of You', 'Artists': ['Kelly Clarkson'], 'Duration': 219.493}
 {'ID': '6Y59ZjSFumYKDAxAic52b1', 'Title': 'Because the Night', 'Artists': ['Cascada'], 'Duration': 205.573}
+{'ID': '0lIoY4ZQsdn5QzhraM9o9u', 'Title': 'Because the Night', 'Artists': ['Patti Smith'], 'Duration': 204.8}
 {'ID': '1CtAzw53AIXKjAemxy4b1j', 'Title': 'Beds Are Burning - Remastered', 'Artists': ['Midnight Oil'], 'Duration': 255.68}
 {'ID': '0ZUo4YjG4saFnEJhdWp9Bt', 'Title': 'Before He Cheats', 'Artists': ['Carrie Underwood'], 'Duration': 199.946}
 {'ID': '0cKk8BKEi7zXbdrYdyqBP5', 'Title': 'Behind Blue Eyes', 'Artists': ['The Who'], 'Duration': 221.426}
@@ -943,6 +944,7 @@
 {'ID': '6KR9NaynH8bF9w727wKQBL', 'Title': 'New Born', 'Artists': ['Muse'], 'Duration': 363.266}
 {'ID': '6Wx88Mv6b9ofjKMKkdwOJd', 'Title': 'New Divide', 'Artists': ['Linkin Park'], 'Duration': 268.613}
 {'ID': '2ekn2ttSfGqwhhate0LSR0', 'Title': 'New Rules', 'Artists': ['Dua Lipa'], 'Duration': 209.32}
+{'ID': '1wAqhAF1dynDjMy7m5CSSE', 'Title': 'New Slang', 'Artists': ['The Shins'], 'Duration': 231.173}
 {'ID': '5tVmNtMvCCABF6u2IyLLjX', 'Title': 'Next Up Forever', 'Artists': ['AJR'], 'Duration': 256.546}
 {'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See, Kevjumba & Ryan Higa'], 'Duration': 154.303}
 {'ID': '2bspsdHJfZf4URZsTUMW8B', 'Title': 'Night Boat to Cairo', 'Artists': ['Madness'], 'Duration': 211.226}
@@ -1023,6 +1025,7 @@
 {'ID': '1IdTBf0QfIvl4giLRuNOk0', 'Title': 'Pavane', 'Artists': ['Regina Carter'], 'Duration': 324.573}
 {'ID': '1LmN9SSHISbtp9LoaR5ZVJ', 'Title': 'Payphone', 'Artists': ['Maroon 5', 'Wiz Khalifa'], 'Duration': 231.386}
 {'ID': '5jOMxC9ezgFPGSMSn1zJ5S', 'Title': 'Peacemaker', 'Artists': ['Green Day'], 'Duration': 204.08}
+{'ID': '1D7UBHqaPWDbBHs2S5YXge', 'Title': 'Perfect Situation', 'Artists': ['Weezer'], 'Duration': 254.333}
 {'ID': '0DOgMeHlNponAEqczZoxX0', 'Title': 'Perfume', 'Artists': ['Britney Spears'], 'Duration': 239.973}
 {'ID': '1xShPgQbOUa98avWJQFDBY', 'Title': 'Personal Jesus - Original Single Version', 'Artists': ['Depeche Mode', 'Francois Kevorkian'], 'Duration': 224.906}
 {'ID': '6JnIPakIq3nMFwCmjuxixG', 'Title': 'Phantom', 'Artists': ['Jessie Paege'], 'Duration': 208.346}
@@ -1131,6 +1134,7 @@
 {'ID': '3dP0pLbg9OfVwssDjp9aT0', 'Title': 'Satisfied', 'Artists': ['Renée Elise Goldsberry', 'Original Broadway Cast of Hamilton'], 'Duration': 329.228}
 {'ID': '7gA5OQWsvAY7HhazroFuwI', 'Title': 'Save Me, San Francisco', 'Artists': ['Train'], 'Duration': 249.426}
 {'ID': '5QO79kh1waicV47BqGRL3g', 'Title': 'Save Your Tears', 'Artists': ['The Weeknd'], 'Duration': 215.626}
+{'ID': '6Vc5wAMmXdKIAM7WUoEb7N', 'Title': 'Say Something', 'Artists': ['A Great Big World', 'Christina Aguilera'], 'Duration': 229.4}
 {'ID': '53uzBMME2GSfpUVtOtiLvA', 'Title': 'Scarborough Fair / Canticle', 'Artists': ['Simon & Garfunkel'], 'Duration': 190.093}
 {'ID': '1YekJzqvW9RmrqsZ37BBW4', 'Title': 'Scarlet', 'Artists': ['In This Moment'], 'Duration': 230.066}
 {'ID': '75n2MHc74sn5HsZG34ZbhL', 'Title': 'Scarlet', 'Artists': ['Delain'], 'Duration': 276.973}
@@ -1638,6 +1642,7 @@
 {'ID': '3GCL1PydwsLodcpv0Ll1ch', 'Title': 'You Belong With Me', 'Artists': ['Taylor Swift'], 'Duration': 231.133}
 {'ID': '4YwbSZaYeYja8Umyt222Qf', 'Title': "You Can't Hurry Love - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 175.746}
 {'ID': '4IoYz8XqqdowINzfRrFnhi', 'Title': 'You Found Me', 'Artists': ['The Fray'], 'Duration': 241.853}
+{'ID': '1Cwsd5xI8CajJz795oy4XF', 'Title': 'You Get What You Give', 'Artists': ['New Radicals'], 'Duration': 300.773}
 {'ID': '0rmGAIH9LNJewFw7nKzZnc', 'Title': 'You Give Love A Bad Name', 'Artists': ['Bon Jovi'], 'Duration': 222.706}
 {'ID': '3BzcdNQWklxkxsj4EFRhec', 'Title': 'You Make Me Smile', 'Artists': ['Blue October'], 'Duration': 261.266}
 {'ID': '7DekM9fvrVFCVoyI7NtT6e', 'Title': 'You Must Love Me - From "Evita"', 'Artists': ['Lana Del Rey'], 'Duration': 162.946}
