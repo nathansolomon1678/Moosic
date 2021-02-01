@@ -79,6 +79,7 @@
 {'ID': '7e7HOmWvWP12DfPT8oj7ok', 'Title': 'Beautiful with You', 'Artists': ['Halestorm'], 'Duration': 196.28}
 {'ID': '3f3omU8n47Mqyab5nCaGyT', 'Title': 'Because of You', 'Artists': ['Kelly Clarkson'], 'Duration': 219.493}
 {'ID': '6Y59ZjSFumYKDAxAic52b1', 'Title': 'Because the Night', 'Artists': ['Cascada'], 'Duration': 205.573}
+{'ID': '0lIoY4ZQsdn5QzhraM9o9u', 'Title': 'Because the Night', 'Artists': ['Patti Smith'], 'Duration': 204.8}
 {'ID': '0ZUo4YjG4saFnEJhdWp9Bt', 'Title': 'Before He Cheats', 'Artists': ['Carrie Underwood'], 'Duration': 199.946}
 {'ID': '0cKk8BKEi7zXbdrYdyqBP5', 'Title': 'Behind Blue Eyes', 'Artists': ['The Who'], 'Duration': 221.426}
 {'ID': '0AKAxdNkwq9ZxRdW1DN9zW', 'Title': 'Behind These Hazel Eyes', 'Artists': ['Kelly Clarkson'], 'Duration': 198.973}
@@ -383,7 +384,6 @@
 {'ID': '4fIWvT19w9PR0VVBuPYpWA', 'Title': "Haven't Met You Yet", 'Artists': ['Michael Bublé'], 'Duration': 244.586}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
 {'ID': '36sZlJgvmP62qcEuAaV1uM', 'Title': 'Head Over Feet', 'Artists': ['Alanis Morissette'], 'Duration': 265.04}
-{'ID': '735rjks7kQgWCjTQlIHMuH', 'Title': 'Head over Feet - 2015 Remaster', 'Artists': ['Alanis Morissette'], 'Duration': 267.293}
 {'ID': '4v2rkl1mC3zVAz0nXMx9r4', 'Title': 'Heart Of Glass', 'Artists': ['Blondie'], 'Duration': 229.423}
 {'ID': '4JtvyWkWQTPVcroZf8JJkp', 'Title': 'Heart of Courage', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 117.394}
 {'ID': '66w5OYw2ja8lnmaA3Ns0PU', 'Title': 'Heart-Shaped Box', 'Artists': ['Nirvana'], 'Duration': 281.16}
@@ -562,6 +562,7 @@
 {'ID': '3SWqGa1J0M7hSBUDM0KePD', 'Title': 'Legend', 'Artists': ['The Score'], 'Duration': 189.12}
 {'ID': '1Knctxx9vGZxpZfF66BIEa', 'Title': 'Legends', 'Artists': ['Juice WRLD'], 'Duration': 191.84}
 {'ID': '1FpVJ7HpZInE2GvhVE2TwT', 'Title': 'Legends Never Die', 'Artists': ['League of Legends', 'Against The Current'], 'Duration': 235.0}
+{'ID': '3Yvk0ZLxMlt6ioasvdN6vB', 'Title': 'Lemon Boy', 'Artists': ['Cavetown'], 'Duration': 272.902}
 {'ID': '0SYmopoLdGk2H7HkocNfC8', 'Title': 'Lessons In Love (All Day, All Night)', 'Artists': ['Neon Trees', 'Kaskade'], 'Duration': 223.28}
 {'ID': '7iN1s7xHE4ifF5povM6A48', 'Title': 'Let It Be - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 243.026}
 {'ID': '0qcr5FMsEO85NAQjrlDRKo', 'Title': 'Let It Go - From "Frozen"/Soundtrack Version', 'Artists': ['Idina Menzel'], 'Duration': 223.84}
@@ -579,6 +580,7 @@
 {'ID': '1almCHdsfikRPfVB9VrEdT', 'Title': 'Little Do You Know', 'Artists': ['Alex & Sierra'], 'Duration': 185.2}
 {'ID': '42wFJFBEkSBfM74T9Eb6LZ', 'Title': 'Little Girls', 'Artists': ['Oingo Boingo'], 'Duration': 223.515}
 {'ID': '6JnufVNLIO5F5Lk4sEVLeI', 'Title': 'Little Lion Man', 'Artists': ['Mumford & Sons'], 'Duration': 246.973}
+{'ID': '2ihCaVdNZmnHZWt0fvAM7B', 'Title': 'Little Talks', 'Artists': ['Of Monsters and Men'], 'Duration': 266.6}
 {'ID': '0rFWuqFgHAfuzE8uSB9TWR', 'Title': 'Live And Let Die', 'Artists': ["Guns N' Roses"], 'Duration': 182.733}
 {'ID': '1HfxPaJggVwFsvOtHbVzMz', 'Title': "Live Like We're Dying", 'Artists': ['Kris Allen'], 'Duration': 212.506}
 {'ID': '0J6mQxEZnlRt9ymzFntA6z', 'Title': "Livin' On A Prayer", 'Artists': ['Bon Jovi'], 'Duration': 249.293}
@@ -659,7 +661,6 @@
 {'ID': '6h5PAsRni4IRlxWr6uDPTP', 'Title': 'More Than You Know', 'Artists': ['Axwell /\\ Ingrosso'], 'Duration': 203.0}
 {'ID': '4m7p2dejJrMiiA1vg8LDPK', 'Title': 'Moskau', 'Artists': ['Dschinghis Khan'], 'Duration': 271.96}
 {'ID': '1lOSxJNCLvWm2bYaTcTSmK', 'Title': 'Mother Knows Best - From "Tangled"/Soundtrack Version', 'Artists': ['Donna Murphy'], 'Duration': 190.44}
-{'ID': '08j0whVInIgxkHekwb192D', 'Title': 'Move Forward Together', 'Artists': ['Charlie Curtis-Beard', 'Jack Kapson'], 'Duration': 313.737}
 {'ID': '0JoI0MEdwYwej5Rdmw8qRc', 'Title': 'Moving Mountains', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 181.524}
 {'ID': '7oK9VyNzrYvRFo7nQEYkWN', 'Title': 'Mr. Brightside', 'Artists': ['The Killers'], 'Duration': 222.586}
 {'ID': '2kb4IFe3mJi5sFLfbLa9Wh', 'Title': 'Mr. Lucky', 'Artists': ['Henry Mancini'], 'Duration': 133.306}
@@ -984,6 +985,7 @@
 {'ID': '7j31rVgGX9Q2blT92VBEA0', 'Title': 'Teenagers', 'Artists': ['My Chemical Romance'], 'Duration': 161.92}
 {'ID': '1IaYWv32nFFMdljBIjMY5T', 'Title': 'Telephone', 'Artists': ['Lady Gaga', 'Beyoncé'], 'Duration': 220.626}
 {'ID': '2zO4To4N8Facnm7JabUSaE', 'Title': 'Tetris - Main Theme - Epic Version', 'Artists': ['Alala'], 'Duration': 248.12}
+{'ID': '751gBcu62kORDelX7FV0mM', 'Title': 'Thank You', 'Artists': ['Dido'], 'Duration': 217.826}
 {'ID': '0BpKPyXhWsTaWkgXeOd1Sn', 'Title': 'Thank You for the Venom', 'Artists': ['My Chemical Romance'], 'Duration': 221.093}
 {'ID': '2zFdsAIk9r2Mi7Lmm1w3sM', 'Title': "That's All - 2007 Remaster", 'Artists': ['Genesis'], 'Duration': 265.533}
 {'ID': '4nr4gSTFGmTTSbumSY3kfH', 'Title': 'The 2nd Law: Isolated System', 'Artists': ['Muse'], 'Duration': 299.986}
