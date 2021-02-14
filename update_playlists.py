@@ -29,6 +29,8 @@ def same_song(song1: Dict[str, Any], song2: Dict[str, Any]) -> bool:
     titles: List[str] = [song['Title'].split(' - ')[0] for song in [song1, song2]]
     # Also, anything enclosed in parentheses is unnecessary
     titles = [re.sub('\(.*\)', '', title) for title in titles]
+    titles = [re.sub('\[.*\]', '', title) for title in titles]
+    titles = [title.rstrip() for title in titles]
     return artists_overlap and titles[0] == titles[1]
 
 def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
@@ -83,6 +85,7 @@ def copy(main, feeders):
         print(f'\033[0;1mCopied {len(new_songs)} new songs from "{feeder_name}" to "{main_playlist_name}":')
         for song in new_songs:
             print(f'\033[0;32m{song}')
+    # TODO: automatically remove dupes or songs that are no longer on any feeder playlists (and print warning that songs are being removed)
 
 def warn_of_dupes(songs: List[Dict[str, Any]], playlist_name: str) -> None:
     """ Given a list of songs, prints any that appear to be duplicates """
