@@ -140,3 +140,9 @@ os.system('git commit -m "Update playlists"')
 os.system('git push origin main')
 
 print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes.')
+# TODO: rename playlists if their names change (and push that), before deleting and recreating them
+# TODO: Split this into two files: one defining functions, and one customizable one
+# TODO: add overlap_only option to the copy function
+# TODO: limit fields being requested from playlists
+# TODO: define Song and Playlist classes so that operators like 'in' and '-' and '+' can be overwritten
+# TODO: somehow display playlists as a table in the website? if this is possible?
