@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Moosic
 
 ## Contains various utilities to:
