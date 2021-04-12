@@ -266,7 +266,6 @@
 {'ID': '4bHsxqR3GMrXTxEPLuK5ue', 'Title': "Don't Stop Believin'", 'Artists': ['Journey'], 'Duration': 250.986}
 {'ID': '3lrNq7iGL5r3KS93YiKAbC', 'Title': "Don't Stop Me Now", 'Artists': ['Queen'], 'Duration': 209.6}
 {'ID': '0ByMNEPAPpOR5H69DVrTNy', 'Title': "Don't Stop The Music", 'Artists': ['Rihanna'], 'Duration': 267.08}
-{'ID': '02pK8BFKMJymITJLCRrjjG', 'Title': "Don't You (Forget About Me)", 'Artists': ['Simple Minds'], 'Duration': 262.986}
 {'ID': '3fH4KjXFYMmljxrcGrbPj9', 'Title': "Don't You (Forget About Me)", 'Artists': ['Simple Minds'], 'Duration': 263.04}
 {'ID': '02Bb1e1zdCT6AwcNVCAbcp', 'Title': "Don't know how to love", 'Artists': ['Fahrenheit'], 'Duration': 246.12}
 {'ID': '01bnqaE6nQogjdMMrrL1dj', 'Title': "Don't listen in secret", 'Artists': ['SEVENTEEN'], 'Duration': 237.552}
@@ -284,7 +283,6 @@
 {'ID': '5Su5ILFp6U83cnIXwfmlC5', 'Title': 'Drunken Sailor', 'Artists': ['The Irish Rovers'], 'Duration': 176.853}
 {'ID': '1gNcPHAiVIQZmqJFJdt3ti', 'Title': 'Dry Hands', 'Artists': ['C418'], 'Duration': 68.5}
 {'ID': '6uEvFCaOqXyEidoO8BZbyh', 'Title': 'Du hast', 'Artists': ['Rammstein'], 'Duration': 234.226}
-{'ID': '6BmyeQXKNuiqTMnyd2mI8g', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra', 'London Voices', "New London Children's Choir"], 'Duration': 254.36}
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
 {'ID': '57qZmiy1ojKCBev8pwivMI', 'Title': 'Durgen Chugaa', 'Artists': ['Shu-de'], 'Duration': 238.4}
 {'ID': '66UXlR0e3ZtU9iu8kPjCKT', 'Title': 'Dust and Gold', 'Artists': ['Arrows to Athens'], 'Duration': 241.152}
@@ -348,7 +346,6 @@
 {'ID': '3M0w3fhdXByHLCNAoi5c9G', 'Title': 'Fifteen', 'Artists': ['Taylor Swift'], 'Duration': 294.346}
 {'ID': '37f4ITSlgPX81ad2EvmVQr', 'Title': 'Fight Song', 'Artists': ['Rachel Platten'], 'Duration': 204.013}
 {'ID': '1mr3616BzLdhXfJmLmRsO8', 'Title': 'Fireflies', 'Artists': ['Owl City'], 'Duration': 228.346}
-{'ID': '3DamFFqW32WihKkTVlwTYQ', 'Title': 'Fireflies', 'Artists': ['Owl City'], 'Duration': 228.346}
 {'ID': '4r6eNCsrZnQWJzzvFh4nlg', 'Title': 'Firework', 'Artists': ['Katy Perry'], 'Duration': 227.893}
 {'ID': '6NQgyDkKwIQngBYjkPpDWV', 'Title': 'Fix You', 'Artists': ['Naturally 7'], 'Duration': 298.333}
 {'ID': '3mTEYjm3kIm4YzJ5zxJZjs', 'Title': 'Flares', 'Artists': ['The Script'], 'Duration': 229.32}
@@ -466,7 +463,6 @@
 {'ID': '5hSKv7KynizdK5S9JSRmAh', 'Title': 'His Name Is Lancelot - Original Broadway Cast Recording: "Spamalot"', 'Artists': ['Hank Azaria', 'David Hyde Pierce', 'Christopher Sieber', 'Christian Borle', 'Ensemble'], 'Duration': 131.96}
 {'ID': '5BSndweF91KDqyxANsZcQH', 'Title': 'Ho Hey', 'Artists': ['The Lumineers'], 'Duration': 163.133}
 {'ID': '0BJU4rYOfj43xHw6gvTIwE', 'Title': 'Hold Me Now', 'Artists': ['Thompson Twins'], 'Duration': 286.666}
-{'ID': '0kJmwFZK1QbbmzLgc6oFn7', 'Title': 'Hold Me Now', 'Artists': ['Thompson Twins'], 'Duration': 284.106}
 {'ID': '4VgEM12OeaN3GyBV487Me7', 'Title': 'Holiday', 'Artists': ['Green Day'], 'Duration': 232.68}
 {'ID': '4k6ktr10Hczmh55NY3LfJy', 'Title': 'Holiday', 'Artists': ['Madonna'], 'Duration': 368.28}
 {'ID': '5d2Kn9oAAh9S2EbyCo1i52', 'Title': 'Holy Ground', 'Artists': ['Taylor Swift'], 'Duration': 201.853}
@@ -589,7 +585,6 @@
 {'ID': '2SpEHTbUuebeLkgs9QB7Ue', 'Title': 'Jolene', 'Artists': ['Dolly Parton'], 'Duration': 161.533}
 {'ID': '3gy9MknmNb3MAQKHWUnLAG', 'Title': 'Josephine', 'Artists': ['The Misery Jackals'], 'Duration': 222.72}
 {'ID': '6Fba9RZtC6vTY814JToDtP', 'Title': 'Jump', 'Artists': ['Van Halen'], 'Duration': 239.56}
-{'ID': '7N3PAbqfTjSEU1edb2tY8j', 'Title': 'Jump - 2015 Remaster', 'Artists': ['Van Halen'], 'Duration': 241.599}
 {'ID': '3ZdJffjzJWFimSQyxgGIxN', 'Title': 'Just A Dream', 'Artists': ['Nelly'], 'Duration': 237.8}
 {'ID': '2OXidlnDThZR3zf36k6DVL', 'Title': 'Just A Kiss', 'Artists': ['Lady A'], 'Duration': 218.84}
 {'ID': '1Gqpa08T7eBAvPQj9O9L2Q', 'Title': 'Just Awake', 'Artists': ['Fear, and Loathing in Las Vegas'], 'Duration': 218.573}
@@ -1014,7 +1009,6 @@
 {'ID': '27L8sESb3KR79asDUBu8nW', 'Title': "Stacy's Mom", 'Artists': ['Fountains Of Wayne'], 'Duration': 197.986}
 {'ID': '51pQ7vY7WXzxskwloaeqyj', 'Title': 'Stairway to Heaven - 1990 Remaster', 'Artists': ['Led Zeppelin'], 'Duration': 478.173}
 {'ID': '09ISyLOPeuno7kKlzdbZuq', 'Title': 'Stamp on the Ground - Radio Edit', 'Artists': ['ItaloBrothers'], 'Duration': 198.986}
-{'ID': '4VTRlB4KVaNfm7ZbMOKLNT', 'Title': 'Stamp on the Ground - Radio Edit', 'Artists': ['ItaloBrothers'], 'Duration': 196.998}
 {'ID': '3kSXn1osC89W8JcPLozTzs', 'Title': 'Stand By You', 'Artists': ['Rachel Platten'], 'Duration': 219.0}
 {'ID': '06AMpcajziFnEKniV25fiU', 'Title': 'Star Sky', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 330.579}
 {'ID': '3skn2lauGk7Dx6bVIt5DVj', 'Title': 'Starlight', 'Artists': ['Muse'], 'Duration': 240.213}
@@ -1029,7 +1023,6 @@
 {'ID': '3As0OA5B06BxLfADvYyG8L', 'Title': 'Stay Tonight', 'Artists': ['CHUNG HA'], 'Duration': 217.238}
 {'ID': '3dJQLmbN6vyRNxLk3hkNbX', 'Title': 'Stay the Night', 'Artists': ['Jukebox The Ghost'], 'Duration': 170.647}
 {'ID': '4ICKuJDY5F2XdTR4fIMA7W', 'Title': 'Stayin\' Alive - From "Saturday Night Fever" Soundtrack', 'Artists': ['Bee Gees'], 'Duration': 284.426}
-{'ID': '4e9XdAksjMwsbl5vEVjPSr', 'Title': 'Steal Your Heart', 'Artists': ['Kayos'], 'Duration': 251.324}
 {'ID': '1pxQAIRC32Nxuxi5Xk9iTJ', 'Title': 'Steal Your Heart', 'Artists': ['Kayos'], 'Duration': 251.324}
 {'ID': '0qOnSQQF0yzuPWsXrQ9paz', 'Title': 'Stereo Hearts (feat. Adam Levine)', 'Artists': ['Gym Class Heroes', 'Adam Levine'], 'Duration': 210.96}
 {'ID': '5RfBhOGNbbXT5LiIvbHLhN', 'Title': 'Stereo Love - Radio Edit', 'Artists': ['Edward Maya', 'Vika Jigulina'], 'Duration': 184.0}
@@ -1144,7 +1137,6 @@
 {'ID': '35gFlKdC4Pmo88Go1cVrae', 'Title': 'The Medallion Calls', 'Artists': ['Klaus Badelt'], 'Duration': 112.506}
 {'ID': '6GG73Jik4jUlQCkKg9JuGO', 'Title': 'The Middle', 'Artists': ['Jimmy Eat World'], 'Duration': 165.853}
 {'ID': '09IStsImFySgyp0pIQdqAc', 'Title': 'The Middle', 'Artists': ['Zedd', 'Maren Morris', 'Grey'], 'Duration': 184.732}
-{'ID': '31AyUvMRDvZjyQI1N05lsT', 'Title': 'The Mother We Share', 'Artists': ['CHVRCHES'], 'Duration': 191.293}
 {'ID': '2pE0CMK1fE3mfU0eEOHhKw', 'Title': 'The Mother We Share', 'Artists': ['CHVRCHES'], 'Duration': 191.293}
 {'ID': '5byUll2f3Zgnli3wJPoKRL', 'Title': 'The Music Of The Night', 'Artists': ['Andrew Lloyd Webber', 'Gerard Butler'], 'Duration': 342.026}
 {'ID': '0ct6r3EGTcMLPtrXHDvVjc', 'Title': 'The Nights', 'Artists': ['Avicii'], 'Duration': 176.658}
