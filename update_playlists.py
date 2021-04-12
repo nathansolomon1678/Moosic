@@ -120,8 +120,17 @@ for main, feeders in feeder_playlists.items():
     copy(main, feeders)
 
 playlists_to_version_control = {
+    # This is not all of my playlists. Only the essential ones.
     '496qzGOJjyhvnAkGS7Z5nR',
     '6PR9WVuDfnp98ZxvqTvdyy',
+    '1DpbunhpYFcYAPzkZYNuJk',
+    '67IYsx9XFi5m8h5BKU3RSm',
+    '77OoDDnU6VIIaBuY3f5abq',
+    '6ABDcWlzwBt0H1rh4PZby4',
+    '2uBBWUB1GPYbEqlvGHODG6',
+    '0rffpWauvb1LYb3lU7nesG',
+    '3kZEyyQVquZesT40A6v8aB',
+    '5lT8LaIV1V6crhwqilYKKr',
 }
 
 os.system('rm -rf playlists')
@@ -137,12 +146,7 @@ for playlist in playlists_to_version_control:
 print('\033[0;0m')  # Reset to normal output color & format
 os.system('git add playlists')
 os.system('git commit -m "Update playlists"')
-os.system('git push origin main')
 
-print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes.')
-# TODO: rename playlists if their names change (and push that), before deleting and recreating them
-# TODO: Split this into two files: one defining functions, and one customizable one
+print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes, and "git push origin main" to save changes to the cloud.')
 # TODO: add overlap_only option to the copy function
 # TODO: limit fields being requested from playlists
-# TODO: define Song and Playlist classes so that operators like 'in' and '-' and '+' can be overwritten
-# TODO: somehow display playlists as a table in the website? if this is possible?

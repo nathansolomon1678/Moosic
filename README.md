@@ -21,3 +21,6 @@ layout: default
 Example usage:
 
 <img src="example_usage.png" />
+
+## You think I'm paranoid, BUT...
+This repository actually has saved me before. If I wasn't version-controlling my playlists, I might have permanently forgotten about Cascada's "Everytime we touch", but looking at the git diff spared me from that fate.
