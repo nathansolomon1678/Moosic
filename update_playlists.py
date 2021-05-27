@@ -40,7 +40,8 @@ def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
     # Retrieve 100 songs at a time until there aren't any left
     while True:
         # The offset tells it which index to start at
-        new_songs = s.playlist_items(playlist_id, offset=offset, limit=100)['items']
+        fields="items.track.name, items.track.id, items.track.artists.name, items.track.duration_ms"
+        new_songs = s.playlist_items(playlist_id, fields=fields, offset=offset, limit=100)['items']
         offset += 100
         songs.extend(new_songs)
         if len(new_songs) < 100:
@@ -127,7 +128,6 @@ playlists_to_version_control = {
     '67IYsx9XFi5m8h5BKU3RSm',
     '77OoDDnU6VIIaBuY3f5abq',
     '6ABDcWlzwBt0H1rh4PZby4',
-    '2uBBWUB1GPYbEqlvGHODG6',
     '0rffpWauvb1LYb3lU7nesG',
     '3kZEyyQVquZesT40A6v8aB',
     '5lT8LaIV1V6crhwqilYKKr',
@@ -144,9 +144,5 @@ for playlist in playlists_to_version_control:
         file.write(f'{str(song)}\n')
     file.close()
 print('\033[0;0m')  # Reset to normal output color & format
-os.system('git add playlists')
-os.system('git commit -m "Update playlists"')
 
-print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes, and "git push origin main" to save changes to the cloud.')
-# TODO: add overlap_only option to the copy function
-# TODO: limit fields being requested from playlists
+print('\033[0;36mSuccessfully updated playlists! Use "git diff HEAD~" to see most recent changes. To save changes to the cloud, add & commit & push.')
