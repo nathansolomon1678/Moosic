@@ -1,6 +1,7 @@
 {'ID': '64yrDBpcdwEdNY9loyEGbX', 'Title': '21 Guns', 'Artists': ['Green Day'], 'Duration': 321.093}
 {'ID': '1HHeOs6zRdF8Ck58easiAY', 'Title': 'Alejandro', 'Artists': ['Lady Gaga'], 'Duration': 274.213}
 {'ID': '2m1hi0nfMR9vdGC8UcrnwU', 'Title': 'All The Small Things', 'Artists': ['blink-182'], 'Duration': 167.066}
+{'ID': '1vzqcPRQ6P1Uw7NZ5M77wJ', 'Title': 'Amaranth', 'Artists': ['Nightwish'], 'Duration': 231.444}
 {'ID': '17VqlqPmnpytc9jnQPlxQh', 'Title': 'Amaranthine', 'Artists': ['Amaranthe'], 'Duration': 209.933}
 {'ID': '56sk7jBpZV0CD31G9hEU3b', 'Title': 'Animal I Have Become', 'Artists': ['Three Days Grace'], 'Duration': 231.4}
 {'ID': '2bbeNsFmjZqdoDhjLsKNWe', 'Title': 'Bailamos', 'Artists': ['Enrique Iglesias'], 'Duration': 214.066}
@@ -8,6 +9,7 @@
 {'ID': '6L89mwZXSOwYl76YXfX13s', 'Title': 'Basket Case', 'Artists': ['Green Day'], 'Duration': 181.533}
 {'ID': '0lIoY4ZQsdn5QzhraM9o9u', 'Title': 'Because the Night', 'Artists': ['Patti Smith'], 'Duration': 204.8}
 {'ID': '0AKAxdNkwq9ZxRdW1DN9zW', 'Title': 'Behind These Hazel Eyes', 'Artists': ['Kelly Clarkson'], 'Duration': 198.973}
+{'ID': '1mCsF9Tw4AkIZOjvZbZZdT', 'Title': 'Break My Stride', 'Artists': ['Matthew Wilder'], 'Duration': 184.48}
 {'ID': '1CdqVF1ywD0ZO1zXtB9yWa', 'Title': 'Break Your Heart', 'Artists': ['Taio Cruz', 'Ludacris'], 'Duration': 186.266}
 {'ID': '3GpdNg7Krt9vjc6tgDoKe1', 'Title': "Breakfast At Tiffany's", 'Artists': ['Deep Blue Something'], 'Duration': 257.186}
 {'ID': '5NlFXQ0si6U87gXs6hq81B', 'Title': 'Candy', 'Artists': ['Robbie Williams'], 'Duration': 201.053}
@@ -20,17 +22,21 @@
 {'ID': '7nnptgmho81M6mKJJFEKrh', 'Title': 'Death By Glamour', 'Artists': ['Toby Fox'], 'Duration': 134.594}
 {'ID': '7s2b12DS3zShmxHl2SKYq0', 'Title': 'Death of Me', 'Artists': ['PVRIS'], 'Duration': 211.853}
 {'ID': '4uQcgpptWmL2TrIqYMLat5', 'Title': 'Despre Tine', 'Artists': ['O-Zone'], 'Duration': 227.68}
+{'ID': '2LELFaNglE9B5xlcmd4qtQ', 'Title': 'Ding Dong Song - Radio Edit', 'Artists': ['Gunther & the Sunshine Girls'], 'Duration': 245.159}
 {'ID': '5SEvxpu5ImOFOcXyeM8fbx', 'Title': 'Dream of You (with R3HAB)', 'Artists': ['CHUNG HA', 'R3HAB'], 'Duration': 192.735}
 {'ID': '5S9lfZu1YF8xKkgSsqL2Bd', 'Title': 'Elastic Heart', 'Artists': ['Sia'], 'Duration': 257.2}
 {'ID': '16pmJwwNFVCqdXWPZtwZzh', 'Title': 'Empty Walls', 'Artists': ['Serj Tankian'], 'Duration': 230.026}
 {'ID': '5BIMPccDwShpXq784RJlJp', 'Title': 'Enter Sandman', 'Artists': ['Metallica'], 'Duration': 331.573}
 {'ID': '2mN6HgN5Cm4slbh35jiDOa', 'Title': 'Every time we touch', 'Artists': ['Cascada'], 'Duration': 197.124}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
+{'ID': '5jnZUl6PwWB0Maze4kDJfC', 'Title': 'Forgive Me Friend', 'Artists': ['Smith & Thell', 'Swedish Jam Factory'], 'Duration': 216.76}
+{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
 {'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.453}
 {'ID': '7zpMz3am0n83WmDxVqp9GQ', 'Title': 'Hallucinations', 'Artists': ['PVRIS'], 'Duration': 223.213}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
 {'ID': '0a5UnIvDUBzqwUduJsouRy', 'Title': "Here's to Us", 'Artists': ['Halestorm'], 'Duration': 177.546}
 {'ID': '14M736YxMrkTuVjB5Kjtrr', 'Title': 'House Of Pain', 'Artists': ['Angels Of Babylon'], 'Duration': 233.28}
+{'ID': '7xyYsOvq5Ec3P4fr6mM9fD', 'Title': 'Hysteria', 'Artists': ['Muse'], 'Duration': 227.44}
 {'ID': '5MapUlM1un2Kh4aZ3IyWcL', 'Title': 'I Am the Fire', 'Artists': ['Halestorm'], 'Duration': 217.173}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '55MjrUEvfYfeqFGm03MoDV', 'Title': 'I Gotta Stay High All the Time (Habits)', 'Artists': ['Anna Stark'], 'Duration': 207.761}
@@ -107,10 +113,12 @@
 {'ID': '28hmUctWqIPCdnMb95MtPJ', 'Title': 'The Dregs of Sobriety', 'Artists': ['No Use For A Name'], 'Duration': 164.4}
 {'ID': '6GG73Jik4jUlQCkKg9JuGO', 'Title': 'The Middle', 'Artists': ['Jimmy Eat World'], 'Duration': 165.853}
 {'ID': '0CHvs1UmxA90B2apIpbWCC', 'Title': 'The Rains of Castamere', 'Artists': ['Ramin Djawadi', 'Serj Tankian'], 'Duration': 224.305}
+{'ID': '6nnacTL5on2aVsRhVDNUSo', 'Title': 'Through the Fire and Flames', 'Artists': ['DragonForce'], 'Duration': 441.56}
 {'ID': '4Gponum8aPxNdUuAApFd7B', 'Title': "Tonight (I'm Lovin' You)", 'Artists': ['Enrique Iglesias', 'Ludacris', 'DJ Frank E'], 'Duration': 231.293}
 {'ID': '7C3TO7CHibIRqQzhyggSxG', 'Title': 'Tribal Dance', 'Artists': ['2 Unlimited'], 'Duration': 219.024}
 {'ID': '3df4fSoW5zsdNi5Wf3K5RP', 'Title': 'Tú No Eres Para Mi', 'Artists': ['Fanny Lu'], 'Duration': 205.666}
 {'ID': '2WpmMlS6Tr01C7UNFjQI3U', 'Title': 'Under a Violet Moon', 'Artists': ["Blackmore's Night"], 'Duration': 263.466}
+{'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
 {'ID': '0mBREiw4ppCXccM7rsk2RC', 'Title': "Wavin' Flag", 'Artists': ["K'NAAN"], 'Duration': 220.52}
 {'ID': '5kz9GDBTX846OXwqWoyKzF', 'Title': 'We Got The Beat', 'Artists': ["The Go-Go's"], 'Duration': 153.133}
 {'ID': '5kr3j5Clb9rjEposoMyLVt', 'Title': 'Welcome to Paradise', 'Artists': ['Green Day'], 'Duration': 224.133}
