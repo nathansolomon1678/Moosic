@@ -131,6 +131,7 @@ playlists_to_version_control = {
     '0rffpWauvb1LYb3lU7nesG',
     '3kZEyyQVquZesT40A6v8aB',
     '5lT8LaIV1V6crhwqilYKKr',
+    '6J2SpAqypYRarlDgnmeMRT',
 }
 
 os.system('rm -rf playlists')
