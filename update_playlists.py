@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """ Updates the local copies of playlists
 
 Those changes are saved in the playlists/ directory """
