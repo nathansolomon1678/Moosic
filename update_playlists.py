@@ -14,6 +14,7 @@ feeder_playlists = {
         '7A3XejLvWvSmIX2yGQPCJ5',
         '66IDHTnc0e2RkqsMSyFHu3',
         '1LlrlIzlZVzNEqz1FOeuZh',
+        '698HwDsgYiBNKFZbL65j4w',
     ],
 }
 
