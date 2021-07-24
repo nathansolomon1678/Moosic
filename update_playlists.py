@@ -46,3 +46,6 @@ for playlist in playlists_to_version_control:
     file.close()
 print('\033[0;0m')  # Reset to normal output color & format
 print('\033[0;36mSuccessfully updated playlists! Use "git diff" to see most recent changes. To save changes to the cloud, add & commit & push.')
+
+# TODO: warn of duplicates
+# TODO: check that all my liked songs are also in my miscellaneous playlist
