@@ -59,6 +59,7 @@
 {'ID': '57RA3JGafJm5zRtKJiKPIm', 'Title': 'Are You Bored Yet? (feat. Clairo)', 'Artists': ['Wallows', 'Clairo'], 'Duration': 178.0}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
 {'ID': '7kBZa4WCbZGkJzi2gCr401', 'Title': 'Army of Angels', 'Artists': ['The Script'], 'Duration': 238.2}
+{'ID': '0aueluj36PA9LNoj7d9SFb', 'Title': 'Arto', 'Artists': ['System Of A Down'], 'Duration': 133.573}
 {'ID': '0pwYLVXVknPSGUQb39cePC', 'Title': 'As Long As You Love Me', 'Artists': ['Justin Bieber', 'Big Sean'], 'Duration': 229.466}
 {'ID': '2UKT6K3gydaJ8MGDgeQtQz', 'Title': 'BERMUDA TRIANGLE', 'Artists': ['ZICO', 'Crush', 'DEAN'], 'Duration': 207.026}
 {'ID': '7oVEtyuv9NBmnytsCIsY5I', 'Title': 'BURN IT DOWN', 'Artists': ['Linkin Park'], 'Duration': 230.253}
@@ -88,8 +89,10 @@
 {'ID': '0cKk8BKEi7zXbdrYdyqBP5', 'Title': 'Behind Blue Eyes', 'Artists': ['The Who'], 'Duration': 221.426}
 {'ID': '0AKAxdNkwq9ZxRdW1DN9zW', 'Title': 'Behind These Hazel Eyes', 'Artists': ['Kelly Clarkson'], 'Duration': 198.973}
 {'ID': '2goLsvvODILDzeeiT4dAoR', 'Title': 'Believe', 'Artists': ['Cher'], 'Duration': 239.026}
+{'ID': '0pqnGHJpmpxLKifKRmU6WP', 'Title': 'Believer', 'Artists': ['Imagine Dragons'], 'Duration': 204.346}
 {'ID': '5vQqW74EkmxLyABwphendI', 'Title': 'Beneath the Brine', 'Artists': ['The Family Crest'], 'Duration': 371.861}
 {'ID': '5Hroj5K7vLpIG4FNCRIjbP', 'Title': 'Best Day Of My Life', 'Artists': ['American Authors'], 'Duration': 194.24}
+{'ID': '47Bg6IrMed1GPbxRgwH2aC', 'Title': 'Best Friend', 'Artists': ['Rex Orange County'], 'Duration': 262.231}
 {'ID': '7dt6x5M1jzdTEt8oCbisTK', 'Title': 'Better Now', 'Artists': ['Post Malone'], 'Duration': 231.266}
 {'ID': '2iXBZ32Fz5VDCLeE0JIdX5', 'Title': 'Better in Time', 'Artists': ['Leona Lewis'], 'Duration': 234.173}
 {'ID': '3BZGi1yUqQyCNC868AqUGG', 'Title': 'Big in Japan', 'Artists': ['Alphaville'], 'Duration': 286.16}
@@ -146,6 +149,7 @@
 {'ID': '1r1fPuhj9H4VdXr7OK6FL5', 'Title': 'CASTLE OF GLASS', 'Artists': ['Linkin Park'], 'Duration': 205.4}
 {'ID': '76hfruVvmfQbw0eYn1nmeC', 'Title': 'Cake By The Ocean', 'Artists': ['DNCE'], 'Duration': 219.146}
 {'ID': '7HKxTNVlkHsfMLhigmhC0I', 'Title': 'Call Me', 'Artists': ['Blondie'], 'Duration': 212.226}
+{'ID': '3TGRqZ0a2l1LRblBkJoaDx', 'Title': 'Call Me Maybe', 'Artists': ['Carly Rae Jepsen'], 'Duration': 193.4}
 {'ID': '663Karu2rvKLdnY0eo1n3M', 'Title': "Call Me When You're Sober", 'Artists': ['Evanescence'], 'Duration': 214.706}
 {'ID': '67HKtdqchK0rmODxsBeWT8', 'Title': 'Can You Feel The Love Tonight', 'Artists': ['Elton John'], 'Duration': 240.0}
 {'ID': '44AyOl4qVkzS48vBsbNXaC', 'Title': "Can't Help Falling in Love", 'Artists': ['Elvis Presley'], 'Duration': 182.36}
@@ -169,6 +173,7 @@
 {'ID': '0aNR6X577yLyosQc7OMjR8', 'Title': 'Castle Walls', 'Artists': ['Styx'], 'Duration': 358.866}
 {'ID': '2obblQ6tcePeOEVJV6nEGD', 'Title': "Cat's in the Cradle", 'Artists': ['Harry Chapin'], 'Duration': 222.951}
 {'ID': '3K7Q9PHUWPTaknlbFPThn2', 'Title': 'Celebration', 'Artists': ['Kool & The Gang'], 'Duration': 298.866}
+{'ID': '04aAxqtGp5pv12UXAg4pkq', 'Title': 'Centuries', 'Artists': ['Fall Out Boy'], 'Duration': 228.36}
 {'ID': '1sK10Me7qS9em2QTx6dYRe', 'Title': 'Chain Gang', 'Artists': ['Sam Cooke'], 'Duration': 160.0}
 {'ID': '3ExweHKZF9B752DPQByRVT', 'Title': 'Change (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 279.359}
 {'ID': '3hBgVOpgET0AGtdwc5D8Qy', 'Title': 'Chariots Of Fire', 'Artists': ['Vangelis'], 'Duration': 211.208}
@@ -183,6 +188,7 @@
 {'ID': '21jGcNKet2qwijlDFuPiPb', 'Title': 'Circles', 'Artists': ['Post Malone'], 'Duration': 215.28}
 {'ID': '7jk7gqyEonmVVYahZN5zhW', 'Title': 'Circus', 'Artists': ['Britney Spears'], 'Duration': 192.36}
 {'ID': '60wwxj6Dd9NJlirf84wr2c', 'Title': 'Clarity', 'Artists': ['Zedd', 'Foxes'], 'Duration': 271.426}
+{'ID': '6FE2iI43OZnszFLuLtvvmg', 'Title': 'Classic', 'Artists': ['MKTO'], 'Duration': 175.426}
 {'ID': '4lbDMGKjMa3FaY9KEPORFr', 'Title': 'Clearest Blue', 'Artists': ['CHVRCHES'], 'Duration': 233.762}
 {'ID': '3SJKvYZhEpVaT1UpqExt76', 'Title': 'Close Every Door', 'Artists': ["Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'"], 'Duration': 193.026}
 {'ID': '2GjMaJ7DacMIkgoe8oMXGg', 'Title': 'Close To Me', 'Artists': ['Ellie Goulding', 'Diplo', 'Swae Lee'], 'Duration': 182.626}
@@ -209,16 +215,19 @@
 {'ID': '3SKzTIl9mW0DadTys9SFo3', 'Title': 'Control', 'Artists': ['Halsey'], 'Duration': 214.761}
 {'ID': '2zFF6jG5hQArbzcXz3KUWk', 'Title': 'Cool for the Summer', 'Artists': ['Demi Lovato'], 'Duration': 214.739}
 {'ID': '2V4bv1fNWfTcyRJKmej6Sj', 'Title': 'Cooler Than Me - Single Mix', 'Artists': ['Mike Posner', 'Gigamesh'], 'Duration': 213.293}
+{'ID': '5alNYzC0QYEJJKfKp6jsZL', 'Title': 'Core Collapse', 'Artists': ['Destructive Interference'], 'Duration': 186.852}
 {'ID': '12M5uqx0ZuwkpLp5rJim1a', 'Title': 'Cornelia Street', 'Artists': ['Taylor Swift'], 'Duration': 287.266}
 {'ID': '0Jg602cHeMCnPez9baacIe', 'Title': 'Cotton Eye Joe', 'Artists': ['Rednex'], 'Duration': 193.826}
 {'ID': '3IyCL4Em1GOpNGDf451Hg1', 'Title': 'Could Have Been Me', 'Artists': ['The Struts'], 'Duration': 187.653}
 {'ID': '72lVoGw1YaznWEWwjcZrDL', 'Title': 'Counting Down The Days - Cascada Radio Edit', 'Artists': ['ItaloBrothers', 'Cascada'], 'Duration': 194.0}
+{'ID': '6VCfHbPrpYEjvPc6AyuS6w', 'Title': 'Counting Down The Days - Cascada Radio Edit', 'Artists': ['ItaloBrothers', 'Cascada'], 'Duration': 194.0}
 {'ID': '0yEXQTKsK7pNpORDH1qawt', 'Title': 'Counting Down the Days - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 175.0}
 {'ID': '4iWYPj04kHXcZK0st5yzZf', 'Title': 'Courtesy Call', 'Artists': ['Thousand Foot Krutch'], 'Duration': 236.906}
 {'ID': '1y4jsQt7MjnZhiD1L6qFBC', 'Title': 'Cradles', 'Artists': ['Sub Urban'], 'Duration': 209.829}
 {'ID': '2N5zMZX7YeL1tico8oQxa9', 'Title': 'Crazy', 'Artists': ['Gnarls Barkley'], 'Duration': 182.066}
 {'ID': '35ItUJlMtjOQW3SSiTCrrw', 'Title': 'Crazy Little Thing Called Love - Remastered 2011', 'Artists': ['Queen'], 'Duration': 163.373}
 {'ID': '2b9lp5A6CqSzwOrBfAFhof', 'Title': 'Crazy Train', 'Artists': ['Ozzy Osbourne'], 'Duration': 296.2}
+{'ID': '7ACxUo21jtTHzy7ZEV56vU', 'Title': 'Crazy Train', 'Artists': ['Ozzy Osbourne'], 'Duration': 293.183}
 {'ID': '6b2oQwSGFkzsMtQruIWm2p', 'Title': 'Creep', 'Artists': ['Radiohead'], 'Duration': 238.64}
 {'ID': '4s3CHmungRHAI5ho2edqXb', 'Title': 'Cry For You', 'Artists': ['September'], 'Duration': 211.6}
 {'ID': '66bK78V5FvJcxdLncAwZ8Q', 'Title': 'Crybaby', 'Artists': ['Kensuke Ushio'], 'Duration': 249.333}
@@ -231,6 +240,7 @@
 {'ID': '2XU0oxnq2qxCpomAAuJY8K', 'Title': 'Dance Monkey', 'Artists': ['Tones And I'], 'Duration': 209.438}
 {'ID': '2BOqDYLOJBiMOXShCV1neZ', 'Title': 'Dancing On My Own', 'Artists': ['Calum Scott'], 'Duration': 260.285}
 {'ID': '0GjEhVFGZW8afUYGChu3Rr', 'Title': 'Dancing Queen', 'Artists': ['ABBA'], 'Duration': 230.4}
+{'ID': '4NtUY5IGzHCaqfZemmAu56', 'Title': 'Dancing Queen', 'Artists': ['ABBA'], 'Duration': 230.693}
 {'ID': '7fJnj6rso7N95oztvsxrWD', 'Title': 'Dancing with Myself - 2001 Remaster', 'Artists': ['Billy Idol', 'Generation X'], 'Duration': 227.4}
 {'ID': '34x6hEJgGAOQvmlMql5Ige', 'Title': 'Danger Zone - From "Top Gun" Original Soundtrack', 'Artists': ['Kenny Loggins'], 'Duration': 215.133}
 {'ID': '2a1o6ZejUi8U3wzzOtCOYw', 'Title': 'Danza Kuduro', 'Artists': ['Don Omar', 'Lucenzo'], 'Duration': 198.773}
@@ -246,6 +256,7 @@
 {'ID': '7s2b12DS3zShmxHl2SKYq0', 'Title': 'Death of Me', 'Artists': ['PVRIS'], 'Duration': 211.853}
 {'ID': '3LlAyCYU26dvFZBDUIMb7a', 'Title': 'Demons', 'Artists': ['Imagine Dragons'], 'Duration': 175.2}
 {'ID': '5cJJZFR8CtHn5CdKLr17d6', 'Title': "Demons Are A Girl's Best Friend", 'Artists': ['Powerwolf'], 'Duration': 218.08}
+{'ID': '4WhyHQ2BXi2VU1iaFbF6jv', 'Title': 'Desert Rose', 'Artists': ['Sting', 'Cheb Mami'], 'Duration': 285.893}
 {'ID': '6habFhsOp2NvshLv26DqMb', 'Title': 'Despacito', 'Artists': ['Luis Fonsi', 'Daddy Yankee'], 'Duration': 229.36}
 {'ID': '4uQcgpptWmL2TrIqYMLat5', 'Title': 'Despre Tine', 'Artists': ['O-Zone'], 'Duration': 227.68}
 {'ID': '7FBLaia8vyWuZ6sz5HHdJo', 'Title': 'Diamonds and Rust', 'Artists': ["Blackmore's Night"], 'Duration': 294.306}
@@ -280,6 +291,7 @@
 {'ID': '5SEvxpu5ImOFOcXyeM8fbx', 'Title': 'Dream of You (with R3HAB)', 'Artists': ['CHUNG HA', 'R3HAB'], 'Duration': 192.735}
 {'ID': '4JGKZS7h4Qa16gOU3oNETV', 'Title': 'Dreams', 'Artists': ['The Cranberries'], 'Duration': 271.56}
 {'ID': '1lbXEepatjRVjoG8pZMtdp', 'Title': 'Dreams', 'Artists': ['Fleetwood Mac'], 'Duration': 254.453}
+{'ID': '21bh3DF2NNNU1zqyL6NuXw', 'Title': 'Drift Away - Rerecorded', 'Artists': ['Dobie Gray'], 'Duration': 277.803}
 {'ID': '0KAiuUOrLTIkzkpfpn9jb9', 'Title': 'Drive By', 'Artists': ['Train'], 'Duration': 195.973}
 {'ID': '2hKdd3qO7cWr2Jo0Bcs0MA', 'Title': 'Drops of Jupiter (Tell Me)', 'Artists': ['Train'], 'Duration': 259.933}
 {'ID': '4SHhui9S7lFYGHXikfneGo', 'Title': 'Drugs & The Internet', 'Artists': ['Lauv'], 'Duration': 178.549}
@@ -317,6 +329,7 @@
 {'ID': '2iUmqdfGZcHIhS3b9E9EWq', 'Title': 'Everybody Talks', 'Artists': ['Neon Trees'], 'Duration': 177.28}
 {'ID': '39lnzOIUCSNaQmgBHoz7rt', 'Title': 'Everyday', 'Artists': ['Buddy Holly'], 'Duration': 129.12}
 {'ID': '58vnVBWfKWIjSVvKTZJly2', 'Title': 'Everything Is AWESOME!!! (feat. The Lonely Island)', 'Artists': ['Tegan and Sara', 'The Lonely Island'], 'Duration': 163.423}
+{'ID': '24tvj1KEUFJE37AHDf4YIS', 'Title': 'Everything You Ever', 'Artists': ['Neil Patrick Harris'], 'Duration': 215.693}
 {'ID': '3CfVdPMtO6xp8WxhNPtO2u', 'Title': "Everything's Changing", 'Artists': ['David Taylor Gomes'], 'Duration': 261.0}
 {'ID': '5YJtMNWKe55yr49cyJgxva', 'Title': 'Everytime We Touch', 'Artists': ['Cascada'], 'Duration': 197.124}
 {'ID': '0rlB9MM5FKeRnvJiWOVRYY', 'Title': 'Explorers', 'Artists': ['Muse'], 'Duration': 346.506}
@@ -326,6 +339,7 @@
 {'ID': '4FC0VE8aoYj6s1vrLj367k', 'Title': 'Fade Away', 'Artists': ['Hannah Diamond'], 'Duration': 256.0}
 {'ID': '1LzNfuep1bnAUR9skqdHCK', 'Title': 'Fade Into You', 'Artists': ['Mazzy Star'], 'Duration': 295.6}
 {'ID': '7gHs73wELdeycvS48JfIos', 'Title': 'Faded', 'Artists': ['Alan Walker'], 'Duration': 212.626}
+{'ID': '698ItKASDavgwZ3WjaWjtz', 'Title': 'Faded', 'Artists': ['Alan Walker'], 'Duration': 212.106}
 {'ID': '7BwbdJVB6XEQCOZSxKTeMm', 'Title': 'Fair Enough, I Guess', 'Artists': ['Destructive Interference'], 'Duration': 190.066}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '0HEmnAUT8PHznIAAmVXqFJ', 'Title': 'Faith - Remastered', 'Artists': ['George Michael'], 'Duration': 193.2}
@@ -339,6 +353,7 @@
 {'ID': '0d28khcov6AiegSCpG5TuT', 'Title': 'Feel Good Inc.', 'Artists': ['Gorillaz'], 'Duration': 222.64}
 {'ID': '0Hf4aIJpsN4Os2f0y0VqWl', 'Title': 'Feel This Moment (feat. Christina Aguilera)', 'Artists': ['Pitbull', 'Christina Aguilera'], 'Duration': 229.506}
 {'ID': '70zMHoDB8RIy3jc0DZprNC', 'Title': 'Fell in a Well', 'Artists': ['Songwriter X and the Skeleton Band'], 'Duration': 237.053}
+{'ID': '0I1DJdLt9BKOb7GWmWxCjo', 'Title': 'Fields Of Gold', 'Artists': ['Sting'], 'Duration': 222.12}
 {'ID': '2nqio0SfWg6gh2eCtfuMa5', 'Title': 'Fifteen (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 294.419}
 {'ID': '37f4ITSlgPX81ad2EvmVQr', 'Title': 'Fight Song', 'Artists': ['Rachel Platten'], 'Duration': 204.013}
 {'ID': '1mr3616BzLdhXfJmLmRsO8', 'Title': 'Fireflies', 'Artists': ['Owl City'], 'Duration': 228.346}
@@ -351,6 +366,7 @@
 {'ID': '7FdUvDkaE24o3FPIWTvzv2', 'Title': 'Follow You', 'Artists': ['Imagine Dragons'], 'Duration': 175.643}
 {'ID': '0HdcunWW5FsRqKr3lwJOIo', 'Title': 'Follow You Follow Me - Remastered 2007', 'Artists': ['Genesis'], 'Duration': 240.991}
 {'ID': '6W2VbtvMrDXm5vYeB7amkO', 'Title': 'Footloose', 'Artists': ['Kenny Loggins'], 'Duration': 220.706}
+{'ID': '4YR6Dextuoc3I8nJ0XgzKI', 'Title': 'Footloose - From "Footloose" Soundtrack', 'Artists': ['Kenny Loggins'], 'Duration': 226.293}
 {'ID': '65GjU6KDPzF5IO143vvTgn', 'Title': 'For the First Time in Forever (Reprise) - From "Frozen"/Soundtrack Version', 'Artists': ['Kristen Bell', 'Idina Menzel'], 'Duration': 149.64}
 {'ID': '70b5Sq3ePOu3Gqg0hjlOtR', 'Title': 'For the First Time in Forever - From "Frozen"/Soundtrack Version', 'Artists': ['Kristen Bell', 'Idina Menzel'], 'Duration': 225.08}
 {'ID': '1tDVgmIzvqIpgilWP3tc69', 'Title': 'Forever', 'Artists': ['CHVRCHES'], 'Duration': 224.459}
@@ -379,6 +395,7 @@
 {'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
 {'ID': '1wYJnu1hMrYMNrkXKTVrYd', 'Title': 'Gives You Hell', 'Artists': ['The All-American Rejects'], 'Duration': 213.106}
 {'ID': '5yDL13y5giogKs2fSNf7sj', 'Title': 'Glad You Came', 'Artists': ['The Wanted'], 'Duration': 197.935}
+{'ID': '7qbMCwtQJkJeXCNxf4oJwB', 'Title': 'Gladiator - Theme from "Il Gladiatore" - Music from the Motion Picture', 'Artists': ['JL Mac Gregor'], 'Duration': 137.586}
 {'ID': '60jI0JgMLLj1VggHJVhtRs', 'Title': 'Glory And Gore', 'Artists': ['Lorde'], 'Duration': 210.737}
 {'ID': '2POlRJ2BgHjoGEkMFwXRmM', 'Title': 'Go Go Joseph', 'Artists': ["Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'"], 'Duration': 239.533}
 {'ID': '4xh7W7tlNMIczFhupCPniY', 'Title': 'Go Your Own Way - 2004 Remaster', 'Artists': ['Fleetwood Mac'], 'Duration': 223.613}
@@ -396,11 +413,14 @@
 {'ID': '5yfYobylRcCUV0Dh6WhY8Y', 'Title': 'Good to Be Alive', 'Artists': ['PVRIS'], 'Duration': 197.48}
 {'ID': '0xq4ZTcmwBfkPGo4RRKmMe', 'Title': 'Gotta Go', 'Artists': ['CHUNG HA'], 'Duration': 221.813}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
+{'ID': '5AgSJiuBLkWggPsRKwykwa', 'Title': 'Green Hill Zone', 'Artists': ['Jon Batiste'], 'Duration': 174.173}
 {'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': 'Greensleaves', 'Artists': ['Lindy Carr'], 'Duration': 100.05}
+{'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 223.253}
 {'ID': '4VeCmOb1rAEZQfH7Rlms9C', 'Title': 'Guiding Light', 'Artists': ['Mumford & Sons'], 'Duration': 217.633}
 {'ID': '7jZ5A8bf63qYaUXfuGoxVk', 'Title': 'Guiding Light', 'Artists': ['Muse'], 'Duration': 253.453}
 {'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.453}
 {'ID': '5k3U0OGYBccHdKJJu3HrUN', 'Title': 'Hakuna Matata - From "The Lion King"/Soundtrack', 'Artists': ['Nathan Lane', 'Ernie Sabella', 'Jason Weaver', 'Joseph Williams'], 'Duration': 213.6}
+{'ID': '1X1DWw2pcNZ8zSub3uhlNz', 'Title': 'Hall of Fame (feat. will.i.am)', 'Artists': ['The Script', 'will.i.am'], 'Duration': 202.533}
 {'ID': '5USZyz6dnBEn1oLsKcAKQy', 'Title': 'Hallelujah', 'Artists': ['Rufus Wainwright'], 'Duration': 248.8}
 {'ID': '7zpMz3am0n83WmDxVqp9GQ', 'Title': 'Hallucinations', 'Artists': ['PVRIS'], 'Duration': 223.213}
 {'ID': '4JehYebiI9JE8sR8MisGVb', 'Title': 'Halo', 'Artists': ['Beyoncé'], 'Duration': 261.64}
@@ -420,7 +440,6 @@
 {'ID': '28M2gifMU282QBM3fKajIS', 'Title': 'Haunted', 'Artists': ['Taylor Swift'], 'Duration': 242.08}
 {'ID': '1rfofaqEpACxVEHIZBJe6W', 'Title': 'Havana (feat. Young Thug)', 'Artists': ['Camila Cabello', 'Young Thug'], 'Duration': 217.306}
 {'ID': '2bPg5VMINVxErc926XcyOu', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 158.866}
-{'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
 {'ID': '4fIWvT19w9PR0VVBuPYpWA', 'Title': "Haven't Met You Yet", 'Artists': ['Michael Bublé'], 'Duration': 244.586}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
 {'ID': '36sZlJgvmP62qcEuAaV1uM', 'Title': 'Head Over Feet', 'Artists': ['Alanis Morissette'], 'Duration': 265.04}
@@ -440,6 +459,7 @@
 {'ID': '2ts9SrBP7zqBp1sjvtsalE', 'Title': 'Here Come the Vultures', 'Artists': ['Delain'], 'Duration': 365.52}
 {'ID': '6dGnYIeXmHdcikdzNNDMm2', 'Title': 'Here Comes The Sun - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 185.733}
 {'ID': '78RIER8V6EhrqVPOBi2GYa', 'Title': 'Here Comes the Rain Again - Remastered Version', 'Artists': ['Eurythmics', 'Annie Lennox', 'Dave Stewart'], 'Duration': 294.586}
+{'ID': '1qOU8KzFifXE9YrgjVwYvc', 'Title': 'Here I Go Again - 2018 Remaster', 'Artists': ['Whitesnake'], 'Duration': 275.395}
 {'ID': '5icOoE6VgqFKohjWWNp0Ac', 'Title': 'Here With Me', 'Artists': ['Marshmello', 'CHVRCHES'], 'Duration': 156.346}
 {'ID': '0a5UnIvDUBzqwUduJsouRy', 'Title': "Here's to Us", 'Artists': ['Halestorm'], 'Duration': 177.546}
 {'ID': '6GRDI9suQHikFP6euIXnpq', 'Title': 'Hero', 'Artists': ['Family of the Year'], 'Duration': 190.28}
@@ -455,6 +475,7 @@
 {'ID': '0trTpNYmHAK3EihaZBd2h6', 'Title': 'Heyyeyaaeyaaaeyaeyaa (Fabulous Secret Powers)', 'Artists': ['SLACKCiRCUS'], 'Duration': 134.833}
 {'ID': '69VoMBUMOPPKfbnYaj2KUw', 'Title': 'Hi-Lo (feat. Lindsey Stirling)', 'Artists': ['Evanescence', 'Lindsey Stirling'], 'Duration': 256.348}
 {'ID': '5a4MgIUSf9K8wXLSm6xPEx', 'Title': 'High Hopes', 'Artists': ['Pink Floyd'], 'Duration': 510.964}
+{'ID': '1rqqCSm0Qe4I9rUvWncaom', 'Title': 'High Hopes', 'Artists': ['Panic! At The Disco'], 'Duration': 190.946}
 {'ID': '1bhjMY5O0ZjB41OHcdRH0a', 'Title': 'High School Never Ends - Main Version - Explicit', 'Artists': ['Bowling For Soup'], 'Duration': 209.04}
 {'ID': '4TRV1GJuTP8bUs3lhe50r2', 'Title': 'Hikaru Nara (Shigatsu Wa Kimi No Uso) [feat. Animelmack]', 'Artists': ['Berioska', 'Animelmack'], 'Duration': 251.821}
 {'ID': '3ZFTkvIE7kyPt6Nu3PEa7V', 'Title': "Hips Don't Lie (feat. Wyclef Jean)", 'Artists': ['Shakira', 'Wyclef Jean'], 'Duration': 218.093}
@@ -481,6 +502,7 @@
 {'ID': '0Nmu7zxpMYNJ3N9YDY6VEN', 'Title': 'How Soon Is Now?', 'Artists': ['The Smiths'], 'Duration': 406.173}
 {'ID': '0gmbgwZ8iqyMPmXefof8Yf', 'Title': 'How You Remind Me', 'Artists': ['Nickelback'], 'Duration': 223.84}
 {'ID': '5fVZC9GiM4e8vu99W0Xf6J', 'Title': 'How to Save a Life', 'Artists': ['The Fray'], 'Duration': 262.533}
+{'ID': '4xxz2SWsCCvYokNTLri78c', 'Title': "Howl's Moving Castle Theme (From 'Howl's Moving Castle')", 'Artists': ['Anime Kei'], 'Duration': 306.843}
 {'ID': '7MK21UAFrkb79imh8zR4W6', 'Title': 'Human', 'Artists': ['Of Monsters and Men'], 'Duration': 237.813}
 {'ID': '39lSeqnyjZJejRuaREfyLL', 'Title': 'Hungry Like the Wolf - 2009 Remaster', 'Artists': ['Duran Duran'], 'Duration': 220.626}
 {'ID': '1JBegYmoUCehBLyQz7YEpS', 'Title': 'Hunnu Guren', 'Artists': ['Batzorig Vaanchig', 'Auli'], 'Duration': 237.621}
@@ -516,6 +538,7 @@
 {'ID': '1BwhFXqoIsePt21WyWIttb', 'Title': 'I Wanna Get Better', 'Artists': ['Bleachers'], 'Duration': 204.52}
 {'ID': '0GQo5VkiurD6HnVpaCNeMf', 'Title': 'I Want It All', 'Artists': ['Queen'], 'Duration': 272.973}
 {'ID': '47BBI51FKFwOMlIiX6m8ya', 'Title': 'I Want It That Way', 'Artists': ['Backstreet Boys'], 'Duration': 213.306}
+{'ID': '6e40mgJiCid5HRAGrbpGA6', 'Title': 'I Want It That Way', 'Artists': ['Backstreet Boys'], 'Duration': 213.6}
 {'ID': '1JLn8RhQzHz3qDqsChcmBl', 'Title': 'I Want to Know What Love Is - 1999 Remaster', 'Artists': ['Foreigner'], 'Duration': 304.786}
 {'ID': '7cv28LXcjAC3GsXbUvXKbX', 'Title': 'I Will Survive - Single Version', 'Artists': ['Gloria Gaynor'], 'Duration': 198.066}
 {'ID': '2JHBMVs8E7bJJBLkXpKgHn', 'Title': 'I Will Wait', 'Artists': ['Mumford & Sons'], 'Duration': 276.72}
@@ -541,6 +564,7 @@
 {'ID': '5usaydQKInuUpnaWQVTGM0', 'Title': 'Imagine', 'Artists': ['Steve Aoki', 'Frank Walker', 'AJ Mitchell'], 'Duration': 225.0}
 {'ID': '7pKfPomDEeI4TPT6EOYjn9', 'Title': 'Imagine - Remastered 2010', 'Artists': ['John Lennon'], 'Duration': 187.866}
 {'ID': '78lgmZwycJ3nzsdgmPPGNx', 'Title': 'Immigrant Song - Remaster', 'Artists': ['Led Zeppelin'], 'Duration': 146.25}
+{'ID': '7qgi1mkSrj0IYUkVg34QmN', 'Title': 'Immortal', 'Artists': ['Thomas Bergersen'], 'Duration': 247.781}
 {'ID': '3Te8uLyit6X3ncNW8Fp3K2', 'Title': 'Immortals', 'Artists': ['Fall Out Boy'], 'Duration': 189.386}
 {'ID': '18AXbzPzBS8Y3AkgSxzJPb', 'Title': 'In The Air Tonight - 2015 Remastered', 'Artists': ['Phil Collins'], 'Duration': 336.453}
 {'ID': '6sawhOATOEe0cGzXJfMJQE', 'Title': 'In Too Deep', 'Artists': ['Genesis'], 'Duration': 296.92}
@@ -549,6 +573,7 @@
 {'ID': '0OIjj9Y5Dk4MlFsyJBzJIa', 'Title': 'Incense & Iron', 'Artists': ['Powerwolf'], 'Duration': 237.933}
 {'ID': '3dqe8FDx7F1yxNY4LldJ7R', 'Title': 'Inside Out', 'Artists': ['ItaloBrothers'], 'Duration': 188.8}
 {'ID': '6IiCb4PCrDgqLuDWgHhFi7', 'Title': 'Inside Out (feat. Griff)', 'Artists': ['Zedd', 'Griff'], 'Duration': 186.245}
+{'ID': '0Z26JRY2Bdc8EJiulIZaXD', 'Title': 'Inside Out - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 149.969}
 {'ID': '62zFEHfAYl5kdHYOivj4BC', 'Title': 'International Love (feat. Chris Brown)', 'Artists': ['Pitbull', 'Chris Brown'], 'Duration': 227.28}
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
 {'ID': '0b11D9D0hMOYCIMN3OKreM', 'Title': 'Into Your Arms (feat. Ava Max)', 'Artists': ['Witt Lowry', 'Ava Max'], 'Duration': 186.022}
@@ -586,6 +611,7 @@
 {'ID': '0q2e5jdjxFaaYRf49b1vLj', 'Title': 'Just My Type', 'Artists': ['The Vamps'], 'Duration': 211.36}
 {'ID': '76GlO5H5RT6g7y0gev86Nk', 'Title': 'Just like Heaven', 'Artists': ['The Cure'], 'Duration': 212.0}
 {'ID': '1ko2lVN0vKGUl9zrU0qSlT', 'Title': 'Just the Two of Us (feat. Bill Withers)', 'Artists': ['Grover Washington, Jr.', 'Bill Withers'], 'Duration': 237.106}
+{'ID': '7BqBn9nzAq8spo5e7cZ0dJ', 'Title': 'Just the Way You Are', 'Artists': ['Bruno Mars'], 'Duration': 220.733}
 {'ID': '6RyY8r3DerLiB0hcBoTNFn', 'Title': 'Kara Main Theme - Kara', 'Artists': ['Philip Sheppard'], 'Duration': 414.79}
 {'ID': '4Jz4bjXeiF2SXVj9P4YfY5', 'Title': 'Keep Your Head Up', 'Artists': ['Andy Grammer'], 'Duration': 189.933}
 {'ID': '1jJci4qxiYcOHhQR247rEU', 'Title': 'Kids', 'Artists': ['MGMT'], 'Duration': 302.84}
@@ -619,6 +645,7 @@
 {'ID': '3SWqGa1J0M7hSBUDM0KePD', 'Title': 'Legend', 'Artists': ['The Score'], 'Duration': 189.12}
 {'ID': '1Knctxx9vGZxpZfF66BIEa', 'Title': 'Legends', 'Artists': ['Juice WRLD'], 'Duration': 191.84}
 {'ID': '1FpVJ7HpZInE2GvhVE2TwT', 'Title': 'Legends Never Die', 'Artists': ['League of Legends', 'Against The Current'], 'Duration': 235.0}
+{'ID': '0JmiBCpWc1IAc0et7Xm7FL', 'Title': 'Let Her Go', 'Artists': ['Passenger'], 'Duration': 252.733}
 {'ID': '7iN1s7xHE4ifF5povM6A48', 'Title': 'Let It Be - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 243.026}
 {'ID': '0qcr5FMsEO85NAQjrlDRKo', 'Title': 'Let It Go - From "Frozen"/Soundtrack Version', 'Artists': ['Idina Menzel'], 'Duration': 223.84}
 {'ID': '5sqkarfxe7UejHTlCtHCLS', 'Title': 'Let Me Hear', 'Artists': ['Fear, and Loathing in Las Vegas'], 'Duration': 225.546}
@@ -740,6 +767,7 @@
 {'ID': '6dK1HEHZcQlh24bSU7pTaZ', 'Title': 'Mundian to Bach Ke', 'Artists': ['Panjabi MC'], 'Duration': 244.666}
 {'ID': '1pQ7Z3oMyJXnHydstuxL7F', 'Title': 'My Enemy', 'Artists': ['CHVRCHES', 'Matt Berninger'], 'Duration': 233.078}
 {'ID': '7Ak1OOi3ecT36gDR1gAuMt', 'Title': 'My Eyes', 'Artists': ['Neil Patrick Harris', 'Felicia Day'], 'Duration': 167.874}
+{'ID': '3lqCvGWCaUmpc37b0Gbxxi', 'Title': 'My Feelings', 'Artists': ['Dan Salvato'], 'Duration': 123.332}
 {'ID': '1KixkQVDUHggZMU9dUobgm', 'Title': 'My Head & My Heart', 'Artists': ['Ava Max'], 'Duration': 174.76}
 {'ID': '33LC84JgLvK2KuW43MfaNq', 'Title': 'My Heart Will Go On - Love Theme from "Titanic"', 'Artists': ['Céline Dion'], 'Duration': 280.0}
 {'ID': '0H7uRp4w4GP9fhAvh9Jih0', 'Title': 'My House', 'Artists': ['PVRIS'], 'Duration': 242.56}
@@ -780,12 +808,14 @@
 {'ID': '59dLtGBS26x7kc0rHbaPrq', 'Title': "Nothin' on You (feat. Bruno Mars)", 'Artists': ['B.o.B', 'Bruno Mars'], 'Duration': 268.32}
 {'ID': '10igKaIKsSB6ZnWxPxPvKO', 'Title': 'Nothing Else Matters', 'Artists': ['Metallica'], 'Duration': 388.733}
 {'ID': '3YRCqOhFifThpSRFJ1VWFM', 'Title': 'November Rain', 'Artists': ["Guns N' Roses"], 'Duration': 536.066}
+{'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Lisa Gerrard', 'Klaus Badelt', 'Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
 {'ID': '2nLtzopw4rPReszdYBJU6h', 'Title': 'Numb', 'Artists': ['Linkin Park'], 'Duration': 185.586}
 {'ID': '7lz6NyGH5jL5qrHj1PKUbI', 'Title': 'Numb', 'Artists': ['Kuular'], 'Duration': 145.632}
 {'ID': '0zzVTGyRrWpQu8Fr28NRAv', 'Title': 'OK Not To Be OK', 'Artists': ['Marshmello', 'Demi Lovato'], 'Duration': 159.862}
 {'ID': '5hGoIsMmOwF3EsDpp4nwws', 'Title': 'Oasis', 'Artists': ['Tarja'], 'Duration': 310.773}
 {'ID': '23oxJmDc1V9uLUSmN2LIvx', 'Title': 'Ocean Avenue', 'Artists': ['Yellowcard'], 'Duration': 198.266}
 {'ID': '6mQTdDhf0FKvFPUa1n0a31', 'Title': 'Ocean Princess (feat. Merethe Soltvedt)', 'Artists': ['Thomas Bergersen'], 'Duration': 171.53}
+{'ID': '28rhYoPhcvKfedTyzhzoyp', 'Title': 'Ocean Theme (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 154.88}
 {'ID': '6u7jPi22kF8CTQ3rb9DHE7', 'Title': 'Old Town Road (feat. Billy Ray Cyrus) - Remix', 'Artists': ['Lil Nas X', 'Billy Ray Cyrus'], 'Duration': 157.066}
 {'ID': '44lGysG4BW1P7ixarRhYRd', 'Title': 'Older and Taller', 'Artists': ['Regina Spektor'], 'Duration': 236.493}
 {'ID': '0DefmqHMWLchBf3VyLTYKq', 'Title': 'On Earth As It Is In Heaven', 'Artists': ['Ennio Morricone'], 'Duration': 230.693}
@@ -835,6 +865,7 @@
 {'ID': '6JnIPakIq3nMFwCmjuxixG', 'Title': 'Phantom', 'Artists': ['Jessie Paege'], 'Duration': 208.346}
 {'ID': '1HNkqx9Ahdgi1Ixy2xkKkL', 'Title': 'Photograph', 'Artists': ['Ed Sheeran'], 'Duration': 258.986}
 {'ID': '3FCto7hnn1shUyZL42YgfO', 'Title': 'Piano Man', 'Artists': ['Billy Joel'], 'Duration': 336.093}
+{'ID': '70C4NyhjD5OZUMzvWZ3njJ', 'Title': 'Piano Man', 'Artists': ['Billy Joel'], 'Duration': 339.0}
 {'ID': '32mVHdy0bi1XKgr0ajsBlG', 'Title': 'Picture To Burn', 'Artists': ['Taylor Swift'], 'Duration': 173.066}
 {'ID': '2NELtMgQ8HSdrGrYQPLnC3', 'Title': 'Piece by Piece', 'Artists': ['Kelly Clarkson'], 'Duration': 257.746}
 {'ID': '4XqCiPFWwAwGEI7yiq0LvK', 'Title': 'Play With Fire', 'Artists': ['Nico Santos'], 'Duration': 213.933}
@@ -995,7 +1026,6 @@
 {'ID': '4kQXDJq81X6cl390rnqpVo', 'Title': 'Space Oddity', 'Artists': ['Major Tom Band'], 'Duration': 285.253}
 {'ID': '6kEyuKmF4kZylB5LcuRd8Y', 'Title': 'Space Oddity', 'Artists': ['David Bowie'], 'Duration': 226.666}
 {'ID': '689DTIE4YIRfuIUG58Z2H2', 'Title': 'Spanish Flea', 'Artists': ['Herb Alpert & The Tijuana Brass'], 'Duration': 126.893}
-{'ID': '6nW2oWzvN1EBnTA044X48d', 'Title': 'Sparkling Sky Laser', 'Artists': ['Fear, and Loathing in Las Vegas'], 'Duration': 225.653}
 {'ID': '2ipJSuGf1GtxSIt2KvOGxl', 'Title': 'Sparks', 'Artists': ['Hilary Duff'], 'Duration': 185.92}
 {'ID': '24DefNCFiWTP8OjYWiXuYe', 'Title': 'Speak Now', 'Artists': ['Taylor Swift'], 'Duration': 240.76}
 {'ID': '1sC3b3QdB0qODzNrz3M8Ne', 'Title': 'Spectrum', 'Artists': ['Hiromi'], 'Duration': 304.36}
@@ -1024,12 +1054,14 @@
 {'ID': '4ICKuJDY5F2XdTR4fIMA7W', 'Title': 'Stayin\' Alive - From "Saturday Night Fever" Soundtrack', 'Artists': ['Bee Gees'], 'Duration': 284.426}
 {'ID': '1pxQAIRC32Nxuxi5Xk9iTJ', 'Title': 'Steal Your Heart', 'Artists': ['Kayos'], 'Duration': 251.324}
 {'ID': '0qOnSQQF0yzuPWsXrQ9paz', 'Title': 'Stereo Hearts (feat. Adam Levine)', 'Artists': ['Gym Class Heroes', 'Adam Levine'], 'Duration': 210.96}
+{'ID': '1aklRy3btsbucImSXvR2SY', 'Title': 'Stereo Love - Original', 'Artists': ['Edward Maya', 'Vika Jigulina'], 'Duration': 248.666}
 {'ID': '5RfBhOGNbbXT5LiIvbHLhN', 'Title': 'Stereo Love - Radio Edit', 'Artists': ['Edward Maya', 'Vika Jigulina'], 'Duration': 184.0}
 {'ID': '5aNagthlHAudbDZozQMjYP', 'Title': 'Stick to the Status Quo - From "High School Musical"/Soundtrack Version', 'Artists': ['High School Musical Cast'], 'Duration': 268.413}
 {'ID': '0Nrw0vKim2z4dph1jsxvye', 'Title': 'Still Alive', 'Artists': ['Aperture Science Psychoacoustic Laboratories'], 'Duration': 177.212}
 {'ID': '19YmvsVCetCBeVj6O2mljR', 'Title': 'Still Breathing', 'Artists': ['Green Day'], 'Duration': 224.76}
 {'ID': '1znGxpojJSjxZZEWA5zWva', 'Title': 'Still Counting', 'Artists': ['Volbeat'], 'Duration': 261.813}
 {'ID': '1yjY7rpaAQvKwpdUliHx0d', 'Title': 'Still into You', 'Artists': ['Paramore'], 'Duration': 216.013}
+{'ID': '4nVBt6MZDDP6tRVdQTgxJg', 'Title': 'Story of My Life', 'Artists': ['One Direction'], 'Duration': 245.493}
 {'ID': '0kwuKfWntoGh0EWyYb7Mpf', 'Title': 'Stranger Things', 'Artists': ['Kyle Dixon & Michael Stein'], 'Duration': 67.52}
 {'ID': '3GJZLvGXaVszYdSBLMtJFX', 'Title': 'Strength of a Thousand Men', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 136.892}
 {'ID': '3CRDbSIZ4r5MsZ0YwxuEkn', 'Title': 'Stressed Out', 'Artists': ['Twenty One Pilots'], 'Duration': 202.333}
@@ -1079,6 +1111,7 @@
 {'ID': '2WfaOiMkCvy7F5fcp2zZ8L', 'Title': 'Take on Me', 'Artists': ['a-ha'], 'Duration': 225.28}
 {'ID': '5j7gLuOsBOyqooruGxX4nx', 'Title': 'Taking Over Me', 'Artists': ['Evanescence'], 'Duration': 228.613}
 {'ID': '5l3CML2OnzfNs5RfVgbcLt', 'Title': 'Talk Dirty (feat. 2 Chainz)', 'Artists': ['Jason Derulo', '2 Chainz'], 'Duration': 177.685}
+{'ID': '161DnLWsx1i3u1JT05lzqU', 'Title': 'Talking to the Moon', 'Artists': ['Bruno Mars'], 'Duration': 217.866}
 {'ID': '3G80CgLA7ziD8i40s6uKQN', 'Title': 'Tallulah', 'Artists': ['Sonata Arctica'], 'Duration': 320.466}
 {'ID': '4pZP5nCdSg2z5Li9JqH4Tb', 'Title': 'Tavan Hasag', 'Artists': ['Auli', 'Batzorig Vaanchig'], 'Duration': 229.592}
 {'ID': '1Px4jqDnQFulhG7Dl3nK0C', 'Title': 'Te Voy a Esperar (feat. Belinda)', 'Artists': ['Juan Magán', 'Belinda'], 'Duration': 215.813}
@@ -1111,7 +1144,7 @@
 {'ID': '341863z079BT4EFPiSw9DP', 'Title': 'The Call', 'Artists': ['Regina Spektor'], 'Duration': 187.426}
 {'ID': '7IxVWmdabNVhfLBV3JD0nJ', 'Title': 'The Cave', 'Artists': ['Mumford & Sons'], 'Duration': 217.986}
 {'ID': '0V8FYVlBFuXXTIvRnMbZyS', 'Title': 'The Climb', 'Artists': ['Miley Cyrus'], 'Duration': 236.066}
-{'ID': '3Knohqfb9jeYzL6wMZiWLM', 'Title': 'The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]', 'Artists': ['Howard Shore'], 'Duration': 229.106}
+{'ID': '3Knohqfb9jeYzL6wMZiWLM', 'Title': 'The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]', 'Artists': ['Howard Shore', 'Enya'], 'Duration': 229.106}
 {'ID': '4zg2zMNSI0W8ipGA32kKp5', 'Title': 'The Cult of Dionysus', 'Artists': ['The Orion Experience'], 'Duration': 185.306}
 {'ID': '0dMYPDqcI4ca4cjqlmp9mE', 'Title': 'The Dark Side', 'Artists': ['Muse'], 'Duration': 227.213}
 {'ID': '79M3Eq1q61lkeQJ1OCVEdZ', 'Title': "The Devil's Bleeding Crown", 'Artists': ['Volbeat'], 'Duration': 238.653}
@@ -1209,6 +1242,7 @@
 {'ID': '7C3TO7CHibIRqQzhyggSxG', 'Title': 'Tribal Dance', 'Artists': ['2 Unlimited'], 'Duration': 219.024}
 {'ID': '5DI3euiLQ9NYCZKYW5oYZk', 'Title': 'Tripaloski', 'Artists': ['Zlampa'], 'Duration': 78.561}
 {'ID': '6buXDkw3Gv4fQC1OZKUhnR', 'Title': 'Try', 'Artists': ['Colbie Caillat'], 'Duration': 224.573}
+{'ID': '3i7RZuAJ6iWbSW2k9lUtJx', 'Title': 'Try', 'Artists': ['P!nk'], 'Duration': 249.733}
 {'ID': '3qrH2YFnbEiQeUe4wzgOuP', 'Title': 'Try Everything - From "Zootropolis"', 'Artists': ['Shakira'], 'Duration': 196.706}
 {'ID': '6FHUBs8P5qcjpj7C2QHdEq', 'Title': 'Tulou Tagaloa', 'Artists': ["Olivia Foa'i"], 'Duration': 51.933}
 {'ID': '2TziLOnBMT8kDVo2LA1X6t', 'Title': 'Turn the Beat Around - Single Version', 'Artists': ['Vicki Sue Robinson'], 'Duration': 252.373}
@@ -1220,6 +1254,7 @@
 {'ID': '1jFhnVoJkcB4lf9tT0rSZS', 'Title': 'Unchained Melody', 'Artists': ['The Righteous Brothers'], 'Duration': 216.266}
 {'ID': '009ImBOrIUlWgla8U05RAC', 'Title': 'Unconditionally', 'Artists': ['Katy Perry'], 'Duration': 228.878}
 {'ID': '2WpmMlS6Tr01C7UNFjQI3U', 'Title': 'Under a Violet Moon', 'Artists': ["Blackmore's Night"], 'Duration': 263.466}
+{'ID': '3d9DChrdc6BOeFsbrZ3Is0', 'Title': 'Under the Bridge', 'Artists': ['Red Hot Chili Peppers'], 'Duration': 264.306}
 {'ID': '2FZ99j224ohiGLavqjijza', 'Title': 'Undertale', 'Artists': ['Toby Fox'], 'Duration': 381.535}
 {'ID': '0It6VJoMAare1zdV2wxqZq', 'Title': 'Undisclosed Desires', 'Artists': ['Muse'], 'Duration': 235.0}
 {'ID': '5WhtlIoxoZrMmuaWWEQhwV', 'Title': 'Undone - The Sweater Song', 'Artists': ['Weezer'], 'Duration': 305.533}
@@ -1301,6 +1336,7 @@
 {'ID': '215wUTQQUo2PElJFEFoB0d', 'Title': 'Wheel in the Sky', 'Artists': ['Journey'], 'Duration': 252.24}
 {'ID': '1IHEefbRdL7VkscggnoPaM', 'Title': 'When All Is Said And Done', 'Artists': ['ABBA'], 'Duration': 199.866}
 {'ID': '5ZkAx8zjLiSs1nMmBwJoZS', 'Title': 'When Can I See You Again? - From "Wreck-It Ralph"/Soundtrack Version', 'Artists': ['Owl City'], 'Duration': 218.093}
+{'ID': '0nJW01T7XtvILxQgC5J7Wh', 'Title': 'When I Was Your Man', 'Artists': ['Bruno Mars'], 'Duration': 213.826}
 {'ID': '4jyru1nUrepszk5VMBgsSn', 'Title': 'When Will My Life Begin (Reprise 2) - From "Tangled"/Soundtrack Version', 'Artists': ['Mandy Moore'], 'Duration': 126.093}
 {'ID': '1nfSX4WR7wsC8FZJlZKH6W', 'Title': 'When You Leave (Numa Numa) - Basshunter Radio Mix', 'Artists': ['Alina'], 'Duration': 199.134}
 {'ID': '6qpy8DE7KnkNCozXSPTYCR', 'Title': 'When the Birds Start Singing', 'Artists': ['Uppermost'], 'Duration': 280.857}
@@ -1339,6 +1375,7 @@
 {'ID': '4YOJFyjqh8eAcbKFfv88mV', 'Title': 'Y.M.C.A.', 'Artists': ['Village People'], 'Duration': 286.666}
 {'ID': '7MTX3vevnm41xuEoPxWT3j', 'Title': 'Year of the Cat', 'Artists': ['Al Stewart'], 'Duration': 400.066}
 {'ID': '3BQHpFgAp4l80e1XslIjNI', 'Title': 'Yesterday - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 125.666}
+{'ID': '7Cp69rNBwU0gaFT8zxExlE', 'Title': 'Ymca', 'Artists': ['Village People'], 'Duration': 284.866}
 {'ID': '26EZZ0xthDGAainMj2L0bR', 'Title': 'You & I - Radio Edit', 'Artists': ['One Direction'], 'Duration': 229.933}
 {'ID': '1Wdj4wRDYS7aT4CoPS0mAH', 'Title': 'You Are Enough', 'Artists': ['Sleeping At Last'], 'Duration': 180.086}
 {'ID': '1qrpoAMXodY6895hGKoUpA', 'Title': 'You Belong With Me (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 231.124}
