@@ -9,7 +9,7 @@
 {'ID': '5DYImENykLtvddFYExR23e', 'Title': 'A Wrinkle in Time', 'Artists': ['Ramin Djawadi'], 'Duration': 129.44}
 {'ID': '0sXHLm9d9Zq81p9D9GgwGJ', 'Title': 'A seaside town', 'Artists': ['Meine Meinung'], 'Duration': 197.168}
 {'ID': '3rUMH7i22tlkymhDPOmXUv', 'Title': 'Across the Stars (Love Theme from "Star Wars: Attack of the Clones")', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 333.346}
-{'ID': '54CAG8n70kKVbFV6l1zF4G', 'Title': 'Adiemus', 'Artists': ['Karl Jenkins', 'Mike Ratledge', 'Adiemus', 'Jody K. Jenkins', 'London Philharmonic Orchestra', 'Mary Carewe'], 'Duration': 237.413}
+{'ID': '54CAG8n70kKVbFV6l1zF4G', 'Title': 'Adiemus', 'Artists': ['Karl Jenkins', 'Mike Ratledge', 'Adiemus', 'London Philharmonic Orchestra'], 'Duration': 237.413}
 {'ID': '0HluOOcAWZWaEDzemP90Na', 'Title': 'Aia I Niihau Kuu Pawehe', 'Artists': ['Kuana Torres Kahele'], 'Duration': 139.289}
 {'ID': '3GiE1hcocpQIEf1gC7fv2o', 'Title': "Alan Turing's Legacy", 'Artists': ['Alexandre Desplat', 'London Symphony Orchestra'], 'Duration': 116.52}
 {'ID': '3jgrNd3uPU1c2PFBKYsV9d', 'Title': 'Alewife', 'Artists': ['Clairo'], 'Duration': 213.0}
@@ -51,7 +51,7 @@
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
 {'ID': '1TQKEwq4y9SkNciJuisE1m', 'Title': 'Evenstar', 'Artists': ['Howard Shore', 'Isabel Bayrakdarian'], 'Duration': 195.6}
-{'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat'], 'Duration': 117.673}
+{'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat', 'Jean-Yves Thibaudet'], 'Duration': 117.673}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '7oYTWS0BEJcddgKZBkiSJq', 'Title': 'Far Over the Misty Mountains Cold', 'Artists': ['Clamavi De Profundis'], 'Duration': 463.439}
 {'ID': '6gDt7eZjJNIkzLj9jVEBZo', 'Title': 'First Sunrise', 'Artists': ['Haru Kitamura'], 'Duration': 212.0}

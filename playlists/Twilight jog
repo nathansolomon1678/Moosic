@@ -16,6 +16,7 @@
 {'ID': '3GpdNg7Krt9vjc6tgDoKe1', 'Title': "Breakfast At Tiffany's", 'Artists': ['Deep Blue Something'], 'Duration': 257.186}
 {'ID': '49mWEy5MgtNujgT7xU3emT', 'Title': 'Breathe', 'Artists': ['Taylor Swift', 'Colbie Caillat'], 'Duration': 263.973}
 {'ID': '5NlFXQ0si6U87gXs6hq81B', 'Title': 'Candy', 'Artists': ['Robbie Williams'], 'Duration': 201.053}
+{'ID': '023OVLNzXhX0j7CxswUt6D', 'Title': 'Cheerleader - Felix Jaehn Remix Radio Edit', 'Artists': ['OMI'], 'Duration': 180.56}
 {'ID': '4aBBDcUCc1pK6zOQ8QxCg3', 'Title': 'Contagious', 'Artists': ['Night Riots'], 'Duration': 215.843}
 {'ID': '0yEXQTKsK7pNpORDH1qawt', 'Title': 'Counting Down the Days - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 175.0}
 {'ID': '4iWYPj04kHXcZK0st5yzZf', 'Title': 'Courtesy Call', 'Artists': ['Thousand Foot Krutch'], 'Duration': 236.906}
@@ -37,7 +38,6 @@
 {'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.453}
 {'ID': '7zpMz3am0n83WmDxVqp9GQ', 'Title': 'Hallucinations', 'Artists': ['PVRIS'], 'Duration': 223.213}
 {'ID': '7HqKaTgHVUrjHfdgtWxG3Q', 'Title': 'Halo', 'Artists': ['Deep Blue Something'], 'Duration': 164.76}
-{'ID': '4RYe7dWuczFdeBIjczDN0V', 'Title': 'Halo', 'Artists': ['Deep Blue Something'], 'Duration': 164.84}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
 {'ID': '0a5UnIvDUBzqwUduJsouRy', 'Title': "Here's to Us", 'Artists': ['Halestorm'], 'Duration': 177.546}
 {'ID': '14M736YxMrkTuVjB5Kjtrr', 'Title': 'House Of Pain', 'Artists': ['Angels Of Babylon'], 'Duration': 233.28}
@@ -62,6 +62,7 @@
 {'ID': '1wnq9TwifJ9ipLUFsm8vKx', 'Title': 'Lola Montez', 'Artists': ['Volbeat'], 'Duration': 267.68}
 {'ID': '59tskctgqUmjCWAwhzYAFm', 'Title': 'Looking at Me', 'Artists': ['Sabrina Carpenter'], 'Duration': 181.12}
 {'ID': '5JWPUEov2wlX7c0jhYZpeB', 'Title': 'Lost In Yesterday', 'Artists': ['Tame Impala'], 'Duration': 249.586}
+{'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '4zP2e2aIzOZGEFTq1MDJmm', 'Title': 'Lying from You', 'Artists': ['Linkin Park'], 'Duration': 175.373}
 {'ID': '4nqxQU97VmHhn3e6a3CUWZ', 'Title': 'Make It Shine (Victorious Theme) (feat. Victoria Justice)', 'Artists': ['Victorious Cast', 'Victoria Justice'], 'Duration': 187.773}
 {'ID': '6SpLc7EXZIPpy0sVko0aoU', 'Title': 'Misery Business', 'Artists': ['Paramore'], 'Duration': 211.52}
@@ -73,6 +74,7 @@
 {'ID': '4m7p2dejJrMiiA1vg8LDPK', 'Title': 'Moskau', 'Artists': ['Dschinghis Khan'], 'Duration': 271.96}
 {'ID': '2ZAx6NDhX2yE5aL5ueEQgY', 'Title': 'Mr. Saxobeat', 'Artists': ['Alexandra Stan'], 'Duration': 195.105}
 {'ID': '4aTlz630f69oUu0nLmhuYT', 'Title': 'Nancy the Tavern Wench - Acoustic Version', 'Artists': ['Alestorm'], 'Duration': 292.72}
+{'ID': '26NB1DFseak0GHu4lHyKfz', 'Title': 'Ne Iubim', 'Artists': ['Iuliana Beregoi'], 'Duration': 174.177}
 {'ID': '6Wx88Mv6b9ofjKMKkdwOJd', 'Title': 'New Divide', 'Artists': ['Linkin Park'], 'Duration': 268.613}
 {'ID': '3YRCqOhFifThpSRFJ1VWFM', 'Title': 'November Rain', 'Artists': ["Guns N' Roses"], 'Duration': 536.066}
 {'ID': '2nLtzopw4rPReszdYBJU6h', 'Title': 'Numb', 'Artists': ['Linkin Park'], 'Duration': 185.586}
