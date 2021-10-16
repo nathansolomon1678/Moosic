@@ -21,8 +21,18 @@ def same_song(song1: Dict[str, Any], song2: Dict[str, Any]) -> bool:
     # List of all artists for each song:
     artists: List[List[str]] = [song['Artists'] for song in [song1, song2]]
     artists_overlap: bool = len(set(artists[0]).intersection(set(artists[1]))) > 0
+    titles = [song['Title'] for song in [song1, song2]]
+    # If only one of the songs has a unique identifier, like "reprise", they are not the same song
+    identifiers = [
+            'Reprise',
+            'Nightcore Edit',
+            'feat. UCLA Bruin Marching Band'
+    ]
+    for identifier in identifiers:
+        if len([title for title in titles if identifier in title]) == 1:
+            return False
     # The pattern ' - ' is usually followed by 'Remastered <year>' or 'Radio edit' or something
-    titles: List[str] = [song['Title'].split(' - ')[0] for song in [song1, song2]]
+    titles = [title.split(' - ')[0] for title in titles]
     # Also, anything enclosed in parentheses is unnecessary
     titles = [re.sub('\(.*\)', '', title) for title in titles]
     titles = [re.sub('\[.*\]', '', title) for title in titles]
