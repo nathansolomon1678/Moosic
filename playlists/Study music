@@ -38,6 +38,7 @@
 {'ID': '7GDiHI4QQPPHDg5CvWrLqo', 'Title': 'Chopin - Nocturne Op. 9 No. 2 In E Flat Major', 'Artists': ['PianoDreams'], 'Duration': 234.057}
 {'ID': '6UhcflIf0TT3Rg2JBU5E5W', 'Title': 'Chrysopoeia', 'Artists': ['Lena Raine'], 'Duration': 303.424}
 {'ID': '2eTwaHnlfPHVsnhtlFtUNp', 'Title': 'Clairvoyant', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 128.8}
+{'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 262.623}
 {'ID': '4O2N861eOnF9q8EtpH8IJu', 'Title': "Comptine d'un autre été, l'après-midi", 'Artists': ['Yann Tiersen'], 'Duration': 140.733}
 {'ID': '644es5aYPJghtZLjM1rmSP', 'Title': 'Concerning Hobbits', 'Artists': ['Howard Shore'], 'Duration': 175.04}
 {'ID': '7iKnwGAMdY6LYLILGnsGhT', 'Title': 'Crayon Angels', 'Artists': ['Judee Sill'], 'Duration': 165.48}
@@ -105,10 +106,12 @@
 {'ID': '2RcMeNWqc5AUKCrlzMVYcf', 'Title': 'Little Women', 'Artists': ['Alexandre Desplat'], 'Duration': 192.253}
 {'ID': '7B1QliUMZv7gSTUGAfMRRD', 'Title': 'Live Like You Were Dying', 'Artists': ['Tim McGraw'], 'Duration': 300.333}
 {'ID': '6PUBzTDK8uOb1rOtNZXYeG', 'Title': 'Lost And Found', 'Artists': ['Michael Nyman'], 'Duration': 147.0}
+{'ID': '6YWisEUWb3KLhf0GAYI5Cx', 'Title': 'Love Theme', 'Artists': ['Ennio Morricone'], 'Duration': 166.533}
 {'ID': '39zu6JGd6tvRNsqyK78RLk', 'Title': 'Love Theme From "The Godfather"', 'Artists': ['Nino Rota'], 'Duration': 158.96}
 {'ID': '0uFwdpkVJzpyUxlu9reTWK', 'Title': "Love's Just a Feeling (feat. Rooty)", 'Artists': ['Lindsey Stirling', 'RuthAnne'], 'Duration': 229.12}
 {'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World (Feat. Michael Andrews)', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
 {'ID': '2q6fxAvSpqXR4jx9Ne7RGz', 'Title': 'Main Title - From The "Game Of Thrones" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 106.28}
+{'ID': '2wx5Wpss70wOpYA6MM7goQ', 'Title': 'Mardröm (feat. Smith & Thell)', 'Artists': ['Darin', 'Smith & Thell'], 'Duration': 189.826}
 {'ID': '2y3s9d5xLQ7CZOuaPoIWhj', 'Title': 'Master of Tides', 'Artists': ['Lindsey Stirling'], 'Duration': 261.719}
 {'ID': '7LAJWSKK8JMIZAcblgUMS6', 'Title': 'May It Be', 'Artists': ['Enya'], 'Duration': 257.76}
 {'ID': '4LrlsO9cnnNjxBiHeRedjF', 'Title': 'Memory', 'Artists': ['Toby Fox'], 'Duration': 75.0}
@@ -175,6 +178,7 @@
 {'ID': '1rci74bHqfuT3yv5NW7KOl', 'Title': 'Symphony No. 9 in E Minor, Op. 95 "From the New World": II. Largo', 'Artists': ['Antonín Dvořák', 'New York Philharmonic', 'Alan Gilbert'], 'Duration': 762.546}
 {'ID': '3A01ScF7LJygtHFldMajb0', 'Title': 'Symphony No. 9 in E Minor, Op. 95 "From the New World": III. Scherzo. Molto vivace', 'Artists': ['Antonín Dvořák', 'New York Philharmonic', 'Alan Gilbert'], 'Duration': 470.748}
 {'ID': '4GdHkkbUtc63Jr3JI5Pm19', 'Title': 'Symphony No. 9 in E Minor, Op. 95 "From the New World": IV. Allegro con fuoco', 'Artists': ['Antonín Dvořák', 'New York Philharmonic', 'Alan Gilbert'], 'Duration': 735.256}
+{'ID': '6qjYBkoKcMRjQkVfwDU2Te', 'Title': 'Ta mig tillbaka', 'Artists': ['Darin'], 'Duration': 190.346}
 {'ID': '7hVsNjrvtfXZlzxW5vxsAi', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 1, Decoration of the Christmas Tree', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 227.288}
 {'ID': '06am46cX3Z6YlSsg0TyVHA', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 145.613}
 {'ID': '6yTPBtEggdlBgGEUL94sn1', 'Title': "Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 3, Children's Galop and Entry of the Parents", 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 134.191}
@@ -244,6 +248,7 @@
 {'ID': '2F9xBxKbx2M0pbgtSu8fLf', 'Title': 'Victory', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 320.467}
 {'ID': '0hLbjFiF7zmGuZJrpLOJ7F', 'Title': 'Vivaldi: Winter From The Four Seasons 1. Allegro Non Molto', 'Artists': ['Silverwood Quartet'], 'Duration': 216.36}
 {'ID': '5sDUUmJHkWEY95PBipnQNV', 'Title': 'Waikahuli', 'Artists': ['Kuana Torres Kahele'], 'Duration': 251.639}
+{'ID': '6HTVZeVQ9J6Uiq6tHESxU9', 'Title': 'Welcome Home, Son', 'Artists': ['Radical Face'], 'Duration': 287.634}
 {'ID': '7MW1YzseA4CGfrZMBLqQWK', 'Title': 'Welcome To Jurassic Park', 'Artists': ['John Williams'], 'Duration': 474.933}
 {'ID': '1tinoQpYXzpZDrb0BjK1e7', 'Title': 'Wet Hands', 'Artists': ['C418'], 'Duration': 90.0}
 {'ID': '5ozPMxbdBvXJHc0yzW8ZSW', 'Title': 'What Can I Say (feat. Sons of Sylvia)', 'Artists': ['Carrie Underwood', 'Sons Of Sylvia'], 'Duration': 237.626}
