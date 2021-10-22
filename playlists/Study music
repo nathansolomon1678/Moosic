@@ -26,6 +26,7 @@
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
 {'ID': '0E97LEEOz5rk6wAJr6rNI3', 'Title': "Bartram's Garden", 'Artists': ['Zachary Patel'], 'Duration': 143.0}
 {'ID': '3Kj2EWpIBnvETsYq4cq0IH', 'Title': 'Big Black Car', 'Artists': ['Gregory Alan Isakov'], 'Duration': 217.466}
+{'ID': '1No2I2TNhCXDNovL5O7ang', 'Title': 'Black Blade', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 185.828}
 {'ID': '2jn89xTHIVsy167uOmAewt', 'Title': 'Blackheart', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 266.365}
 {'ID': '5gHwf3DYciXuoFWstFswKj', 'Title': 'Breathe', 'Artists': ['Jonny Diaz'], 'Duration': 213.08}
 {'ID': '3hN8RetXNOyDVhxGdkFlqA', 'Title': 'Breathe', 'Artists': ['Jonny Diaz'], 'Duration': 213.08}
@@ -201,7 +202,7 @@
 {'ID': '0HbpdVxJlwPDRqsY3TmkTQ', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella"', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 39.12}
 {'ID': '1oDAFTOXZGSQedBa6hXGhT', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14c, Pas de deux. Variation II "Dance of the Sugar Plum Fairy"', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 145.146}
 {'ID': '3aBr1vgaFH9QlMIXQBx9f5', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14d, Pas de deux. Coda', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 84.853}
-{'ID': '52JiOOIQ4xwLHEWdEV1aUF', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz & Apotheosis', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 291.76}
+{'ID': '52JiOOIQ4xwLHEWdEV1aUF', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 15, Final Waltz and Apotheosis', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 291.76}
 {'ID': '11WQasJcGWgh3mvR1UiBcm', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 189.085}
 {'ID': '2QTDuJIGKUjR7E2Q6KupIh', 'Title': 'Test Drive - From How To Train Your Dragon Music From The Motion Picture', 'Artists': ['John Powell'], 'Duration': 156.306}
 {'ID': '1ovu8lOVW8uD5FjWICAxpy', 'Title': 'The Air That I Breathe', 'Artists': ['The Hollies'], 'Duration': 244.18}
