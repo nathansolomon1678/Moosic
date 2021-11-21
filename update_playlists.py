@@ -15,6 +15,7 @@ feeder_playlists = {
         '66IDHTnc0e2RkqsMSyFHu3',
         '1LlrlIzlZVzNEqz1FOeuZh',
         '698HwDsgYiBNKFZbL65j4w',
+        '4PUiJEVFZoBpouVuKcJ5GR',
     ],
 }
 
@@ -33,6 +34,7 @@ playlists_to_version_control = {
     '3kZEyyQVquZesT40A6v8aB',
     '5lT8LaIV1V6crhwqilYKKr',
     '6J2SpAqypYRarlDgnmeMRT',
+    '4PUiJEVFZoBpouVuKcJ5GR',
 }
 
 os.system('rm -rf playlists')
