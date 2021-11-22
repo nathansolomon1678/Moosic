@@ -53,6 +53,7 @@
 {'ID': '6XPWyMTu3TZLqVBiKTXrUV', 'Title': 'Do with It as You Will', 'Artists': ['Damjan Mravunac'], 'Duration': 129.451}
 {'ID': '1gNcPHAiVIQZmqJFJdt3ti', 'Title': 'Dry Hands', 'Artists': ['C418'], 'Duration': 68.5}
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
+{'ID': '5pjwFYtPfSnqRuvPsFwGNr', 'Title': 'En säng av rosor', 'Artists': ['Darin'], 'Duration': 222.138}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
 {'ID': '1TQKEwq4y9SkNciJuisE1m', 'Title': 'Evenstar', 'Artists': ['Howard Shore', 'Isabel Bayrakdarian'], 'Duration': 195.6}
 {'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat', 'Jean-Yves Thibaudet'], 'Duration': 117.673}
@@ -155,6 +156,7 @@
 {'ID': '7fLOFRCRe1c4kyoLJkNW1w', 'Title': 'Roundtable Rival', 'Artists': ['Lindsey Stirling'], 'Duration': 203.279}
 {'ID': '1ylQ1wAkNZ3DC55WcpK95k', 'Title': 'Sanctuary', 'Artists': ['Damjan Mravunac'], 'Duration': 114.0}
 {'ID': '3tJjZMHLqhD8DaGgdBICnc', 'Title': 'Saturn', 'Artists': ['Sleeping At Last'], 'Duration': 289.792}
+{'ID': '1Wer5Qms3Uj4LInRrqa4yL', 'Title': 'Scarborough Fair', 'Artists': ['Dan Avidan', 'Super Guitar Bros'], 'Duration': 201.52}
 {'ID': '0hyNfSzLjbpwoBdL128vJO', 'Title': 'Send Me a Peach', 'Artists': ['The Blasting Company'], 'Duration': 122.626}
 {'ID': '77Ly4ZjsYvmWUPRtxZIIPK', 'Title': 'Sepia Effect', 'Artists': ['Hiromi'], 'Duration': 401.186}
 {'ID': '4N7Xei2GGiwaTE37PIbdKV', 'Title': 'Shadow Of The Moon', 'Artists': ["Blackmore's Night"], 'Duration': 306.826}
@@ -246,6 +248,7 @@
 {'ID': '3Iz85voHSbSVJnpO6W5WXe', 'Title': 'Tonight My Sleep Will Be Restless', 'Artists': ['Alasdair Fraser', 'Paul Machlis'], 'Duration': 174.373}
 {'ID': '4g2WiijzSKzH8PApKDbadN', 'Title': 'Touch', 'Artists': ['Sleeping At Last'], 'Duration': 256.299}
 {'ID': '4Hzss8q0jDWa2PjXDGqYZL', 'Title': 'Traust', 'Artists': ['Heilung'], 'Duration': 588.516}
+{'ID': '0CqPcWjAzqyLh9vSdbl5pj', 'Title': "Traveler's Song", 'Artists': ['Aviators'], 'Duration': 320.386}
 {'ID': '2BiIv3bXtrWuPKswndveIm', 'Title': 'Trials', 'Artists': ['Damjan Mravunac'], 'Duration': 228.0}
 {'ID': '2kfGoV9a5dbSKCNmUWH2ZF', 'Title': 'Turning Page', 'Artists': ['Sleeping At Last'], 'Duration': 255.893}
 {'ID': '2FZ99j224ohiGLavqjijza', 'Title': 'Undertale', 'Artists': ['Toby Fox'], 'Duration': 381.535}
