@@ -30,6 +30,7 @@
 {'ID': '3i3P1mGpV9eRlfKccjDjwi', 'Title': 'Ding Dong Song - Radio Edit', 'Artists': ['Günther'], 'Duration': 245.159}
 {'ID': '4hObp5bmIJ3PP3cKA9K9GY', 'Title': "Don't Worry Be Happy", 'Artists': ['Bobby McFerrin'], 'Duration': 294.4}
 {'ID': '5Su5ILFp6U83cnIXwfmlC5', 'Title': 'Drunken Sailor', 'Artists': ['The Irish Rovers'], 'Duration': 176.853}
+{'ID': '4vHb50VkxDzHYwLiHfWczK', 'Title': 'Ebay (Parody of "I Want It That Way" by the Backstreet Boys)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 216.786}
 {'ID': '7dUCFnaGSWLH6SdDP08NLP', 'Title': 'Enormous Penis', 'Artists': ["Da Vinci's Notebook"], 'Duration': 164.933}
 {'ID': '24tvj1KEUFJE37AHDf4YIS', 'Title': 'Everything You Ever', 'Artists': ['Neil Patrick Harris'], 'Duration': 215.693}
 {'ID': '70zMHoDB8RIy3jc0DZprNC', 'Title': 'Fell in a Well', 'Artists': ['Songwriter X and the Skeleton Band'], 'Duration': 237.053}
@@ -46,6 +47,7 @@
 {'ID': '1bhjMY5O0ZjB41OHcdRH0a', 'Title': 'High School Never Ends - Main Version - Explicit', 'Artists': ['Bowling For Soup'], 'Duration': 209.04}
 {'ID': '6a2MMhyy5LqoDfap5OFz6K', 'Title': "I'm British", 'Artists': ['Professor Elemental'], 'Duration': 178.496}
 {'ID': '7bG6SQBGZthPDG5QJL5Gf7', 'Title': 'In Summer - From "Frozen"/Soundtrack Version', 'Artists': ['Josh Gad'], 'Duration': 110.986}
+{'ID': '6UtYhM8FwONx3G4C413WIp', 'Title': 'Inactive', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.28}
 {'ID': '0Z26JRY2Bdc8EJiulIZaXD', 'Title': 'Inside Out - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 149.969}
 {'ID': '7GyGUC8QFMS9NoHJsgNqh1', 'Title': 'Jeopardy (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 31.947}
 {'ID': '1Knctxx9vGZxpZfF66BIEa', 'Title': 'Legends', 'Artists': ['Juice WRLD'], 'Duration': 191.84}
@@ -61,10 +63,13 @@
 {'ID': '4L5ZKP3IOheLAKfNwvT9vN', 'Title': 'Mr. Roboto', 'Artists': ['Rapture Ruckus'], 'Duration': 202.2}
 {'ID': '4w7q3bB6g6uuZyA4W9VajR', 'Title': 'Mundian To Bach Ke', 'Artists': ['Labh Janjua'], 'Duration': 247.36}
 {'ID': '7Ak1OOi3ecT36gDR1gAuMt', 'Title': 'My Eyes', 'Artists': ['Neil Patrick Harris', 'Felicia Day'], 'Duration': 167.874}
+{'ID': '19JdbdEwQI7bCxefMokZO8', 'Title': 'My Humps', 'Artists': ['Black Eyed Peas'], 'Duration': 326.96}
 {'ID': '7GhIk7Il098yCjg4BQjzvb', 'Title': 'Never Gonna Give You Up', 'Artists': ['Rick Astley'], 'Duration': 212.826}
 {'ID': '0tdFKYAgTqsWqs2JshlcYV', 'Title': 'Noble Gas', 'Artists': ['Steve Aoki', 'Bill Nye'], 'Duration': 219.212}
 {'ID': '5VOoT3AIIStTSN8cSMrSD4', 'Title': 'Nyan Cat Theme', 'Artists': ['Nyan Cat'], 'Duration': 226.0}
 {'ID': '53CJANUxooaqGOtdsBTh7O', 'Title': 'Old Town Road', 'Artists': ['Lil Nas X'], 'Duration': 113.013}
+{'ID': '5eZaT21ZVGyGHJ8kcwaNxA', 'Title': 'Party In the CIA (Parody of "Party In The U.S.A." by Miley Cyrus)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.8}
+{'ID': '0IkKz2J93C94Ei4BvDop7P', 'Title': 'Party Rock Anthem', 'Artists': ['LMFAO', 'Lauren Bennett', 'GoonRock'], 'Duration': 262.173}
 {'ID': '27GQ8DtFhNyaoh7wrxtDBz', 'Title': 'Picket Line Song', 'Artists': ["The Langer's Ball"], 'Duration': 184.373}
 {'ID': '7raciFPVU5VuHmqVbw2c1h', 'Title': 'Puff, the Magic Dragon - 2004 Remaster', 'Artists': ['Peter, Paul and Mary'], 'Duration': 208.56}
 {'ID': '0cMaMqufVDYahIgLUUfbe5', 'Title': 'Rais Lebled', 'Artists': ['El General'], 'Duration': 226.115}
@@ -77,6 +82,7 @@
 {'ID': '471sXvN5C5vfMSBdKrGpo7', 'Title': 'Seagulls! (Stop It Now)', 'Artists': ['Bad Lip Reading'], 'Duration': 192.484}
 {'ID': '46KWBbrxn0u2PHhho30GM8', 'Title': 'Sex Offender Shuffle', 'Artists': ['Lil Saad'], 'Duration': 207.716}
 {'ID': '0obBFrPYkSoBJbvHfUIhkv', 'Title': 'Sexy And I Know It', 'Artists': ['LMFAO'], 'Duration': 199.48}
+{'ID': '7in46wlBseKBTcLi6lyhF9', 'Title': 'Sexy And I Know It', 'Artists': ['LMFAO'], 'Duration': 199.493}
 {'ID': '3VMzQ4rh7FtfSuyjHIcuZR', 'Title': 'Shia LaBeouf Live', 'Artists': ['Rob Cantor'], 'Duration': 155.0}
 {'ID': '2Jy6R0Boq7nOcmzaZ1Smlk', 'Title': 'Simp (Simp Nation Theme Song)', 'Artists': ['Rose Mulet'], 'Duration': 78.556}
 {'ID': '7l3kYZIfTIpgthYcekjv4k', 'Title': 'Skullcrusher Mountain', 'Artists': ['Jonathan Coulton'], 'Duration': 259.92}
