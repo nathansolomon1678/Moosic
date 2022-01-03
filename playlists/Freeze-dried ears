@@ -12,6 +12,7 @@
 {'ID': '5aDoUmxBsbdpS16alksb5Z', 'Title': 'Do You Hear What I Hear? - Remastered 2006', 'Artists': ['Bing Crosby'], 'Duration': 165.666}
 {'ID': '0VnM98fVPYamafDoW7yza7', 'Title': "Don't Shoot Me Santa", 'Artists': ['The Killers', 'Ryan Pardey'], 'Duration': 245.106}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
+{'ID': '6opPrJUpq4Pl5c84eCwLmo', 'Title': "Gabriel's Oboe", 'Artists': ['Ennio Morricone'], 'Duration': 134.133}
 {'ID': '49iHYFjT5yO6WEw6KerX9o', 'Title': 'Grandma Got Run over by a Reindeer', 'Artists': ['Elmo & Patsy'], 'Duration': 206.36}
 {'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': 'Greensleaves', 'Artists': ['Lindy Carr'], 'Duration': 100.05}
 {'ID': '7qAllFRZgL3EbEqQk52Zvg', 'Title': 'Greensleeves (Instrumental Version)', 'Artists': ["The O'Neill Brothers Group"], 'Duration': 227.266}
@@ -21,6 +22,7 @@
 {'ID': '2BLwLAc1swTc4TC7K3J506', 'Title': 'Hark! The Herald Angels Sing - Remastered', 'Artists': ['Frank Sinatra'], 'Duration': 141.04}
 {'ID': '4VgEM12OeaN3GyBV487Me7', 'Title': 'Holiday', 'Artists': ['Green Day'], 'Duration': 232.68}
 {'ID': '4k6ktr10Hczmh55NY3LfJy', 'Title': 'Holiday', 'Artists': ['Madonna'], 'Duration': 368.28}
+{'ID': '5PuKlCjfEVIXl0ZBp5ZW9g', 'Title': 'Holly Jolly Christmas', 'Artists': ['Michael Bublé'], 'Duration': 119.786}
 {'ID': '44mYhOVgerj2qPjkGDVA6n', 'Title': "It's Beginning To Look Like Christmas", 'Artists': ['Bing Crosby'], 'Duration': 166.0}
 {'ID': '0lLdorYw7lVrJydTINhWdI', 'Title': "It's Beginning to Look a Lot like Christmas", 'Artists': ['Michael Bublé'], 'Duration': 206.639}
 {'ID': '1IcR6RlgvDczfvoWJSSY2A', 'Title': "It's the Most Wonderful Time of the Year", 'Artists': ['Andy Williams'], 'Duration': 151.0}
