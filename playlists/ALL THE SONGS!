@@ -286,7 +286,7 @@
 {'ID': '67HKtdqchK0rmODxsBeWT8', 'Title': 'Can You Feel The Love Tonight', 'Artists': ['Elton John'], 'Duration': 240.0}
 {'ID': '22VdIZQfgXJea34mQxlt81', 'Title': "Can't Feel My Face", 'Artists': ['The Weeknd'], 'Duration': 213.52}
 {'ID': '44AyOl4qVkzS48vBsbNXaC', 'Title': "Can't Help Falling in Love", 'Artists': ['Elvis Presley'], 'Duration': 182.36}
-{'ID': '3bidbhpOYeV4knp8AIu8Xn', 'Title': "Can't Hold Us - feat. Ray Dalton", 'Artists': ['Macklemore & Ryan Lewis'], 'Duration': 258.342}
+{'ID': '3bidbhpOYeV4knp8AIu8Xn', 'Title': "Can't Hold Us (feat. Ray Dalton)", 'Artists': ['Macklemore & Ryan Lewis', 'Macklemore', 'Ryan Lewis', 'Ray Dalton'], 'Duration': 258.342}
 {'ID': '5NetSTs4dgiR6GLrZOQcwJ', 'Title': "Can't Stop Dancin'", 'Artists': ['Becky G'], 'Duration': 198.852}
 {'ID': '6ft9PAgNOjmZ2kFVP7LGqb', 'Title': "Can't Take My Eyes off You", 'Artists': ['Frankie Valli'], 'Duration': 203.24}
 {'ID': '3Y4m9Td603gbfMB86UNafs', 'Title': "Can't Take My Eyes off You", 'Artists': ['Muse'], 'Duration': 211.12}
@@ -1520,6 +1520,7 @@
 {'ID': '6tMNYGXJ1L6wjbSkAXWyHh', 'Title': 'Ride My See-Saw', 'Artists': ['The Moody Blues'], 'Duration': 219.226}
 {'ID': '4LFwNJWoj74Yd71fIr1W8x', 'Title': 'Right Here Waiting', 'Artists': ['Richard Marx'], 'Duration': 264.333}
 {'ID': '1sYx5lpCHEEKRI0pPeilQH', 'Title': 'Ring Of Fire - 1988 Version', 'Artists': ['Johnny Cash'], 'Duration': 162.92}
+{'ID': '6YffUZJ2R06kyxyK6onezL', 'Title': 'Ring of Fire', 'Artists': ['Johnny Cash'], 'Duration': 158.426}
 {'ID': '3JvrhDOgAt6p7K8mDyZwRd', 'Title': 'Riptide', 'Artists': ['Vance Joy'], 'Duration': 204.28}
 {'ID': '3SgshUlk02dwRHeLm0ztOi', 'Title': 'Rising Force', 'Artists': ['Yngwie Malmsteen'], 'Duration': 264.066}
 {'ID': '0I6YGcEXfnQ995SdLURshn', 'Title': 'Risk It All', 'Artists': ['Mono Inc.'], 'Duration': 337.276}
@@ -1909,6 +1910,7 @@
 {'ID': '54sEj5GIx2EW78nRDyC58R', 'Title': 'The Fighter', 'Artists': ['In This Moment'], 'Duration': 292.506}
 {'ID': '3MrRksHupTVEQ7YbA0FsZK', 'Title': 'The Final Countdown', 'Artists': ['Europe'], 'Duration': 310.333}
 {'ID': '3tmqiMrtYVwivYUoB51QHy', 'Title': 'The Fire in Her Eyes', 'Artists': ['Two Steps from Hell', 'Michal Cielecki'], 'Duration': 332.886}
+{'ID': '2OBHhMpKC3TwMK8ZOwJQGA', 'Title': 'The Gap', 'Artists': ['Thompson Twins'], 'Duration': 286.4}
 {'ID': '2IJJszwGK4NWmh3bNK6CPD', 'Title': 'The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)', 'Artists': ['Ennio Morricone'], 'Duration': 162.386}
 {'ID': '0FFdCFGfmtqVaHTBYXybkx', 'Title': 'The Grand Illusion', 'Artists': ['Styx'], 'Duration': 277.133}
 {'ID': '3TlHXurwKSffEj6vsEEyLb', 'Title': 'The Great Commandment', 'Artists': ['Camouflage'], 'Duration': 260.153}
@@ -2006,6 +2008,7 @@
 {'ID': '0WQiDwKJclirSYG9v5tayI', 'Title': 'There Is a Light That Never Goes Out - 2011 Remaster', 'Artists': ['The Smiths'], 'Duration': 244.586}
 {'ID': '7JJmb5XwzOO8jgpou264Ml', 'Title': "There's Nothing Holdin' Me Back", 'Artists': ['Shawn Mendes'], 'Duration': 199.44}
 {'ID': '1Slwb6dOYkBlWal1PGtnNg', 'Title': 'Thinking out Loud', 'Artists': ['Ed Sheeran'], 'Duration': 281.56}
+{'ID': '2JOAxHYCYFiFF5YmOxQ5O9', 'Title': 'This Corrosion - 2018 Remaster', 'Artists': ['Sisters of Mercy'], 'Duration': 617.489}
 {'ID': '7xex78pjGHt9FnXgIWHe24', 'Title': 'This December', 'Artists': ['Ricky Montgomery'], 'Duration': 181.92}
 {'ID': '15kQGEy89K8deJcZVFEn0N', 'Title': 'This Feeling (feat. Kelsea Ballerini)', 'Artists': ['The Chainsmokers', 'Kelsea Ballerini'], 'Duration': 199.226}
 {'ID': '0ylPYJtAJmAMr9jdPQ3cF7', 'Title': 'This Is The Last Time', 'Artists': ['Keane'], 'Duration': 207.986}
@@ -2208,6 +2211,7 @@
 {'ID': '5ozPMxbdBvXJHc0yzW8ZSW', 'Title': 'What Can I Say (feat. Sons of Sylvia)', 'Artists': ['Carrie Underwood', 'Sons Of Sylvia'], 'Duration': 237.626}
 {'ID': '2BfTod61ST4H3K9jxPg9mp', 'Title': 'What Child Is This', 'Artists': ['Lindsey Stirling'], 'Duration': 199.253}
 {'ID': '66wcihY2Y8ZSqux6EivMWa', 'Title': 'What Have You Done (feat. Keith Caputo)', 'Artists': ['Within Temptation', 'Keith Caputo'], 'Duration': 313.32}
+{'ID': '4bVuIlGQBMWS7vIhcx8Ae4', 'Title': 'What Hurts The Most', 'Artists': ['Rascal Flatts'], 'Duration': 214.106}
 {'ID': '3OW3uDpM7mgLe3xU6EYX5q', 'Title': 'What Hurts the Most - Radio Mix U.S.', 'Artists': ['Cascada'], 'Duration': 219.706}
 {'ID': '6NdcSEhpGGAYXNnnhGS2s6', 'Title': 'What I Like About You', 'Artists': ['The Romantics'], 'Duration': 175.4}
 {'ID': '18lR4BzEs7e3qzc0KVkTpU', 'Title': "What I've Done", 'Artists': ['Linkin Park'], 'Duration': 205.613}
@@ -2326,6 +2330,7 @@
 {'ID': '6U4VqEHy4n5VeiH4pQPL24', 'Title': "You're Welcome", 'Artists': ['Dwayne Johnson'], 'Duration': 163.893}
 {'ID': '2DnJjbjNTV9Nd5NOa1KGba', 'Title': "You're so Vain", 'Artists': ['Carly Simon'], 'Duration': 258.411}
 {'ID': '36lkJSDyMEZoWTqtRj8Q8q', 'Title': "You're the Inspiration - 2006 Remaster", 'Artists': ['Chicago'], 'Duration': 229.24}
+{'ID': '1qhp5owrFGeZ5Jgin28nwR', 'Title': "You've Got a Friend", 'Artists': ['Carole King'], 'Duration': 308.973}
 {'ID': '25nzKGDiua1lE9Qo5V19GL', 'Title': 'Young Blood', 'Artists': ['The Naked And Famous'], 'Duration': 246.6}
 {'ID': '6M6UoxIPn4NOWW0x7JPRfv', 'Title': 'Young Folks', 'Artists': ['Peter Bjorn and John'], 'Duration': 279.026}
 {'ID': '5HQVUIKwCEXpe7JIHyY734', 'Title': 'Young, Wild & Free (feat. Bruno Mars)', 'Artists': ['Snoop Dogg', 'Wiz Khalifa', 'Bruno Mars'], 'Duration': 207.333}
