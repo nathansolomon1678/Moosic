@@ -30,10 +30,12 @@
 {'ID': '3i3P1mGpV9eRlfKccjDjwi', 'Title': 'Ding Dong Song - Radio Edit', 'Artists': ['Günther'], 'Duration': 245.159}
 {'ID': '4hObp5bmIJ3PP3cKA9K9GY', 'Title': "Don't Worry Be Happy", 'Artists': ['Bobby McFerrin'], 'Duration': 294.4}
 {'ID': '5Su5ILFp6U83cnIXwfmlC5', 'Title': 'Drunken Sailor', 'Artists': ['The Irish Rovers'], 'Duration': 176.853}
+{'ID': '180MVaidIYWpB1MSYEv5BI', 'Title': 'Dumb Ways to Die', 'Artists': ['Tangerine Kitty'], 'Duration': 180.022}
 {'ID': '4vHb50VkxDzHYwLiHfWczK', 'Title': 'Ebay (Parody of "I Want It That Way" by the Backstreet Boys)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 216.786}
 {'ID': '7dUCFnaGSWLH6SdDP08NLP', 'Title': 'Enormous Penis', 'Artists': ["Da Vinci's Notebook"], 'Duration': 164.933}
 {'ID': '24tvj1KEUFJE37AHDf4YIS', 'Title': 'Everything You Ever', 'Artists': ['Neil Patrick Harris'], 'Duration': 215.693}
 {'ID': '70zMHoDB8RIy3jc0DZprNC', 'Title': 'Fell in a Well', 'Artists': ['Songwriter X and the Skeleton Band'], 'Duration': 237.053}
+{'ID': '0WJTdVboKc2KI1DzzAWyYM', 'Title': 'Foil', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 142.946}
 {'ID': '6ghnKwHcGX1RLPWjJYKbGd', 'Title': "From God's Perspective", 'Artists': ['Bo Burnham'], 'Duration': 261.221}
 {'ID': '7dHtqKT0mjWEPcASrJpcaW', 'Title': 'Furries', 'Artists': ['Eli Yasui'], 'Duration': 150.26}
 {'ID': '1yHXUDFaAtxty9N3eklIHY', 'Title': 'Galactic mermaid', 'Artists': ['マーメイド・シスターズ(Vo.クリヤマユウリ)'], 'Duration': 123.533}
@@ -42,6 +44,7 @@
 {'ID': '781V2Y5LPtcpgONEOadadE', 'Title': 'Get Got', 'Artists': ['Death Grips'], 'Duration': 171.866}
 {'ID': '447Wu7CUWR9iHi89ZSqubX', 'Title': 'Ghen Cô Vy (WASHING HAND SONG)', 'Artists': ['MIN x ERIK', 'Khắc Hưng'], 'Duration': 189.663}
 {'ID': '0KqyBk4aVT88TEqBIC8mAP', 'Title': 'Girl All the Bad Guys Want', 'Artists': ['Bowling For Soup'], 'Duration': 197.8}
+{'ID': '6cjSh516BbrNUs213jDAGm', 'Title': 'Graduation (with Juice WRLD)', 'Artists': ['benny blanco', 'Juice WRLD'], 'Duration': 177.847}
 {'ID': '3IrcvqIf3ZiBhf3xdsctRX', 'Title': 'Guillotine', 'Artists': ['Death Grips'], 'Duration': 223.364}
 {'ID': '0trTpNYmHAK3EihaZBd2h6', 'Title': 'Heyyeyaaeyaaaeyaeyaa (Fabulous Secret Powers)', 'Artists': ['SLACKCiRCUS'], 'Duration': 134.833}
 {'ID': '1bhjMY5O0ZjB41OHcdRH0a', 'Title': 'High School Never Ends - Main Version - Explicit', 'Artists': ['Bowling For Soup'], 'Duration': 209.04}
@@ -84,8 +87,10 @@
 {'ID': '46KWBbrxn0u2PHhho30GM8', 'Title': 'Sex Offender Shuffle', 'Artists': ['Lil Saad'], 'Duration': 207.716}
 {'ID': '0obBFrPYkSoBJbvHfUIhkv', 'Title': 'Sexy And I Know It', 'Artists': ['LMFAO'], 'Duration': 199.48}
 {'ID': '7in46wlBseKBTcLi6lyhF9', 'Title': 'Sexy And I Know It', 'Artists': ['LMFAO'], 'Duration': 199.493}
+{'ID': '70Vdd1gx5tn84jkAU31ASv', 'Title': 'Sexy And I Know It', 'Artists': ['LMFAO'], 'Duration': 199.48}
 {'ID': '3VMzQ4rh7FtfSuyjHIcuZR', 'Title': 'Shia LaBeouf Live', 'Artists': ['Rob Cantor'], 'Duration': 155.0}
 {'ID': '1V4jC0vJ5525lEF1bFgPX2', 'Title': 'Shots', 'Artists': ['LMFAO', 'Lil Jon'], 'Duration': 222.133}
+{'ID': '5nIrdpo8eXQU3YgZelEXkd', 'Title': 'Shots & Squats', 'Artists': ['Vigiland', 'Tham Sway'], 'Duration': 171.799}
 {'ID': '2Jy6R0Boq7nOcmzaZ1Smlk', 'Title': 'Simp (Simp Nation Theme Song)', 'Artists': ['Rose Mulet'], 'Duration': 78.556}
 {'ID': '7l3kYZIfTIpgthYcekjv4k', 'Title': 'Skullcrusher Mountain', 'Artists': ['Jonathan Coulton'], 'Duration': 259.92}
 {'ID': '27L8sESb3KR79asDUBu8nW', 'Title': "Stacy's Mom", 'Artists': ['Fountains Of Wayne'], 'Duration': 197.986}

@@ -19,6 +19,7 @@
 {'ID': '3duPyCbZPCYeIHqMSZIivl', 'Title': 'Amber Moon', 'Artists': ['Naoya Wada', 'Rutgers Wind Ensemble', 'Rutgers Symphonic Band', 'William Berz'], 'Duration': 268.04}
 {'ID': '7mfvOqsvzZaUl7sfbcNk4E', 'Title': 'Ameno', 'Artists': ['ERA'], 'Duration': 235.226}
 {'ID': '4sLtmtKMmA5iCIa90tWhSe', 'Title': "Anakin's Betrayal", 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 245.32}
+{'ID': '3rGdSp0BSE79HvC2boaKcK', 'Title': 'Answer', 'Artists': ['Sarah McLachlan'], 'Duration': 239.0}
 {'ID': '6JdXDzx9eWzJZDuZoxhW7a', 'Title': 'Ar Hyd Y Nos', 'Artists': ['2002'], 'Duration': 235.026}
 {'ID': '0rbDsnOgxbUWjXCe6S7xUA', 'Title': 'Asimov', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 134.266}
 {'ID': '1XmdB9Kha5e5H4PfTSmewn', 'Title': 'Atlas: Touch', 'Artists': ['Sleeping At Last'], 'Duration': 253.892}
@@ -54,12 +55,14 @@
 {'ID': '6XPWyMTu3TZLqVBiKTXrUV', 'Title': 'Do with It as You Will', 'Artists': ['Damjan Mravunac'], 'Duration': 129.451}
 {'ID': '1gNcPHAiVIQZmqJFJdt3ti', 'Title': 'Dry Hands', 'Artists': ['C418'], 'Duration': 68.5}
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
+{'ID': '3AnYGQ8PB3lYrA6ToVUXa3', 'Title': 'Empire of Angels', 'Artists': ['Thomas Bergersen'], 'Duration': 314.537}
 {'ID': '5pjwFYtPfSnqRuvPsFwGNr', 'Title': 'En säng av rosor', 'Artists': ['Darin'], 'Duration': 222.138}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
 {'ID': '1TQKEwq4y9SkNciJuisE1m', 'Title': 'Evenstar', 'Artists': ['Howard Shore', 'Isabel Bayrakdarian'], 'Duration': 195.6}
 {'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat', 'Jean-Yves Thibaudet'], 'Duration': 117.673}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '7oYTWS0BEJcddgKZBkiSJq', 'Title': 'Far Over the Misty Mountains Cold', 'Artists': ['Clamavi De Profundis'], 'Duration': 463.439}
+{'ID': '4op64Clk2SjQO2Yf7xII7Y', 'Title': "Final Ascent - Single Edit / From ''No Time To Die'' Soundtrack", 'Artists': ['Hans Zimmer'], 'Duration': 128.106}
 {'ID': '6gDt7eZjJNIkzLj9jVEBZo', 'Title': 'First Sunrise', 'Artists': ['Haru Kitamura'], 'Duration': 212.0}
 {'ID': '2k2Pwkt3Fqowcve91PiH4g', 'Title': 'Flight Of The Silverbird', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 201.793}
 {'ID': '5hPyDdVB7pCBdnsZwY3ZrB', 'Title': 'For the Dancing and the Dreaming', 'Artists': ['Erutan'], 'Duration': 173.901}
@@ -75,6 +78,7 @@
 {'ID': '5n44Y1e8exufbm9mmAvopf', 'Title': 'Goodbye Brother - From The "Game Of Thrones" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 187.28}
 {'ID': '5AgSJiuBLkWggPsRKwykwa', 'Title': 'Green Hill Zone', 'Artists': ['Jon Batiste'], 'Duration': 174.173}
 {'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': 'Greensleaves', 'Artists': ['Lindy Carr'], 'Duration': 100.05}
+{'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
 {'ID': '1ekYzXIWgelL4Ai3pXMOfe', 'Title': 'Hallelujah', 'Artists': ['Lindsey Stirling'], 'Duration': 198.093}
 {'ID': '4xbrgqQF8bzy22K8JhtFM9', 'Title': 'Halo', 'Artists': ["Martin O'Donnell", 'Michael Salvatori'], 'Duration': 262.16}
 {'ID': '3x6aFQvsFyKF2wSCSlrzeG', 'Title': 'Halo Main Theme (From "Halo: Combat Evolved")', 'Artists': ['Laura Platt'], 'Duration': 216.35}
@@ -90,6 +94,7 @@
 {'ID': '2dgxZM98rGyN2cI357Npeq', 'Title': 'Hot Air Balloon', 'Artists': ['Owl City'], 'Duration': 213.106}
 {'ID': '4xxz2SWsCCvYokNTLri78c', 'Title': "Howl's Moving Castle Theme (From 'Howl's Moving Castle')", 'Artists': ['Anime Kei'], 'Duration': 306.843}
 {'ID': '77vAuUDLRCp4pa5FBfx9F6', 'Title': 'Hymn to the Sea', 'Artists': ['James Horner'], 'Duration': 385.733}
+{'ID': '392eDzNu5fbaKAhf0S8Tw4', 'Title': 'I Am the One', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 118.533}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
 {'ID': '52erNkfUKv34u02CjcHOPj', 'Title': "If I Didn't Have You", 'Artists': ['Randy Travis'], 'Duration': 186.746}
@@ -133,6 +138,7 @@
 {'ID': '33LC84JgLvK2KuW43MfaNq', 'Title': 'My Heart Will Go On - Love Theme from "Titanic"', 'Artists': ['Céline Dion'], 'Duration': 280.0}
 {'ID': '4dJvi7zRoXFW9FuyzOLlOQ', 'Title': 'My Lie', 'Artists': ['Zolik'], 'Duration': 176.039}
 {'ID': '17K665BsGXSSFzpT0LgcUj', 'Title': 'Na Vaqueros', 'Artists': ['Kuana Torres Kahele'], 'Duration': 196.692}
+{'ID': '1Ms77wvO9QAgwOI0wNILHh', 'Title': 'Nemesis - Single Edit', 'Artists': ['Mono Inc.'], 'Duration': 238.666}
 {'ID': '1VNvsvEsUpuUCbHpVop1vo', 'Title': 'Nocturne No. 2 in E-Flat Major, Op. 9 No. 2', 'Artists': ['Frédéric Chopin', 'Daniel Barenboim'], 'Duration': 273.666}
 {'ID': '3U901vTsG4a3JcLF3aVDQr', 'Title': 'Nocturne in C minor, Op. 48, No. 1', 'Artists': ['Frédéric Chopin', 'Janusz Olejniczak'], 'Duration': 349.693}
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
