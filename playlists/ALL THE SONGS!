@@ -419,6 +419,7 @@
 {'ID': '4d2hD63oUGU3s7L66JD0BE', 'Title': 'Dance Again', 'Artists': ['Jennifer Lopez', 'Pitbull'], 'Duration': 237.266}
 {'ID': '6Qh10T7u43YciJsJa99R3v', 'Title': 'Dance In The Dark', 'Artists': ['Lady Gaga'], 'Duration': 288.96}
 {'ID': '2XU0oxnq2qxCpomAAuJY8K', 'Title': 'Dance Monkey', 'Artists': ['Tones And I'], 'Duration': 209.438}
+{'ID': '0nRMMp8EqbfAY4xbomYk81', 'Title': 'Dance of the Young (Qing Chun Wu Qu)', 'Artists': ['Xie Xiaodong'], 'Duration': 173.973}
 {'ID': '7FwBtcecmlpc1sLySPXeGE', 'Title': 'Dancing In the Dark', 'Artists': ['Bruce Springsteen'], 'Duration': 241.306}
 {'ID': '2BOqDYLOJBiMOXShCV1neZ', 'Title': 'Dancing On My Own', 'Artists': ['Calum Scott'], 'Duration': 260.285}
 {'ID': '4NtUY5IGzHCaqfZemmAu56', 'Title': 'Dancing Queen', 'Artists': ['ABBA'], 'Duration': 230.693}
@@ -740,7 +741,7 @@
 {'ID': '7jZ5A8bf63qYaUXfuGoxVk', 'Title': 'Guiding Light', 'Artists': ['Muse'], 'Duration': 253.453}
 {'ID': '4WB7xpuqMYekEq8ll8L1to', 'Title': 'Gypsys, Tramps & Thieves', 'Artists': ['Cher'], 'Duration': 158.0}
 {'ID': '6zFMeegAMYQo0mt8rXtrli', 'Title': 'HOLIDAY', 'Artists': ['Lil Nas X'], 'Duration': 154.997}
-{'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.453}
+{'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.48}
 {'ID': '18AJRdgUoO9EYn11N7xzaT', 'Title': 'Habits (Stay High)', 'Artists': ['Tove Lo'], 'Duration': 209.16}
 {'ID': '5k3U0OGYBccHdKJJu3HrUN', 'Title': 'Hakuna Matata - From "The Lion King"/Soundtrack', 'Artists': ['Nathan Lane', 'Ernie Sabella', 'Jason Weaver', 'Joseph Williams'], 'Duration': 213.6}
 {'ID': '1X1DWw2pcNZ8zSub3uhlNz', 'Title': 'Hall of Fame (feat. will.i.am)', 'Artists': ['The Script', 'will.i.am'], 'Duration': 202.533}
@@ -2480,6 +2481,7 @@
 {'ID': '1jw992uwXhqJJ0H42ucTRL', 'Title': 'ルージュの伝言', 'Artists': ['Yumi Arai'], 'Duration': 182.8}
 {'ID': '0zqwz1o4l4ltQUxgjyU4oa', 'Title': '中央フリーウェイ', 'Artists': ['Yumi Arai'], 'Duration': 219.466}
 {'ID': '1XWyTJQgyYS1gz4bl1maGw', 'Title': '你看你看月亮的臉', 'Artists': ['孟庭葦'], 'Duration': 279.493}
+{'ID': '6xlWJbSKO6nWDaXNgrjnCO', 'Title': '健康歌', 'Artists': ['Mavis Fan'], 'Duration': 177.826}
 {'ID': '59db3kNoPFmph8WgnGRzw0', 'Title': '冬季到台北來看雨', 'Artists': ['孟庭葦'], 'Duration': 309.573}
 {'ID': '0XaIdRxEbJgvNIOrjujcbQ', 'Title': '千年等一回', 'Artists': ['高勝美'], 'Duration': 218.24}
 {'ID': '1v9YGbg2p7Q9Xjs2nr9QMH', 'Title': '卒業写真', 'Artists': ['Yumi Arai'], 'Duration': 251.597}

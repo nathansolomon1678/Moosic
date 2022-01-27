@@ -94,7 +94,6 @@
 {'ID': '2dgxZM98rGyN2cI357Npeq', 'Title': 'Hot Air Balloon', 'Artists': ['Owl City'], 'Duration': 213.106}
 {'ID': '4xxz2SWsCCvYokNTLri78c', 'Title': "Howl's Moving Castle Theme (From 'Howl's Moving Castle')", 'Artists': ['Anime Kei'], 'Duration': 306.843}
 {'ID': '77vAuUDLRCp4pa5FBfx9F6', 'Title': 'Hymn to the Sea', 'Artists': ['James Horner'], 'Duration': 385.733}
-{'ID': '392eDzNu5fbaKAhf0S8Tw4', 'Title': 'I Am the One', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 118.533}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
 {'ID': '52erNkfUKv34u02CjcHOPj', 'Title': "If I Didn't Have You", 'Artists': ['Randy Travis'], 'Duration': 186.746}
@@ -102,6 +101,7 @@
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
 {'ID': '2nGuqMjkSITvVIwV0fCcjB', 'Title': 'Isengard Unleashed', 'Artists': ['Howard Shore', 'Ben Del Maestro', 'Elizabeth Fraser'], 'Duration': 301.04}
 {'ID': '7tDHMhO0bJpbkXzMyMIE0b', 'Title': 'Isla De Flores', 'Artists': ['Berlioz'], 'Duration': 159.124}
+{'ID': '2YmIcPF20FEaQd8qwTK8zm', 'Title': 'Jenny of Oldstones', 'Artists': ['Ramin Djawadi'], 'Duration': 150.623}
 {'ID': '6cnJNLZoOYaMX9ZK4x5MPM', 'Title': 'Jump!', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 278.506}
 {'ID': '5F6nH9kNbB48FusY2hFH01', 'Title': 'Jurassic Park Theme', 'Artists': ['John Williams', 'The Piano Guys'], 'Duration': 235.868}
 {'ID': '6RyY8r3DerLiB0hcBoTNFn', 'Title': 'Kara Main Theme - Kara', 'Artists': ['Philip Sheppard'], 'Duration': 414.79}
@@ -143,7 +143,6 @@
 {'ID': '3U901vTsG4a3JcLF3aVDQr', 'Title': 'Nocturne in C minor, Op. 48, No. 1', 'Artists': ['Frédéric Chopin', 'Janusz Olejniczak'], 'Duration': 349.693}
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
 {'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Lisa Gerrard', 'Klaus Badelt', 'Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
-{'ID': '2gVlMWoMRHEp4JfFuyi6eB', 'Title': 'ONE PUNCH MAN Opening Theme - THE HERO', 'Artists': ['Jonathan Parecki'], 'Duration': 202.03}
 {'ID': '5hGoIsMmOwF3EsDpp4nwws', 'Title': 'Oasis', 'Artists': ['Tarja'], 'Duration': 310.773}
 {'ID': '28rhYoPhcvKfedTyzhzoyp', 'Title': 'Ocean Theme (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 154.88}
 {'ID': '6Pu40Iqw4kjQeKTXT87vUZ', 'Title': 'Okay, Everyone!', 'Artists': ['Dan Salvato'], 'Duration': 184.546}
