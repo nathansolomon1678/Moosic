@@ -1,4 +1,5 @@
 {'ID': '2m1hi0nfMR9vdGC8UcrnwU', 'Title': 'All The Small Things', 'Artists': ['blink-182'], 'Duration': 167.066}
+{'ID': '1JCCdiru7fhstOIF4N7WJC', 'Title': 'Amnesia', 'Artists': ['5 Seconds of Summer'], 'Duration': 237.247}
 {'ID': '2GxGYGrixbXPFojONbzdo9', 'Title': 'Angel in Blue Jeans', 'Artists': ['Train'], 'Duration': 205.973}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
 {'ID': '3qiyyUfYe7CRYLucrPmulD', 'Title': "Baba O'Riley", 'Artists': ['The Who'], 'Duration': 300.4}
@@ -11,10 +12,11 @@
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
 {'ID': '6b2oQwSGFkzsMtQruIWm2p', 'Title': 'Creep', 'Artists': ['Radiohead'], 'Duration': 238.64}
 {'ID': '3AnYGQ8PB3lYrA6ToVUXa3', 'Title': 'Empire of Angels', 'Artists': ['Thomas Bergersen'], 'Duration': 314.537}
+{'ID': '1YwNlWLf8auhazSQUDQLFU', 'Title': 'Enjoy the Silence - Single Mix', 'Artists': ['Depeche Mode', 'Daniel Miller', 'Phil Legg'], 'Duration': 257.333}
 {'ID': '0dqGfCMAGyDgpUAgLNOjWd', 'Title': 'Fade To Black (Remastered)', 'Artists': ['Metallica'], 'Duration': 417.226}
+{'ID': '57ebBLITHpRgRKGrlbxMZS', 'Title': 'Faithfully', 'Artists': ['Journey'], 'Duration': 267.08}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
 {'ID': '0I1DJdLt9BKOb7GWmWxCjo', 'Title': 'Fields Of Gold', 'Artists': ['Sting'], 'Duration': 222.12}
-{'ID': '5BnFZLH99sYav2cxJFGO2n', 'Title': 'Gone Away - 1997', 'Artists': ['The Offspring'], 'Duration': 268.826}
 {'ID': '01mRJG8JVQnzGpVnGhNQKC', 'Title': 'Gone Away - 2021', 'Artists': ['The Offspring'], 'Duration': 196.146}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
 {'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
@@ -30,12 +32,16 @@
 {'ID': '6gZVQvQZOFpzIy3HblJ20F', 'Title': 'Man in the Box', 'Artists': ['Alice In Chains'], 'Duration': 285.2}
 {'ID': '2CtemffYhT0DJWcT1XW047', 'Title': 'Nothing Else Matters (Remastered)', 'Artists': ['Metallica'], 'Duration': 388.733}
 {'ID': '2w4EpqGasrz9qdTwocx54t', 'Title': 'Open Arms', 'Artists': ['Journey'], 'Duration': 202.173}
+{'ID': '0wokCRaKD0zPNhMRXAgVsr', 'Title': 'Ordinary World', 'Artists': ['Duran Duran'], 'Duration': 340.2}
 {'ID': '2AYEOC02WLhUiOoaig2SEH', 'Title': 'Out of My League', 'Artists': ['Fitz and The Tantrums'], 'Duration': 209.386}
 {'ID': '2cZrrQMjB63c0iIugYH9zS', 'Title': 'Rain Over Me (feat. Marc Anthony)', 'Artists': ['Pitbull', 'Marc Anthony'], 'Duration': 231.573}
 {'ID': '4ECNtOnqzxutZkXP4TE3n3', 'Title': 'Separate Ways (Worlds Apart)', 'Artists': ['Journey'], 'Duration': 323.706}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
+{'ID': '0GONea6G2XdnHWjNZd6zt3', 'Title': "Summer Of '69", 'Artists': ['Bryan Adams'], 'Duration': 216.053}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
+{'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
+{'ID': '5YL553x8sHderRBDlm3NM3', 'Title': 'White Horse (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 234.515}
 {'ID': '3ovjw5HZZv43SxTwApooCM', 'Title': 'Wind Of Change', 'Artists': ['Scorpions'], 'Duration': 312.36}
 {'ID': '0aYQsp1vZZcX0JBEJvKF7N', 'Title': 'Words As Weapons', 'Artists': ['Seether'], 'Duration': 240.2}
 {'ID': '575urseJcD6iGioNWuQy3H', 'Title': '¡Viva La Gloria!', 'Artists': ['Green Day'], 'Duration': 210.506}

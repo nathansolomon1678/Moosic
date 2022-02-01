@@ -78,6 +78,7 @@
 {'ID': '2canQc7nVIxdRbZp5r3VHo', 'Title': 'Anything She Does - 2007 Remaster', 'Artists': ['Genesis'], 'Duration': 260.72}
 {'ID': '6z0QCh7CTU9bE5C7TAHK4R', 'Title': 'Apocalypse Please', 'Artists': ['Muse'], 'Duration': 252.866}
 {'ID': '1NrJYpdAi7uosDRPmSYrsG', 'Title': 'Apologize', 'Artists': ['OneRepublic'], 'Duration': 208.106}
+{'ID': '3pTNVDJpzaLxiZnbC18SMX', 'Title': 'Archangel', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 154.857}
 {'ID': '57RA3JGafJm5zRtKJiKPIm', 'Title': 'Are You Bored Yet? (feat. Clairo)', 'Artists': ['Wallows', 'Clairo'], 'Duration': 178.0}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
 {'ID': '7kBZa4WCbZGkJzi2gCr401', 'Title': 'Army of Angels', 'Artists': ['The Script'], 'Duration': 238.2}
@@ -328,6 +329,7 @@
 {'ID': '6mH3qVIeOsnQIAho5eWwhH', 'Title': 'Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version', 'Artists': ['Anna Kendrick'], 'Duration': 128.013}
 {'ID': '3grVoZ10bm2jUGpo7BxpuF', 'Title': 'DEAD RIGHT NOW', 'Artists': ['Lil Nas X'], 'Duration': 221.203}
 {'ID': '5tXyNhNcsnn7HbcABntOSf', 'Title': "DJ Got Us Fallin' In Love", 'Artists': ['Usher', 'Pitbull'], 'Duration': 222.16}
+{'ID': '4356Typ82hUiFAynbLYbPn', 'Title': "DJ Got Us Fallin' In Love (feat. Pitbull)", 'Artists': ['Usher', 'Pitbull'], 'Duration': 220.8}
 {'ID': '7zQirOExB0VR8yWUOqYeio', 'Title': 'DOLLA SIGN SLIME (feat. Megan Thee Stallion)', 'Artists': ['Lil Nas X', 'Megan Thee Stallion'], 'Duration': 145.074}
 {'ID': '4vsJWPwWPS27gRM4oLjBNO', 'Title': 'DONT WANT IT', 'Artists': ['Lil Nas X'], 'Duration': 130.925}
 {'ID': '6YZdkObH88npeKrrkb8Ggf', 'Title': 'DUELE EL CORAZON (feat. Wisin)', 'Artists': ['Enrique Iglesias', 'Wisin'], 'Duration': 199.693}
@@ -855,6 +857,7 @@
 {'ID': '7BqBn9nzAq8spo5e7cZ0dJ', 'Title': 'Just the Way You Are', 'Artists': ['Bruno Mars'], 'Duration': 220.734}
 {'ID': '6RyY8r3DerLiB0hcBoTNFn', 'Title': 'Kara Main Theme - Kara', 'Artists': ['Philip Sheppard'], 'Duration': 414.79}
 {'ID': '6Vjk8MNXpQpi0F4BefdTyq', 'Title': 'Kashmir - Remaster', 'Artists': ['Led Zeppelin'], 'Duration': 517.125}
+{'ID': '0vI64OhYqTo6KYswDlx0yT', 'Title': 'Keep Talking', 'Artists': ['Pink Floyd'], 'Duration': 370.666}
 {'ID': '4Jz4bjXeiF2SXVj9P4YfY5', 'Title': 'Keep Your Head Up', 'Artists': ['Andy Grammer'], 'Duration': 189.933}
 {'ID': '1jJci4qxiYcOHhQR247rEU', 'Title': 'Kids', 'Artists': ['MGMT'], 'Duration': 302.84}
 {'ID': '50oS45iNMFp7pKIQRAWIUP', 'Title': 'Kids In The Dark', 'Artists': ['All Time Low'], 'Duration': 216.689}
@@ -928,6 +931,7 @@
 {'ID': '7gUpO6td4OOnu0Lf9vhcIV', 'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 211.8}
 {'ID': '0HtbwUrJdVgt2RUEW14XCN', 'Title': 'Like a Brother', 'Artists': ['Zolik'], 'Duration': 94.693}
 {'ID': '1z3ugFmUKoCzGsI6jdY4Ci', 'Title': 'Like a Prayer', 'Artists': ['Madonna'], 'Duration': 342.68}
+{'ID': '3Ra4rkq1ExwPXwrPQeHBWg', 'Title': "Lily's Theme", 'Artists': ['Alexandre Desplat'], 'Duration': 148.813}
 {'ID': '5jvgec3P4jyoZUPTy2pWDR', 'Title': 'Line Without a Hook', 'Artists': ['Ricky Montgomery'], 'Duration': 249.586}
 {'ID': '0gEyKnHvgkrkBM6fbeHdwK', 'Title': 'Linger', 'Artists': ['The Cranberries'], 'Duration': 274.706}
 {'ID': '2Y0iGXY6m6immVb2ktbseM', 'Title': 'Little Dark Age', 'Artists': ['MGMT'], 'Duration': 299.96}
@@ -1210,6 +1214,7 @@
 {'ID': '4KSQ9el0QgTKKie5oCtKLe', 'Title': 'Pocket Full Of Gold', 'Artists': ['American Authors'], 'Duration': 180.213}
 {'ID': '1uigwk5hNV84zRd5YQQRTk', 'Title': 'Pocketful of Sunshine', 'Artists': ['Natasha Bedingfield'], 'Duration': 202.906}
 {'ID': '5R8dQOPq8haW94K7mgERlO', 'Title': 'Poker Face', 'Artists': ['Lady Gaga'], 'Duration': 237.2}
+{'ID': '0C6EIiQu8CS4eYtOCMEiAd', 'Title': 'Policy of Truth - 2006 Remaster', 'Artists': ['Depeche Mode'], 'Duration': 294.04}
 {'ID': '6A0mgcjDWaUmuD3WKK9jdA', 'Title': 'Pomp and Circumstance', 'Artists': ['Various Artists'], 'Duration': 249.6}
 {'ID': '3gbBpTdY8lnQwqxNCcf795', 'Title': 'Pompeii', 'Artists': ['Bastille'], 'Duration': 214.147}
 {'ID': '2kSpNkYlQCRCZX0a6tW02a', 'Title': 'Postcards From Richard Nixon', 'Artists': ['Elton John'], 'Duration': 315.186}
@@ -1659,6 +1664,7 @@
 {'ID': '7xex78pjGHt9FnXgIWHe24', 'Title': 'This December', 'Artists': ['Ricky Montgomery'], 'Duration': 181.92}
 {'ID': '4NBTZtAt1F13VvlSKe6KTl', 'Title': 'This Feeling', 'Artists': ['The Chainsmokers', 'Kelsea Ballerini'], 'Duration': 197.946}
 {'ID': '2T3jgoAMbBXiMMD8pSc6QL', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
+{'ID': '3AI7ca5RpYLyqaVgU7K1AP', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
 {'ID': '0azC730Exh71aQlOt9Zj3y', 'Title': 'This Is What You Came For (feat. Rihanna)', 'Artists': ['Calvin Harris', 'Rihanna'], 'Duration': 222.16}
 {'ID': '3ZjrfGcb3A2PMGA1vRNgSk', 'Title': 'This Land is Your Land', 'Artists': ['Woody Guthrie'], 'Duration': 139.693}
 {'ID': '5zF2zGPkL6Ipsn9AfAK6RP', 'Title': 'This Love', 'Artists': ['Maroon 5'], 'Duration': 206.2}
