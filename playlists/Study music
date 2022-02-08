@@ -29,7 +29,7 @@
 {'ID': '3pTNVDJpzaLxiZnbC18SMX', 'Title': 'Archangel', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 154.857}
 {'ID': '0rbDsnOgxbUWjXCe6S7xUA', 'Title': 'Asimov', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 134.266}
 {'ID': '1XmdB9Kha5e5H4PfTSmewn', 'Title': 'Atlas: Touch', 'Artists': ['Sleeping At Last'], 'Duration': 253.892}
-{'ID': '2kyEgPaAW8wdpvevPnkf0Z', 'Title': 'Ave Maria', 'Artists': ['Charles Gounod', 'Yo-Yo Ma'], 'Duration': 163.266}
+{'ID': '2kyEgPaAW8wdpvevPnkf0Z', 'Title': 'Ave Maria', 'Artists': ['Charles Gounod', 'Yo-Yo Ma & The Silk Road Ensemble'], 'Duration': 163.266}
 {'ID': '0fpNsp2ZloNQH7ShhBKloI', 'Title': 'Bad Blood', 'Artists': ['Sleeping At Last'], 'Duration': 294.017}
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
 {'ID': '0E97LEEOz5rk6wAJr6rNI3', 'Title': "Bartram's Garden", 'Artists': ['Zachary Patel'], 'Duration': 143.0}
@@ -239,7 +239,7 @@
 {'ID': '56P8zbMtfKLlmpUWW3xAzf', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 602.226}
 {'ID': '5zcB3Tcl60SD85Tc4D7UsK', 'Title': 'The Blood Of Cu Chulainn 2010', 'Artists': ['Mychael Danna & Jeff Danna'], 'Duration': 249.24}
 {'ID': '1ykbtFnlIjmIFnZ8j6wg6i', 'Title': 'The Breaking of the Fellowship (feat. "In Dreams")', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 440.8}
-{'ID': '0jOnZhF75V68VsBObWx2XO', 'Title': 'The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)', 'Artists': ['Camille Saint-Saëns', 'Yo-Yo Ma', 'Kathryn Stott'], 'Duration': 174.266}
+{'ID': '0jOnZhF75V68VsBObWx2XO', 'Title': 'The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)', 'Artists': ['Camille Saint-Saëns', 'Yo-Yo Ma & The Silk Road Ensemble', 'Kathryn Stott'], 'Duration': 174.266}
 {'ID': '3Knohqfb9jeYzL6wMZiWLM', 'Title': 'The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]', 'Artists': ['Howard Shore', 'Enya'], 'Duration': 229.106}
 {'ID': '3k7u3irZ9H42KOYUMx861k', 'Title': 'The Dance of Eternity', 'Artists': ['Damjan Mravunac'], 'Duration': 84.488}
 {'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
@@ -270,6 +270,7 @@
 {'ID': '7lhWzYkDPmCgIMyP5VChZ9', 'Title': 'The Sigils of Our Name', 'Artists': ['Damjan Mravunac'], 'Duration': 152.0}
 {'ID': '0id1qkWX2s92QjBJcQZj8r', 'Title': 'The Sixth Station', 'Artists': ['Joe Hisaishi'], 'Duration': 218.24}
 {'ID': '5Cx1ddz4iYOqiSMc7HweuE', 'Title': 'The Temple of the Sands', 'Artists': ['Damjan Mravunac'], 'Duration': 120.056}
+{'ID': '6qB9gHixFPupWzUeXsxD7H', 'Title': 'The Treasure', 'Artists': ['Bernward Koch'], 'Duration': 237.6}
 {'ID': '3BwZmOr7iuanTmra5OzuBa', 'Title': 'The Worlds of My Garden Are Many', 'Artists': ['Damjan Mravunac'], 'Duration': 169.099}
 {'ID': '2TZbQZXOuR8osP2AK8yYMN', 'Title': 'Theme From Jurassic Park', 'Artists': ['John Williams'], 'Duration': 207.426}
 {'ID': '42gZM6AQ9BDMaTyTmMDVlN', 'Title': "Theme From Schindler's List", 'Artists': ['John Williams', 'Itzhak Perlman', 'Boston Symphony Orchestra'], 'Duration': 255.693}

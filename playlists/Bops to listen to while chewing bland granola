@@ -364,7 +364,6 @@
 {'ID': '1hJIbOjWpid6LtnozHmzRS', 'Title': 'Diamonds', 'Artists': ['Sam Smith'], 'Duration': 213.869}
 {'ID': '5pDUMdIiW0rNLzFryqpC9j', 'Title': 'Diamonds', 'Artists': ['Rihanna'], 'Duration': 225.146}
 {'ID': '4O0sGJdqpHMaWz7KoVd7tb', 'Title': 'Diamonds And Rust', 'Artists': ['Joan Baez'], 'Duration': 286.106}
-{'ID': '7FBLaia8vyWuZ6sz5HHdJo', 'Title': 'Diamonds and Rust', 'Artists': ["Blackmore's Night"], 'Duration': 294.306}
 {'ID': '6NJ5Q5QujNwwsst5mdSEfF', 'Title': 'Die Happy', 'Artists': ['DREAMERS'], 'Duration': 186.902}
 {'ID': '7EQGXaVSyEDsCWKmUcfpLk', 'Title': 'Die Young', 'Artists': ['Kesha'], 'Duration': 211.92}
 {'ID': '53h1ZSLWi8hVWF9DWKNXVh', 'Title': 'Die by the Blade', 'Artists': ['Beast In Black'], 'Duration': 194.838}
@@ -486,6 +485,7 @@
 {'ID': '38JtOksjkWmr9vAylvvqs6', 'Title': 'Fame - Rerecorded', 'Artists': ['Irene Cara'], 'Duration': 319.026}
 {'ID': '0lK28aJxbjVdBBz7qkzgG9', 'Title': 'Familiar Taste of Poison', 'Artists': ['Halestorm'], 'Duration': 244.066}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
+{'ID': '0ADZ5dmXhlfzjMw6lefoPl', 'Title': 'Far Away', 'Artists': ['Nickelback'], 'Duration': 238.173}
 {'ID': '05rWggLwQ2weA4D2cRAt55', 'Title': 'Far Away - 2020 Remaster', 'Artists': ['Nickelback'], 'Duration': 238.16}
 {'ID': '1aueiKLUtJdYM5vX8zoodO', 'Title': 'Far From Heaven', 'Artists': ['Evanescence'], 'Duration': 297.128}
 {'ID': '2M9ro2krNb7nr7HSprkEgo', 'Title': 'Fast Car', 'Artists': ['Tracy Chapman'], 'Duration': 296.8}
@@ -767,10 +767,10 @@
 {'ID': '2JHBMVs8E7bJJBLkXpKgHn', 'Title': 'I Will Wait', 'Artists': ['Mumford & Sons'], 'Duration': 276.72}
 {'ID': '7gSQv1OHpkIoAdUiRLdmI6', 'Title': "I Won't Back Down", 'Artists': ['Tom Petty'], 'Duration': 178.36}
 {'ID': '53QF56cjZA9RTuuMZDrSA6', 'Title': "I Won't Give Up", 'Artists': ['Jason Mraz'], 'Duration': 240.165}
-{'ID': '0PKmDncVOiNQLO6D1P6PXi', 'Title': "I Won't Say (I'm In Love)", 'Artists': ['Susan Egan', 'Cheryl Freeman', 'LaChanze', 'Vaneese Thomas', 'Lillias White'], 'Duration': 140.226}
+{'ID': '0PKmDncVOiNQLO6D1P6PXi', 'Title': "I Won't Say (I'm In Love)", 'Artists': ['Susan Egan', 'Cheryl Freeman', 'LaChanze', 'Vaneese Thomas', 'Lillias White', 'Disney'], 'Duration': 140.226}
 {'ID': '4bPQs0PHn4xbipzdPfn6du', 'Title': 'I Write Sins Not Tragedies', 'Artists': ['Panic! At The Disco'], 'Duration': 186.634}
 {'ID': '3cQGb2POE359G9WH81bF60', 'Title': "I'LL BE GONE", 'Artists': ['Linkin Park'], 'Duration': 211.093}
-{'ID': '3yQrGLCIYOcYopGthnfG3A', 'Title': 'I\'ll Make a Man Out of You - From "Mulan"/Soundtrack', 'Artists': ['Donny Osmond', 'Chorus - Mulan'], 'Duration': 199.493}
+{'ID': '3yQrGLCIYOcYopGthnfG3A', 'Title': 'I\'ll Make a Man Out of You - From "Mulan"/Soundtrack', 'Artists': ['Donny Osmond', 'Chorus - Mulan', 'Disney'], 'Duration': 199.493}
 {'ID': '1RC5Mb0VhnlhnMlFDnrvE0', 'Title': "I'm A Believer - Radio Edit", 'Artists': ['Smash Mouth'], 'Duration': 183.4}
 {'ID': '34Vn9nKfztyLco9lJazy4j', 'Title': "I'm Already There", 'Artists': ['Lonestar'], 'Duration': 253.373}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
@@ -781,7 +781,7 @@
 {'ID': '1ot6jEe4w4hYnsOPjd3xKQ', 'Title': "I'm So Excited", 'Artists': ['The Pointer Sisters'], 'Duration': 230.64}
 {'ID': '6BfOhpHADzrvKN2kMPTMPv', 'Title': 'I\'m Still Here (Jim\'s Theme) - From "Treasure Planet"/Soundtrack Version', 'Artists': ['John Rzeznik'], 'Duration': 251.466}
 {'ID': '1jDJFeK9x3OZboIAHsY9k2', 'Title': "I'm Still Standing", 'Artists': ['Elton John'], 'Duration': 183.44}
-{'ID': '1EzrEOXmMH3G43AXT1y7pA', 'Title': "I'm Yours", 'Artists': ['Jason Mraz'], 'Duration': 242.186}
+{'ID': '1EzrEOXmMH3G43AXT1y7pA', 'Title': "I'm Yours", 'Artists': ['Jason Mraz'], 'Duration': 242.946}
 {'ID': '1jlG3KJ3gdYmhfuySFfpO1', 'Title': "I'm with You", 'Artists': ['Avril Lavigne'], 'Duration': 223.066}
 {'ID': '0TCt7OFRdD8PQ6vTRQxNgQ', 'Title': 'I\'ve Got a Dream - From "Tangled"/Soundtrack Version', 'Artists': ['Mandy Moore', 'Brad Garrett', 'Ensemble - Tangled', 'Zachary Levi', 'Jeffrey Tambor'], 'Duration': 191.413}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
@@ -1256,7 +1256,7 @@
 {'ID': '5ajjAnNRh8bxFvaVHzpPjh', 'Title': 'Reckless', 'Artists': ['Madison Beer'], 'Duration': 203.384}
 {'ID': '4OAuvHryIVv4kMDNSLuPt6', 'Title': "Red (Taylor's Version)", 'Artists': ['Taylor Swift'], 'Duration': 223.093}
 {'ID': '3bT5PDBhVj4ifU11zQvGP2', 'Title': 'Red Lights', 'Artists': ['Tiësto'], 'Duration': 263.89}
-{'ID': '4ASPjY65S7crmZBHML0L8d', 'Title': 'Reflection - From "Mulan" / Soundtrack Version', 'Artists': ['Lea Salonga'], 'Duration': 146.84}
+{'ID': '4ASPjY65S7crmZBHML0L8d', 'Title': 'Reflection - From "Mulan" / Soundtrack Version', 'Artists': ['Lea Salonga', 'Disney'], 'Duration': 146.84}
 {'ID': '6ndmKwWqMozN2tcZqzCX4K', 'Title': 'Remember the Name (feat. Styles of Beyond)', 'Artists': ['Fort Minor', 'Styles Of Beyond'], 'Duration': 230.493}
 {'ID': '1CQqupcyMg7176PPmIVmSj', 'Title': 'Renegade', 'Artists': ['Styx'], 'Duration': 257.226}
 {'ID': '0fYVliAYKHuPmECRs1pbRf', 'Title': 'Renegades', 'Artists': ['X Ambassadors'], 'Duration': 195.2}
@@ -1905,7 +1905,6 @@
 {'ID': '6KMgPewrVRxzeFzRwkFa0M', 'Title': 'Worlds Collide', 'Artists': ['League of Legends', 'Nicki Taylor'], 'Duration': 216.308}
 {'ID': '41Fflg7qHiVOD6dEPvsCzO', 'Title': 'Worth It (feat. Kid Ink)', 'Artists': ['Fifth Harmony', 'Kid Ink'], 'Duration': 224.573}
 {'ID': '5sFDReWLrZHLFZFjHsjUTS', 'Title': 'Would?', 'Artists': ['Alice In Chains'], 'Duration': 206.773}
-{'ID': '149BxWeweaCqmsyedkNiiE', 'Title': 'Wrecked', 'Artists': ['Imagine Dragons'], 'Duration': 244.004}
 {'ID': '2vwlzO0Qp8kfEtzTsCXfyE', 'Title': 'Wrecking Ball', 'Artists': ['Miley Cyrus'], 'Duration': 221.36}
 {'ID': '14EBj3BdbkGQtnQQJav444', 'Title': 'Wretches and Kings', 'Artists': ['Linkin Park'], 'Duration': 250.586}
 {'ID': '4zdspHPxpExPiU8RolxBUH', 'Title': 'Xanadu', 'Artists': ['Olivia Newton-John', 'Electric Light Orchestra'], 'Duration': 208.506}
