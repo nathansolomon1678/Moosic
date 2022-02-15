@@ -36,7 +36,7 @@
 {'ID': '6lV2MSQmRIkycDScNtrBXO', 'Title': 'Airplanes (feat. Hayley Williams of Paramore)', 'Artists': ['B.o.B', 'Hayley Williams'], 'Duration': 180.48}
 {'ID': '4LcBPS0aOSrQ4trRwFli3t', 'Title': 'Airship Pirate', 'Artists': ['Abney Park'], 'Duration': 242.146}
 {'ID': '1HHeOs6zRdF8Ck58easiAY', 'Title': 'Alejandro', 'Artists': ['Lady Gaga'], 'Duration': 274.213}
-{'ID': '4TTV7EcfroSLWzXRY6gLv6', 'Title': 'Alexander Hamilton', 'Artists': ['Leslie Odom Jr.', 'Anthony Ramos', 'Daveed Diggs', 'Okieriete Onaodowan', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Original Broadway Cast of Hamilton'], 'Duration': 236.737}
+{'ID': '4TTV7EcfroSLWzXRY6gLv6', 'Title': 'Alexander Hamilton', 'Artists': ['Leslie Odom Jr.', 'Daveed Diggs', 'Okieriete Onaodowan', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Christopher Jackson', 'Original Broadway Cast of Hamilton', 'Anthony Ramos'], 'Duration': 236.737}
 {'ID': '7f0vVL3xi4i78Rv5Ptn2s1', 'Title': 'Algorithm', 'Artists': ['Muse'], 'Duration': 245.96}
 {'ID': '0LcFrxxDabPkeqGugkYtnc', 'Title': 'Alkogol-Nikotin', 'Artists': ['Ivan Ivanovich & The Kreml Krauts'], 'Duration': 177.866}
 {'ID': '2aoo2jlRnM3A0NyLQqMN2f', 'Title': 'All Along the Watchtower', 'Artists': ['Jimi Hendrix'], 'Duration': 240.8}
@@ -1664,7 +1664,6 @@
 {'ID': '7xex78pjGHt9FnXgIWHe24', 'Title': 'This December', 'Artists': ['Ricky Montgomery'], 'Duration': 181.92}
 {'ID': '4NBTZtAt1F13VvlSKe6KTl', 'Title': 'This Feeling', 'Artists': ['The Chainsmokers', 'Kelsea Ballerini'], 'Duration': 197.946}
 {'ID': '2T3jgoAMbBXiMMD8pSc6QL', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
-{'ID': '3AI7ca5RpYLyqaVgU7K1AP', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
 {'ID': '0azC730Exh71aQlOt9Zj3y', 'Title': 'This Is What You Came For (feat. Rihanna)', 'Artists': ['Calvin Harris', 'Rihanna'], 'Duration': 222.16}
 {'ID': '3ZjrfGcb3A2PMGA1vRNgSk', 'Title': 'This Land is Your Land', 'Artists': ['Woody Guthrie'], 'Duration': 139.693}
 {'ID': '5zF2zGPkL6Ipsn9AfAK6RP', 'Title': 'This Love', 'Artists': ['Maroon 5'], 'Duration': 206.2}

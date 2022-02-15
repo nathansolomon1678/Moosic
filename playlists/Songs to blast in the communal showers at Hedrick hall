@@ -17,6 +17,7 @@
 {'ID': '57ebBLITHpRgRKGrlbxMZS', 'Title': 'Faithfully', 'Artists': ['Journey'], 'Duration': 267.08}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
 {'ID': '0I1DJdLt9BKOb7GWmWxCjo', 'Title': 'Fields Of Gold', 'Artists': ['Sting'], 'Duration': 222.12}
+{'ID': '4BP3uh0hFLFRb5cjsgLqDh', 'Title': 'Fortunate Son', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 140.773}
 {'ID': '01mRJG8JVQnzGpVnGhNQKC', 'Title': 'Gone Away - 2021', 'Artists': ['The Offspring'], 'Duration': 196.146}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
 {'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
@@ -28,13 +29,16 @@
 {'ID': '6Qyc6fS4DsZjB2mRW9DsQs', 'Title': 'Iris', 'Artists': ['The Goo Goo Dolls'], 'Duration': 289.533}
 {'ID': '7gUpO6td4OOnu0Lf9vhcIV', 'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 211.8}
 {'ID': '3w3y8KPTfNeOKPiqUTakBh', 'Title': 'Locked out of Heaven', 'Artists': ['Bruno Mars'], 'Duration': 233.478}
+{'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '67BtfxlNbhBmCDR2L2l8qd', 'Title': 'MONTERO (Call Me By Your Name)', 'Artists': ['Lil Nas X'], 'Duration': 137.875}
 {'ID': '6gZVQvQZOFpzIy3HblJ20F', 'Title': 'Man in the Box', 'Artists': ['Alice In Chains'], 'Duration': 285.2}
 {'ID': '2CtemffYhT0DJWcT1XW047', 'Title': 'Nothing Else Matters (Remastered)', 'Artists': ['Metallica'], 'Duration': 388.733}
 {'ID': '2w4EpqGasrz9qdTwocx54t', 'Title': 'Open Arms', 'Artists': ['Journey'], 'Duration': 202.173}
 {'ID': '0wokCRaKD0zPNhMRXAgVsr', 'Title': 'Ordinary World', 'Artists': ['Duran Duran'], 'Duration': 340.2}
 {'ID': '2AYEOC02WLhUiOoaig2SEH', 'Title': 'Out of My League', 'Artists': ['Fitz and The Tantrums'], 'Duration': 209.386}
+{'ID': '1LmN9SSHISbtp9LoaR5ZVJ', 'Title': 'Payphone', 'Artists': ['Maroon 5', 'Wiz Khalifa'], 'Duration': 231.386}
 {'ID': '2cZrrQMjB63c0iIugYH9zS', 'Title': 'Rain Over Me (feat. Marc Anthony)', 'Artists': ['Pitbull', 'Marc Anthony'], 'Duration': 231.573}
+{'ID': '12eMQUn2GzfsfsQLH53M19', 'Title': 'Scream', 'Artists': ['Usher'], 'Duration': 234.693}
 {'ID': '4ECNtOnqzxutZkXP4TE3n3', 'Title': 'Separate Ways (Worlds Apart)', 'Artists': ['Journey'], 'Duration': 323.706}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
 {'ID': '0GONea6G2XdnHWjNZd6zt3', 'Title': "Summer Of '69", 'Artists': ['Bryan Adams'], 'Duration': 216.053}
@@ -42,6 +46,7 @@
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
 {'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
+{'ID': '6HTVZeVQ9J6Uiq6tHESxU9', 'Title': 'Welcome Home, Son', 'Artists': ['Radical Face'], 'Duration': 287.634}
 {'ID': '5YL553x8sHderRBDlm3NM3', 'Title': 'White Horse (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 234.515}
 {'ID': '3ovjw5HZZv43SxTwApooCM', 'Title': 'Wind Of Change', 'Artists': ['Scorpions'], 'Duration': 312.36}
 {'ID': '0aYQsp1vZZcX0JBEJvKF7N', 'Title': 'Words As Weapons', 'Artists': ['Seether'], 'Duration': 240.2}
