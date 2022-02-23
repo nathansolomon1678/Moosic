@@ -1,3 +1,4 @@
+{'ID': '6lV2MSQmRIkycDScNtrBXO', 'Title': 'Airplanes (feat. Hayley Williams of Paramore)', 'Artists': ['B.o.B', 'Hayley Williams'], 'Duration': 180.48}
 {'ID': '2m1hi0nfMR9vdGC8UcrnwU', 'Title': 'All The Small Things', 'Artists': ['blink-182'], 'Duration': 167.066}
 {'ID': '1JCCdiru7fhstOIF4N7WJC', 'Title': 'Amnesia', 'Artists': ['5 Seconds of Summer'], 'Duration': 237.247}
 {'ID': '2GxGYGrixbXPFojONbzdo9', 'Title': 'Angel in Blue Jeans', 'Artists': ['Train'], 'Duration': 205.973}
@@ -7,6 +8,7 @@
 {'ID': '0AKAxdNkwq9ZxRdW1DN9zW', 'Title': 'Behind These Hazel Eyes', 'Artists': ['Kelly Clarkson'], 'Duration': 198.973}
 {'ID': '2ctvdKmETyOzPb2GiJJT53', 'Title': 'Breathe (In the Air)', 'Artists': ['Pink Floyd'], 'Duration': 169.534}
 {'ID': '3DUcaEvPO72PijivCjtZcU', 'Title': 'Candle In The Wind 1997', 'Artists': ['Elton John'], 'Duration': 250.106}
+{'ID': '4K8iKmXj0vfT41wEMFmWzy', 'Title': 'Caradhras', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 252.692}
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '0yfNXxlyXdmP0ue1iJijx1', 'Title': 'Come Undone', 'Artists': ['Duran Duran'], 'Duration': 256.519}
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
@@ -17,7 +19,9 @@
 {'ID': '57ebBLITHpRgRKGrlbxMZS', 'Title': 'Faithfully', 'Artists': ['Journey'], 'Duration': 267.08}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
 {'ID': '0I1DJdLt9BKOb7GWmWxCjo', 'Title': 'Fields Of Gold', 'Artists': ['Sting'], 'Duration': 222.12}
+{'ID': '7t3Xdbufg7q2onVsR8RBdY', 'Title': 'Fire On Fire', 'Artists': ['Sam Smith'], 'Duration': 246.735}
 {'ID': '4BP3uh0hFLFRb5cjsgLqDh', 'Title': 'Fortunate Son', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 140.773}
+{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
 {'ID': '01mRJG8JVQnzGpVnGhNQKC', 'Title': 'Gone Away - 2021', 'Artists': ['The Offspring'], 'Duration': 196.146}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
 {'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
@@ -32,6 +36,7 @@
 {'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '67BtfxlNbhBmCDR2L2l8qd', 'Title': 'MONTERO (Call Me By Your Name)', 'Artists': ['Lil Nas X'], 'Duration': 137.875}
 {'ID': '6gZVQvQZOFpzIy3HblJ20F', 'Title': 'Man in the Box', 'Artists': ['Alice In Chains'], 'Duration': 285.2}
+{'ID': '59dLtGBS26x7kc0rHbaPrq', 'Title': "Nothin' on You (feat. Bruno Mars)", 'Artists': ['B.o.B', 'Bruno Mars'], 'Duration': 268.32}
 {'ID': '2CtemffYhT0DJWcT1XW047', 'Title': 'Nothing Else Matters (Remastered)', 'Artists': ['Metallica'], 'Duration': 388.733}
 {'ID': '2w4EpqGasrz9qdTwocx54t', 'Title': 'Open Arms', 'Artists': ['Journey'], 'Duration': 202.173}
 {'ID': '0wokCRaKD0zPNhMRXAgVsr', 'Title': 'Ordinary World', 'Artists': ['Duran Duran'], 'Duration': 340.2}
@@ -41,6 +46,7 @@
 {'ID': '12eMQUn2GzfsfsQLH53M19', 'Title': 'Scream', 'Artists': ['Usher'], 'Duration': 234.693}
 {'ID': '4ECNtOnqzxutZkXP4TE3n3', 'Title': 'Separate Ways (Worlds Apart)', 'Artists': ['Journey'], 'Duration': 323.706}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
+{'ID': '2hDopFcMjFcRi5IRpTSSyr', 'Title': 'Street Of Dreams', 'Artists': ['Rainbow'], 'Duration': 265.506}
 {'ID': '0GONea6G2XdnHWjNZd6zt3', 'Title': "Summer Of '69", 'Artists': ['Bryan Adams'], 'Duration': 216.053}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
