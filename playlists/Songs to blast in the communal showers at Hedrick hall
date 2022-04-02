@@ -9,6 +9,7 @@
 {'ID': '2ctvdKmETyOzPb2GiJJT53', 'Title': 'Breathe (In the Air)', 'Artists': ['Pink Floyd'], 'Duration': 169.534}
 {'ID': '3DUcaEvPO72PijivCjtZcU', 'Title': 'Candle In The Wind 1997', 'Artists': ['Elton John'], 'Duration': 250.106}
 {'ID': '4K8iKmXj0vfT41wEMFmWzy', 'Title': 'Caradhras', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 252.692}
+{'ID': '762B4bOcXF7I2Y8UlKTyTy', 'Title': 'Chiquitita', 'Artists': ['ABBA'], 'Duration': 326.32}
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '0yfNXxlyXdmP0ue1iJijx1', 'Title': 'Come Undone', 'Artists': ['Duran Duran'], 'Duration': 256.519}
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
@@ -30,19 +31,24 @@
 {'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
 {'ID': '01mRJG8JVQnzGpVnGhNQKC', 'Title': 'Gone Away - 2021', 'Artists': ['The Offspring'], 'Duration': 196.146}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
+{'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 222.091}
 {'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
+{'ID': '7w5cxTEzp1rfV3KCy0Bd5N', 'Title': 'Home', 'Artists': ['Edward Sharpe & The Magnetic Zeros'], 'Duration': 303.2}
 {'ID': '5fVZC9GiM4e8vu99W0Xf6J', 'Title': 'How to Save a Life', 'Artists': ['The Fray'], 'Duration': 262.533}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '3cQGb2POE359G9WH81bF60', 'Title': "I'LL BE GONE", 'Artists': ['Linkin Park'], 'Duration': 211.093}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
+{'ID': '0KMGxYKeUzK9wc5DZCt3HT', 'Title': 'If You Leave Me Now', 'Artists': ['Chicago'], 'Duration': 235.373}
 {'ID': '6sawhOATOEe0cGzXJfMJQE', 'Title': 'In Too Deep', 'Artists': ['Genesis'], 'Duration': 296.92}
 {'ID': '6Qyc6fS4DsZjB2mRW9DsQs', 'Title': 'Iris', 'Artists': ['The Goo Goo Dolls'], 'Duration': 289.533}
+{'ID': '4euAGZTszWPrriggYK0HG9', 'Title': 'Lay All Your Love On Me', 'Artists': ['ABBA'], 'Duration': 274.466}
 {'ID': '7gUpO6td4OOnu0Lf9vhcIV', 'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 211.8}
 {'ID': '3w3y8KPTfNeOKPiqUTakBh', 'Title': 'Locked out of Heaven', 'Artists': ['Bruno Mars'], 'Duration': 233.478}
 {'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '67BtfxlNbhBmCDR2L2l8qd', 'Title': 'MONTERO (Call Me By Your Name)', 'Artists': ['Lil Nas X'], 'Duration': 137.875}
 {'ID': '6gZVQvQZOFpzIy3HblJ20F', 'Title': 'Man in the Box', 'Artists': ['Alice In Chains'], 'Duration': 285.2}
 {'ID': '4uQDCRyQGUnX4U6BuIgHAd', 'Title': 'Memory of Fanelia', 'Artists': ['Laurence Manning'], 'Duration': 194.25}
+{'ID': '26fZwf1ImE4aUJ4XaqOkUg', 'Title': 'No One Like You', 'Artists': ['Scorpions'], 'Duration': 237.466}
 {'ID': '59dLtGBS26x7kc0rHbaPrq', 'Title': "Nothin' on You (feat. Bruno Mars)", 'Artists': ['B.o.B', 'Bruno Mars'], 'Duration': 268.32}
 {'ID': '2CtemffYhT0DJWcT1XW047', 'Title': 'Nothing Else Matters (Remastered)', 'Artists': ['Metallica'], 'Duration': 388.733}
 {'ID': '2w4EpqGasrz9qdTwocx54t', 'Title': 'Open Arms', 'Artists': ['Journey'], 'Duration': 202.173}
@@ -54,6 +60,7 @@
 {'ID': '12eMQUn2GzfsfsQLH53M19', 'Title': 'Scream', 'Artists': ['Usher'], 'Duration': 234.693}
 {'ID': '4ECNtOnqzxutZkXP4TE3n3', 'Title': 'Separate Ways (Worlds Apart)', 'Artists': ['Journey'], 'Duration': 323.706}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
+{'ID': '0RdUX4WE0fO30VnlUbDVL6', 'Title': 'Still Loving You', 'Artists': ['Scorpions'], 'Duration': 403.453}
 {'ID': '2hDopFcMjFcRi5IRpTSSyr', 'Title': 'Street Of Dreams', 'Artists': ['Rainbow'], 'Duration': 265.506}
 {'ID': '0GONea6G2XdnHWjNZd6zt3', 'Title': "Summer Of '69", 'Artists': ['Bryan Adams'], 'Duration': 216.053}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
