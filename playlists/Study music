@@ -68,6 +68,7 @@
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
 {'ID': '1TQKEwq4y9SkNciJuisE1m', 'Title': 'Evenstar', 'Artists': ['Howard Shore', 'Isabel Bayrakdarian'], 'Duration': 195.6}
 {'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat', 'Jean-Yves Thibaudet'], 'Duration': 117.673}
+{'ID': '6VQvzfRihfAUoGk3Ow7yvI', 'Title': 'Fade to Black', 'Artists': ['Gamazda'], 'Duration': 334.751}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '572UQcXPzBCvN7xWzrkcQk', 'Title': 'False God', 'Artists': ['Damjan Mravunac'], 'Duration': 237.999}
 {'ID': '7oYTWS0BEJcddgKZBkiSJq', 'Title': 'Far Over the Misty Mountains Cold', 'Artists': ['Clamavi De Profundis'], 'Duration': 463.439}
@@ -150,12 +151,14 @@
 {'ID': '5auIGLFqH9CsgC7C9o3rOu', 'Title': "Mordred's Lullaby", 'Artists': ['Heather Dale'], 'Duration': 195.2}
 {'ID': '3lqCvGWCaUmpc37b0Gbxxi', 'Title': 'My Feelings', 'Artists': ['Dan Salvato'], 'Duration': 123.332}
 {'ID': '33LC84JgLvK2KuW43MfaNq', 'Title': 'My Heart Will Go On - Love Theme from "Titanic"', 'Artists': ['Céline Dion'], 'Duration': 280.0}
+{'ID': '7h8h9VeLQ9JdmdtdN39Sye', 'Title': 'My Immortal', 'Artists': ['Gamazda'], 'Duration': 186.24}
 {'ID': '4dJvi7zRoXFW9FuyzOLlOQ', 'Title': 'My Lie', 'Artists': ['Zolik'], 'Duration': 176.039}
 {'ID': '17K665BsGXSSFzpT0LgcUj', 'Title': 'Na Vaqueros', 'Artists': ['Kuana Torres Kahele'], 'Duration': 196.692}
 {'ID': '1Ms77wvO9QAgwOI0wNILHh', 'Title': 'Nemesis - Single Edit', 'Artists': ['Mono Inc.'], 'Duration': 238.666}
 {'ID': '1VNvsvEsUpuUCbHpVop1vo', 'Title': 'Nocturne No. 2 in E-Flat Major, Op. 9 No. 2', 'Artists': ['Frédéric Chopin', 'Daniel Barenboim'], 'Duration': 273.666}
 {'ID': '3U901vTsG4a3JcLF3aVDQr', 'Title': 'Nocturne in C minor, Op. 48, No. 1', 'Artists': ['Frédéric Chopin', 'Janusz Olejniczak'], 'Duration': 349.693}
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
+{'ID': '5QBnwYx4gb1lTnaHjKqwRV', 'Title': 'Nothing Else Matters', 'Artists': ['Gamazda'], 'Duration': 337.631}
 {'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Lisa Gerrard', 'Klaus Badelt', 'Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
 {'ID': '5hGoIsMmOwF3EsDpp4nwws', 'Title': 'Oasis', 'Artists': ['Tarja'], 'Duration': 310.773}
 {'ID': '28rhYoPhcvKfedTyzhzoyp', 'Title': 'Ocean Theme (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 154.88}
@@ -306,6 +309,7 @@
 {'ID': '1tinoQpYXzpZDrb0BjK1e7', 'Title': 'Wet Hands', 'Artists': ['C418'], 'Duration': 90.0}
 {'ID': '5ozPMxbdBvXJHc0yzW8ZSW', 'Title': 'What Can I Say (feat. Sons of Sylvia)', 'Artists': ['Carrie Underwood', 'Sons Of Sylvia'], 'Duration': 237.626}
 {'ID': '2BfTod61ST4H3K9jxPg9mp', 'Title': 'What Child Is This', 'Artists': ['Lindsey Stirling'], 'Duration': 199.253}
+{'ID': '4evc7LHAzOZEuw3jb2tsR3', 'Title': "What I've Done", 'Artists': ['Gamazda'], 'Duration': 225.629}
 {'ID': '2o0bNqX8RnohqB1w2ufofZ', 'Title': 'When in Rome', 'Artists': ['Damjan Mravunac'], 'Duration': 147.0}
 {'ID': '6qpy8DE7KnkNCozXSPTYCR', 'Title': 'When the Birds Start Singing', 'Artists': ['Uppermost'], 'Duration': 280.857}
 {'ID': '4BXkf6yww23Vdju7E1fUrn', 'Title': 'Whiskey Lullaby (feat. Alison Krauss)', 'Artists': ['Brad Paisley', 'Alison Krauss'], 'Duration': 259.453}
@@ -314,6 +318,7 @@
 {'ID': '3hoG7hPzghw7U08sz18kIe', 'Title': 'Your Wisdom Grows', 'Artists': ['Damjan Mravunac'], 'Duration': 129.909}
 {'ID': '4u4t9R8Iky417ZasENaKXX', 'Title': 'Yuri on ICE', 'Artists': ['Taro Umebayashi'], 'Duration': 220.998}
 {'ID': '5SjstvcsoJ2SoVydL6wUMC', 'Title': 'Zombie', 'Artists': ['Pianoholic'], 'Duration': 188.499}
+{'ID': '7e0Mz0CfT5kWDyOoxNa0Ya', 'Title': 'Zombie', 'Artists': ['Gamazda'], 'Duration': 297.023}
 {'ID': '4ABsqceWT8Lnz2nJJBiis2', 'Title': 'charash karaa', 'Artists': ['Yat-Kha'], 'Duration': 223.76}
 {'ID': '62csCIvUUsNMT3Mhelgsa5', 'Title': 'それでも、生きてゆく - 2011年5月30日 CRESCENTE STUDIO スタジオ録音版', 'Artists': ['Nobuyuki Tsujii'], 'Duration': 198.666}
 {'ID': '3CtnuBSfdpoxHglOGGPgmU', 'Title': 'やさしさに包まれたなら', 'Artists': ['Yumi Arai'], 'Duration': 191.726}
