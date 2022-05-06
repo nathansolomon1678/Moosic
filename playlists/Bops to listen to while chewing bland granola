@@ -178,6 +178,7 @@
 {'ID': '1R49JklYBW1wSW8V671r0X', 'Title': 'Blue Mark', 'Artists': ['Altan Urag'], 'Duration': 205.546}
 {'ID': '4o9DSo7c1ICv4CtFWFSmGx', 'Title': 'Boat On The River', 'Artists': ['Styx'], 'Duration': 190.76}
 {'ID': '6l8GvAyoUZwWDgF1e4822w', 'Title': 'Bohemian Rhapsody', 'Artists': ['Queen'], 'Duration': 355.4}
+{'ID': '7tFiyTwD0nx5a1eklYtX2J', 'Title': 'Bohemian Rhapsody - Remastered 2011', 'Artists': ['Queen'], 'Duration': 354.32}
 {'ID': '6LSCPoV9jMptMnVPVwQNzW', 'Title': 'Bonetrousle (Papyrus Theme)', 'Artists': ['Tristan Laurens'], 'Duration': 124.132}
 {'ID': '0gcOnIUKIG6JF56iFUfE0p', 'Title': 'Bonita', 'Artists': ['Juanes', 'Sebastian Yatra'], 'Duration': 147.493}
 {'ID': '7xRNsqOQOgWbHV1nbXnfXN', 'Title': 'Boom Boom Pow', 'Artists': ['Black Eyed Peas'], 'Duration': 251.44}
@@ -1834,6 +1835,7 @@
 {'ID': '4FFCuJWEx69r8Azm3RI3Cw', 'Title': 'Video Game', 'Artists': ['Sufjan Stevens'], 'Duration': 255.721}
 {'ID': '6t1FIJlZWTQfIZhsGjaulM', 'Title': 'Video Killed The Radio Star', 'Artists': ['The Buggles'], 'Duration': 253.8}
 {'ID': '4U45aEWtQhrm8A5mxPaFZ7', 'Title': 'Vienna', 'Artists': ['Billy Joel'], 'Duration': 214.24}
+{'ID': '5OYTYU9NklzFgpUhSbtrTk', 'Title': 'Virgo Serena', 'Artists': ['Damjan Mravunac'], 'Duration': 91.876}
 {'ID': '0z3Sa7vtRfn4ywaHzZzBLK', 'Title': 'Visitor', 'Artists': ['Of Monsters and Men'], 'Duration': 207.226}
 {'ID': '1mea3bSkSGXuIRvnydlB5b', 'Title': 'Viva La Vida', 'Artists': ['Coldplay'], 'Duration': 242.373}
 {'ID': '4YTsQ1axezXF9S6DmX45LS', 'Title': 'Vive', 'Artists': ['José Maria Napoleón'], 'Duration': 184.813}
