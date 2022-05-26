@@ -30,6 +30,7 @@
 {'ID': '0rbDsnOgxbUWjXCe6S7xUA', 'Title': 'Asimov', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 134.266}
 {'ID': '1XmdB9Kha5e5H4PfTSmewn', 'Title': 'Atlas: Touch', 'Artists': ['Sleeping At Last'], 'Duration': 253.892}
 {'ID': '2kyEgPaAW8wdpvevPnkf0Z', 'Title': 'Ave Maria', 'Artists': ['Charles Gounod', 'Yo-Yo Ma'], 'Duration': 163.266}
+{'ID': '5F7I0CfdEnVSPlwFabMyIi', 'Title': 'Back To The Future', 'Artists': ['The Outatime Orchestra'], 'Duration': 197.333}
 {'ID': '0fpNsp2ZloNQH7ShhBKloI', 'Title': 'Bad Blood', 'Artists': ['Sleeping At Last'], 'Duration': 294.017}
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
 {'ID': '0E97LEEOz5rk6wAJr6rNI3', 'Title': "Bartram's Garden", 'Artists': ['Zachary Patel'], 'Duration': 143.0}
@@ -61,12 +62,14 @@
 {'ID': '5T7PAdJQDsPO28kcHYPROt', 'Title': 'Diamonds and Rust', 'Artists': ["Blackmore's Night"], 'Duration': 294.306}
 {'ID': '3CIobV7OH4gK6rc48g4RXC', 'Title': 'Dixit Dominus, HWV 232: Chorus "Dixit Dominus Domino meo"', 'Artists': ['George Frideric Handel', 'Vox Luminis', 'Lionel Meunier', 'Caroline Weynants', 'Jan Kullmann', 'Robert Buckland'], 'Duration': 351.653}
 {'ID': '6XPWyMTu3TZLqVBiKTXrUV', 'Title': 'Do with It as You Will', 'Artists': ['Damjan Mravunac'], 'Duration': 129.451}
+{'ID': '1W9QER6RZ0NEZhWc8jGez7', 'Title': 'Dragonland', 'Artists': ['Thomas Bergersen'], 'Duration': 311.669}
 {'ID': '1gNcPHAiVIQZmqJFJdt3ti', 'Title': 'Dry Hands', 'Artists': ['C418'], 'Duration': 68.5}
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
 {'ID': '3AnYGQ8PB3lYrA6ToVUXa3', 'Title': 'Empire of Angels', 'Artists': ['Thomas Bergersen'], 'Duration': 314.537}
 {'ID': '5pjwFYtPfSnqRuvPsFwGNr', 'Title': 'En säng av rosor', 'Artists': ['Darin'], 'Duration': 222.138}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
 {'ID': '1TQKEwq4y9SkNciJuisE1m', 'Title': 'Evenstar', 'Artists': ['Howard Shore', 'Isabel Bayrakdarian'], 'Duration': 195.6}
+{'ID': '4YimaiMBTo0jdupvfBZIEv', 'Title': 'Evil Morty Theme (For the Damaged Coda)', 'Artists': ["L'Orchestra Cinematique", 'The Blue Notes'], 'Duration': 153.824}
 {'ID': '4FnK3GEuekjYXavXPIGlmQ', 'Title': 'Extremely Loud and Incredibly Close', 'Artists': ['Alexandre Desplat', 'Jean-Yves Thibaudet'], 'Duration': 117.673}
 {'ID': '6VQvzfRihfAUoGk3Ow7yvI', 'Title': 'Fade to Black', 'Artists': ['Gamazda'], 'Duration': 334.751}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
@@ -76,6 +79,7 @@
 {'ID': '6gDt7eZjJNIkzLj9jVEBZo', 'Title': 'First Sunrise', 'Artists': ['Haru Kitamura'], 'Duration': 212.0}
 {'ID': '2k2Pwkt3Fqowcve91PiH4g', 'Title': 'Flight Of The Silverbird', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 201.793}
 {'ID': '5hPyDdVB7pCBdnsZwY3ZrB', 'Title': 'For the Dancing and the Dreaming', 'Artists': ['Erutan'], 'Duration': 173.901}
+{'ID': '34x22hY9CKf3ZoPjQwZSgc', 'Title': 'For the Win', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 132.103}
 {'ID': '0S7XIu0dn63ayGxjefd5It', 'Title': 'Forbidden Friendship', 'Artists': ['John Powell'], 'Duration': 251.093}
 {'ID': '5MlY3mwE2eQlmaYHONLTaO', 'Title': 'Forth Eorlingas', 'Artists': ['Howard Shore', 'Ben Del Maestro'], 'Duration': 195.666}
 {'ID': '59aGSe9G3GH6t7M6rHFmhi', 'Title': 'Four Seasons, Fall', 'Artists': ['Antonio Vivaldi'], 'Duration': 161.693}
@@ -133,6 +137,7 @@
 {'ID': '39zu6JGd6tvRNsqyK78RLk', 'Title': 'Love Theme From "The Godfather"', 'Artists': ['Nino Rota', 'Carlo Savina'], 'Duration': 158.96}
 {'ID': '0uFwdpkVJzpyUxlu9reTWK', 'Title': "Love's Just a Feeling (feat. Rooty)", 'Artists': ['Lindsey Stirling', 'RuthAnne'], 'Duration': 229.12}
 {'ID': '01Jce1gbb3gSPT6Ow1F1ph', 'Title': 'Lu Bing Hua', 'Artists': ['Chuantong Orchestra'], 'Duration': 216.424}
+{'ID': '5P5LGCJrCByuqgj9djXqa4', 'Title': 'Lyric Pieces, Book 9, Op. 68: Badnlat (Cradle Song)', 'Artists': ['Edvard Grieg', 'Einar Steen-Nøkleberg'], 'Duration': 131.666}
 {'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World (Feat. Michael Andrews)', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
 {'ID': '0PZJ3qdBS0rQ0GCXU0IEdn', 'Title': 'Made of Words', 'Artists': ['Damjan Mravunac'], 'Duration': 285.346}
 {'ID': '64Crrk0odVnK4lWWJzuN0P', 'Title': 'Magika', 'Artists': ['Thomas Bergersen'], 'Duration': 116.517}
@@ -171,6 +176,7 @@
 {'ID': '7yf745Koj9ts1L318LzKzw', 'Title': 'Out There', 'Artists': ['Damjan Mravunac'], 'Duration': 169.111}
 {'ID': '6MUvXrzrIDmOGp4WPe7RhN', 'Title': 'Patton: Main Title - From Patton', 'Artists': ['Jerry Goldsmith', 'Royal Scottish National Orchestra'], 'Duration': 148.666}
 {'ID': '5zhuWncJsBKrQ1HhmAKNAg', 'Title': 'Peer Gynt, Op. 23: IV. In the Hall of the Mountain King', 'Artists': ['Edvard Grieg', 'Andrew Davis', 'Philharmonia Orchestra'], 'Duration': 144.733}
+{'ID': '6P61vGO4oL9oGQbVPzon8Q', 'Title': 'Pegasus', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 269.452}
 {'ID': '3oIG1mMxt44NNMUa9QyoOa', 'Title': 'Pipe Dreams (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 54.987}
 {'ID': '03fT3OHB9KyMtGMt2zwqCT', 'Title': 'Play It Again', 'Artists': ['Luke Bryan'], 'Duration': 226.866}
 {'ID': '4IMDvjtSlnkDlpH9sRS5Iq', 'Title': 'Potomac', 'Artists': ['Fiona Astier'], 'Duration': 130.951}
@@ -179,6 +185,7 @@
 {'ID': '1YtHpYEbbfQQIyxXkdxEoW', 'Title': 'Protectors of the Earth', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 169.714}
 {'ID': '5JtTSaH8W6UVqViPgpcqTq', 'Title': "Rachel's Song", 'Artists': ['Vangelis'], 'Duration': 288.0}
 {'ID': '0185UMbrlZ18TbyzNVIuOK', 'Title': 'Raiders March (From "Raiders of the Lost Ark")', 'Artists': ['John Williams', 'Philharmonische Orchester des Staatstheaters Cottbus', 'Evan Christ'], 'Duration': 311.773}
+{'ID': '1UQshomMs9KUJIIC7SKEWl', 'Title': 'Requiem for a Dream', 'Artists': ['Jennifer Thomas'], 'Duration': 213.933}
 {'ID': '3vcrPfoTYmqrARCwgabvJi', 'Title': 'Requiem for a Thousand Dreams', 'Artists': ['Gianmarco Leone'], 'Duration': 219.608}
 {'ID': '1eEqg0aPf3BoaBl0I4Tuln', 'Title': 'Retro Funky - Sundance Remix', 'Artists': ['Perséphone'], 'Duration': 213.391}
 {'ID': '47ZWr1Nb0PUgmKgyg5JkgO', 'Title': 'River Flows In You - Original', 'Artists': ['Yiruma'], 'Duration': 185.527}
@@ -189,6 +196,7 @@
 {'ID': '1ylQ1wAkNZ3DC55WcpK95k', 'Title': 'Sanctuary', 'Artists': ['Damjan Mravunac'], 'Duration': 114.0}
 {'ID': '3tJjZMHLqhD8DaGgdBICnc', 'Title': 'Saturn', 'Artists': ['Sleeping At Last'], 'Duration': 289.792}
 {'ID': '1Wer5Qms3Uj4LInRrqa4yL', 'Title': 'Scarborough Fair', 'Artists': ['Dan Avidan', 'Super Guitar Bros'], 'Duration': 201.52}
+{'ID': '4FvOXcUhFu2RVyfxq1gJgH', 'Title': 'Secret Melody', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 226.906}
 {'ID': '0hyNfSzLjbpwoBdL128vJO', 'Title': 'Send Me a Peach', 'Artists': ['The Blasting Company'], 'Duration': 122.626}
 {'ID': '77Ly4ZjsYvmWUPRtxZIIPK', 'Title': 'Sepia Effect', 'Artists': ['Hiromi'], 'Duration': 401.186}
 {'ID': '4N7Xei2GGiwaTE37PIbdKV', 'Title': 'Shadow Of The Moon', 'Artists': ["Blackmore's Night"], 'Duration': 306.826}
@@ -287,7 +295,9 @@
 {'ID': '35JONQzNr6qk5OYow0C1cB', 'Title': 'Three', 'Artists': ['Sleeping At Last'], 'Duration': 247.463}
 {'ID': '0Ri1S3IyEhWvwUyPxoy2uO', 'Title': 'Thunderbrew', 'Artists': ['David Arkenstone'], 'Duration': 121.146}
 {'ID': '5GmYaJUYxUhbvPmQQnNHcr', 'Title': 'Tide', 'Artists': ['Danny Olson'], 'Duration': 212.25}
+{'ID': '6ZFbXIJkuI1dVNWvzJzown', 'Title': 'Time', 'Artists': ['Hans Zimmer'], 'Duration': 275.546}
 {'ID': '1vViUoB7DpXUX10isPj7YL', 'Title': 'Time is the Longest Distance', 'Artists': ['Danielle Fleur'], 'Duration': 124.452}
+{'ID': '4qxQreMZwLWqfrD9e2dZoz', 'Title': 'To Glory', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 275.816}
 {'ID': '59EXN4l8z9fNTTiSzrV7zQ', 'Title': 'To Seek Salvation', 'Artists': ['Damjan Mravunac'], 'Duration': 141.444}
 {'ID': '3Iz85voHSbSVJnpO6W5WXe', 'Title': 'Tonight My Sleep Will Be Restless', 'Artists': ['Alasdair Fraser', 'Paul Machlis'], 'Duration': 174.373}
 {'ID': '4g2WiijzSKzH8PApKDbadN', 'Title': 'Touch', 'Artists': ['Sleeping At Last'], 'Duration': 256.299}
