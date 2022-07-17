@@ -28,6 +28,7 @@
 {'ID': '5UWwZ5lm5PKu6eKsHAGxOk', 'Title': 'Everlong', 'Artists': ['Foo Fighters'], 'Duration': 250.546}
 {'ID': '0dqGfCMAGyDgpUAgLNOjWd', 'Title': 'Fade To Black (Remastered)', 'Artists': ['Metallica'], 'Duration': 417.226}
 {'ID': '57ebBLITHpRgRKGrlbxMZS', 'Title': 'Faithfully', 'Artists': ['Journey'], 'Duration': 267.08}
+{'ID': '5GhJIMWAw0uMLgkdbt6uMz', 'Title': 'Fallin’ (Adrenaline)', 'Artists': ["Why Don't We"], 'Duration': 216.504}
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
 {'ID': '77sMIMlNaSURUAXq5coCxE', 'Title': 'Fearless (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 241.591}
 {'ID': '0I1DJdLt9BKOb7GWmWxCjo', 'Title': 'Fields Of Gold', 'Artists': ['Sting'], 'Duration': 222.12}
@@ -39,6 +40,7 @@
 {'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
 {'ID': '01mRJG8JVQnzGpVnGhNQKC', 'Title': 'Gone Away - 2021', 'Artists': ['The Offspring'], 'Duration': 196.146}
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
+{'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
 {'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 222.091}
 {'ID': '5USZyz6dnBEn1oLsKcAKQy', 'Title': 'Hallelujah', 'Artists': ['Rufus Wainwright'], 'Duration': 248.8}
 {'ID': '4JehYebiI9JE8sR8MisGVb', 'Title': 'Halo', 'Artists': ['Beyoncé'], 'Duration': 261.64}
@@ -59,6 +61,7 @@
 {'ID': '4euAGZTszWPrriggYK0HG9', 'Title': 'Lay All Your Love On Me', 'Artists': ['ABBA'], 'Duration': 274.466}
 {'ID': '7gUpO6td4OOnu0Lf9vhcIV', 'Title': 'Lights - Single Version', 'Artists': ['Ellie Goulding'], 'Duration': 211.8}
 {'ID': '1z3ugFmUKoCzGsI6jdY4Ci', 'Title': 'Like a Prayer', 'Artists': ['Madonna'], 'Duration': 342.68}
+{'ID': '40LQiUUUKXVGyNs09lHVjW', 'Title': 'Lips Of An Angel', 'Artists': ['Hinder'], 'Duration': 261.853}
 {'ID': '3w3y8KPTfNeOKPiqUTakBh', 'Title': 'Locked out of Heaven', 'Artists': ['Bruno Mars'], 'Duration': 233.478}
 {'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '67BtfxlNbhBmCDR2L2l8qd', 'Title': 'MONTERO (Call Me By Your Name)', 'Artists': ['Lil Nas X'], 'Duration': 137.875}
@@ -92,8 +95,10 @@
 {'ID': '0RdUX4WE0fO30VnlUbDVL6', 'Title': 'Still Loving You', 'Artists': ['Scorpions'], 'Duration': 403.453}
 {'ID': '2hDopFcMjFcRi5IRpTSSyr', 'Title': 'Street Of Dreams', 'Artists': ['Rainbow'], 'Duration': 265.506}
 {'ID': '0GONea6G2XdnHWjNZd6zt3', 'Title': "Summer Of '69", 'Artists': ['Bryan Adams'], 'Duration': 216.053}
+{'ID': '2R7C9dDqv1UPycvepBFziA', 'Title': 'Superman', 'Artists': ['Taylor Swift'], 'Duration': 275.96}
 {'ID': '2gqofMRb7rtFt0DohPUi6x', 'Title': 'Sărbătoarea Nopților De Vară', 'Artists': ['O-Zone'], 'Duration': 236.053}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
+{'ID': '6ON9UuIq49xXY9GPmHIYRp', 'Title': 'The Best Day (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 245.29}
 {'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
 {'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}

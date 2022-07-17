@@ -1,3 +1,4 @@
+{'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': '', 'Artists': [''], 'Duration': 0.0}
 {'ID': '1HOlb9rdNOmy9b1Fakicjo', 'Title': '#SELFIE', 'Artists': ['The Chainsmokers'], 'Duration': 183.75}
 {'ID': '5QTxFnGygVM4jFQiBovmRo', 'Title': "(Don't Fear) The Reaper", 'Artists': ['Blue Öyster Cult'], 'Duration': 308.12}
 {'ID': '2PzU4IB8Dr6mxV3lHuaG34', 'Title': "(I Can't Get No) Satisfaction - Mono Version", 'Artists': ['The Rolling Stones'], 'Duration': 222.813}
@@ -124,6 +125,7 @@
 {'ID': '0puf9yIluy9W0vpMEUoAnN', 'Title': 'Bang Bang', 'Artists': ['Jessie J', 'Ariana Grande', 'Nicki Minaj'], 'Duration': 199.386}
 {'ID': '6rk1PaIVSAsrWh2jKAh5pE', 'Title': 'Baobabs', 'Artists': ['Regina Spektor'], 'Duration': 122.426}
 {'ID': '6L89mwZXSOwYl76YXfX13s', 'Title': 'Basket Case', 'Artists': ['Green Day'], 'Duration': 181.533}
+{'ID': '3KgIZWuC7JJOgkcGeAWbZg', 'Title': 'Battle Cry', 'Artists': ['Imagine Dragons'], 'Duration': 273.64}
 {'ID': '1hWYT0w2R0J19rlVkiez7X', 'Title': 'Battle Scars (with Guy Sebastian)', 'Artists': ['Lupe Fiasco', 'Guy Sebastian'], 'Duration': 250.32}
 {'ID': '7wWhHYZLCRuWJJvJHgcGEM', 'Title': 'Be Myself', 'Artists': ["Why Don't We"], 'Duration': 213.502}
 {'ID': '1OOtq8tRnDM8kG2gqUPjAj', 'Title': 'Beat It', 'Artists': ['Michael Jackson'], 'Duration': 258.04}
@@ -635,7 +637,6 @@
 {'ID': '3udju5u3FFn03eSfGfrWFN', 'Title': 'Gravity', 'Artists': ['Daughtry'], 'Duration': 220.933}
 {'ID': '4oa14QBfWRDfJy2agySy0L', 'Title': 'Gravity', 'Artists': ['Sara Bareilles'], 'Duration': 232.76}
 {'ID': '5AgSJiuBLkWggPsRKwykwa', 'Title': 'Green Hill Zone', 'Artists': ['Jon Batiste'], 'Duration': 174.173}
-{'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': 'Greensleaves', 'Artists': ['Lindy Carr'], 'Duration': 100.05}
 {'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
 {'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 222.091}
 {'ID': '4VeCmOb1rAEZQfH7Rlms9C', 'Title': 'Guiding Light', 'Artists': ['Mumford & Sons'], 'Duration': 217.633}
@@ -973,7 +974,7 @@
 {'ID': '5ihS6UUlyQAfmp48eSkxuQ', 'Title': 'Landslide', 'Artists': ['Fleetwood Mac'], 'Duration': 199.493}
 {'ID': '3avYqdwHKEq8beXbeWCKqJ', 'Title': 'Last Friday Night (T.G.I.F.)', 'Artists': ['Katy Perry'], 'Duration': 230.733}
 {'ID': '5W8HXMOMLtXLz0RGKUtnlZ', 'Title': 'Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage', 'Artists': ['Skylar Grey', 'Polo G', 'Mozzy', 'Eminem'], 'Duration': 257.368}
-{'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home ~ still far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
+{'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home - Still Far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
 {'ID': '6xE6ZWzK1YDDSYzqOCoQlz', 'Title': 'Last Train to London', 'Artists': ['Electric Light Orchestra'], 'Duration': 270.066}
 {'ID': '4euAGZTszWPrriggYK0HG9', 'Title': 'Lay All Your Love On Me', 'Artists': ['ABBA'], 'Duration': 274.466}
 {'ID': '5Lrgau7HgSVX01iFIkRe0F', 'Title': 'Lay All Your Love on Me', 'Artists': ['Avantasia'], 'Duration': 263.8}
@@ -1207,7 +1208,7 @@
 {'ID': '6Zyz8lsnMFpIrCTuvGurCB', 'Title': 'New Kid in Town - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 304.925}
 {'ID': '2ekn2ttSfGqwhhate0LSR0', 'Title': 'New Rules', 'Artists': ['Dua Lipa'], 'Duration': 209.32}
 {'ID': '5tVmNtMvCCABF6u2IyLLjX', 'Title': 'Next Up Forever', 'Artists': ['AJR'], 'Duration': 256.546}
-{'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See, Kevjumba & Ryan Higa'], 'Duration': 154.303}
+{'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See', 'Kevjumba', 'Ryan Higa'], 'Duration': 154.303}
 {'ID': '0DrFTaAX2srXPkuag35djb', 'Title': 'Nice To Meet Ya', 'Artists': ['Niall Horan'], 'Duration': 158.805}
 {'ID': '2bspsdHJfZf4URZsTUMW8B', 'Title': 'Night Boat to Cairo', 'Artists': ['Madness'], 'Duration': 211.226}
 {'ID': '5O2P9iiztwhomNh8xkR9lJ', 'Title': 'Night Changes', 'Artists': ['One Direction'], 'Duration': 226.6}
@@ -1426,6 +1427,7 @@
 {'ID': '7vgv8KZBSo0TPzyIWG9yzV', 'Title': 'Salt', 'Artists': ['Ava Max'], 'Duration': 180.283}
 {'ID': '2OFNudaD0TiwN4PAjLudtm', 'Title': 'Samba De Janeiro - Radio Edit', 'Artists': ['Bellini'], 'Duration': 168.447}
 {'ID': '1BZG99C7Co1r6QUC3zaS59', 'Title': 'Same Old Love', 'Artists': ['Selena Gomez'], 'Duration': 229.08}
+{'ID': '34CdKBveafYqBSzDDmUwRI', 'Title': 'Samidareyo', 'Artists': ['櫻坂46'], 'Duration': 316.413}
 {'ID': '2bbhyUWJ5VjdfI3P4PRLu2', 'Title': 'Samson', 'Artists': ['Regina Spektor'], 'Duration': 189.506}
 {'ID': '0IzF2RW5WoYTFXcnLtxfjX', 'Title': 'San Francisco', 'Artists': ['5 Seconds of Summer'], 'Duration': 259.305}
 {'ID': '5RRWirYSE08FPKD6Mx4v0V', 'Title': 'San Francisco', 'Artists': ["The Mowgli's"], 'Duration': 173.093}
@@ -1569,6 +1571,7 @@
 {'ID': '09ISyLOPeuno7kKlzdbZuq', 'Title': 'Stamp on the Ground - Radio Edit', 'Artists': ['ItaloBrothers'], 'Duration': 198.986}
 {'ID': '22UhQSbYimuCnvI0Y07gFX', 'Title': 'Stand - Remastered', 'Artists': ['R.E.M.'], 'Duration': 192.96}
 {'ID': '3kSXn1osC89W8JcPLozTzs', 'Title': 'Stand By You', 'Artists': ['Rachel Platten'], 'Duration': 219.0}
+{'ID': '502oVRqbvjsMlrT4hthQuJ', 'Title': 'Star Lighting', 'Artists': ['鄭智化', 'Weng Wei-Ming'], 'Duration': 302.986}
 {'ID': '06AMpcajziFnEKniV25fiU', 'Title': 'Star Sky', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 330.579}
 {'ID': '7a9UUo3zfID7Ik2fTQjRLi', 'Title': 'Star Wars (Main Theme)', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 346.933}
 {'ID': '3skn2lauGk7Dx6bVIt5DVj', 'Title': 'Starlight', 'Artists': ['Muse'], 'Duration': 240.213}
@@ -1804,13 +1807,14 @@
 {'ID': '7xex78pjGHt9FnXgIWHe24', 'Title': 'This December', 'Artists': ['Ricky Montgomery'], 'Duration': 181.92}
 {'ID': '4NBTZtAt1F13VvlSKe6KTl', 'Title': 'This Feeling', 'Artists': ['The Chainsmokers', 'Kelsea Ballerini'], 'Duration': 197.946}
 {'ID': '2T3jgoAMbBXiMMD8pSc6QL', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
-{'ID': '0azC730Exh71aQlOt9Zj3y', 'Title': 'This Is What You Came For (feat. Rihanna)', 'Artists': ['Calvin Harris', 'Rihanna'], 'Duration': 222.16}
+{'ID': '0azC730Exh71aQlOt9Zj3y', 'Title': 'This Is What You Came For', 'Artists': ['Calvin Harris', 'Rihanna'], 'Duration': 222.16}
 {'ID': '3ZjrfGcb3A2PMGA1vRNgSk', 'Title': 'This Land is Your Land', 'Artists': ['Woody Guthrie'], 'Duration': 139.693}
 {'ID': '5zF2zGPkL6Ipsn9AfAK6RP', 'Title': 'This Love', 'Artists': ['Maroon 5'], 'Duration': 206.2}
 {'ID': '01CnYyPXMFRzOFVQBU8WMb', 'Title': "This One's for the Girls", 'Artists': ['Martina McBride'], 'Duration': 243.16}
 {'ID': '0qvzXomUDJVaUboy2wMfiS', 'Title': 'This Town', 'Artists': ['Niall Horan'], 'Duration': 232.852}
 {'ID': '2M1Qc1mGSI1IYtmJzQtfPq', 'Title': 'This Year', 'Artists': ['The Mountain Goats'], 'Duration': 232.893}
 {'ID': '18GC3F8YPGB8CePXcTUizQ', 'Title': 'Thnks fr th Mmrs', 'Artists': ['Fall Out Boy'], 'Duration': 203.506}
+{'ID': '2MwjcKcekaSQyecQVkmGEw', 'Title': 'Those Bygone Years', 'Artists': ['Hu Xia'], 'Duration': 371.08}
 {'ID': '0ubSjzU3MulgARydsofGgt', 'Title': 'Those Canaan Days', 'Artists': ["Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'"], 'Duration': 196.706}
 {'ID': '6NmdCdQGOBVxVLIIJdPw3z', 'Title': 'Those Were the Days - Official 1977 Rerecording', 'Artists': ['Mary Hopkin'], 'Duration': 301.29}
 {'ID': '35zrlBOjpfDPMcZzglWOuV', 'Title': 'Thought Contagion', 'Artists': ['Muse'], 'Duration': 206.098}
@@ -2145,11 +2149,8 @@
 {'ID': '185Wm4Mx09dQG0fUktklDm', 'Title': 'ラブレター', 'Artists': ['YOASOBI'], 'Duration': 212.4}
 {'ID': '1jw992uwXhqJJ0H42ucTRL', 'Title': 'ルージュの伝言', 'Artists': ['Yumi Arai'], 'Duration': 182.8}
 {'ID': '0zqwz1o4l4ltQUxgjyU4oa', 'Title': '中央フリーウェイ', 'Artists': ['Yumi Arai'], 'Duration': 219.466}
-{'ID': '34CdKBveafYqBSzDDmUwRI', 'Title': '五月雨よ', 'Artists': ['櫻坂46'], 'Duration': 316.413}
 {'ID': '1v9YGbg2p7Q9Xjs2nr9QMH', 'Title': '卒業写真', 'Artists': ['Yumi Arai'], 'Duration': 251.597}
 {'ID': '3dPtXHP0oXQ4HCWHsOA9js', 'Title': '夜に駆ける', 'Artists': ['YOASOBI'], 'Duration': 261.013}
-{'ID': '502oVRqbvjsMlrT4hthQuJ', 'Title': '星星點燈', 'Artists': ['鄭智化', 'Weng Wei-Ming'], 'Duration': 302.986}
 {'ID': '0qow1ioAiifBQrPOOxYyUE', 'Title': '花心', 'Artists': ['Wakin Chau'], 'Duration': 230.173}
-{'ID': '2MwjcKcekaSQyecQVkmGEw', 'Title': '那些年', 'Artists': ['Hu Xia'], 'Duration': 371.08}
 {'ID': '6N0VevaUkRp3rKPAuQB1D2', 'Title': '靴ずれ', 'Artists': ['Hiroaki Tsutsumi'], 'Duration': 153.613}
 {'ID': '4qzBepJAKtYu4T1GDtBZZc', 'Title': '눈,코,입 (Eyes, Nose, Lips)', 'Artists': ['TAEYANG'], 'Duration': 229.989}

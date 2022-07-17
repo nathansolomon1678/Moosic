@@ -46,7 +46,7 @@
 {'ID': '2SpEHTbUuebeLkgs9QB7Ue', 'Title': 'Jolene', 'Artists': ['Dolly Parton'], 'Duration': 161.533}
 {'ID': '6ZOBP3NvffbU4SZcrnt1k6', 'Title': 'Kryptonite', 'Artists': ['3 Doors Down'], 'Duration': 233.933}
 {'ID': '2oNYsdCasRRlz1shXFAz7D', 'Title': 'LOST IN THE ECHO', 'Artists': ['Linkin Park'], 'Duration': 205.12}
-{'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home ~ still far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
+{'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home - Still Far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
 {'ID': '02JIdsrod3BYucThfUFDUX', 'Title': 'Le Festin', 'Artists': ['Camille', 'Michael Giacchino'], 'Duration': 170.786}
 {'ID': '6bvxtoiGMI7DmtvcF40BsI', 'Title': 'Leaves from the Vine', 'Artists': ['Samuel Kim'], 'Duration': 192.023}
 {'ID': '1Knctxx9vGZxpZfF66BIEa', 'Title': 'Legends', 'Artists': ['Juice WRLD'], 'Duration': 191.84}
@@ -68,7 +68,7 @@
 {'ID': '4UzVcXufOhGUwF56HT7b8M', 'Title': 'My Immortal', 'Artists': ['Evanescence'], 'Duration': 262.533}
 {'ID': '4dJvi7zRoXFW9FuyzOLlOQ', 'Title': 'My Lie', 'Artists': ['Zolik'], 'Duration': 176.039}
 {'ID': '17K665BsGXSSFzpT0LgcUj', 'Title': 'Na Vaqueros', 'Artists': ['Kuana Torres Kahele'], 'Duration': 196.692}
-{'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See, Kevjumba & Ryan Higa'], 'Duration': 154.303}
+{'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See', 'Kevjumba', 'Ryan Higa'], 'Duration': 154.303}
 {'ID': '0Dv4DdNy1xnhNcCd9YVoiH', 'Title': 'No Good in Goodbye', 'Artists': ['The Script'], 'Duration': 307.68}
 {'ID': '6j7hih15xG2cdYwIJnQXsq', 'Title': 'Not Over You', 'Artists': ['Gavin DeGraw'], 'Duration': 218.52}
 {'ID': '10igKaIKsSB6ZnWxPxPvKO', 'Title': 'Nothing Else Matters', 'Artists': ['Metallica'], 'Duration': 388.733}
