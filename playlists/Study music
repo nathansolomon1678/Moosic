@@ -41,6 +41,7 @@
 {'ID': '1No2I2TNhCXDNovL5O7ang', 'Title': 'Black Blade', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 185.828}
 {'ID': '2jn89xTHIVsy167uOmAewt', 'Title': 'Blackheart', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 266.365}
 {'ID': '5DIFAFm7VteT2fqytXJzjP', 'Title': 'Blessed and Beloved', 'Artists': ['Damjan Mravunac'], 'Duration': 109.775}
+{'ID': '2mLBU9iDyNXXCFpHcuMal9', 'Title': 'Brain Damage', 'Artists': ['Ramin Djawadi'], 'Duration': 235.096}
 {'ID': '5gHwf3DYciXuoFWstFswKj', 'Title': 'Breathe', 'Artists': ['Jonny Diaz'], 'Duration': 213.08}
 {'ID': '23TXSzmuErPA3CAPsE2bme', 'Title': 'Breathe', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 175.482}
 {'ID': '2fZlFi5a86CFPT0Xd96ns5', 'Title': 'Breathe, Be Happy', 'Artists': ['Tep No'], 'Duration': 159.699}
@@ -146,7 +147,7 @@
 {'ID': '0uFwdpkVJzpyUxlu9reTWK', 'Title': "Love's Just a Feeling (feat. Rooty)", 'Artists': ['Lindsey Stirling', 'RuthAnne'], 'Duration': 229.12}
 {'ID': '01Jce1gbb3gSPT6Ow1F1ph', 'Title': 'Lu Bing Hua', 'Artists': ['Chuantong Orchestra'], 'Duration': 216.424}
 {'ID': '5P5LGCJrCByuqgj9djXqa4', 'Title': 'Lyric Pieces, Book 9, Op. 68: Badnlat (Cradle Song)', 'Artists': ['Edvard Grieg', 'Einar Steen-Nøkleberg'], 'Duration': 131.666}
-{'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World (Feat. Michael Andrews)', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
+{'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
 {'ID': '0PZJ3qdBS0rQ0GCXU0IEdn', 'Title': 'Made of Words', 'Artists': ['Damjan Mravunac'], 'Duration': 285.346}
 {'ID': '64Crrk0odVnK4lWWJzuN0P', 'Title': 'Magika', 'Artists': ['Thomas Bergersen'], 'Duration': 116.517}
 {'ID': '2q6fxAvSpqXR4jx9Ne7RGz', 'Title': 'Main Title - From The "Game Of Thrones" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 106.28}
@@ -295,6 +296,7 @@
 {'ID': '0fOTCN0To4R49FDEHCQ6iC', 'Title': 'The Office (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 35.552}
 {'ID': '3vJ9pe1kE3aEVro4Z4NR3Q', 'Title': 'The Office Theme (from The Office)', 'Artists': ['Southern Creek Players'], 'Duration': 64.557}
 {'ID': '691isjSlqyxPfC2VPbhdrf', 'Title': 'The Olympic Spirit', 'Artists': ['John Williams', 'Boston Pops Orchestra'], 'Duration': 247.04}
+{'ID': '59Id4KrBWiizuq53doxWtp', 'Title': 'The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity', 'Artists': ['Gustav Holst', 'Berliner Philharmoniker', 'Herbert von Karajan'], 'Duration': 456.0}
 {'ID': '2WFlUh3vI3duc27xe7miox', 'Title': 'The Road Goes Ever On..., Pt. 2 / "In Dreams" (feat. Edward Ross)', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 221.226}
 {'ID': '2VzJH2QeNO1PiZwXZMvx7g', 'Title': 'The Shape Of Water', 'Artists': ['Alexandre Desplat'], 'Duration': 222.573}
 {'ID': '7lhWzYkDPmCgIMyP5VChZ9', 'Title': 'The Sigils of Our Name', 'Artists': ['Damjan Mravunac'], 'Duration': 152.0}
@@ -305,11 +307,10 @@
 {'ID': '3BwZmOr7iuanTmra5OzuBa', 'Title': 'The Worlds of My Garden Are Many', 'Artists': ['Damjan Mravunac'], 'Duration': 169.099}
 {'ID': '2TZbQZXOuR8osP2AK8yYMN', 'Title': 'Theme From Jurassic Park', 'Artists': ['John Williams'], 'Duration': 207.426}
 {'ID': '42gZM6AQ9BDMaTyTmMDVlN', 'Title': "Theme From Schindler's List", 'Artists': ['John Williams', 'Itzhak Perlman', 'Boston Symphony Orchestra'], 'Duration': 255.693}
-{'ID': '2MwjcKcekaSQyecQVkmGEw', 'Title': 'Those Bygone Years', 'Artists': ['Hu Xia'], 'Duration': 371.08}
 {'ID': '35JONQzNr6qk5OYow0C1cB', 'Title': 'Three', 'Artists': ['Sleeping At Last'], 'Duration': 247.463}
 {'ID': '0Ri1S3IyEhWvwUyPxoy2uO', 'Title': 'Thunderbrew', 'Artists': ['David Arkenstone'], 'Duration': 121.146}
 {'ID': '5GmYaJUYxUhbvPmQQnNHcr', 'Title': 'Tide', 'Artists': ['Danny Olson'], 'Duration': 212.25}
-{'ID': '6ZFbXIJkuI1dVNWvzJzown', 'Title': 'Time', 'Artists': ['Hans Zimmer'], 'Duration': 275.546}
+{'ID': '6ZFbXIJkuI1dVNWvzJzown', 'Title': 'Time', 'Artists': ['Hans Zimmer'], 'Duration': 275.556}
 {'ID': '1vViUoB7DpXUX10isPj7YL', 'Title': 'Time is the Longest Distance', 'Artists': ['Danielle Fleur'], 'Duration': 124.452}
 {'ID': '4qxQreMZwLWqfrD9e2dZoz', 'Title': 'To Glory', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 275.816}
 {'ID': '59EXN4l8z9fNTTiSzrV7zQ', 'Title': 'To Seek Salvation', 'Artists': ['Damjan Mravunac'], 'Duration': 141.444}
@@ -348,4 +349,5 @@
 {'ID': '4ABsqceWT8Lnz2nJJBiis2', 'Title': 'charash karaa', 'Artists': ['Yat-Kha'], 'Duration': 223.76}
 {'ID': '62csCIvUUsNMT3Mhelgsa5', 'Title': 'それでも、生きてゆく - 2011年5月30日 CRESCENTE STUDIO スタジオ録音版', 'Artists': ['Nobuyuki Tsujii'], 'Duration': 198.666}
 {'ID': '3CtnuBSfdpoxHglOGGPgmU', 'Title': 'やさしさに包まれたなら', 'Artists': ['Yumi Arai'], 'Duration': 191.726}
+{'ID': '2MwjcKcekaSQyecQVkmGEw', 'Title': '那些年', 'Artists': ['Hu Xia'], 'Duration': 371.08}
 {'ID': '6N0VevaUkRp3rKPAuQB1D2', 'Title': '靴ずれ', 'Artists': ['Hiroaki Tsutsumi'], 'Duration': 153.613}
