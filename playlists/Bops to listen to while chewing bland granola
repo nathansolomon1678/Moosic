@@ -98,7 +98,7 @@
 {'ID': '57RA3JGafJm5zRtKJiKPIm', 'Title': 'Are You Bored Yet? (feat. Clairo)', 'Artists': ['Wallows', 'Clairo'], 'Duration': 178.0}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
 {'ID': '7kBZa4WCbZGkJzi2gCr401', 'Title': 'Army of Angels', 'Artists': ['The Script'], 'Duration': 238.2}
-{'ID': '7CvOnbFdnIoXMQ4eFCo5lB', 'Title': 'Around the World (La La La La La) - Radio Version', 'Artists': ['A Touch Of Class', 'Peter Könemann'], 'Duration': 214.533}
+{'ID': '7CvOnbFdnIoXMQ4eFCo5lB', 'Title': 'Around the World (La La La La La) - Radio Version', 'Artists': ['A Touch Of Class', 'Pete Konemann'], 'Duration': 214.533}
 {'ID': '0aueluj36PA9LNoj7d9SFb', 'Title': 'Arto', 'Artists': ['System Of A Down'], 'Duration': 133.573}
 {'ID': '4Dvkj6JhhA12EX05fT7y2e', 'Title': 'As It Was', 'Artists': ['Harry Styles'], 'Duration': 167.303}
 {'ID': '0pwYLVXVknPSGUQb39cePC', 'Title': 'As Long As You Love Me', 'Artists': ['Justin Bieber', 'Big Sean'], 'Duration': 229.466}
@@ -1632,6 +1632,7 @@
 {'ID': '1znGxpojJSjxZZEWA5zWva', 'Title': 'Still Counting', 'Artists': ['Volbeat'], 'Duration': 261.813}
 {'ID': '6N22FZs2ZhPBYi3b9XPajV', 'Title': "Still Don't Know My Name", 'Artists': ['Labrinth'], 'Duration': 153.294}
 {'ID': '0RdUX4WE0fO30VnlUbDVL6', 'Title': 'Still Loving You', 'Artists': ['Scorpions'], 'Duration': 403.453}
+{'ID': '4DykSkUjvuzGvVfskX2qxW', 'Title': 'Still Loving You', 'Artists': ['Gamazda'], 'Duration': 310.315}
 {'ID': '1yjY7rpaAQvKwpdUliHx0d', 'Title': 'Still into You', 'Artists': ['Paramore'], 'Duration': 216.013}
 {'ID': '5jsw9uXEGuKyJzs0boZ1bT', 'Title': 'Stitches', 'Artists': ['Shawn Mendes'], 'Duration': 206.88}
 {'ID': '6vECYJHxYmm3Ydt3fF01pE', 'Title': 'Stolen Dance', 'Artists': ['Milky Chance'], 'Duration': 313.684}
@@ -1795,6 +1796,7 @@
 {'ID': '2pE0CMK1fE3mfU0eEOHhKw', 'Title': 'The Mother We Share', 'Artists': ['CHVRCHES'], 'Duration': 191.293}
 {'ID': '18asYwWugKjjsihZ0YvRxO', 'Title': 'The Motto', 'Artists': ['Tiësto', 'Ava Max'], 'Duration': 164.818}
 {'ID': '5byUll2f3Zgnli3wJPoKRL', 'Title': "The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture", 'Artists': ['Andrew Lloyd Webber', 'Gerard Butler'], 'Duration': 342.026}
+{'ID': '1aDklx1GaBqHFowCzz63wU', 'Title': 'The Night King', 'Artists': ['Ramin Djawadi'], 'Duration': 530.532}
 {'ID': '0QZ5yyl6B6utIWkxeBDxQN', 'Title': 'The Night We Met', 'Artists': ['Lord Huron'], 'Duration': 208.211}
 {'ID': '0ct6r3EGTcMLPtrXHDvVjc', 'Title': 'The Nights', 'Artists': ['Avicii'], 'Duration': 176.658}
 {'ID': '0fOTCN0To4R49FDEHCQ6iC', 'Title': 'The Office (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 35.552}
