@@ -1,4 +1,3 @@
-{'ID': '0EChOlLf124aJR7AZH8t7c', 'Title': '', 'Artists': [''], 'Duration': 0.0}
 {'ID': '6oWacAPUt8LMXqRkEk2MNg', 'Title': '1812 Overture', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Royal Philharmonic Orchestra', 'Philip Ellis'], 'Duration': 955.0}
 {'ID': '0y6DSMwFO6cLKN1XB85cGV', 'Title': 'A Day Without Rain', 'Artists': ['Enya'], 'Duration': 156.88}
 {'ID': '3Y9hKhFyg5BrSS8dMU075B', 'Title': 'A Huge Tree in the Tsukamori Forest', 'Artists': ['Joe Hisaishi'], 'Duration': 135.093}
@@ -66,7 +65,7 @@
 {'ID': '69mGHL6ZAsChKeYBGwrURd', 'Title': 'Dark Haired Boy', 'Artists': ['Barrage'], 'Duration': 223.72}
 {'ID': '6buHoQU9OTdbJrAuniVwGL', 'Title': 'Davy Jones', 'Artists': ['Hans Zimmer'], 'Duration': 195.24}
 {'ID': '2dtcNplc1W8GFAo9LPzLri', 'Title': 'Dear Wormwood', 'Artists': ['The Oh Hellos'], 'Duration': 316.066}
-{'ID': '5T7PAdJQDsPO28kcHYPROt', 'Title': 'Diamonds and Rust', 'Artists': ["Blackmore's Night"], 'Duration': 294.306}
+{'ID': '4O0sGJdqpHMaWz7KoVd7tb', 'Title': 'Diamonds And Rust', 'Artists': ['Joan Baez'], 'Duration': 286.106}
 {'ID': '3CIobV7OH4gK6rc48g4RXC', 'Title': 'Dixit Dominus, HWV 232: Chorus "Dixit Dominus Domino meo"', 'Artists': ['George Frideric Handel', 'Vox Luminis', 'Lionel Meunier', 'Caroline Weynants', 'Jan Kullmann', 'Robert Buckland'], 'Duration': 351.653}
 {'ID': '6XPWyMTu3TZLqVBiKTXrUV', 'Title': 'Do with It as You Will', 'Artists': ['Damjan Mravunac'], 'Duration': 129.451}
 {'ID': '1W9QER6RZ0NEZhWc8jGez7', 'Title': 'Dragonland', 'Artists': ['Thomas Bergersen'], 'Duration': 311.669}
