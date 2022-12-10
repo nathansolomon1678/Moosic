@@ -22,6 +22,7 @@
 {'ID': '129lYDVKnWtlJc2PZJviuA', 'Title': 'A Dios Le Pido', 'Artists': ['Juanes'], 'Duration': 205.373}
 {'ID': '54eZmuggBFJbV7k248bTTt', 'Title': 'A Horse with No Name', 'Artists': ['America', 'George Martin'], 'Duration': 252.239}
 {'ID': '1vPEPhmGDnp8RR6GCBozaa', 'Title': 'A Lannister Always Pays His Debts', 'Artists': ['Ramin Djawadi'], 'Duration': 170.56}
+{'ID': '5qspeKX1xBacLJMm2t3Yc0', 'Title': "A Lot's Gonna Change", 'Artists': ['Weyes Blood'], 'Duration': 261.946}
 {'ID': '73OX8GdpOeGzKC6OvGSbsv', 'Title': 'A Place in this World', 'Artists': ['Taylor Swift'], 'Duration': 199.2}
 {'ID': '0FDzzruyVECATHXKHFs9eJ', 'Title': 'A Sky Full of Stars', 'Artists': ['Coldplay'], 'Duration': 267.866}
 {'ID': '4w1lzcaoZ1IC2K5TwjalRP', 'Title': 'A Thousand Miles', 'Artists': ['Vanessa Carlton'], 'Duration': 237.493}
@@ -75,6 +76,7 @@
 {'ID': '1JCCdiru7fhstOIF4N7WJC', 'Title': 'Amnesia', 'Artists': ['5 Seconds of Summer'], 'Duration': 237.247}
 {'ID': '6MubsJeQrVa0k7lJSxcdaM', 'Title': 'And We Run', 'Artists': ['Within Temptation', 'Xzibit'], 'Duration': 230.067}
 {'ID': '23WI5V2eD4EyGKxSl7Pyeq', 'Title': 'Andas En Mi Cabeza', 'Artists': ['Chino & Nacho', 'Daddy Yankee'], 'Duration': 247.493}
+{'ID': '51EMSRpNm9Rg5rGViVCczv', 'Title': 'Andromeda', 'Artists': ['Weyes Blood'], 'Duration': 280.186}
 {'ID': '2qJkesdHu9sMMVFgkRkqhQ', 'Title': 'Angel', 'Artists': ['Theory of a Deadman'], 'Duration': 202.213}
 {'ID': '5o0xOQhYxr3KqYn4cRE6Ed', 'Title': "Angel Of Music - From 'The Phantom Of The Opera' Motion Picture", 'Artists': ['Andrew Lloyd Webber', 'Gerard Butler', 'Jennifer Ellison', 'Emmy Rossum'], 'Duration': 163.666}
 {'ID': '49rpdsNYJirTTf6p6mMvag', 'Title': 'Angel With A Shotgun', 'Artists': ['The Cab'], 'Duration': 221.386}
@@ -718,6 +720,7 @@
 {'ID': '556IN8IgPqZORjhmlyAXaP', 'Title': 'Heartbreak Girl', 'Artists': ['5 Seconds of Summer'], 'Duration': 198.374}
 {'ID': '22ML0MuFKfw16WejbxsLOy', 'Title': 'Heartbreaker', 'Artists': ['Pat Benatar'], 'Duration': 209.36}
 {'ID': '4QaxyJsbo5AR3bnEB7ko8h', 'Title': 'Heartless Madness', 'Artists': ['Dynazty'], 'Duration': 239.866}
+{'ID': '1FcUc6un64dEBZ53iFuO6M', 'Title': 'Hearts Aglow', 'Artists': ['Weyes Blood'], 'Duration': 349.213}
 {'ID': '02oT3HvcsXD64VwOBtH8yM', 'Title': 'Hearts on Fire', 'Artists': ['ILLENIUM', 'Dabin', 'Lights'], 'Duration': 236.317}
 {'ID': '3USxtqRwSYz57Ewm6wWRMp', 'Title': 'Heat Waves', 'Artists': ['Glass Animals'], 'Duration': 238.805}
 {'ID': '6i0V12jOa3mr6uu4WYhUBr', 'Title': 'Heathens', 'Artists': ['Twenty One Pilots'], 'Duration': 195.92}
@@ -1366,6 +1369,7 @@
 {'ID': '3hb2ScEVkGchcAQqrPLP0R', 'Title': 'Photograph', 'Artists': ['Nickelback'], 'Duration': 258.92}
 {'ID': '3AzjcOeAmA57TIOr9zF1ZW', 'Title': 'Physical', 'Artists': ['Dua Lipa'], 'Duration': 193.829}
 {'ID': '70C4NyhjD5OZUMzvWZ3njJ', 'Title': 'Piano Man', 'Artists': ['Billy Joel'], 'Duration': 339.0}
+{'ID': '6Jy6p1xGv0n4c5hH0CH3VP', 'Title': 'Picture Me Better', 'Artists': ['Weyes Blood'], 'Duration': 221.88}
 {'ID': '32mVHdy0bi1XKgr0ajsBlG', 'Title': 'Picture To Burn', 'Artists': ['Taylor Swift'], 'Duration': 173.066}
 {'ID': '3KbFtYPyVP6C7BQVgH2cCf', 'Title': 'Piece by Piece - Idol Version', 'Artists': ['Kelly Clarkson'], 'Duration': 212.28}
 {'ID': '4XqCiPFWwAwGEI7yiq0LvK', 'Title': 'Play With Fire', 'Artists': ['Nico Santos'], 'Duration': 213.933}
@@ -1939,6 +1943,7 @@
 {'ID': '6T27IN7Ai94BeDv6PPCmoC', 'Title': 'Turn Me On (feat. Nicki Minaj)', 'Artists': ['David Guetta', 'Nicki Minaj'], 'Duration': 199.68}
 {'ID': '2TziLOnBMT8kDVo2LA1X6t', 'Title': 'Turn the Beat Around - Single Version', 'Artists': ['Vicki Sue Robinson'], 'Duration': 252.373}
 {'ID': '2kfGoV9a5dbSKCNmUWH2ZF', 'Title': 'Turning Page', 'Artists': ['Sleeping At Last'], 'Duration': 255.893}
+{'ID': '2HZasNmIAzprwJjFLPoSGM', 'Title': 'Twin Flame', 'Artists': ['Weyes Blood'], 'Duration': 262.4}
 {'ID': '5ZBeML7Lf3FMEVviTyvi8l', 'Title': 'Twist And Shout - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 155.226}
 {'ID': '2n0U2OG5d6TuW5mKx7YrC0', 'Title': 'Two Birds', 'Artists': ['Regina Spektor'], 'Duration': 195.84}
 {'ID': '4ePP9So5xRzspjLFVVbj90', 'Title': 'Two Princes', 'Artists': ['Spin Doctors'], 'Duration': 256.348}
