@@ -59,6 +59,7 @@
 {'ID': '6lV2MSQmRIkycDScNtrBXO', 'Title': 'Airplanes (feat. Hayley Williams of Paramore)', 'Artists': ['B.o.B', 'Hayley Williams'], 'Duration': 180.48}
 {'ID': '4LcBPS0aOSrQ4trRwFli3t', 'Title': 'Airship Pirate', 'Artists': ['Abney Park'], 'Duration': 242.146}
 {'ID': '1HHeOs6zRdF8Ck58easiAY', 'Title': 'Alejandro', 'Artists': ['Lady Gaga'], 'Duration': 274.213}
+{'ID': '23CsjGOYDQiJpX44BSn9TM', 'Title': 'Aleluya', 'Artists': ['Reik', 'Manuel Turizo'], 'Duration': 158.48}
 {'ID': '4TTV7EcfroSLWzXRY6gLv6', 'Title': 'Alexander Hamilton', 'Artists': ['Leslie Odom Jr.', 'Daveed Diggs', 'Okieriete Onaodowan', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Christopher Jackson', 'Original Broadway Cast of Hamilton', 'Anthony Ramos'], 'Duration': 236.737}
 {'ID': '7f0vVL3xi4i78Rv5Ptn2s1', 'Title': 'Algorithm', 'Artists': ['Muse'], 'Duration': 245.96}
 {'ID': '0LcFrxxDabPkeqGugkYtnc', 'Title': 'Alkogol-Nikotin', 'Artists': ['Ivan Ivanovich & The Kreml Krauts'], 'Duration': 177.866}
@@ -724,7 +725,7 @@
 {'ID': '2lwwrWVKdf3LR9lbbhnr6R', 'Title': 'Float On', 'Artists': ['Modest Mouse'], 'Duration': 208.466}
 {'ID': '3e0FzZjTXOUtiJGSClOBrI', 'Title': 'Fly Like An Eagle', 'Artists': ['Steve Miller Band'], 'Duration': 282.693}
 {'ID': '1PVTvvxpSkyJWemW1CwVVk', 'Title': 'Fly Me To The Moon', 'Artists': ['Frank Sinatra'], 'Duration': 148.866}
-{'ID': '4J9mulgiRlkkgdAONNVGQv', 'Title': 'Flying Theme (From "E.T. the Extra-Terrestrial")', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 222.773}
+{'ID': '4hbNZBElPjwCdfzYkJcTR2', 'Title': 'Flying Theme - From "E.T"', 'Artists': ['John Williams', 'London Symphony Orchestra', 'Gavin Greenaway'], 'Duration': 245.8}
 {'ID': '0WJTdVboKc2KI1DzzAWyYM', 'Title': 'Foil', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 142.946}
 {'ID': '2RMWA3mvD4nxBR1sGF7wRp', 'Title': 'Follow The Leader', 'Artists': ['Wisin & Yandel', 'Jennifer Lopez'], 'Duration': 240.32}
 {'ID': '375kzpRydDdOxOSCGMK53b', 'Title': 'Follow You', 'Artists': ['Imagine Dragons'], 'Duration': 175.643}
@@ -2386,7 +2387,7 @@
 {'ID': '4VySpxhRGy32u5zPCprzDn', 'Title': 'Too Close', 'Artists': ['Alex Clare'], 'Duration': 256.613}
 {'ID': '5YNMaSAw19NViXVpp90BLq', 'Title': 'Torikago (Darling in the Franxx) Ending 1', 'Artists': ['Berioska'], 'Duration': 220.0}
 {'ID': '2GdxQw8NwoeH8tKySg6nym', 'Title': 'Torn', 'Artists': ['Ava Max'], 'Duration': 198.005}
-{'ID': '0KDaN0HL3TcJVTbXlQCEsS', 'Title': 'Torn', 'Artists': ['Natalie Imbruglia'], 'Duration': 244.666}
+{'ID': '1Jaah2tmN9Hv81A87KZ1MU', 'Title': 'Torn', 'Artists': ['Natalie Imbruglia'], 'Duration': 244.666}
 {'ID': '7wuJGgpTNzbUyn26IOY6rj', 'Title': 'Total Eclipse of the Heart', 'Artists': ['Bonnie Tyler'], 'Duration': 267.36}
 {'ID': '4g2WiijzSKzH8PApKDbadN', 'Title': 'Touch', 'Artists': ['Sleeping At Last'], 'Duration': 256.299}
 {'ID': '2q85IdU5CwM6eXfE9BpPMV', 'Title': 'Touch And Go', 'Artists': ['Emerson, Lake & Powell'], 'Duration': 218.824}
