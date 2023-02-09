@@ -38,7 +38,7 @@
 {'ID': '2d6m2F4I7wCuAKtSsdhh83', 'Title': 'Famous Last Words', 'Artists': ['My Chemical Romance'], 'Duration': 299.226}
 {'ID': '2k2Pwkt3Fqowcve91PiH4g', 'Title': 'Flight Of The Silverbird', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 201.793}
 {'ID': '5jnZUl6PwWB0Maze4kDJfC', 'Title': 'Forgive Me Friend', 'Artists': ['Smith & Thell', 'Swedish Jam Factory'], 'Duration': 216.76}
-{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
+{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'AFROJACK', 'Nayer'], 'Duration': 252.306}
 {'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.48}
 {'ID': '7zpMz3am0n83WmDxVqp9GQ', 'Title': 'Hallucinations', 'Artists': ['PVRIS'], 'Duration': 223.213}
 {'ID': '7HqKaTgHVUrjHfdgtWxG3Q', 'Title': 'Halo', 'Artists': ['Deep Blue Something'], 'Duration': 164.76}
@@ -102,7 +102,6 @@
 {'ID': '0Nw8hv79MLJa1yjtsEgz08', 'Title': 'Ronan', 'Artists': ['Taylor Swift'], 'Duration': 265.306}
 {'ID': '7fLOFRCRe1c4kyoLJkNW1w', 'Title': 'Roundtable Rival', 'Artists': ['Lindsey Stirling'], 'Duration': 203.279}
 {'ID': '4gUYV3ktbaOeAK5KrXMWV5', 'Title': 'Run For Your Life - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 141.093}
-{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '1gugDOSMREb34Xo0c1PlxM', 'Title': 'She Looks So Perfect', 'Artists': ['5 Seconds of Summer'], 'Duration': 202.496}
 {'ID': '2upjcGvuiTCGSaGPZZ2dtD', 'Title': 'Show Me The Way', 'Artists': ['Styx'], 'Duration': 277.173}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
@@ -129,6 +128,7 @@
 {'ID': '28hmUctWqIPCdnMb95MtPJ', 'Title': 'The Dregs of Sobriety', 'Artists': ['No Use For A Name'], 'Duration': 164.4}
 {'ID': '6GG73Jik4jUlQCkKg9JuGO', 'Title': 'The Middle', 'Artists': ['Jimmy Eat World'], 'Duration': 165.853}
 {'ID': '0CHvs1UmxA90B2apIpbWCC', 'Title': 'The Rains of Castamere', 'Artists': ['Ramin Djawadi', 'Serj Tankian'], 'Duration': 224.305}
+{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'The Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}
 {'ID': '6nnacTL5on2aVsRhVDNUSo', 'Title': 'Through the Fire and Flames', 'Artists': ['DragonForce'], 'Duration': 441.56}
 {'ID': '4Gponum8aPxNdUuAApFd7B', 'Title': "Tonight (I'm Lovin' You)", 'Artists': ['Enrique Iglesias', 'Ludacris', 'DJ Frank E'], 'Duration': 231.293}

@@ -643,7 +643,7 @@
 {'ID': '4esOae7i4rqTbAu9o5Pxco', 'Title': 'Girl on Fire', 'Artists': ['Alicia Keys'], 'Duration': 224.92}
 {'ID': '3j36w2RY7uyBFWkcG8MKmB', 'Title': 'Girls Like You', 'Artists': ['Maroon 5'], 'Duration': 214.425}
 {'ID': '3CoD9cU1mLMJqNPh35Mrk5', 'Title': "Give It to Me I'm Worth It", 'Artists': ['Dj Trap Queen'], 'Duration': 165.198}
-{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
+{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'AFROJACK', 'Nayer'], 'Duration': 252.306}
 {'ID': '3sP3c86WFjOzHHnbhhZcLA', 'Title': 'Give Your Heart a Break', 'Artists': ['Demi Lovato'], 'Duration': 205.346}
 {'ID': '1wYJnu1hMrYMNrkXKTVrYd', 'Title': 'Gives You Hell', 'Artists': ['The All-American Rejects'], 'Duration': 213.106}
 {'ID': '5yDL13y5giogKs2fSNf7sj', 'Title': 'Glad You Came', 'Artists': ['The Wanted'], 'Duration': 197.935}
@@ -765,7 +765,7 @@
 {'ID': '4RXpgGM7A4Hg7cFBoH5KyF', 'Title': 'Hey Brother', 'Artists': ['Avicii'], 'Duration': 255.093}
 {'ID': '1XgpK29CGGjZnxPYkiRbh4', 'Title': 'Hey DJ', 'Artists': ['CNCO', 'Yandel'], 'Duration': 206.92}
 {'ID': '0aym2LBJBk9DAYuHHutrIl', 'Title': 'Hey Jude - Remastered 2015', 'Artists': ['The Beatles'], 'Duration': 425.653}
-{'ID': '5b2bu6yyATC1zMXDGScJ2d', 'Title': 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)', 'Artists': ['David Guetta', 'Afrojack', 'Bebe Rexha', 'Nicki Minaj'], 'Duration': 192.56}
+{'ID': '5b2bu6yyATC1zMXDGScJ2d', 'Title': 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)', 'Artists': ['David Guetta', 'AFROJACK', 'Bebe Rexha', 'Nicki Minaj'], 'Duration': 192.56}
 {'ID': '5G9KcZaxfCysfv4EryCB9b', 'Title': 'Hey Mickey', 'Artists': ['Toni Basil'], 'Duration': 252.885}
 {'ID': '550erGcdD9n6PnwxrvYqZT', 'Title': 'Hey Stephen (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 254.254}
 {'ID': '4RCWB3V8V0dignt99LZ8vH', 'Title': 'Hey There Delilah', 'Artists': ["Plain White T's"], 'Duration': 232.533}
@@ -840,7 +840,7 @@
 {'ID': '0No5Hr1LxZjJHGsQSTy2bm', 'Title': "I Can't Dance - 2007 Remaster", 'Artists': ['Genesis'], 'Duration': 239.613}
 {'ID': '4bZd0nRuX8HyjeXAUBczvm', 'Title': 'I Cry', 'Artists': ['Flo Rida'], 'Duration': 223.8}
 {'ID': '57BDT1bvzeAzl3IXMQU4Ri', 'Title': 'I Do, I Do, I Do, I Do, I Do', 'Artists': ['ABBA'], 'Duration': 197.893}
-{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran', 'Justin Bieber'], 'Duration': 219.946}
+{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran & Justin Bieber', 'Justin Bieber'], 'Duration': 219.946}
 {'ID': '24IdPCimVnJJDRuB5YSDiS', 'Title': "I Don't Care Anymore - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 305.706}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '4vl2zwXsTmAxgu9iY0g6UK', 'Title': "I Don't Want to Be", 'Artists': ['Gavin DeGraw'], 'Duration': 217.76}
@@ -1515,7 +1515,6 @@
 {'ID': '5UaDi8KzCGJqFfVAOBfXhi', 'Title': 'Sad But True (Remastered)', 'Artists': ['Metallica'], 'Duration': 324.6}
 {'ID': '1qeisdf8xQCWt6iyGDEBmi', 'Title': 'Safe & Sound - From The Hunger Games', 'Artists': ['David Arkenstone', 'Charlee Brooks'], 'Duration': 238.306}
 {'ID': '6Z8R6UsFuGXGtiIxiD8ISb', 'Title': 'Safe And Sound', 'Artists': ['Capital Cities'], 'Duration': 192.789}
-{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '7ueP5u2qkdZbIPN2YA6LR0', 'Title': 'Sail', 'Artists': ['AWOLNATION'], 'Duration': 259.093}
 {'ID': '0An2prSfxwrT1CIPi2T4m4', 'Title': 'Sakae in Action', 'Artists': ['Akihiko Matsumoto'], 'Duration': 186.173}
 {'ID': '7vgv8KZBSo0TPzyIWG9yzV', 'Title': 'Salt', 'Artists': ['Ava Max'], 'Duration': 180.283}
@@ -1889,6 +1888,7 @@
 {'ID': '1lHtE5JDCas1EwXhQIMOIj', 'Title': 'The Reason', 'Artists': ['Hoobastank'], 'Duration': 232.8}
 {'ID': '4zkVWdm3GnVBawyd87x4Wj', 'Title': 'The Requiem', 'Artists': ['Linkin Park'], 'Duration': 121.12}
 {'ID': '5z89FzQzTQOwSJFlMp6UFd', 'Title': 'The Sacrifice of Faramir (feat. Billy Boyd Performing "The Edge of Night")', 'Artists': ['Howard Shore', 'Billy Boyd'], 'Duration': 248.493}
+{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'The Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '74sUbOF9Zm8LdGUJjxleTl', 'Title': 'The Saga Begins (Lyrical Adaption of "American Pie")', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 328.773}
 {'ID': '71X7bPDljJHrmEGYCe7kQ8', 'Title': 'The Schuyler Sisters', 'Artists': ['Renée Elise Goldsberry', 'Phillipa Soo', 'Jasmine Cephas-Jones', 'Leslie Odom Jr.', 'Original Broadway Cast of Hamilton'], 'Duration': 186.542}
 {'ID': '75JFxkI2RXiU7L9VXzMkle', 'Title': 'The Scientist', 'Artists': ['Coldplay'], 'Duration': 309.6}
@@ -2027,6 +2027,7 @@
 {'ID': '0oc7YoWV783fGr2GbdcIrz', 'Title': 'Vacation', 'Artists': ["The Go-Go's"], 'Duration': 179.826}
 {'ID': '6EMTWm0HgzsvJiQQOqObEQ', 'Title': 'Vain Glory Opera', 'Artists': ['Edguy'], 'Duration': 370.186}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
+{'ID': '7oKMHBjWMt3CbUMb9rd7EG', 'Title': 'Vargsången', 'Artists': ['Johanna Grüssner', 'Wegeliuskvartetten', 'Patrick Wingren'], 'Duration': 242.04}
 {'ID': '3bWLBVZz9Vur3OLy05SpfF', 'Title': 'Verge', 'Artists': ['Owl City', 'Aloe Blacc'], 'Duration': 213.026}
 {'ID': '2F9xBxKbx2M0pbgtSu8fLf', 'Title': 'Victory', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 320.467}
 {'ID': '4FFCuJWEx69r8Azm3RI3Cw', 'Title': 'Video Game', 'Artists': ['Sufjan Stevens'], 'Duration': 255.721}

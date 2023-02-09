@@ -789,7 +789,7 @@
 {'ID': '4y1LsJpmMti1PfRQV9AWWe', 'Title': 'Girls Just Want to Have Fun', 'Artists': ['Cyndi Lauper'], 'Duration': 238.266}
 {'ID': '6OEHjJJvdkk1Ln0p0AZdyz', 'Title': 'Girls Like You', 'Artists': ['Maroon 5'], 'Duration': 215.229}
 {'ID': '3CoD9cU1mLMJqNPh35Mrk5', 'Title': "Give It to Me I'm Worth It", 'Artists': ['Dj Trap Queen'], 'Duration': 165.198}
-{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'Afrojack', 'Nayer'], 'Duration': 252.306}
+{'ID': '4QNpBfC0zvjKqPJcyqBy9W', 'Title': 'Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)', 'Artists': ['Pitbull', 'Ne-Yo', 'AFROJACK', 'Nayer'], 'Duration': 252.306}
 {'ID': '3sP3c86WFjOzHHnbhhZcLA', 'Title': 'Give Your Heart a Break', 'Artists': ['Demi Lovato'], 'Duration': 205.346}
 {'ID': '1wYJnu1hMrYMNrkXKTVrYd', 'Title': 'Gives You Hell', 'Artists': ['The All-American Rejects'], 'Duration': 213.106}
 {'ID': '3AGOgQzp0YcPH41u9p7dOp', 'Title': 'Glad You Came', 'Artists': ['The Wanted'], 'Duration': 198.186}
@@ -915,6 +915,7 @@
 {'ID': '6dGnYIeXmHdcikdzNNDMm2', 'Title': 'Here Comes The Sun - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 185.733}
 {'ID': '78RIER8V6EhrqVPOBi2GYa', 'Title': 'Here Comes the Rain Again - Remastered Version', 'Artists': ['Eurythmics', 'Annie Lennox', 'Dave Stewart'], 'Duration': 294.586}
 {'ID': '1qOU8KzFifXE9YrgjVwYvc', 'Title': 'Here I Go Again - 2018 Remaster', 'Artists': ['Whitesnake'], 'Duration': 275.395}
+{'ID': '3JMy4HCSvdwY6FMtvkdKfF', 'Title': 'Here We Go Again', 'Artists': ['SR-71'], 'Duration': 185.424}
 {'ID': '5icOoE6VgqFKohjWWNp0Ac', 'Title': 'Here With Me', 'Artists': ['Marshmello', 'CHVRCHES'], 'Duration': 156.346}
 {'ID': '3NLrRZoMF0Lx6zTlYqeIo4', 'Title': 'Here Without You', 'Artists': ['3 Doors Down'], 'Duration': 238.733}
 {'ID': '1rdreHH1v6kyrx2mFQvLR4', 'Title': "Here's to Never Growing Up", 'Artists': ['Avril Lavigne'], 'Duration': 214.32}
@@ -926,7 +927,7 @@
 {'ID': '4RXpgGM7A4Hg7cFBoH5KyF', 'Title': 'Hey Brother', 'Artists': ['Avicii'], 'Duration': 255.093}
 {'ID': '1XgpK29CGGjZnxPYkiRbh4', 'Title': 'Hey DJ', 'Artists': ['CNCO', 'Yandel'], 'Duration': 206.92}
 {'ID': '0aym2LBJBk9DAYuHHutrIl', 'Title': 'Hey Jude - Remastered 2015', 'Artists': ['The Beatles'], 'Duration': 425.653}
-{'ID': '5b2bu6yyATC1zMXDGScJ2d', 'Title': 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)', 'Artists': ['David Guetta', 'Afrojack', 'Bebe Rexha', 'Nicki Minaj'], 'Duration': 192.56}
+{'ID': '5b2bu6yyATC1zMXDGScJ2d', 'Title': 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)', 'Artists': ['David Guetta', 'AFROJACK', 'Bebe Rexha', 'Nicki Minaj'], 'Duration': 192.56}
 {'ID': '5G9KcZaxfCysfv4EryCB9b', 'Title': 'Hey Mickey', 'Artists': ['Toni Basil'], 'Duration': 252.885}
 {'ID': '550erGcdD9n6PnwxrvYqZT', 'Title': 'Hey Stephen (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 254.254}
 {'ID': '4RCWB3V8V0dignt99LZ8vH', 'Title': 'Hey There Delilah', 'Artists': ["Plain White T's"], 'Duration': 232.533}
@@ -1016,7 +1017,7 @@
 {'ID': '0No5Hr1LxZjJHGsQSTy2bm', 'Title': "I Can't Dance - 2007 Remaster", 'Artists': ['Genesis'], 'Duration': 239.613}
 {'ID': '4bZd0nRuX8HyjeXAUBczvm', 'Title': 'I Cry', 'Artists': ['Flo Rida'], 'Duration': 223.8}
 {'ID': '57BDT1bvzeAzl3IXMQU4Ri', 'Title': 'I Do, I Do, I Do, I Do, I Do', 'Artists': ['ABBA'], 'Duration': 197.893}
-{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran', 'Justin Bieber'], 'Duration': 219.946}
+{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran & Justin Bieber', 'Justin Bieber'], 'Duration': 219.946}
 {'ID': '24IdPCimVnJJDRuB5YSDiS', 'Title': "I Don't Care Anymore - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 305.706}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '4vl2zwXsTmAxgu9iY0g6UK', 'Title': "I Don't Want to Be", 'Artists': ['Gavin DeGraw'], 'Duration': 217.76}
@@ -1798,6 +1799,7 @@
 {'ID': '64rL48E6xWMIXdpcFDEiB8', 'Title': 'River Flows In You', 'Artists': ['Yiruma'], 'Duration': 188.786}
 {'ID': '27tNWlhdAryQY04Gb2ZhUI', 'Title': 'Roar', 'Artists': ['Katy Perry'], 'Duration': 223.546}
 {'ID': '0wdV94AXGRphrbkDWLNzVC', 'Title': 'Roaring 20s', 'Artists': ['Panic! At The Disco'], 'Duration': 186.6}
+{'ID': '09hxCc0SgV8u46gWsfeqJA', 'Title': 'Rock And Roll Music', 'Artists': ['Chuck Berry'], 'Duration': 151.773}
 {'ID': '63W11KVHDOpSlh3XMQ7qMg', 'Title': 'Rock And Roll Part II', 'Artists': ['Gary Glitter'], 'Duration': 180.6}
 {'ID': '0DfG1ltJnZyq4Tx3ZLL7ZU', 'Title': 'Rock Me Amadeus', 'Artists': ['Falco'], 'Duration': 202.236}
 {'ID': '58XWGx7KNNkKneHdprcprX', 'Title': 'Rock You Like A Hurricane', 'Artists': ['Scorpions'], 'Duration': 252.493}
@@ -1845,7 +1847,6 @@
 {'ID': '1fF2dvBsbTk2wrOEaR6f5B', 'Title': 'Sad Songs (Say So Much)', 'Artists': ['Elton John'], 'Duration': 249.226}
 {'ID': '1qeisdf8xQCWt6iyGDEBmi', 'Title': 'Safe & Sound - From The Hunger Games', 'Artists': ['David Arkenstone', 'Charlee Brooks'], 'Duration': 238.306}
 {'ID': '6Z8R6UsFuGXGtiIxiD8ISb', 'Title': 'Safe And Sound', 'Artists': ['Capital Cities'], 'Duration': 192.789}
-{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '7ueP5u2qkdZbIPN2YA6LR0', 'Title': 'Sail', 'Artists': ['AWOLNATION'], 'Duration': 259.093}
 {'ID': '5ilaeDC35aGCDaQFo8QvN7', 'Title': 'Sailing To Philadelphia - Live From Music Bank London/2011', 'Artists': ['Mark Knopfler'], 'Duration': 432.598}
 {'ID': '0An2prSfxwrT1CIPi2T4m4', 'Title': 'Sakae in Action', 'Artists': ['Akihiko Matsumoto'], 'Duration': 186.173}
@@ -2139,6 +2140,7 @@
 {'ID': '2gqofMRb7rtFt0DohPUi6x', 'Title': 'Sărbătoarea Nopților De Vară', 'Artists': ['O-Zone'], 'Duration': 236.053}
 {'ID': '5S4PZ7AuYlYiVIVik3wHUf', 'Title': 'TALES OF DOMINICA', 'Artists': ['Lil Nas X'], 'Duration': 146.005}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
+{'ID': '7exHT4swWOKL5addPeqkLP', 'Title': 'THE LONELIEST', 'Artists': ['Måneskin'], 'Duration': 247.067}
 {'ID': '6qjYBkoKcMRjQkVfwDU2Te', 'Title': 'Ta mig tillbaka', 'Artists': ['Darin'], 'Duration': 190.346}
 {'ID': '58E1XVmZTODC67YNjneuXM', 'Title': 'Tainted Love', 'Artists': ['Soft Cell'], 'Duration': 153.84}
 {'ID': '3goSVuTt3fDYDP6kRnFwuL', 'Title': 'Take A Bow', 'Artists': ['Rihanna'], 'Duration': 229.413}
@@ -2300,6 +2302,7 @@
 {'ID': '1lHtE5JDCas1EwXhQIMOIj', 'Title': 'The Reason', 'Artists': ['Hoobastank'], 'Duration': 232.8}
 {'ID': '4zkVWdm3GnVBawyd87x4Wj', 'Title': 'The Requiem', 'Artists': ['Linkin Park'], 'Duration': 121.12}
 {'ID': '5z89FzQzTQOwSJFlMp6UFd', 'Title': 'The Sacrifice of Faramir (feat. Billy Boyd Performing "The Edge of Night")', 'Artists': ['Howard Shore', 'Billy Boyd'], 'Duration': 248.493}
+{'ID': '4t5lrf5rFX6JWAUPKCDlKk', 'Title': 'The Safety Dance', 'Artists': ['Men Without Hats'], 'Duration': 165.506}
 {'ID': '74sUbOF9Zm8LdGUJjxleTl', 'Title': 'The Saga Begins (Lyrical Adaption of "American Pie")', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 328.773}
 {'ID': '71X7bPDljJHrmEGYCe7kQ8', 'Title': 'The Schuyler Sisters', 'Artists': ['Renée Elise Goldsberry', 'Phillipa Soo', 'Jasmine Cephas-Jones', 'Leslie Odom Jr.', 'Original Broadway Cast of Hamilton'], 'Duration': 186.542}
 {'ID': '75JFxkI2RXiU7L9VXzMkle', 'Title': 'The Scientist', 'Artists': ['Coldplay'], 'Duration': 309.6}
@@ -2470,6 +2473,7 @@
 {'ID': '0oc7YoWV783fGr2GbdcIrz', 'Title': 'Vacation', 'Artists': ["The Go-Go's"], 'Duration': 179.826}
 {'ID': '6EMTWm0HgzsvJiQQOqObEQ', 'Title': 'Vain Glory Opera', 'Artists': ['Edguy'], 'Duration': 370.186}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
+{'ID': '7oKMHBjWMt3CbUMb9rd7EG', 'Title': 'Vargsången', 'Artists': ['Johanna Grüssner', 'Wegeliuskvartetten', 'Patrick Wingren'], 'Duration': 242.04}
 {'ID': '4O3sAZoZDIhNRcfHNuU4Ps', 'Title': 'Venere e Marte (feat. Marco Mengoni, Frah Quintale)', 'Artists': ['Takagi & Ketra', 'Marco Mengoni', 'Frah Quintale'], 'Duration': 222.047}
 {'ID': '4XX1pFUkQOZTYp6Hb6a6Ae', 'Title': 'Venus', 'Artists': ['Bananarama'], 'Duration': 229.164}
 {'ID': '3bWLBVZz9Vur3OLy05SpfF', 'Title': 'Verge', 'Artists': ['Owl City', 'Aloe Blacc'], 'Duration': 213.026}
