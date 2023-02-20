@@ -20,7 +20,7 @@
 {'ID': '0yfNXxlyXdmP0ue1iJijx1', 'Title': 'Come Undone', 'Artists': ['Duran Duran'], 'Duration': 256.519}
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
 {'ID': '6b2oQwSGFkzsMtQruIWm2p', 'Title': 'Creep', 'Artists': ['Radiohead'], 'Duration': 238.64}
-{'ID': '4d2hD63oUGU3s7L66JD0BE', 'Title': 'Dance Again', 'Artists': ['Jennifer Lopez', 'Pitbull'], 'Duration': 237.266}
+{'ID': '4d2hD63oUGU3s7L66JD0BE', 'Title': 'Dance Again (feat. Pitbull)', 'Artists': ['Jennifer Lopez', 'Pitbull'], 'Duration': 237.266}
 {'ID': '2LELFaNglE9B5xlcmd4qtQ', 'Title': 'Ding Dong Song - Radio Edit', 'Artists': ['Günther'], 'Duration': 245.159}
 {'ID': '6cmm1LMvZdB5zsCwX5BjqE', 'Title': 'Down', 'Artists': ['Jay Sean', 'Lil Wayne'], 'Duration': 212.506}
 {'ID': '7nnWIPM5hwE3DaUBkvOIpy', 'Title': 'Drive', 'Artists': ['Incubus'], 'Duration': 232.453}
@@ -106,7 +106,7 @@
 {'ID': '2gqofMRb7rtFt0DohPUi6x', 'Title': 'Sărbătoarea Nopților De Vară', 'Artists': ['O-Zone'], 'Duration': 236.053}
 {'ID': '0e8nrvls4Qqv5Rfa2UhqmO', 'Title': 'THATS WHAT I WANT', 'Artists': ['Lil Nas X'], 'Duration': 143.901}
 {'ID': '6ON9UuIq49xXY9GPmHIYRp', 'Title': 'The Best Day (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 245.29}
-{'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
+{'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold - 2004 Remaster', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
 {'ID': '2Yjv7MOdst5y6fFsq4cKOL', 'Title': 'The Heart Asks Pleasure First / The Promise - Edit', 'Artists': ['Michael Nyman'], 'Duration': 191.866}
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
 {'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}
