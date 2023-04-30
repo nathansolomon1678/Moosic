@@ -327,6 +327,7 @@
 {'ID': '7GDiHI4QQPPHDg5CvWrLqo', 'Title': 'Chopin - Nocturne Op. 9 No. 2 In E Flat Major', 'Artists': ['PianoDreams'], 'Duration': 234.057}
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '6QK6RVVD9unPZaWuxFlZrM', 'Title': 'Cine mi-a-mpuscat maimuta', 'Artists': ['Fara Zahar'], 'Duration': 197.132}
+{'ID': '0FFOaRW0WTJgd12cKEKuaC', 'Title': 'Cinema Paradiso (Main Theme)', 'Artists': ['Ennio Morricone'], 'Duration': 150.0}
 {'ID': '21jGcNKet2qwijlDFuPiPb', 'Title': 'Circles', 'Artists': ['Post Malone'], 'Duration': 215.28}
 {'ID': '7jk7gqyEonmVVYahZN5zhW', 'Title': 'Circus', 'Artists': ['Britney Spears'], 'Duration': 192.36}
 {'ID': '0P4TBgExJNP8CeYzYpvGMt', 'Title': 'City of the Dead', 'Artists': ['Eurielle'], 'Duration': 307.026}
@@ -650,7 +651,6 @@
 {'ID': '03UrZgTINDqvnUMbbIMhql', 'Title': 'Gangnam Style (강남스타일)', 'Artists': ['PSY'], 'Duration': 219.493}
 {'ID': '7lQWRAjyhTpCWFC0jmclT4', 'Title': "Gangsta's Paradise", 'Artists': ['Coolio', 'L.V.'], 'Duration': 240.693}
 {'ID': '11mwFrKvLXCbcVGNxffGyP', 'Title': 'Genie In a Bottle', 'Artists': ['Christina Aguilera'], 'Duration': 217.573}
-{'ID': '19cL3SOKpwnwoKkII7U3Wh', 'Title': 'Geronimo', 'Artists': ['Sheppard'], 'Duration': 218.227}
 {'ID': '3sT37kCEpxM1zQ8s98i7ps', 'Title': "Get'cha Head In The Game", 'Artists': ['Troy', 'Disney'], 'Duration': 147.653}
 {'ID': '447Wu7CUWR9iHi89ZSqubX', 'Title': 'Ghen Cô Vy (WASHING HAND SONG)', 'Artists': ['MIN x ERIK', 'Khắc Hưng'], 'Duration': 189.663}
 {'ID': '5d5vbFsYB7EebhVgafqvKS', 'Title': 'Ghost Choir', 'Artists': ['Louie Zong'], 'Duration': 97.842}
@@ -1900,6 +1900,7 @@
 {'ID': '3azJifCSqg9fRij2yKIbWz', 'Title': 'The Color Violet', 'Artists': ['Tory Lanez'], 'Duration': 226.466}
 {'ID': '3Knohqfb9jeYzL6wMZiWLM', 'Title': 'The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]', 'Artists': ['Howard Shore', 'Enya'], 'Duration': 229.106}
 {'ID': '2lXjul57SNUV388AsQ8Cdi', 'Title': 'The Crow, the Owl and the Dove', 'Artists': ['Nightwish'], 'Duration': 250.4}
+{'ID': '6udzPCAaSWZ1dIE8VwX67z', 'Title': 'The Crow, the Owl and the Dove', 'Artists': ['Nightwish'], 'Duration': 250.386}
 {'ID': '4zg2zMNSI0W8ipGA32kKp5', 'Title': 'The Cult of Dionysus', 'Artists': ['The Orion Experience'], 'Duration': 185.306}
 {'ID': '0dMYPDqcI4ca4cjqlmp9mE', 'Title': 'The Dark Side', 'Artists': ['Muse'], 'Duration': 227.213}
 {'ID': '79M3Eq1q61lkeQJ1OCVEdZ', 'Title': "The Devil's Bleeding Crown", 'Artists': ['Volbeat'], 'Duration': 238.653}

@@ -266,7 +266,7 @@
 {'ID': '2lFTzUnuGaWlWHJQokjRyb', 'Title': 'Blue Jeans', 'Artists': ['Lana Del Rey'], 'Duration': 209.44}
 {'ID': '1ai4kUdzv3xq4EVh6DNWEB', 'Title': 'Blue Lamp - 2016 Remaster', 'Artists': ['Stevie Nicks'], 'Duration': 230.106}
 {'ID': '1R49JklYBW1wSW8V671r0X', 'Title': 'Blue Mark', 'Artists': ['Altan Urag'], 'Duration': 205.546}
-{'ID': '1RSy7B2vfPi84N80QJ6frX', 'Title': 'Blue Monday - 2016 Remaster', 'Artists': ['New Order'], 'Duration': 450.8}
+{'ID': '6hHc7Pks7wtBIW8Z6A0iFq', 'Title': 'Blue Monday', 'Artists': ['New Order'], 'Duration': 449.16}
 {'ID': '47gmoUrZV3w20JAnQOZMcO', 'Title': 'Blue Suede Shoes', 'Artists': ['Elvis Presley'], 'Duration': 119.2}
 {'ID': '0GhAc4Q5FIRaq3qLV0NsWY', 'Title': 'Blue World', 'Artists': ['The Moody Blues'], 'Duration': 319.146}
 {'ID': '4o9DSo7c1ICv4CtFWFSmGx', 'Title': 'Boat On The River', 'Artists': ['Styx'], 'Duration': 190.76}
@@ -397,6 +397,7 @@
 {'ID': '7GDiHI4QQPPHDg5CvWrLqo', 'Title': 'Chopin - Nocturne Op. 9 No. 2 In E Flat Major', 'Artists': ['PianoDreams'], 'Duration': 234.057}
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '6QK6RVVD9unPZaWuxFlZrM', 'Title': 'Cine mi-a-mpuscat maimuta', 'Artists': ['Fara Zahar'], 'Duration': 197.132}
+{'ID': '0FFOaRW0WTJgd12cKEKuaC', 'Title': 'Cinema Paradiso (Main Theme)', 'Artists': ['Ennio Morricone'], 'Duration': 150.0}
 {'ID': '21jGcNKet2qwijlDFuPiPb', 'Title': 'Circles', 'Artists': ['Post Malone'], 'Duration': 215.28}
 {'ID': '7jk7gqyEonmVVYahZN5zhW', 'Title': 'Circus', 'Artists': ['Britney Spears'], 'Duration': 192.36}
 {'ID': '0P4TBgExJNP8CeYzYpvGMt', 'Title': 'City of the Dead', 'Artists': ['Eurielle'], 'Duration': 307.026}
@@ -2014,7 +2015,7 @@
 {'ID': '2I8BBwukyx64a3TVHmN5RA', 'Title': 'Sleepwalk - 2008 Remaster', 'Artists': ['Ultravox'], 'Duration': 192.72}
 {'ID': '0nnwn7LWHCAu09jfuH1xTA', 'Title': 'Slide', 'Artists': ['The Goo Goo Dolls'], 'Duration': 212.066}
 {'ID': '6TvxPS4fj4LUdjw2es4g21', 'Title': 'Slipping Through My Fingers', 'Artists': ['ABBA'], 'Duration': 233.72}
-{'ID': '2ULL3VZf4WwBKO4vjwT7Bg', 'Title': 'Sloop John B - Remastered', 'Artists': ['The Beach Boys'], 'Duration': 180.133}
+{'ID': '2ULL3VZf4WwBKO4vjwT7Bg', 'Title': 'Sloop John B', 'Artists': ['The Beach Boys'], 'Duration': 180.133}
 {'ID': '2OsEJFTfzfjG4oC92cuP2c', 'Title': 'Slow Down', 'Artists': ['Selena Gomez'], 'Duration': 210.293}
 {'ID': '5ghIJDpPoe3CfHMGu71E6T', 'Title': 'Smells Like Teen Spirit', 'Artists': ['Nirvana'], 'Duration': 301.92}
 {'ID': '4ZC8hXXqu2hPcDLw9QTdtQ', 'Title': 'Smile', 'Artists': ['Uncle Kracker'], 'Duration': 201.626}
