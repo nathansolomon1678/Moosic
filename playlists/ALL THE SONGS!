@@ -140,6 +140,7 @@
 {'ID': '3pTNVDJpzaLxiZnbC18SMX', 'Title': 'Archangel', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 154.857}
 {'ID': '5MqV2o7iLd0lNREZ7SYL05', 'Title': 'Are We the Waiting / St. Jimmy', 'Artists': ['Green Day'], 'Duration': 338.146}
 {'ID': '57RA3JGafJm5zRtKJiKPIm', 'Title': 'Are You Bored Yet? (feat. Clairo)', 'Artists': ['Wallows', 'Clairo'], 'Duration': 178.0}
+{'ID': '2Du09hJBFkE49xA4JqWvXS', 'Title': 'Are You Ready?', 'Artists': ['Måneskin'], 'Duration': 153.946}
 {'ID': '6GH5jr5cmjLU2LxMPHOg5B', 'Title': 'Arise', 'Artists': ['Chevelle'], 'Duration': 265.213}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
 {'ID': '7kBZa4WCbZGkJzi2gCr401', 'Title': 'Army of Angels', 'Artists': ['The Script'], 'Duration': 238.2}
@@ -460,7 +461,7 @@
 {'ID': '7l1qvxWjxcKpB9PCtBuTbU', 'Title': 'Count on Me', 'Artists': ['Bruno Mars'], 'Duration': 197.469}
 {'ID': '72lVoGw1YaznWEWwjcZrDL', 'Title': 'Counting Down The Days - Cascada Radio Edit', 'Artists': ['ItaloBrothers', 'Cascada'], 'Duration': 194.0}
 {'ID': '0yEXQTKsK7pNpORDH1qawt', 'Title': 'Counting Down the Days - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 175.0}
-{'ID': '6sy3LkhNFjJWlaeSMNwQ62', 'Title': 'Counting Stars', 'Artists': ['OneRepublic'], 'Duration': 257.839}
+{'ID': '6sy3LkhNFjJWlaeSMNwQ62', 'Title': 'Counting Stars', 'Artists': ['OneRepublic'], 'Duration': 257.84}
 {'ID': '4iWYPj04kHXcZK0st5yzZf', 'Title': 'Courtesy Call', 'Artists': ['Thousand Foot Krutch'], 'Duration': 236.906}
 {'ID': '1y4jsQt7MjnZhiD1L6qFBC', 'Title': 'Cradles', 'Artists': ['Sub Urban'], 'Duration': 209.829}
 {'ID': '2N5zMZX7YeL1tico8oQxa9', 'Title': 'Crazy', 'Artists': ['Gnarls Barkley'], 'Duration': 182.066}
@@ -766,7 +767,6 @@
 {'ID': '0343bYQtSfznf6v90jRLRK', 'Title': 'Forever Young', 'Artists': ['John De Sohn', 'LIAMOO'], 'Duration': 167.911}
 {'ID': '1qli6fjEVdmMgssWy55eiZ', 'Title': 'Forever Young', 'Artists': ['Bob Dylan'], 'Duration': 296.4}
 {'ID': '6XHNIbru8xGohLzHNgxQvF', 'Title': 'Forever Young - 2019 Remaster', 'Artists': ['Alphaville'], 'Duration': 226.0}
-{'ID': '7AqISujIaWcY3h5zrOqt5v', 'Title': 'Forget You', 'Artists': ['CeeLo Green'], 'Duration': 222.733}
 {'ID': '5jnZUl6PwWB0Maze4kDJfC', 'Title': 'Forgive Me Friend', 'Artists': ['Smith & Thell', 'Swedish Jam Factory'], 'Duration': 216.76}
 {'ID': '4BP3uh0hFLFRb5cjsgLqDh', 'Title': 'Fortunate Son', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 140.773}
 {'ID': '0dEPlb8waIqRtKpLb3l6So', 'Title': 'Fotografía', 'Artists': ['Juanes', 'Nelly Furtado'], 'Duration': 238.133}
@@ -2099,6 +2099,7 @@
 {'ID': '15z9QEJOBV6hDdWsdZwDKP', 'Title': 'Stand My Ground', 'Artists': ['Within Temptation'], 'Duration': 267.986}
 {'ID': '06AMpcajziFnEKniV25fiU', 'Title': 'Star Sky', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 330.579}
 {'ID': '7a9UUo3zfID7Ik2fTQjRLi', 'Title': 'Star Wars (Main Theme)', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 346.933}
+{'ID': '22WLD0thQ96SRCJ0azSCIX', 'Title': 'Starkare', 'Artists': ['Darin'], 'Duration': 145.283}
 {'ID': '3skn2lauGk7Dx6bVIt5DVj', 'Title': 'Starlight', 'Artists': ['Muse'], 'Duration': 240.213}
 {'ID': '7A2cNLRT0YJc1yjxHlKihs', 'Title': "Starlight (Taylor's Version)", 'Artists': ['Taylor Swift'], 'Duration': 220.413}
 {'ID': '1K75F5lMyhGFqbM8HwWSpS', 'Title': 'Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm', 'Artists': ['Yes'], 'Duration': 566.133}

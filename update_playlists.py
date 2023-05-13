@@ -33,7 +33,6 @@ playlists_to_version_control = {
     '6ABDcWlzwBt0H1rh4PZby4',
     '0rffpWauvb1LYb3lU7nesG',
     '3kZEyyQVquZesT40A6v8aB',
-    '5lT8LaIV1V6crhwqilYKKr',
     '6J2SpAqypYRarlDgnmeMRT',
     '4PUiJEVFZoBpouVuKcJ5GR',
 }
