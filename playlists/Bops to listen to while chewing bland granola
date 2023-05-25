@@ -641,6 +641,7 @@
 {'ID': '263aNAQCeFSWipk896byo6', 'Title': "Friday I'm in Love", 'Artists': ['The Cure'], 'Duration': 214.4}
 {'ID': '3VpvErs3oc29iuZLqM1GN9', 'Title': 'Frolic (Theme from "Curb Your Enthusiasm" TV Show)', 'Artists': ['Luciano Michelini'], 'Duration': 213.08}
 {'ID': '3ydfhgIZIc2j39NLIhpJpq', 'Title': 'Fuck You', 'Artists': ['CeeLo Green'], 'Duration': 223.694}
+{'ID': '5S1HsNUkbKrKjbMT3eV28Y', 'Title': 'Fullmoon', 'Artists': ['Sonata Arctica'], 'Duration': 312.053}
 {'ID': '76FBmHIMVcqUAytWWgwOds', 'Title': 'Funeral Song - Symphonic Live', 'Artists': ['Mono Inc.'], 'Duration': 322.954}
 {'ID': '0KQh7AuuZvpTKWhcJa8Pbr', 'Title': 'Funkytown', 'Artists': ['Lipps Inc.'], 'Duration': 239.226}
 {'ID': '3SP9yu0VUfCNmCC3SLIZAG', 'Title': 'Fur Elise', 'Artists': ['Ludwig van Beethoven', 'Jean-Bernard Pommier'], 'Duration': 146.2}
@@ -671,6 +672,7 @@
 {'ID': '6wAFvJPpTZVirBKGZ4EnMW', 'Title': 'Glitch', 'Artists': ['Taylor Swift'], 'Duration': 148.781}
 {'ID': '60jI0JgMLLj1VggHJVhtRs', 'Title': 'Glory And Gore', 'Artists': ['Lorde'], 'Duration': 210.737}
 {'ID': '1eyq8cjUQ2daFthW2PC2GM', 'Title': 'Glory of Love', 'Artists': ['Peter Cetera'], 'Duration': 258.333}
+{'ID': '0tMMPZEt6Gyrl9FI8zSicm', 'Title': 'Glue Song (feat. Clairo)', 'Artists': ['beabadoobee', 'Clairo'], 'Duration': 135.066}
 {'ID': '2POlRJ2BgHjoGEkMFwXRmM', 'Title': 'Go Go Joseph', 'Artists': ["Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'"], 'Duration': 239.533}
 {'ID': '33gDIKlrUnY1dTWYsm5BFL', 'Title': 'Go West - 2003 Remaster', 'Artists': ['Pet Shop Boys'], 'Duration': 304.08}
 {'ID': '4xh7W7tlNMIczFhupCPniY', 'Title': 'Go Your Own Way - 2004 Remaster', 'Artists': ['Fleetwood Mac'], 'Duration': 223.613}
@@ -705,6 +707,7 @@
 {'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 222.091}
 {'ID': '4VeCmOb1rAEZQfH7Rlms9C', 'Title': 'Guiding Light', 'Artists': ['Mumford & Sons'], 'Duration': 217.633}
 {'ID': '7jZ5A8bf63qYaUXfuGoxVk', 'Title': 'Guiding Light', 'Artists': ['Muse'], 'Duration': 253.453}
+{'ID': '2H3HPGuPyhcbg5AqoQ4BWr', 'Title': 'Guns for Hire (from the series Arcane League of Legends)', 'Artists': ['Woodkid'], 'Duration': 226.46}
 {'ID': '70p3HYq9iHZisJqpDmWd1U', 'Title': 'Guren no Yumiya', 'Artists': ['Linked Horizon'], 'Duration': 310.68}
 {'ID': '6zFMeegAMYQo0mt8rXtrli', 'Title': 'HOLIDAY', 'Artists': ['Lil Nas X'], 'Duration': 154.997}
 {'ID': '0jXK4Xy4LAEKFgRiTr3M7w', 'Title': 'HUNTING FOR YOUR DREAM', 'Artists': ['GALNERYUS'], 'Duration': 324.48}
@@ -769,6 +772,7 @@
 {'ID': '1YrZuuVG0vZWvsahkSx5WC', 'Title': 'Hello', 'Artists': ['Adele'], 'Duration': 295.502}
 {'ID': '3sl4dcqSwxHVnLfqwF2jly', 'Title': 'Hello (feat. Dragonette)', 'Artists': ['Martin Solveig', 'Dragonette'], 'Duration': 191.387}
 {'ID': '08hlFtp8y9S6YZmjBNvQ1I', 'Title': 'Hello!', 'Artists': ['Andrew Rannells', 'Josh Gad', "Rory O'Malley", 'Kevin Duda', 'Clark Johnsen', 'Justin Bohon', 'Brian Sears', 'Scott Barnhardt', 'Benjamin Schrader', 'Lewis Cleale', 'Jason Michael Snow'], 'Duration': 172.026}
+{'ID': '3I2Hd6ocYAzxFS9VMEMEKJ', 'Title': 'Hello, shooting-star', 'Artists': ['moumoon'], 'Duration': 277.64}
 {'ID': '1z4xjDLLWJgG48Bn8OCxZv', 'Title': "Help I'm Alive", 'Artists': ['Metric'], 'Duration': 285.92}
 {'ID': '2ts9SrBP7zqBp1sjvtsalE', 'Title': 'Here Come the Vultures', 'Artists': ['Delain'], 'Duration': 365.52}
 {'ID': '6dGnYIeXmHdcikdzNNDMm2', 'Title': 'Here Comes The Sun - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 185.733}
@@ -1935,6 +1939,7 @@
 {'ID': '1f6xYh2HSx8ttCjl4Pckep', 'Title': 'The Last Of The Real Ones', 'Artists': ['Fall Out Boy'], 'Duration': 230.4}
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
 {'ID': '0y6kdSRCVQhSsHSpWvTUm7', 'Title': 'The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version)', 'Artists': ['Taylor Swift', 'Gary Lightbody'], 'Duration': 299.08}
+{'ID': '4fXqpIzgHDBhylBBOLOKVX', 'Title': 'The Last of the Starks', 'Artists': ['Ramin Djawadi'], 'Duration': 292.49}
 {'ID': '386RUes7n1uM1yfzgeUuwp', 'Title': 'The Lazy Song', 'Artists': ['Bruno Mars'], 'Duration': 189.109}
 {'ID': '0q8qLv0DTVWKkOS0R510Pg', 'Title': 'The Legend of Mother Swan', 'Artists': ['The HU'], 'Duration': 325.226}
 {'ID': '6K4t31amVTZDgR3sKmwUJJ', 'Title': 'The Less I Know The Better', 'Artists': ['Tame Impala'], 'Duration': 216.32}
@@ -2192,6 +2197,7 @@
 {'ID': '1HimGOB6BjOaCQYMIF1xtU', 'Title': 'What Am I', 'Artists': ["Why Don't We"], 'Duration': 184.665}
 {'ID': '5ozPMxbdBvXJHc0yzW8ZSW', 'Title': 'What Can I Say (feat. Sons of Sylvia)', 'Artists': ['Carrie Underwood', 'Sons Of Sylvia'], 'Duration': 237.626}
 {'ID': '2BfTod61ST4H3K9jxPg9mp', 'Title': 'What Child Is This', 'Artists': ['Lindsey Stirling'], 'Duration': 199.253}
+{'ID': '4Oih3RDrSFg3afaOphBVuy', 'Title': 'What Could Have Been feat. Ray Chen (from the series Arcane League of Legends)', 'Artists': ['Sting', 'Ray Chen'], 'Duration': 213.474}
 {'ID': '4B0JvthVoAAuygILe3n4Bs', 'Title': 'What Do You Mean?', 'Artists': ['Justin Bieber'], 'Duration': 205.68}
 {'ID': '3Tsh9pjiJ5cvmuiZALdgVz', 'Title': 'What Do You Want from Me', 'Artists': ['Pink Floyd'], 'Duration': 261.587}
 {'ID': '66wcihY2Y8ZSqux6EivMWa', 'Title': 'What Have You Done (feat. Keith Caputo)', 'Artists': ['Within Temptation', 'Keith Caputo'], 'Duration': 313.32}
@@ -2258,7 +2264,7 @@
 {'ID': '65TsSPodEw6Q98WkJHdLsH', 'Title': 'Wish I Had An Angel', 'Artists': ['Nightwish'], 'Duration': 243.88}
 {'ID': '6mFkJmJqdDVQ1REhVfGgd1', 'Title': 'Wish You Were Here', 'Artists': ['Pink Floyd'], 'Duration': 334.743}
 {'ID': '4rJUJ0RQhfma3sSA77ymc2', 'Title': 'Wishmaster', 'Artists': ['Gamazda'], 'Duration': 214.357}
-{'ID': '5JGEAz15LkPoOtFHttDtVs', 'Title': 'With Or Without You - Remastered', 'Artists': ['U2'], 'Duration': 295.52}
+{'ID': '5JGEAz15LkPoOtFHttDtVs', 'Title': 'With Or Without You - Remastered 2007', 'Artists': ['U2'], 'Duration': 295.52}
 {'ID': '6FZDfxM3a3UCqtzo5pxSLZ', 'Title': 'Without Me', 'Artists': ['Halsey'], 'Duration': 201.66}
 {'ID': '45B31c6tSg5Zw7PuF1WbEt', 'Title': 'Without Those Songs', 'Artists': ['The Script'], 'Duration': 226.293}
 {'ID': '7rGMKCgeYXpBecQ1FPb3oc', 'Title': 'Without You (feat. Usher)', 'Artists': ['David Guetta', 'Usher'], 'Duration': 208.133}
