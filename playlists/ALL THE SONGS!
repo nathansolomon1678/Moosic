@@ -975,6 +975,7 @@
 {'ID': '0vOkmmJEtjuFZDzrQSFzEE', 'Title': 'Hit Me With Your Best Shot', 'Artists': ['Pat Benatar'], 'Duration': 171.266}
 {'ID': '0tVRSxFAHagQjjOFUcbd7i', 'Title': 'Hit Me With Your Best Shot', 'Artists': ['ADONA'], 'Duration': 170.725}
 {'ID': '6ciLLh4TkPYDUfNxn2Z0KO', 'Title': 'Hit The Lights', 'Artists': ['Selena Gomez & The Scene'], 'Duration': 194.426}
+{'ID': '3xYJScVfxByb61dYHTwiby', 'Title': 'Hits Different', 'Artists': ['Taylor Swift'], 'Duration': 234.466}
 {'ID': '5BSndweF91KDqyxANsZcQH', 'Title': 'Ho Hey', 'Artists': ['The Lumineers'], 'Duration': 163.133}
 {'ID': '697bFWgzBRm6bmnYWd8GyD', 'Title': 'Hold Me Closer', 'Artists': ['Cornelia Jakobs'], 'Duration': 199.426}
 {'ID': '0BJU4rYOfj43xHw6gvTIwE', 'Title': 'Hold Me Now', 'Artists': ['Thompson Twins'], 'Duration': 286.666}
@@ -1046,7 +1047,7 @@
 {'ID': '0No5Hr1LxZjJHGsQSTy2bm', 'Title': "I Can't Dance - 2007 Remaster", 'Artists': ['Genesis'], 'Duration': 239.613}
 {'ID': '4bZd0nRuX8HyjeXAUBczvm', 'Title': 'I Cry', 'Artists': ['Flo Rida'], 'Duration': 223.8}
 {'ID': '57BDT1bvzeAzl3IXMQU4Ri', 'Title': 'I Do, I Do, I Do, I Do, I Do', 'Artists': ['ABBA'], 'Duration': 197.893}
-{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran', 'Justin Bieber'], 'Duration': 219.946}
+{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran & Justin Bieber', 'Justin Bieber'], 'Duration': 219.946}
 {'ID': '24IdPCimVnJJDRuB5YSDiS', 'Title': "I Don't Care Anymore - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 305.706}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '2EfuOKbUFQHvv7zlmGL3iM', 'Title': "I Don't Wanna See You with Her", 'Artists': ['Maria Mena'], 'Duration': 223.786}
@@ -1801,6 +1802,7 @@
 {'ID': '4txQPJDlvU72lC6EMhT7m9', 'Title': 'Qué Tienes Tú (feat. Jesús de Reik & Mau y Ricky)', 'Artists': ['Dvicio', 'Jesús Reik', 'Mau y Ricky'], 'Duration': 212.348}
 {'ID': '2AT8iROs4FQueDv2c8q2KE', 'Title': 'R U Mine?', 'Artists': ['Arctic Monkeys'], 'Duration': 201.726}
 {'ID': '1dYw8HTRJnFpeEeMtXj99a', 'Title': 'ROADS UNTRAVELED', 'Artists': ['Linkin Park'], 'Duration': 229.933}
+{'ID': '07fbDnkKdZGk1gLvknxrns', 'Title': 'RUNAWAY', 'Artists': ['OneRepublic'], 'Duration': 143.264}
 {'ID': '2Xh7dyCHCErCv3PmdVEGw4', 'Title': 'Rabiosa (feat. Pitbull)', 'Artists': ['Shakira', 'Pitbull'], 'Duration': 170.6}
 {'ID': '58rFzMvW9kxNwMtGTgBQoP', 'Title': 'Radioactive', 'Artists': ['Imagine Dragons'], 'Duration': 186.813}
 {'ID': '3Q2tKt6gKdn9LUMcHFxNJy', 'Title': 'Raging Fire', 'Artists': ['Phillip Phillips'], 'Duration': 234.693}
@@ -2816,6 +2818,7 @@
 {'ID': '46xkXPGjR9Ig9BcaTUNus3', 'Title': 'Your Song', 'Artists': ['Rita Ora'], 'Duration': 180.16}
 {'ID': '38zsOOcu31XbbYj9BIPUF1', 'Title': 'Your Song', 'Artists': ['Elton John'], 'Duration': 241.786}
 {'ID': '1T4iwEA2ySieXjWxjiMVWs', 'Title': 'Your Wildest Dreams', 'Artists': ['The Moody Blues'], 'Duration': 291.0}
+{'ID': '4ACxa9buEUnOdYEoPcnMpi', 'Title': 'Your Woman', 'Artists': ['White Town'], 'Duration': 259.893}
 {'ID': '1h0yImRPIVAjhhHeNVlTuC', 'Title': 'Youth (feat. Khalid)', 'Artists': ['Shawn Mendes', 'Khalid'], 'Duration': 190.866}
 {'ID': '6iiAfo4wTA2CVC3Uwx9uh8', 'Title': 'You’re Not Sorry (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 261.842}
 {'ID': '6rkAY9rk1NTFB94QxG3LJR', 'Title': 'Yoü And I', 'Artists': ['Lady Gaga'], 'Duration': 307.346}

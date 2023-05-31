@@ -808,6 +808,7 @@
 {'ID': '5hSKv7KynizdK5S9JSRmAh', 'Title': 'His Name Is Lancelot - Original Broadway Cast Recording: "Spamalot"', 'Artists': ['Hank Azaria', 'David Hyde Pierce', 'Christopher Sieber', 'Christian Borle', 'Ensemble'], 'Duration': 131.96}
 {'ID': '0vOkmmJEtjuFZDzrQSFzEE', 'Title': 'Hit Me With Your Best Shot', 'Artists': ['Pat Benatar'], 'Duration': 171.266}
 {'ID': '6ciLLh4TkPYDUfNxn2Z0KO', 'Title': 'Hit The Lights', 'Artists': ['Selena Gomez & The Scene'], 'Duration': 194.426}
+{'ID': '3xYJScVfxByb61dYHTwiby', 'Title': 'Hits Different', 'Artists': ['Taylor Swift'], 'Duration': 234.466}
 {'ID': '5BSndweF91KDqyxANsZcQH', 'Title': 'Ho Hey', 'Artists': ['The Lumineers'], 'Duration': 163.133}
 {'ID': '697bFWgzBRm6bmnYWd8GyD', 'Title': 'Hold Me Closer', 'Artists': ['Cornelia Jakobs'], 'Duration': 199.426}
 {'ID': '0BJU4rYOfj43xHw6gvTIwE', 'Title': 'Hold Me Now', 'Artists': ['Thompson Twins'], 'Duration': 286.666}
@@ -865,7 +866,7 @@
 {'ID': '0No5Hr1LxZjJHGsQSTy2bm', 'Title': "I Can't Dance - 2007 Remaster", 'Artists': ['Genesis'], 'Duration': 239.613}
 {'ID': '4bZd0nRuX8HyjeXAUBczvm', 'Title': 'I Cry', 'Artists': ['Flo Rida'], 'Duration': 223.8}
 {'ID': '57BDT1bvzeAzl3IXMQU4Ri', 'Title': 'I Do, I Do, I Do, I Do, I Do', 'Artists': ['ABBA'], 'Duration': 197.893}
-{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran', 'Justin Bieber'], 'Duration': 219.946}
+{'ID': '3HVWdVOQ0ZA45FuZGSfvns', 'Title': "I Don't Care (with Justin Bieber)", 'Artists': ['Ed Sheeran & Justin Bieber', 'Justin Bieber'], 'Duration': 219.946}
 {'ID': '24IdPCimVnJJDRuB5YSDiS', 'Title': "I Don't Care Anymore - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 305.706}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '2EfuOKbUFQHvv7zlmGL3iM', 'Title': "I Don't Wanna See You with Her", 'Artists': ['Maria Mena'], 'Duration': 223.786}
