@@ -105,6 +105,7 @@
 {'ID': '5918OIxyrsKqQPt7ZBOboH', 'Title': 'Grand Escape - From "Weathering With You"', 'Artists': ['Mugi Piano'], 'Duration': 77.067}
 {'ID': '5AgSJiuBLkWggPsRKwykwa', 'Title': 'Green Hill Zone', 'Artists': ['Jon Batiste'], 'Duration': 174.173}
 {'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
+{'ID': '5lTgwfuFIVRBxnsYNArWk4', 'Title': 'Hakaito Saisei', 'Artists': ['Akihiko Matsumoto'], 'Duration': 285.392}
 {'ID': '1ekYzXIWgelL4Ai3pXMOfe', 'Title': 'Hallelujah', 'Artists': ['Lindsey Stirling'], 'Duration': 198.093}
 {'ID': '4xbrgqQF8bzy22K8JhtFM9', 'Title': 'Halo', 'Artists': ["Martin O'Donnell", 'Michael Salvatori'], 'Duration': 262.16}
 {'ID': '3x6aFQvsFyKF2wSCSlrzeG', 'Title': 'Halo Main Theme (From "Halo: Combat Evolved")', 'Artists': ['Laura Platt'], 'Duration': 216.35}
@@ -191,7 +192,7 @@
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
 {'ID': '5QBnwYx4gb1lTnaHjKqwRV', 'Title': 'Nothing Else Matters', 'Artists': ['Gamazda'], 'Duration': 337.631}
 {'ID': '3uErbNGaNIPJkRlMrLxR9Z', 'Title': 'Nothing Else Matters', 'Artists': ['Apocalyptica'], 'Duration': 285.533}
-{'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Lisa Gerrard', 'Klaus Badelt', 'Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
+{'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Hans Zimmer', 'Klaus Badelt', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
 {'ID': '5hGoIsMmOwF3EsDpp4nwws', 'Title': 'Oasis', 'Artists': ['Tarja'], 'Duration': 310.773}
 {'ID': '28rhYoPhcvKfedTyzhzoyp', 'Title': 'Ocean Theme (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 154.88}
 {'ID': '6Pu40Iqw4kjQeKTXT87vUZ', 'Title': 'Okay, Everyone!', 'Artists': ['Dan Salvato'], 'Duration': 184.546}
