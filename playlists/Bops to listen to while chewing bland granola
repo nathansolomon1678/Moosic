@@ -1446,7 +1446,6 @@
 {'ID': '14EUcXXpqrC03Dzzdj8bGr', 'Title': 'Orinoco Flow', 'Artists': ['Enya'], 'Duration': 266.333}
 {'ID': '1qV6e4ITnfGmA6m6Vklvbi', 'Title': 'Our House', 'Artists': ['Madness'], 'Duration': 201.133}
 {'ID': '3QzbEvmnuZIONNv82PylZb', 'Title': 'Our Own House', 'Artists': ['MisterWives'], 'Duration': 232.186}
-{'ID': '1EQn3Uc5AyUXoiPLeyCrrg', 'Title': 'Ours', 'Artists': ['Taylor Swift'], 'Duration': 237.92}
 {'ID': '3yNJkriPzWjkkDAWHIAVUq', 'Title': 'Ours (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 235.803}
 {'ID': '2AYEOC02WLhUiOoaig2SEH', 'Title': 'Out of My League', 'Artists': ['Fitz and The Tantrums'], 'Duration': 209.386}
 {'ID': '7o67roCVsFiCt7Cf0ZLOJq', 'Title': 'Out of Touch', 'Artists': ['Daryl Hall & John Oates'], 'Duration': 249.573}
@@ -1636,7 +1635,6 @@
 {'ID': '4ECNtOnqzxutZkXP4TE3n3', 'Title': 'Separate Ways (Worlds Apart)', 'Artists': ['Journey'], 'Duration': 323.706}
 {'ID': '2grjqo0Frpf2okIBiifQKs', 'Title': 'September', 'Artists': ['Earth, Wind & Fire'], 'Duration': 215.093}
 {'ID': '2ikUwLex9wXpIOEgY45Wk7', 'Title': 'September', 'Artists': ['Daughtry'], 'Duration': 243.773}
-{'ID': '3kXoKlD84c6OmIcOLfrfEs', 'Title': 'September', 'Artists': ['Earth, Wind & Fire'], 'Duration': 216.022}
 {'ID': '47dR6QIu5KfWhedEwnYhfE', 'Title': 'Serenade', 'Artists': ['Steve Miller Band'], 'Duration': 191.066}
 {'ID': '3CKCZ9pfwAfoMZlMncA1Nc', 'Title': 'Set Fire to the Rain', 'Artists': ['Adele'], 'Duration': 241.693}
 {'ID': '3m6KkYKdnbffMpGd9Pm9FP', 'Title': 'Seven Nation Army', 'Artists': ['The White Stripes'], 'Duration': 231.92}
@@ -2387,7 +2385,6 @@
 {'ID': '1BX5zu4azoBjxovwK6lWYq', 'Title': 'khemchim', 'Artists': ['Yat-Kha'], 'Duration': 286.773}
 {'ID': '5P2bHCDM2tsgIaYWsZMhu5', 'Title': 'my tears ricochet', 'Artists': ['Taylor Swift'], 'Duration': 255.893}
 {'ID': '6NriykdkRrjQMZo1sfVYUo', 'Title': 'no body, no crime (feat. HAIM)', 'Artists': ['Taylor Swift', 'HAIM'], 'Duration': 215.626}
-{'ID': '3RaT22zZsxVYxxKR7TAaYF', 'Title': 'no body, no crime (feat. HAIM)', 'Artists': ['Taylor Swift', 'HAIM'], 'Duration': 215.626}
 {'ID': '54L0ET2WHVHKpEce8NYKLX', 'Title': 'orange', 'Artists': ['Hiroaki Tsutsumi'], 'Duration': 181.2}
 {'ID': '2T93MtJuKMzcGRTR8fdizV', 'Title': 'ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]', 'Artists': ['100 gecs', 'Charli XCX', 'Rico Nasty', 'Kero Kero Bonito'], 'Duration': 214.529}
 {'ID': '0e7ipj03S05BNilyu5bRzt', 'Title': 'rockstar (feat. 21 Savage)', 'Artists': ['Post Malone', '21 Savage'], 'Duration': 218.146}
