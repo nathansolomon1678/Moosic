@@ -39,6 +39,11 @@ def same_song(song1: Dict[str, Any], song2: Dict[str, Any]) -> bool:
     titles = [title.rstrip() for title in titles]
     return artists_overlap and titles[0] == titles[1]
 
+def sort_key(song):
+    title = song['Title'].lower()
+    # TODO: remove articles and non-alphanumeric chars from beginning and middle or string
+    return title
+
 def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
     """ Returns useful information for each song on a playlist """
     songs = []
@@ -47,7 +52,13 @@ def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
     while True:
         # The offset tells it which index to start at
         fields="items.track.name, items.track.id, items.track.artists.name, items.track.duration_ms"
-        new_songs = s.playlist_items(playlist_id, fields=fields, offset=offset, limit=100)['items']
+        successfully_fetched_songs = False
+        while not successfully_fetched_songs:
+            try:
+                new_songs = s.playlist_items(playlist_id, fields=fields, offset=offset, limit=100)['items']
+                successfully_fetched_songs = True
+            except socket.Timeouterror:
+                print("Socket timed out, trying again")
         offset += 100
         songs.extend(new_songs)
         if len(new_songs) < 100:
@@ -62,7 +73,7 @@ def get_playlist(playlist_id: str, sort=True) -> List[Dict[str, Any]]:
              } for song in songs]
     if sort:
         # By default, sort alphabetically
-        songs.sort(key = lambda song: song['Title'])
+        songs.sort(key = sort_key)
     return songs
 
 def get_playlist_name(id):
