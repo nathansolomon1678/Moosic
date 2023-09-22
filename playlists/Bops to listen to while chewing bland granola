@@ -334,6 +334,7 @@
 {'ID': '3S4px9f4lceWdKf0gWciFu', 'Title': 'Cheap Thrills', 'Artists': ['Sia'], 'Duration': 211.666}
 {'ID': '023OVLNzXhX0j7CxswUt6D', 'Title': 'Cheerleader - Felix Jaehn Remix Radio Edit', 'Artists': ['OMI'], 'Duration': 180.56}
 {'ID': '4D0ofpU1f402qd1t6ZK0Xr', 'Title': 'Chi Mai', 'Artists': ['Ennio Morricone', 'Carlo Nistri'], 'Duration': 306.146}
+{'ID': '0qyL8hkdidffZYjYH8Qxvh', 'Title': 'Chi Mai', 'Artists': ['Gamazda'], 'Duration': 152.358}
 {'ID': '0XUdYMSq58kreVe5u66Zav', 'Title': 'Children of the Dark', 'Artists': ['Mono Inc.', 'Tilo Wolff', 'Joachim Witt', 'Chris Harms'], 'Duration': 302.706}
 {'ID': '75vW355BVk8wNjOqfrjfjo', 'Title': 'Children of the Empire', 'Artists': ['Weyes Blood'], 'Duration': 363.52}
 {'ID': '6NluARB3Fv0cCx6SerrJEc', 'Title': 'Children of the Sun (feat. Merethe Soltvedt)', 'Artists': ['Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 282.893}
@@ -359,6 +360,7 @@
 {'ID': '2XbfY2O2v3xwedUJ0J2kkr', 'Title': 'Closer', 'Artists': ['Ne-Yo'], 'Duration': 234.36}
 {'ID': '1A5V1sxyCLpKJezp75tUXn', 'Title': 'Closing Time', 'Artists': ['Semisonic'], 'Duration': 274.16}
 {'ID': '3cLqK3LPVrTIzfENVmYLoU', 'Title': 'Code Monkey', 'Artists': ['Jonathan Coulton'], 'Duration': 189.28}
+{'ID': '0CldzrtA3RFyDBp2IoEaeM', 'Title': 'Coffin Dance', 'Artists': ['Tony Production'], 'Duration': 99.283}
 {'ID': '3iM9wFGlyR28IBZrXYZK9j', 'Title': 'Cold as Ice - 2008 Remaster', 'Artists': ['Foreigner'], 'Duration': 200.026}
 {'ID': '1OYOLWqKmhkFIx2KC9ek1a', 'Title': 'Colors of the Wind - From "Pocahontas" / Soundtrack Version', 'Artists': ['Judy Kuhn'], 'Duration': 214.4}
 {'ID': '6LoQHIo74tOzQ8EsLEkhgF', 'Title': 'Come & Get It', 'Artists': ['Selena Gomez'], 'Duration': 231.986}
@@ -1018,7 +1020,7 @@
 {'ID': '6IiCb4PCrDgqLuDWgHhFi7', 'Title': 'Inside Out (feat. Griff)', 'Artists': ['Zedd', 'Griff'], 'Duration': 186.245}
 {'ID': '0Z26JRY2Bdc8EJiulIZaXD', 'Title': 'Inside Out - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 149.969}
 {'ID': '62zFEHfAYl5kdHYOivj4BC', 'Title': 'International Love (feat. Chris Brown)', 'Artists': ['Pitbull', 'Chris Brown'], 'Duration': 227.28}
-{'ID': '5Hv1QAbRWrUSUHaT0CmnMS', 'Title': 'Into the Night (feat. Chad Kroeger)', 'Artists': ['Santana', 'Chad Kroeger'], 'Duration': 222.44}
+{'ID': '5Hv1QAbRWrUSUHaT0CmnMS', 'Title': 'Into the Night', 'Artists': ['Santana', 'Chad Kroeger'], 'Duration': 222.44}
 {'ID': '2SiqlgLMfKQbczSMRp8drY', 'Title': 'Into The Ocean', 'Artists': ['Blue October'], 'Duration': 239.946}
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
 {'ID': '0v622a7rlXRYcT6m3xwutU', 'Title': 'Into the Unknown - From "Frozen 2"', 'Artists': ['Panic! At The Disco'], 'Duration': 189.132}
@@ -1750,7 +1752,7 @@
 {'ID': '4ZC8hXXqu2hPcDLw9QTdtQ', 'Title': 'Smile', 'Artists': ['Uncle Kracker'], 'Duration': 201.626}
 {'ID': '1EIsJed40cd7Bcv8SXVdqA', 'Title': 'Smile (with The Weeknd)', 'Artists': ['Juice WRLD', 'The Weeknd'], 'Duration': 196.18}
 {'ID': '5SAUIWdZ04OxYfJFDchC7S', 'Title': 'Smoke on the Water', 'Artists': ['Deep Purple'], 'Duration': 342.173}
-{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth (feat. Rob Thomas)', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
+{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
 {'ID': '2bCQHF9gdG5BNDVuEIEnNk', 'Title': 'Smooth Criminal - 2012 Remaster', 'Artists': ['Michael Jackson'], 'Duration': 257.76}
 {'ID': '4WpvTgKsoU6efxHued4HBt', 'Title': 'Snow', 'Artists': ['Ricky Montgomery'], 'Duration': 276.466}
 {'ID': '2aibwv5hGXSgw7Yru8IYTO', 'Title': 'Snow (Hey Oh)', 'Artists': ['Red Hot Chili Peppers'], 'Duration': 334.666}
@@ -2160,7 +2162,7 @@
 {'ID': '7C3TO7CHibIRqQzhyggSxG', 'Title': 'Tribal Dance', 'Artists': ['2 Unlimited'], 'Duration': 219.024}
 {'ID': '5n0CTysih20NYdT2S0Wpe8', 'Title': 'Trouble', 'Artists': ['Cage The Elephant'], 'Duration': 225.973}
 {'ID': '1bsQUnczB7JI4YnDzOjFMz', 'Title': 'Troubled Times', 'Artists': ['Green Day'], 'Duration': 184.813}
-{'ID': '6s8nHXTJVqFjXE4yVZPDHR', 'Title': 'Troublemaker (feat. Flo Rida)', 'Artists': ['Olly Murs', 'Flo Rida'], 'Duration': 185.586}
+{'ID': '6s8nHXTJVqFjXE4yVZPDHR', 'Title': 'Troublemaker', 'Artists': ['Olly Murs', 'Flo Rida'], 'Duration': 185.586}
 {'ID': '4fpxnJGDWFxjGvLJOqPPt8', 'Title': 'True Faith', 'Artists': ['New Order'], 'Duration': 355.066}
 {'ID': '54j7EaJPDmSZYcNYvLSJ78', 'Title': 'Trust Fund Baby', 'Artists': ["Why Don't We"], 'Duration': 184.46}
 {'ID': '6buXDkw3Gv4fQC1OZKUhnR', 'Title': 'Try', 'Artists': ['Colbie Caillat'], 'Duration': 224.573}

@@ -17,6 +17,7 @@
 {'ID': '762B4bOcXF7I2Y8UlKTyTy', 'Title': 'Chiquitita', 'Artists': ['ABBA'], 'Duration': 326.32}
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '0BCPKOYdS2jbQ8iyB56Zns', 'Title': 'Clocks', 'Artists': ['Coldplay'], 'Duration': 307.879}
+{'ID': '0CldzrtA3RFyDBp2IoEaeM', 'Title': 'Coffin Dance', 'Artists': ['Tony Production'], 'Duration': 99.283}
 {'ID': '0yfNXxlyXdmP0ue1iJijx1', 'Title': 'Come Undone', 'Artists': ['Duran Duran'], 'Duration': 256.519}
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
 {'ID': '6b2oQwSGFkzsMtQruIWm2p', 'Title': 'Creep', 'Artists': ['Radiohead'], 'Duration': 238.64}
@@ -96,7 +97,7 @@
 {'ID': '6CKoWCWAqEVWVjpeoJXyNH', 'Title': 'Shape Of My Heart', 'Artists': ['Sting'], 'Duration': 279.226}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
 {'ID': '0nnwn7LWHCAu09jfuH1xTA', 'Title': 'Slide', 'Artists': ['The Goo Goo Dolls'], 'Duration': 212.066}
-{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth (feat. Rob Thomas)', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
+{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
 {'ID': '1zwMYTA5nlNjZxYrvBB2pV', 'Title': 'Someone Like You', 'Artists': ['Adele'], 'Duration': 285.24}
 {'ID': '5yDX0yhtLyf0zEXEqXqyAa', 'Title': 'Something Good Can Work', 'Artists': ['Two Door Cinema Club'], 'Duration': 164.186}
 {'ID': '65TtqCvMUIU95GDPlwQUA2', 'Title': 'Sorry About Your Parents', 'Artists': ['Icon For Hire'], 'Duration': 197.642}

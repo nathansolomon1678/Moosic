@@ -52,8 +52,9 @@
 {'ID': '4ABsqceWT8Lnz2nJJBiis2', 'Title': 'charash karaa', 'Artists': ['Yat-Kha'], 'Duration': 223.76}
 {'ID': '3hBgVOpgET0AGtdwc5D8Qy', 'Title': 'Chariots Of Fire', 'Artists': ['Vangelis'], 'Duration': 211.208}
 {'ID': '4D0ofpU1f402qd1t6ZK0Xr', 'Title': 'Chi Mai', 'Artists': ['Ennio Morricone', 'Carlo Nistri'], 'Duration': 306.146}
+{'ID': '0qyL8hkdidffZYjYH8Qxvh', 'Title': 'Chi Mai', 'Artists': ['Gamazda'], 'Duration': 152.358}
 {'ID': '7GDiHI4QQPPHDg5CvWrLqo', 'Title': 'Chopin - Nocturne Op. 9 No. 2 In E Flat Major', 'Artists': ['PianoDreams'], 'Duration': 234.057}
-{'ID': '6UhcflIf0TT3Rg2JBU5E5W', 'Title': 'Chrysopoeia', 'Artists': ['Lena Raine'], 'Duration': 303.424}
+{'ID': '6UhcflIf0TT3Rg2JBU5E5W', 'Title': 'Chrysopoeia', 'Artists': ['Lena Raine', 'Minecraft'], 'Duration': 303.424}
 {'ID': '0P4TBgExJNP8CeYzYpvGMt', 'Title': 'City of the Dead', 'Artists': ['Eurielle'], 'Duration': 307.026}
 {'ID': '2eTwaHnlfPHVsnhtlFtUNp', 'Title': 'Clairvoyant', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 128.8}
 {'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 262.623}
@@ -102,7 +103,7 @@
 {'ID': '0qCqz7oecY7QqS8lhW62XI', 'Title': 'Ghost Towns', 'Artists': ['Radical Face'], 'Duration': 233.506}
 {'ID': '7qbMCwtQJkJeXCNxf4oJwB', 'Title': 'Gladiator - Theme from "Il Gladiatore" - Music from the Motion Picture', 'Artists': ['JL Mac Gregor'], 'Duration': 137.586}
 {'ID': '1eyq8cjUQ2daFthW2PC2GM', 'Title': 'Glory of Love', 'Artists': ['Peter Cetera'], 'Duration': 258.333}
-{'ID': '5n44Y1e8exufbm9mmAvopf', 'Title': 'Goodbye Brother - From The "Game Of Thrones" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 187.28}
+{'ID': '5n44Y1e8exufbm9mmAvopf', 'Title': 'Goodbye Brother', 'Artists': ['Ramin Djawadi'], 'Duration': 187.28}
 {'ID': '5918OIxyrsKqQPt7ZBOboH', 'Title': 'Grand Escape - From "Weathering With You"', 'Artists': ['Mugi Piano'], 'Duration': 77.067}
 {'ID': '5AgSJiuBLkWggPsRKwykwa', 'Title': 'Green Hill Zone', 'Artists': ['Jon Batiste'], 'Duration': 174.173}
 {'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
@@ -164,7 +165,7 @@
 {'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
 {'ID': '0PZJ3qdBS0rQ0GCXU0IEdn', 'Title': 'Made of Words', 'Artists': ['Damjan Mravunac'], 'Duration': 285.346}
 {'ID': '64Crrk0odVnK4lWWJzuN0P', 'Title': 'Magika', 'Artists': ['Thomas Bergersen'], 'Duration': 116.517}
-{'ID': '2q6fxAvSpqXR4jx9Ne7RGz', 'Title': 'Main Title - From The "Game Of Thrones" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 106.28}
+{'ID': '2q6fxAvSpqXR4jx9Ne7RGz', 'Title': 'Main Title', 'Artists': ['Ramin Djawadi'], 'Duration': 106.28}
 {'ID': '74BfFG9qR85KXxN49esFVA', 'Title': 'Main Titles (You’ve Been Called Back to Top Gun)', 'Artists': ['Harold Faltermeyer', 'Lady Gaga', 'Hans Zimmer', 'Lorne Balfe'], 'Duration': 150.666}
 {'ID': '0VfcYOujgf9JDAgwlgu1qm', 'Title': 'Many Meetings', 'Artists': ['Howard Shore'], 'Duration': 185.426}
 {'ID': '2wx5Wpss70wOpYA6MM7goQ', 'Title': 'Mardröm (feat. Smith & Thell)', 'Artists': ['Darin', 'Smith & Thell'], 'Duration': 189.826}
