@@ -128,6 +128,7 @@
 {'ID': '77vAuUDLRCp4pa5FBfx9F6', 'Title': 'Hymn to the Sea', 'Artists': ['James Horner'], 'Duration': 385.733}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
 {'ID': '6FLkf9qaDpyqkwfHnG3us1', 'Title': 'I\'m Gonna Fly (From "Kiki\'s Delivery Service")', 'Artists': ['Phil Larson'], 'Duration': 225.858}
+{'ID': '6HH8ZoDIe5qw8EYTTHVZh7', 'Title': 'Ice Dance', 'Artists': ['Danny Elfman'], 'Duration': 104.973}
 {'ID': '52erNkfUKv34u02CjcHOPj', 'Title': "If I Didn't Have You", 'Artists': ['Randy Travis'], 'Duration': 186.746}
 {'ID': '4cYMt6WiUFShfZ6M1A9LPi', 'Title': 'Ikebana', 'Artists': ['Nora Van Elken'], 'Duration': 169.83}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
@@ -196,6 +197,7 @@
 {'ID': '5QBnwYx4gb1lTnaHjKqwRV', 'Title': 'Nothing Else Matters', 'Artists': ['Gamazda'], 'Duration': 337.631}
 {'ID': '3uErbNGaNIPJkRlMrLxR9Z', 'Title': 'Nothing Else Matters', 'Artists': ['Apocalyptica'], 'Duration': 285.533}
 {'ID': '1elGwF4VwkwglV4nCBPJtv', 'Title': 'Now We Are Free', 'Artists': ['Hans Zimmer', 'Klaus Badelt', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 254.293}
+{'ID': '2MRzU88isUimYDUhPgxcEw', 'Title': 'Now We Are Free', 'Artists': ['Ekaterina Shelehova', 'Emanuele Tedeschi'], 'Duration': 276.683}
 {'ID': '5hGoIsMmOwF3EsDpp4nwws', 'Title': 'Oasis', 'Artists': ['Tarja'], 'Duration': 310.773}
 {'ID': '28rhYoPhcvKfedTyzhzoyp', 'Title': 'Ocean Theme (Extra Track)', 'Artists': ['Destructive Interference'], 'Duration': 154.88}
 {'ID': '6Pu40Iqw4kjQeKTXT87vUZ', 'Title': 'Okay, Everyone!', 'Artists': ['Dan Salvato'], 'Duration': 184.546}
@@ -327,6 +329,7 @@
 {'ID': '3vJ9pe1kE3aEVro4Z4NR3Q', 'Title': 'The Office Theme (from The Office)', 'Artists': ['Southern Creek Players'], 'Duration': 64.557}
 {'ID': '691isjSlqyxPfC2VPbhdrf', 'Title': 'The Olympic Spirit', 'Artists': ['John Williams', 'Boston Pops Orchestra'], 'Duration': 247.04}
 {'ID': '59Id4KrBWiizuq53doxWtp', 'Title': 'The Planets, Op. 32: 4. Jupiter, the Bringer of Jollity', 'Artists': ['Gustav Holst', 'Berliner Philharmoniker', 'Herbert von Karajan'], 'Duration': 456.0}
+{'ID': '5CxkIhyfolPmz7uWJUwonN', 'Title': 'The Right to Remain Silent', 'Artists': ['Daniel Pemberton'], 'Duration': 253.653}
 {'ID': '2WFlUh3vI3duc27xe7miox', 'Title': 'The Road Goes Ever On..., Pt. 2 / "In Dreams" (feat. Edward Ross)', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 221.226}
 {'ID': '2VzJH2QeNO1PiZwXZMvx7g', 'Title': 'The Shape Of Water', 'Artists': ['Alexandre Desplat'], 'Duration': 222.573}
 {'ID': '7lhWzYkDPmCgIMyP5VChZ9', 'Title': 'The Sigils of Our Name', 'Artists': ['Damjan Mravunac'], 'Duration': 152.0}
@@ -358,6 +361,7 @@
 {'ID': '2F9xBxKbx2M0pbgtSu8fLf', 'Title': 'Victory', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 320.467}
 {'ID': '5OYTYU9NklzFgpUhSbtrTk', 'Title': 'Virgo Serena', 'Artists': ['Damjan Mravunac'], 'Duration': 91.876}
 {'ID': '0hLbjFiF7zmGuZJrpLOJ7F', 'Title': 'Vivaldi: Winter From The Four Seasons 1. Allegro Non Molto', 'Artists': ['Silverwood Quartet'], 'Duration': 216.36}
+{'ID': '7AEcphXUR52QGYxdZ8TDVI', 'Title': 'Vogel Im Kafig', 'Artists': ['Hiroyuki Sawano'], 'Duration': 380.053}
 {'ID': '5sDUUmJHkWEY95PBipnQNV', 'Title': 'Waikahuli', 'Artists': ['Kuana Torres Kahele'], 'Duration': 251.639}
 {'ID': '4yrQmB3UGfqDWPMPnuuFt5', 'Title': 'Waulking Song', 'Artists': ['Grey Dogs'], 'Duration': 68.4}
 {'ID': '16cU1PuGaDlsiR9XFrnOcX', 'Title': 'We Used To Be Bad', 'Artists': ['Skylar Grey'], 'Duration': 250.306}

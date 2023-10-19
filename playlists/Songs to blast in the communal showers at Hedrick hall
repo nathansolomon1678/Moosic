@@ -50,6 +50,7 @@
 {'ID': '4JehYebiI9JE8sR8MisGVb', 'Title': 'Halo', 'Artists': ['Beyoncé'], 'Duration': 261.64}
 {'ID': '7HqKaTgHVUrjHfdgtWxG3Q', 'Title': 'Halo', 'Artists': ['Deep Blue Something'], 'Duration': 164.76}
 {'ID': '5DnT9a5IM3eMjKgXTWVJvi', 'Title': 'Have You Ever Seen The Rain', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 160.333}
+{'ID': '4QaxyJsbo5AR3bnEB7ko8h', 'Title': 'Heartless Madness', 'Artists': ['Dynazty'], 'Duration': 239.866}
 {'ID': '7w5cxTEzp1rfV3KCy0Bd5N', 'Title': 'Home', 'Artists': ['Edward Sharpe & The Magnetic Zeros'], 'Duration': 303.2}
 {'ID': '5fVZC9GiM4e8vu99W0Xf6J', 'Title': 'How to Save a Life', 'Artists': ['The Fray'], 'Duration': 262.533}
 {'ID': '1x80xTzSL7pok3M5JC3oJz', 'Title': 'human', 'Artists': ['Christina Perri'], 'Duration': 250.706}
@@ -97,7 +98,7 @@
 {'ID': '6CKoWCWAqEVWVjpeoJXyNH', 'Title': 'Shape Of My Heart', 'Artists': ['Sting'], 'Duration': 279.226}
 {'ID': '3DmW6y7wTEYHJZlLo1r6XJ', 'Title': 'Shower', 'Artists': ['Becky G'], 'Duration': 206.166}
 {'ID': '0nnwn7LWHCAu09jfuH1xTA', 'Title': 'Slide', 'Artists': ['The Goo Goo Dolls'], 'Duration': 212.066}
-{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
+{'ID': '0n2SEXB2qoRQg171q7XqeW', 'Title': 'Smooth (feat. Rob Thomas)', 'Artists': ['Santana', 'Rob Thomas'], 'Duration': 294.986}
 {'ID': '1zwMYTA5nlNjZxYrvBB2pV', 'Title': 'Someone Like You', 'Artists': ['Adele'], 'Duration': 285.24}
 {'ID': '5yDX0yhtLyf0zEXEqXqyAa', 'Title': 'Something Good Can Work', 'Artists': ['Two Door Cinema Club'], 'Duration': 164.186}
 {'ID': '65TtqCvMUIU95GDPlwQUA2', 'Title': 'Sorry About Your Parents', 'Artists': ['Icon For Hire'], 'Duration': 197.642}
@@ -119,7 +120,7 @@
 {'ID': '20efeySIfZoiSaISGLBbNs', 'Title': 'Thriller - Single Version', 'Artists': ['Michael Jackson'], 'Duration': 312.413}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
 {'ID': '6HTVZeVQ9J6Uiq6tHESxU9', 'Title': 'Welcome Home, Son', 'Artists': ['Radical Face'], 'Duration': 287.634}
-{'ID': '18lR4BzEs7e3qzc0KVkTpU', 'Title': "What I've Done", 'Artists': ['Linkin Park'], 'Duration': 205.613}
+{'ID': '18lR4BzEs7e3qzc0KVkTpU', 'Title': "What I've Done", 'Artists': ['Linkin Park'], 'Duration': 205.226}
 {'ID': '745sNpjWbAxo2MA2zSYbyD', 'Title': 'Wherever I May Roam (Remastered)', 'Artists': ['Metallica'], 'Duration': 404.333}
 {'ID': '5YL553x8sHderRBDlm3NM3', 'Title': 'White Horse (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 234.515}
 {'ID': '3ovjw5HZZv43SxTwApooCM', 'Title': 'Wind Of Change', 'Artists': ['Scorpions'], 'Duration': 312.36}
