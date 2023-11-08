@@ -36,6 +36,8 @@
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
 {'ID': '0E97LEEOz5rk6wAJr6rNI3', 'Title': "Bartram's Garden", 'Artists': ['Zachary Patel'], 'Duration': 143.0}
 {'ID': '6skSo5NWDyOe0641LRwJHU', 'Title': 'Before Was Only Chaos', 'Artists': ['Damjan Mravunac'], 'Duration': 136.839}
+{'ID': '33uCsuXUT3S03j987GSt5u', 'Title': 'Behind Blue Eyes', 'Artists': ['Gamazda'], 'Duration': 226.797}
+{'ID': '44YvSjdatYdEvjRbNEpfmN', 'Title': "Bella's Lullaby From the film TWILIGHT (Carter Burwell)", 'Artists': ['Dan Redfeld', 'Carter Burwell', 'Elizabeth Hedman'], 'Duration': 138.292}
 {'ID': '3Kj2EWpIBnvETsYq4cq0IH', 'Title': 'Big Black Car', 'Artists': ['Gregory Alan Isakov'], 'Duration': 217.466}
 {'ID': '1No2I2TNhCXDNovL5O7ang', 'Title': 'Black Blade', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 185.828}
 {'ID': '2jn89xTHIVsy167uOmAewt', 'Title': 'Blackheart', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 266.365}
@@ -132,6 +134,7 @@
 {'ID': '52erNkfUKv34u02CjcHOPj', 'Title': "If I Didn't Have You", 'Artists': ['Randy Travis'], 'Duration': 186.746}
 {'ID': '4cYMt6WiUFShfZ6M1A9LPi', 'Title': 'Ikebana', 'Artists': ['Nora Van Elken'], 'Duration': 169.83}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
+{'ID': '51z23Lnf8yB96QKrXzXUwW', 'Title': 'Interstellar', 'Artists': ['Gamazda'], 'Duration': 200.17}
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
 {'ID': '4T0M3ao3PfYRkIolo5wpLK', 'Title': 'Introduction (Titles)', 'Artists': ['Danny Elfman'], 'Duration': 156.933}
 {'ID': '2nGuqMjkSITvVIwV0fCcjB', 'Title': 'Isengard Unleashed', 'Artists': ['Howard Shore'], 'Duration': 301.04}
@@ -142,6 +145,7 @@
 {'ID': '6RyY8r3DerLiB0hcBoTNFn', 'Title': 'Kara Main Theme - Kara', 'Artists': ['Philip Sheppard'], 'Duration': 414.79}
 {'ID': '0jkGkwy510cvhy0jYPFme4', 'Title': 'Kingdom Dance - From "Tangled"/Score', 'Artists': ['Alan Menken'], 'Duration': 140.413}
 {'ID': '534oydPCUQsrRuia17XILl', 'Title': 'Kronos Unveiled', 'Artists': ['Michael Giacchino'], 'Duration': 196.64}
+{'ID': '0mR1bExLKqy9Uzzp51NQSm', 'Title': 'Kulning', 'Artists': ['voho', 'Jonna Jinton'], 'Duration': 183.289}
 {'ID': '2jpcucZ7Ap5j2hyQbDEGSn', 'Title': 'Laputa: Castle In the Sky Suite', 'Artists': ['Eminence Symphony Orchestra'], 'Duration': 400.157}
 {'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home ~ still far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
 {'ID': '5XkQml4ElWvSoiQjCjWH2F', 'Title': 'Lay in Lustre', 'Artists': ['Danny Jordan'], 'Duration': 173.22}
@@ -320,7 +324,7 @@
 {'ID': '3fdY6ZVYtiHcrArNdvK3Ux', 'Title': 'The Jedi Steps and Finale', 'Artists': ['John Williams'], 'Duration': 531.586}
 {'ID': '4NzyM0AAmN2ucaBlTXbQQT', 'Title': 'The John Dunbar Theme (film version)', 'Artists': ['John Barry'], 'Duration': 141.8}
 {'ID': '1ghqlcFUP85h1Gxn4Oa2Kt', 'Title': 'The John Dunbar Theme (From "Dances With Wolves")', 'Artists': ['John Barry'], 'Duration': 137.773}
-{'ID': '1DH9pHPoBQ1YJRbzuFfnhV', 'Title': "The Magic of the Wizard's Dream (English Version)", 'Artists': ['Rhapsody Of Fire'], 'Duration': 222.333}
+{'ID': '1DH9pHPoBQ1YJRbzuFfnhV', 'Title': "The Magic of the Wizard's Dream (English Version)", 'Artists': ['Rhapsody'], 'Duration': 222.333}
 {'ID': '35gFlKdC4Pmo88Go1cVrae', 'Title': 'The Medallion Calls', 'Artists': ['Klaus Badelt'], 'Duration': 112.506}
 {'ID': '6UbjJgc9gHcEhnfrKszGxX', 'Title': 'The Moldau (Vlatava), No. 2', 'Artists': ['Bedřich Smetana', 'Leopold Stokowski'], 'Duration': 741.373}
 {'ID': '7l8gHk3b9AwjC7gRhOqtP4', 'Title': 'The Moss', 'Artists': ['Cosmo Sheldrake'], 'Duration': 242.567}
