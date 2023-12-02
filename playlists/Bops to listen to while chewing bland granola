@@ -20,6 +20,7 @@
 {'ID': '6GF6Q45OAiqqbm6nkaIh9u', 'Title': '8675309 Jenny Jenny', 'Artists': ['Tommy Tutone'], 'Duration': 226.011}
 {'ID': '6HA97v4wEGQ5TUClRM0XLc', 'Title': '99 Luftballons', 'Artists': ['Nena'], 'Duration': 233.0}
 {'ID': '129lYDVKnWtlJc2PZJviuA', 'Title': 'A Dios Le Pido', 'Artists': ['Juanes'], 'Duration': 205.373}
+{'ID': '3z4hLskqGLtLEYcetdtxqe', 'Title': 'A gritos de esperanza', 'Artists': ['Alex Ubago'], 'Duration': 273.293}
 {'ID': '54eZmuggBFJbV7k248bTTt', 'Title': 'A Horse with No Name', 'Artists': ['America', 'George Martin'], 'Duration': 252.239}
 {'ID': '6UxAKocZd98MRn0u5obryV', 'Title': 'A House In Nebraska', 'Artists': ['Ethel Cain'], 'Duration': 466.466}
 {'ID': '1vPEPhmGDnp8RR6GCBozaa', 'Title': 'A Lannister Always Pays His Debts', 'Artists': ['Ramin Djawadi'], 'Duration': 170.56}
@@ -1359,6 +1360,7 @@
 {'ID': '27ycaQnQAxaPiyeg3nr2aB', 'Title': 'Midnight Sky', 'Artists': ['Miley Cyrus'], 'Duration': 223.279}
 {'ID': '2YjRJb6Wik1Db9O6dSGTHn', 'Title': 'Miente', 'Artists': ['Enrique Iglesias'], 'Duration': 215.64}
 {'ID': '0QWG1EI0Oevf27JgZ5v42C', 'Title': 'Mii Channel', 'Artists': ['VGR'], 'Duration': 125.629}
+{'ID': '18uOcUO5mNEYHHigeXPgQM', 'Title': 'Mine', 'Artists': ['Slayyyter'], 'Duration': 159.013}
 {'ID': '6xwhCiWXREsAIQVZqHswVw', 'Title': 'Minecraft', 'Artists': ['C418'], 'Duration': 254.0}
 {'ID': '4qjfQnccStTR8zNsb6Mizo', 'Title': 'Minority', 'Artists': ['Green Day'], 'Duration': 168.226}
 {'ID': '2tBepKim58vAVEKlQhLJNP', 'Title': 'Miracle', 'Artists': ['CHVRCHES'], 'Duration': 188.251}
@@ -1789,6 +1791,7 @@
 {'ID': '1xTqe3dXZuSfXvVrAncMC4', 'Title': 'Silhouettes - From “The Hunger Games: Catching Fire” Soundtrack', 'Artists': ['Of Monsters and Men'], 'Duration': 271.306}
 {'ID': '3oA57U9pYgcakgzYWAEzNS', 'Title': 'Silver Moonlight', 'Artists': ['Within Temptation'], 'Duration': 316.843}
 {'ID': '2FwDApgXk91kXvqy2oB7dz', 'Title': 'Simulation Swarm', 'Artists': ['Big Thief'], 'Duration': 252.733}
+{'ID': '02bKaAG61tMw9c63fzKXal', 'Title': 'Sin miedo a nada (feat. Amaia Montero)', 'Artists': ['Alex Ubago', 'Amaia Montero'], 'Duration': 310.866}
 {'ID': '3xrn9i8zhNZsTtcoWgQEAd', 'Title': 'Since U Been Gone', 'Artists': ['Kelly Clarkson'], 'Duration': 188.96}
 {'ID': '3MnmutTVHSZ5g2Ybl1P6JT', 'Title': 'Sincerely (From "Violet Evergarden") [Opening]', 'Artists': ['Fonzi M'], 'Duration': 292.47}
 {'ID': '1tfVpMI8G6EakZU4rEja4w', 'Title': 'Sing Me to Sleep', 'Artists': ['Alan Walker'], 'Duration': 187.8}
@@ -2018,7 +2021,7 @@
 {'ID': '2qGCYLNx5Lf7EarfuuVxH7', 'Title': 'Tatooine', 'Artists': ['Phineas', 'Ferb'], 'Duration': 153.16}
 {'ID': '4pZP5nCdSg2z5Li9JqH4Tb', 'Title': 'Tavan Hasag', 'Artists': ['Auli', 'Batzorig Vaanchig'], 'Duration': 229.592}
 {'ID': '2xizRhme7pYeITbH1NLLGt', 'Title': 'Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'André Previn', 'London Symphony Orchestra'], 'Duration': 166.866}
-{'ID': '6kHWawEbq5Vcyp8nSHhGjs', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Berliner Philharmoniker', 'Sir Simon Rattle'], 'Duration': 69.12}
+{'ID': '6kHWawEbq5Vcyp8nSHhGjs', 'Title': 'Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12d, Divertissement. Trepak, Russian Dance', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker'], 'Duration': 69.12}
 {'ID': '1Px4jqDnQFulhG7Dl3nK0C', 'Title': 'Te Voy a Esperar (feat. Belinda)', 'Artists': ['Juan Magán', 'Belinda'], 'Duration': 215.813}
 {'ID': '29HaKOpeLSYvqdFyEQSRdj', 'Title': 'Teach Your Children', 'Artists': ['Crosby, Stills, Nash & Young'], 'Duration': 173.466}
 {'ID': '3G6hD9B2ZHOsgf4WfNu7X1', 'Title': 'Team', 'Artists': ['Lorde'], 'Duration': 193.058}
