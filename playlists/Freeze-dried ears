@@ -13,8 +13,9 @@
 {'ID': '5aDoUmxBsbdpS16alksb5Z', 'Title': 'Do You Hear What I Hear? - Remastered 2006', 'Artists': ['Bing Crosby'], 'Duration': 165.666}
 {'ID': '0VnM98fVPYamafDoW7yza7', 'Title': "Don't Shoot Me Santa", 'Artists': ['The Killers', 'Ryan Pardey'], 'Duration': 245.106}
 {'ID': '1qJhPRj2MzN4uEm74UqM1E', 'Title': 'Enchanters', 'Artists': ['Raney Shockne', 'Elizaveta', 'Nick Stoubis'], 'Duration': 203.44}
+{'ID': '6lvJDlBrtabJWiBlMTGxKs', 'Title': 'For the Damaged Coda', 'Artists': ['Blonde Redhead'], 'Duration': 157.0}
 {'ID': '6opPrJUpq4Pl5c84eCwLmo', 'Title': "Gabriel's Oboe", 'Artists': ['Ennio Morricone'], 'Duration': 134.133}
-{'ID': '6oEpHl3cdz5s3gr2JVjok5', 'Title': 'gec 2 Ü', 'Artists': ['100 gecs', 'Laura Les', 'Dylan Brady'], 'Duration': 197.658}
+{'ID': '1eyq8cjUQ2daFthW2PC2GM', 'Title': 'Glory of Love', 'Artists': ['Peter Cetera'], 'Duration': 258.333}
 {'ID': '49iHYFjT5yO6WEw6KerX9o', 'Title': 'Grandma Got Run over by a Reindeer', 'Artists': ['Elmo & Patsy'], 'Duration': 206.36}
 {'ID': '7qAllFRZgL3EbEqQk52Zvg', 'Title': 'Greensleeves (Instrumental Version)', 'Artists': ["The O'Neill Brothers Group"], 'Duration': 227.266}
 {'ID': '2jgzbIdNpvEfzwNZsUTPsD', 'Title': 'Hallelujah Chorus (from Handel’s Messiah)', 'Artists': ['George Frideric Handel', 'The Priests', 'Allan Wilson', 'Slovak National Symphony Orchestra'], 'Duration': 245.333}
@@ -28,14 +29,19 @@
 {'ID': '44mYhOVgerj2qPjkGDVA6n', 'Title': "It's Beginning To Look Like Christmas", 'Artists': ['Bing Crosby'], 'Duration': 166.0}
 {'ID': '1IcR6RlgvDczfvoWJSSY2A', 'Title': "It's the Most Wonderful Time of the Year", 'Artists': ['Andy Williams'], 'Duration': 151.0}
 {'ID': '58KPPL1AdLHMvR2O2PZejr', 'Title': 'Jesus of Suburbia', 'Artists': ['Green Day'], 'Duration': 548.253}
+{'ID': '5PRmTlHKMBrhiWoYQFyrQm', 'Title': 'Julen Du Ga Meg', 'Artists': ['Thomas Bergersen', 'Sophie Bergersen', 'Veronika Moan'], 'Duration': 230.26}
+{'ID': '3WpmO13nUtLDRZujMgu4ss', 'Title': 'Land of Snow and Sorrow', 'Artists': ['Wintersun'], 'Duration': 501.68}
 {'ID': '2FRnf9qhLbvw8fu4IBXx78', 'Title': 'Last Christmas', 'Artists': ['Wham!'], 'Duration': 262.96}
 {'ID': '04vLj9QUXoKdRlsp3gkURo', 'Title': 'Mele Kalikimaka (Merry Christmas)', 'Artists': ['Bing Crosby', 'The Andrews Sisters'], 'Duration': 175.333}
+{'ID': '1fKaObKEtnVZrnhcqqLKAx', 'Title': 'Moonglow', 'Artists': ['Avantasia', 'Candice Night'], 'Duration': 236.156}
+{'ID': '0fxGA5lxrdYNYoE7yJxTNZ', 'Title': 'My December', 'Artists': ['Linkin Park'], 'Duration': 260.56}
 {'ID': '2MRzU88isUimYDUhPgxcEw', 'Title': 'Now We Are Free', 'Artists': ['Ekaterina Shelehova', 'Emanuele Tedeschi'], 'Duration': 276.683}
 {'ID': '3pg7Kg7lklJJXsnvRm6EtX', 'Title': 'Old Toy Trains', 'Artists': ['Joe Nichols'], 'Duration': 135.04}
 {'ID': '5A6wl06KscRjwC6aeTo7HF', 'Title': 'Old Toy Trains - Single Version', 'Artists': ['Roger Miller'], 'Duration': 123.16}
 {'ID': '1hZ9mTC8sdTZmbi5Fw1i4Y', 'Title': 'Pat a Pan', 'Artists': ['Mannheim Steamroller'], 'Duration': 290.04}
 {'ID': '0AQz8vK9Bvv8p777H9DkFu', 'Title': 'Ravel: Boléro, M. 81', 'Artists': ['Maurice Ravel', 'Franck Pourcel', 'Franck Pourcel Orchestra'], 'Duration': 321.533}
 {'ID': '00NUjJ0ef50eXmTtIahc5v', 'Title': 'Sleigh Ride', 'Artists': ['Leroy Anderson'], 'Duration': 161.626}
+{'ID': '5lsHYb8VxfWC8sbh9shDNI', 'Title': 'Sun särkyä anna mä en', 'Artists': ['Johanna Kurkela'], 'Duration': 184.506}
 {'ID': '1FepLDpvY7aLrWP2fCKnol', 'Title': 'The Ash Grove', 'Artists': ['Traditional', 'Laura Wright', 'Barry Wordsworth', 'Royal Philharmonic Orchestra'], 'Duration': 271.266}
 {'ID': '6udzPCAaSWZ1dIE8VwX67z', 'Title': 'The Crow, the Owl and the Dove', 'Artists': ['Nightwish'], 'Duration': 250.386}
 {'ID': '4rsqx0pmutBNt3TQQtLyKL', 'Title': 'The Heart Asks Pleasure First', 'Artists': ['Nightwish'], 'Duration': 261.173}
