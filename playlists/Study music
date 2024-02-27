@@ -24,6 +24,8 @@
 {'ID': '3duPyCbZPCYeIHqMSZIivl', 'Title': 'Amber Moon', 'Artists': ['Naoya Wada', 'Rutgers Wind Ensemble', 'Rutgers Symphonic Band', 'William Berz'], 'Duration': 268.04}
 {'ID': '7mfvOqsvzZaUl7sfbcNk4E', 'Title': 'Ameno', 'Artists': ['ERA'], 'Duration': 235.226}
 {'ID': '4sLtmtKMmA5iCIa90tWhSe', 'Title': "Anakin's Betrayal", 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 245.32}
+{'ID': '7qH9Z4dJEN0l9bidizW7fq', 'Title': 'Anchor', 'Artists': ['Novo Amor'], 'Duration': 257.533}
+{'ID': '2gEAHKw83WHPD875YqDHH2', 'Title': 'Ancient Stones', 'Artists': ['Jeremy Soule'], 'Duration': 285.531}
 {'ID': '3rGdSp0BSE79HvC2boaKcK', 'Title': 'Answer', 'Artists': ['Sarah McLachlan'], 'Duration': 239.0}
 {'ID': '6NlKpIgOeU0y4puwrTFI2w', 'Title': 'Apotheosis', 'Artists': ['Austin Wintory'], 'Duration': 430.151}
 {'ID': '6JdXDzx9eWzJZDuZoxhW7a', 'Title': 'Ar Hyd Y Nos', 'Artists': ['2002'], 'Duration': 235.026}
@@ -31,6 +33,7 @@
 {'ID': '0rbDsnOgxbUWjXCe6S7xUA', 'Title': 'Asimov', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 134.266}
 {'ID': '1XmdB9Kha5e5H4PfTSmewn', 'Title': 'Atlas: Touch', 'Artists': ['Sleeping At Last'], 'Duration': 253.892}
 {'ID': '2kyEgPaAW8wdpvevPnkf0Z', 'Title': 'Ave Maria', 'Artists': ['Charles Gounod', 'Yo-Yo Ma'], 'Duration': 163.266}
+{'ID': '0DrhapFEF5d9Yzg4v914dp', 'Title': 'Awake', 'Artists': ['Jeremy Soule'], 'Duration': 92.899}
 {'ID': '5F7I0CfdEnVSPlwFabMyIi', 'Title': 'Back To The Future', 'Artists': ['The Outatime Orchestra'], 'Duration': 197.333}
 {'ID': '0fpNsp2ZloNQH7ShhBKloI', 'Title': 'Bad Blood', 'Artists': ['Sleeping At Last'], 'Duration': 294.017}
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
@@ -62,17 +65,21 @@
 {'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 262.623}
 {'ID': '4O2N861eOnF9q8EtpH8IJu', 'Title': "Comptine d'un autre été, l'après-midi", 'Artists': ['Yann Tiersen'], 'Duration': 140.733}
 {'ID': '644es5aYPJghtZLjM1rmSP', 'Title': 'Concerning Hobbits', 'Artists': ['Howard Shore'], 'Duration': 175.04}
+{'ID': '6pWgRkpqVfxnj3WuIcJ7WP', 'Title': 'Cornfield Chase', 'Artists': ['Hans Zimmer'], 'Duration': 126.959}
 {'ID': '7iKnwGAMdY6LYLILGnsGhT', 'Title': 'Crayon Angels', 'Artists': ['Judee Sill'], 'Duration': 165.48}
 {'ID': '66bK78V5FvJcxdLncAwZ8Q', 'Title': 'Crybaby', 'Artists': ['Kensuke Ushio'], 'Duration': 249.333}
 {'ID': '6oD2CvvCbK8bXdCxdaPi29', 'Title': "Dacw 'Nghariad", 'Artists': ['Eve Goodman'], 'Duration': 164.5}
 {'ID': '4WJ7UMD4i6DOPzyXU5pZSz', 'Title': 'Danse macabre', 'Artists': ['Camille Saint-Saëns', 'Slovak Radio Symphony Orchestra', 'Keith Clark'], 'Duration': 428.56}
 {'ID': '69mGHL6ZAsChKeYBGwrURd', 'Title': 'Dark Haired Boy', 'Artists': ['Barrage'], 'Duration': 223.72}
 {'ID': '6buHoQU9OTdbJrAuniVwGL', 'Title': 'Davy Jones', 'Artists': ['Hans Zimmer'], 'Duration': 195.24}
+{'ID': '4WmB04GBqS4xPMYN9dHgBw', 'Title': 'Day One (Interstellar Theme)', 'Artists': ['Hans Zimmer'], 'Duration': 199.422}
 {'ID': '2dtcNplc1W8GFAo9LPzLri', 'Title': 'Dear Wormwood', 'Artists': ['The Oh Hellos'], 'Duration': 316.066}
 {'ID': '4O0sGJdqpHMaWz7KoVd7tb', 'Title': 'Diamonds And Rust', 'Artists': ['Joan Baez'], 'Duration': 286.106}
+{'ID': '3wnSHCMTtD1fxwOzTc5Gdh', 'Title': 'Distant Horizons', 'Artists': ['Jeremy Soule'], 'Duration': 232.87}
 {'ID': '3CIobV7OH4gK6rc48g4RXC', 'Title': 'Dixit Dominus, HWV 232: Chorus "Dixit Dominus Domino meo"', 'Artists': ['George Frideric Handel', 'Vox Luminis', 'Lionel Meunier', 'Caroline Weynants', 'Jan Kullmann', 'Robert Buckland'], 'Duration': 351.653}
 {'ID': '6XPWyMTu3TZLqVBiKTXrUV', 'Title': 'Do with It as You Will', 'Artists': ['Damjan Mravunac'], 'Duration': 129.451}
 {'ID': '1W9QER6RZ0NEZhWc8jGez7', 'Title': 'Dragonland', 'Artists': ['Thomas Bergersen'], 'Duration': 311.669}
+{'ID': '3A6B7EgDzGsBakF8u6Jvlw', 'Title': 'Dragonsreach', 'Artists': ['Jeremy Soule'], 'Duration': 140.936}
 {'ID': '1gNcPHAiVIQZmqJFJdt3ti', 'Title': 'Dry Hands', 'Artists': ['C418'], 'Duration': 68.5}
 {'ID': '1ghlpxVfPbFH2jenrv9vVw', 'Title': 'Duel of the Fates', 'Artists': ['John Williams', 'London Symphony Orchestra'], 'Duration': 254.346}
 {'ID': '3AnYGQ8PB3lYrA6ToVUXa3', 'Title': 'Empire of Angels', 'Artists': ['Thomas Bergersen'], 'Duration': 314.537}
@@ -86,7 +93,9 @@
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '572UQcXPzBCvN7xWzrkcQk', 'Title': 'False God', 'Artists': ['Damjan Mravunac'], 'Duration': 237.999}
 {'ID': '5BijFryhTEnghWx91jYoVR', 'Title': 'Fantasie-impromptu in C-Sharp Minor, Op. 66 No. 4', 'Artists': ['Frédéric Chopin', 'Arthur Rubinstein'], 'Duration': 306.173}
+{'ID': '2rtFUTZLSQ7cECBXfUOgJe', 'Title': 'Far Horizons', 'Artists': ['Jeremy Soule'], 'Duration': 331.475}
 {'ID': '7oYTWS0BEJcddgKZBkiSJq', 'Title': 'Far Over the Misty Mountains Cold', 'Artists': ['Clamavi De Profundis'], 'Duration': 463.439}
+{'ID': '7CIznPJ8AsdNZAQwVtqAq3', 'Title': 'Farewell', 'Artists': ['Bernth'], 'Duration': 129.526}
 {'ID': '2KEC0lBoiYo8DAe9072AEs', 'Title': 'Fate of the Kingdoms', 'Artists': ['Ramin Djawadi'], 'Duration': 205.091}
 {'ID': '4op64Clk2SjQO2Yf7xII7Y', 'Title': "Final Ascent - Single Edit / From ''No Time To Die'' Soundtrack", 'Artists': ['Hans Zimmer'], 'Duration': 128.106}
 {'ID': '6gDt7eZjJNIkzLj9jVEBZo', 'Title': 'First Sunrise', 'Artists': ['Haru Kitamura'], 'Duration': 212.0}
@@ -99,6 +108,7 @@
 {'ID': '5MlY3mwE2eQlmaYHONLTaO', 'Title': 'Forth Eorlingas', 'Artists': ['Howard Shore'], 'Duration': 195.666}
 {'ID': '59aGSe9G3GH6t7M6rHFmhi', 'Title': 'Four Seasons, Fall', 'Artists': ['Vivaldi'], 'Duration': 161.693}
 {'ID': '0zke8Vmo0bgbPjxL3pUhqk', 'Title': 'From Past to Present', 'Artists': ['Jeremy Soule'], 'Duration': 304.007}
+{'ID': '1BRtrNXFD8RrlsHfo61PS7', 'Title': 'Frostfall', 'Artists': ['Jeremy Soule'], 'Duration': 206.332}
 {'ID': '3SP9yu0VUfCNmCC3SLIZAG', 'Title': 'Fur Elise', 'Artists': ['Ludwig van Beethoven', 'Jean-Bernard Pommier'], 'Duration': 146.2}
 {'ID': '6opPrJUpq4Pl5c84eCwLmo', 'Title': "Gabriel's Oboe", 'Artists': ['Ennio Morricone'], 'Duration': 134.133}
 {'ID': '5d5vbFsYB7EebhVgafqvKS', 'Title': 'Ghost Choir', 'Artists': ['Louie Zong'], 'Duration': 97.842}
@@ -134,6 +144,7 @@
 {'ID': '6HH8ZoDIe5qw8EYTTHVZh7', 'Title': 'Ice Dance', 'Artists': ['Danny Elfman'], 'Duration': 104.973}
 {'ID': '52erNkfUKv34u02CjcHOPj', 'Title': "If I Didn't Have You", 'Artists': ['Randy Travis'], 'Duration': 186.746}
 {'ID': '4cYMt6WiUFShfZ6M1A9LPi', 'Title': 'Ikebana', 'Artists': ['Nora Van Elken'], 'Duration': 169.83}
+{'ID': '4N8henbzdhXRgTJY1zbWHP', 'Title': 'Imperial Throne', 'Artists': ['Jeremy Soule'], 'Duration': 142.839}
 {'ID': '27NovPIUIRrOZoCHxABJwK', 'Title': 'INDUSTRY BABY (feat. Jack Harlow)', 'Artists': ['Lil Nas X', 'Jack Harlow'], 'Duration': 212.0}
 {'ID': '51z23Lnf8yB96QKrXzXUwW', 'Title': 'Interstellar', 'Artists': ['Gamazda'], 'Duration': 200.17}
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
@@ -149,6 +160,7 @@
 {'ID': '7LuPjGUfJqxuW14W4gMrU2', 'Title': 'kisses', 'Artists': ['Slowdive'], 'Duration': 237.434}
 {'ID': '534oydPCUQsrRuia17XILl', 'Title': 'Kronos Unveiled', 'Artists': ['Michael Giacchino'], 'Duration': 196.64}
 {'ID': '0mR1bExLKqy9Uzzp51NQSm', 'Title': 'Kulning', 'Artists': ['voho', 'Jonna Jinton'], 'Duration': 183.289}
+{'ID': '6O9hBwcZKrzCVVhEeoieko', 'Title': "Kyne's Peace", 'Artists': ['Jeremy Soule'], 'Duration': 229.517}
 {'ID': '2jpcucZ7Ap5j2hyQbDEGSn', 'Title': 'Laputa: Castle In the Sky Suite', 'Artists': ['Eminence Symphony Orchestra'], 'Duration': 400.157}
 {'ID': '2OlTSU61miLAwkCfe9jtKh', 'Title': 'Last Train Home ~ still far', 'Artists': ['REMEDIOS'], 'Duration': 200.52}
 {'ID': '5XkQml4ElWvSoiQjCjWH2F', 'Title': 'Lay in Lustre', 'Artists': ['Danny Jordan'], 'Duration': 173.22}
@@ -173,6 +185,7 @@
 {'ID': '3JOVTQ5h8HGFnDdp4VT3MP', 'Title': 'Mad World', 'Artists': ['Gary Jules', 'Michael Andrews'], 'Duration': 189.506}
 {'ID': '0PZJ3qdBS0rQ0GCXU0IEdn', 'Title': 'Made of Words', 'Artists': ['Damjan Mravunac'], 'Duration': 285.346}
 {'ID': '64Crrk0odVnK4lWWJzuN0P', 'Title': 'Magika', 'Artists': ['Thomas Bergersen'], 'Duration': 116.517}
+{'ID': '1koYkhUgDbE7Me0dXLsCwn', 'Title': 'Main Theme - From "Once Upon a Time in America"', 'Artists': ['Ennio Morricone', 'The City of Prague Philharmonic Orchestra', 'Nicholas Charles Raine', 'James Fitzpatrick'], 'Duration': 130.026}
 {'ID': '2q6fxAvSpqXR4jx9Ne7RGz', 'Title': 'Main Title', 'Artists': ['Ramin Djawadi'], 'Duration': 106.28}
 {'ID': '74BfFG9qR85KXxN49esFVA', 'Title': 'Main Titles (You’ve Been Called Back to Top Gun)', 'Artists': ['Harold Faltermeyer', 'Lady Gaga', 'Hans Zimmer', 'Lorne Balfe'], 'Duration': 150.666}
 {'ID': '0VfcYOujgf9JDAgwlgu1qm', 'Title': 'Many Meetings', 'Artists': ['Howard Shore'], 'Duration': 185.426}
@@ -201,6 +214,7 @@
 {'ID': '20LsXSYrH1M3mk1COyPVrg', 'Title': "Newt Says Goodbye to Tina / Jacob's Bakery", 'Artists': ['James Newton Howard'], 'Duration': 206.722}
 {'ID': '3U901vTsG4a3JcLF3aVDQr', 'Title': 'Nocturne in C minor, Op. 48, No. 1', 'Artists': ['Frédéric Chopin', 'Janusz Olejniczak'], 'Duration': 349.693}
 {'ID': '1VNvsvEsUpuUCbHpVop1vo', 'Title': 'Nocturne No. 2 in E-Flat Major, Op. 9 No. 2', 'Artists': ['Frédéric Chopin', 'Daniel Barenboim'], 'Duration': 273.666}
+{'ID': '2bdFN2I6zEUsjjqSV3t4kI', 'Title': 'Nop', 'Artists': ['ChenYueLong'], 'Duration': 103.205}
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
 {'ID': '5QBnwYx4gb1lTnaHjKqwRV', 'Title': 'Nothing Else Matters', 'Artists': ['Gamazda'], 'Duration': 337.631}
 {'ID': '3uErbNGaNIPJkRlMrLxR9Z', 'Title': 'Nothing Else Matters', 'Artists': ['Apocalyptica'], 'Duration': 285.533}
@@ -213,6 +227,7 @@
 {'ID': '0DefmqHMWLchBf3VyLTYKq', 'Title': 'On Earth As It Is In Heaven', 'Artists': ['Ennio Morricone'], 'Duration': 230.693}
 {'ID': '3HGA8mdmacm3tW6qgyCE26', 'Title': 'One Family', 'Artists': ['Mark Mancina', 'Phil Collins'], 'Duration': 228.093}
 {'ID': '3gFQOMoUwlR6aUZj81gCzu', 'Title': 'One Summer Day', 'Artists': ['Joe Hisaishi'], 'Duration': 189.8}
+{'ID': '1XZPtZVqcOzzxbYIR7MjQw', 'Title': 'Ontario', 'Artists': ['Novo Amor', 'Lowswimmer'], 'Duration': 192.866}
 {'ID': '2zkKbKoxUJCnemvyJPAVef', 'Title': 'Oogway Ascends (From "Kung Fu Panda")', 'Artists': ['Tina Guo'], 'Duration': 184.0}
 {'ID': '7yf745Koj9ts1L318LzKzw', 'Title': 'Out There', 'Artists': ['Damjan Mravunac'], 'Duration': 169.111}
 {'ID': '6MUvXrzrIDmOGp4WPe7RhN', 'Title': 'Patton: Main Title - From Patton', 'Artists': ['Jerry Goldsmith', 'Royal Scottish National Orchestra'], 'Duration': 148.666}
@@ -227,6 +242,7 @@
 {'ID': '1YtHpYEbbfQQIyxXkdxEoW', 'Title': 'Protectors of the Earth', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 169.714}
 {'ID': '5JtTSaH8W6UVqViPgpcqTq', 'Title': "Rachel's Song", 'Artists': ['Vangelis'], 'Duration': 288.0}
 {'ID': '0185UMbrlZ18TbyzNVIuOK', 'Title': 'Raiders March (From "Raiders of the Lost Ark")', 'Artists': ['John Williams', 'Philharmonische Orchester des Staatstheaters Cottbus', 'Evan Christ'], 'Duration': 311.773}
+{'ID': '79qxwHypONUt3AFq0WPpT9', 'Title': 'Rainbow', 'Artists': ['Kacey Musgraves'], 'Duration': 214.293}
 {'ID': '1UQshomMs9KUJIIC7SKEWl', 'Title': 'Requiem for a Dream', 'Artists': ['Jennifer Thomas'], 'Duration': 213.933}
 {'ID': '3vcrPfoTYmqrARCwgabvJi', 'Title': 'Requiem for a Thousand Dreams', 'Artists': ['Gianmarco Leone'], 'Duration': 219.608}
 {'ID': '1eEqg0aPf3BoaBl0I4Tuln', 'Title': 'Retro Funky - Sundance Remix', 'Artists': ['Perséphone'], 'Duration': 213.391}
@@ -241,10 +257,12 @@
 {'ID': '3tJjZMHLqhD8DaGgdBICnc', 'Title': 'Saturn', 'Artists': ['Sleeping At Last'], 'Duration': 289.792}
 {'ID': '1Wer5Qms3Uj4LInRrqa4yL', 'Title': 'Scarborough Fair', 'Artists': ['Dan Avidan', 'Super Guitar Bros'], 'Duration': 201.52}
 {'ID': '4FvOXcUhFu2RVyfxq1gJgH', 'Title': 'Secret Melody', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 226.906}
+{'ID': '5fHgBb5r91Jmdr8Q7dwmad', 'Title': 'Secunda', 'Artists': ['Jeremy Soule'], 'Duration': 123.216}
 {'ID': '0hyNfSzLjbpwoBdL128vJO', 'Title': 'Send Me a Peach', 'Artists': ['The Blasting Company'], 'Duration': 122.626}
 {'ID': '77Ly4ZjsYvmWUPRtxZIIPK', 'Title': 'Sepia Effect', 'Artists': ['Hiromi'], 'Duration': 401.186}
 {'ID': '4N7Xei2GGiwaTE37PIbdKV', 'Title': 'Shadow Of The Moon', 'Artists': ["Blackmore's Night"], 'Duration': 306.826}
 {'ID': '53p7FbJl1LlUO4XEqcdXkO', 'Title': 'Shady Rest', 'Artists': ['David Arkenstone'], 'Duration': 169.36}
+{'ID': '1BWsQm7kOBjK2aSFYg5HQZ', 'Title': 'Shofukan', 'Artists': ['Snarky Puppy'], 'Duration': 393.053}
 {'ID': '5OyWN37xTdZtjbSQ15FA8K', 'Title': 'Shop', 'Artists': ['Toby Fox'], 'Duration': 50.274}
 {'ID': '16NThvaQeF0xItfMI6XGwn', 'Title': 'Shukumei', 'Artists': ['Yasuharu Takanashi'], 'Duration': 171.906}
 {'ID': '1N5cFf4F9LNfov7GCGWpQc', 'Title': 'Silent Night', 'Artists': ['Michael Bublé'], 'Duration': 227.52}
@@ -259,7 +277,9 @@
 {'ID': '0WNGsQ1oAuHzNTk8jivBKW', 'Title': 'Spring Day', 'Artists': ['BTS'], 'Duration': 274.097}
 {'ID': '26Hng0o20CuvISEMzhwjgl', 'Title': 'Spring Song, Op. 16', 'Artists': ['Jean Sibelius', 'Moscow Philharmonic Orchestra', 'Vasily Sinaisky'], 'Duration': 499.8}
 {'ID': '4Z5i2k4fOae0puU6h3eemg', 'Title': 'Stairway to Heaven', 'Artists': ['Gamazda'], 'Duration': 386.453}
+{'ID': '77Fw7rWYBsjA5Uf2cSocUN', 'Title': 'Standing Stones', 'Artists': ['Jeremy Soule'], 'Duration': 396.835}
 {'ID': '5I8nWynxM3x2r8Pw2uTHA1', 'Title': 'Starting the Job', 'Artists': ['Joe Hisaishi'], 'Duration': 135.28}
+{'ID': '7CoMBpPTwQi2wPT0U0Nr9b', 'Title': 'State Lines', 'Artists': ['Novo Amor'], 'Duration': 208.653}
 {'ID': '775OxWq9wfVzmVDS0n3zff', 'Title': 'Statues', 'Artists': ['Alexandre Desplat'], 'Duration': 144.2}
 {'ID': '5RfBhOGNbbXT5LiIvbHLhN', 'Title': 'Stereo Love - Radio Edit', 'Artists': ['Edward Maya', 'Vika Jigulina'], 'Duration': 184.0}
 {'ID': '0kwuKfWntoGh0EWyYb7Mpf', 'Title': 'Stranger Things', 'Artists': ['Kyle Dixon & Michael Stein'], 'Duration': 67.52}
@@ -306,12 +326,14 @@
 {'ID': '2QTDuJIGKUjR7E2Q6KupIh', 'Title': 'Test Drive - From How To Train Your Dragon Music From The Motion Picture', 'Artists': ['John Powell'], 'Duration': 156.306}
 {'ID': '1ovu8lOVW8uD5FjWICAxpy', 'Title': 'The Air That I Breathe', 'Artists': ['The Hollies'], 'Duration': 244.18}
 {'ID': '1FepLDpvY7aLrWP2fCKnol', 'Title': 'The Ash Grove', 'Artists': ['Traditional', 'Laura Wright', 'Barry Wordsworth', 'Royal Philharmonic Orchestra'], 'Duration': 271.266}
+{'ID': '6BG6rbPZp6lEXy7KN2mCDg', 'Title': 'The Bannered Mare', 'Artists': ['Jeremy Soule'], 'Duration': 148.06}
 {'ID': '56P8zbMtfKLlmpUWW3xAzf', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 602.226}
 {'ID': '4mHv2ujBeoqhwZxgVhoPJy', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 602.226}
 {'ID': '5zcB3Tcl60SD85Tc4D7UsK', 'Title': 'The Blood Of Cu Chulainn 2010', 'Artists': ['Mychael Danna & Jeff Danna'], 'Duration': 249.24}
 {'ID': '1ykbtFnlIjmIFnZ8j6wg6i', 'Title': 'The Breaking of the Fellowship (feat. "In Dreams")', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 440.8}
 {'ID': '0jOnZhF75V68VsBObWx2XO', 'Title': 'The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)', 'Artists': ['Camille Saint-Saëns', 'Yo-Yo Ma', 'Kathryn Stott'], 'Duration': 174.266}
 {'ID': '7ip3E20xZ9D7mMuLBv7kLH', 'Title': 'The Ceremony', 'Artists': ['James Newton Howard'], 'Duration': 301.853}
+{'ID': '1l7bKxkdTymsFbxWzsK3vw', 'Title': 'The City Gates', 'Artists': ['Jeremy Soule'], 'Duration': 226.058}
 {'ID': '3Knohqfb9jeYzL6wMZiWLM', 'Title': 'The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]', 'Artists': ['Howard Shore', 'Enya'], 'Duration': 229.106}
 {'ID': '3k7u3irZ9H42KOYUMx861k', 'Title': 'The Dance of Eternity', 'Artists': ['Damjan Mravunac'], 'Duration': 84.488}
 {'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold - 2004 Remaster', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
@@ -333,7 +355,7 @@
 {'ID': '1ghqlcFUP85h1Gxn4Oa2Kt', 'Title': 'The John Dunbar Theme (From "Dances With Wolves")', 'Artists': ['John Barry'], 'Duration': 137.773}
 {'ID': '1DH9pHPoBQ1YJRbzuFfnhV', 'Title': "The Magic of the Wizard's Dream (English Version)", 'Artists': ['Rhapsody'], 'Duration': 222.333}
 {'ID': '35gFlKdC4Pmo88Go1cVrae', 'Title': 'The Medallion Calls', 'Artists': ['Klaus Badelt'], 'Duration': 112.506}
-{'ID': '6UbjJgc9gHcEhnfrKszGxX', 'Title': 'The Moldau (Vlatava), No. 2', 'Artists': ['Bedřich Smetana', 'Leopold Stokowski'], 'Duration': 741.373}
+{'ID': '6UbjJgc9gHcEhnfrKszGxX', 'Title': 'The Moldau (Vlatava), No. 2', 'Artists': ['Bedřich Smetana', 'Leopold Stokowski', 'RCA Victor Symphony Orchestra'], 'Duration': 741.373}
 {'ID': '7l8gHk3b9AwjC7gRhOqtP4', 'Title': 'The Moss', 'Artists': ['Cosmo Sheldrake'], 'Duration': 242.567}
 {'ID': '1aDklx1GaBqHFowCzz63wU', 'Title': 'The Night King', 'Artists': ['Ramin Djawadi'], 'Duration': 530.532}
 {'ID': '0fOTCN0To4R49FDEHCQ6iC', 'Title': 'The Office (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 35.552}
@@ -363,9 +385,11 @@
 {'ID': '4Hzss8q0jDWa2PjXDGqYZL', 'Title': 'Traust', 'Artists': ['Heilung'], 'Duration': 588.516}
 {'ID': '0CqPcWjAzqyLh9vSdbl5pj', 'Title': "Traveler's Song", 'Artists': ['Aviators'], 'Duration': 320.386}
 {'ID': '2BiIv3bXtrWuPKswndveIm', 'Title': 'Trials', 'Artists': ['Damjan Mravunac'], 'Duration': 228.0}
+{'ID': '0lIDOHnoe4RJgm6rzowj6x', 'Title': 'Tundra', 'Artists': ['Jeremy Soule'], 'Duration': 229.5}
 {'ID': '2kfGoV9a5dbSKCNmUWH2ZF', 'Title': 'Turning Page', 'Artists': ['Sleeping At Last'], 'Duration': 255.893}
 {'ID': '0X0wlLoC0jCzZYxCZEc1dv', 'Title': 'Two', 'Artists': ['Sleeping At Last'], 'Duration': 258.609}
 {'ID': '1PG3ytAkyimQ3w3jKJpeEj', 'Title': 'Un Unusual Painting', 'Artists': ['Joe Hisaishi'], 'Duration': 142.093}
+{'ID': '5XcivSLcE4sR5s9ItTxROd', 'Title': 'Unbroken Road', 'Artists': ['Jeremy Soule'], 'Duration': 384.173}
 {'ID': '2FZ99j224ohiGLavqjijza', 'Title': 'Undertale', 'Artists': ['Toby Fox'], 'Duration': 381.535}
 {'ID': '47qYqGPgMTh3l1PRKBHEfI', 'Title': 'Unity', 'Artists': ['TheFatRat'], 'Duration': 249.285}
 {'ID': '7oKMHBjWMt3CbUMb9rd7EG', 'Title': 'Vargsången', 'Artists': ['Johanna Grüssner', 'Wegeliuskvartetten', 'Patrick Wingren'], 'Duration': 242.04}
@@ -387,6 +411,7 @@
 {'ID': '2o0bNqX8RnohqB1w2ufofZ', 'Title': 'When in Rome', 'Artists': ['Damjan Mravunac'], 'Duration': 147.0}
 {'ID': '6qpy8DE7KnkNCozXSPTYCR', 'Title': 'When the Birds Start Singing', 'Artists': ['Uppermost'], 'Duration': 280.857}
 {'ID': '4BXkf6yww23Vdju7E1fUrn', 'Title': 'Whiskey Lullaby (feat. Alison Krauss)', 'Artists': ['Brad Paisley', 'Alison Krauss'], 'Duration': 259.453}
+{'ID': '5K6HZ4t7rUb2VbZqmBPPfY', 'Title': 'Wind Guide You', 'Artists': ['Jeremy Soule'], 'Duration': 545.268}
 {'ID': '5n4dHCWjvGJtuFSZIyeqWp', 'Title': 'Winterspell', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 200.392}
 {'ID': '1QMUxV9i7qPDKwVt6p0xSe', 'Title': 'Wish You Were Here', 'Artists': ['Gamazda'], 'Duration': 256.328}
 {'ID': '3Lsdp3mbD27MjxvTeFm0v3', 'Title': "You're in Love", 'Artists': ['Joe Hisaishi'], 'Duration': 71.8}
