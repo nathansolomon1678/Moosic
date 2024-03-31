@@ -71,6 +71,7 @@
 {'ID': '19JdbdEwQI7bCxefMokZO8', 'Title': 'My Humps', 'Artists': ['Black Eyed Peas'], 'Duration': 326.96}
 {'ID': '7GhIk7Il098yCjg4BQjzvb', 'Title': 'Never Gonna Give You Up', 'Artists': ['Rick Astley'], 'Duration': 212.826}
 {'ID': '0tdFKYAgTqsWqs2JshlcYV', 'Title': 'Noble Gas', 'Artists': ['Steve Aoki', 'Bill Nye'], 'Duration': 219.212}
+{'ID': '3NHXj1DBuoxA7HL0xfQAZC', 'Title': 'Not Fair', 'Artists': ['Lily Allen'], 'Duration': 202.546}
 {'ID': '5VOoT3AIIStTSN8cSMrSD4', 'Title': 'Nyan Cat Theme', 'Artists': ['Nyan Cat'], 'Duration': 226.0}
 {'ID': '53CJANUxooaqGOtdsBTh7O', 'Title': 'Old Town Road', 'Artists': ['Lil Nas X'], 'Duration': 113.013}
 {'ID': '5eZaT21ZVGyGHJ8kcwaNxA', 'Title': 'Party In the CIA (Parody of "Party In The U.S.A." by Miley Cyrus)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.8}
@@ -124,7 +125,7 @@
 {'ID': '60R2v9lheAu3lwZwAFxMZK', 'Title': 'White & Nerdy (Parody of "Ridin\'" by Chamillionaire feat. Krayzie Bone)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 170.64}
 {'ID': '3rCbgZ8FgdUZdKzsphhzaE', 'Title': 'Wii Sports Theme', 'Artists': ['FamilyJules', 'ArtificialFear'], 'Duration': 184.0}
 {'ID': '4RNwcYuvlMi1msShXCUfzC', 'Title': 'Wii Theme but Its September', 'Artists': ['Mr Rock'], 'Duration': 154.096}
-{'ID': '5wj4E6IsrVtn8IBJQOd0Cl', 'Title': 'Wonderwall - Remastered', 'Artists': ['Oasis'], 'Duration': 258.732}
+{'ID': '5wj4E6IsrVtn8IBJQOd0Cl', 'Title': 'Wonderwall (Remastered)', 'Artists': ['Oasis'], 'Duration': 258.732}
 {'ID': '7vaFuClNKe02pjKYbXEJ46', 'Title': 'xXXi_wud_nvrstøp_ÜXXx', 'Artists': ['100 gecs', 'Laura Les', 'Dylan Brady'], 'Duration': 174.674}
 {'ID': '6OG1S805gIrH5nAQbEOPY3', 'Title': "You'll Be Back", 'Artists': ['Jonathan Groff', 'Original Broadway Cast of Hamilton'], 'Duration': 208.321}
 {'ID': '7t2qN4Wl1EoFVD7CVoqoga', 'Title': "You're Gonna Outlive Mitch McConnell", 'Artists': ['Skyler Foley'], 'Duration': 129.103}
