@@ -5,7 +5,7 @@
 {'ID': '2GxGYGrixbXPFojONbzdo9', 'Title': 'Angel in Blue Jeans', 'Artists': ['Train'], 'Duration': 205.973}
 {'ID': '1Xi84slp6FryDSCbzq4UCD', 'Title': 'Arcade', 'Artists': ['Duncan Laurence'], 'Duration': 183.624}
 {'ID': '3ybF6Iaia01EbXg5VmxPcb', 'Title': 'Armageddon It', 'Artists': ['Def Leppard'], 'Duration': 322.866}
-{'ID': '2uqYupMHANxnwgeiXTZXzd', 'Title': 'Austin', 'Artists': ['Dasha'], 'Duration': 171.782}
+{'ID': '2uqYupMHANxnwgeiXTZXzd', 'Title': "Austin (Boots Stop Workin')", 'Artists': ['Dasha'], 'Duration': 171.782}
 {'ID': '3qiyyUfYe7CRYLucrPmulD', 'Title': "Baba O'Riley", 'Artists': ['The Who'], 'Duration': 300.4}
 {'ID': '5W7YROOF6bFfBexY81LFjt', 'Title': 'Babe', 'Artists': ['Styx'], 'Duration': 265.973}
 {'ID': '0lIoY4ZQsdn5QzhraM9o9u', 'Title': 'Because the Night', 'Artists': ['Patti Smith'], 'Duration': 204.8}
@@ -143,4 +143,5 @@
 {'ID': '6ADSaE87h8Y3lccZlBJdXH', 'Title': 'With Or Without You', 'Artists': ['U2'], 'Duration': 295.515}
 {'ID': '0aYQsp1vZZcX0JBEJvKF7N', 'Title': 'Words As Weapons', 'Artists': ['Seether'], 'Duration': 240.2}
 {'ID': '0edWjtiyrT31785vfCnXgc', 'Title': 'Yerushalayim - Live Version', 'Artists': ['Yerachmiel Begun & The Miami Boys Choir'], 'Duration': 251.088}
+{'ID': '4kdjHU5lzooUP7kkzQqX0Q', 'Title': 'Zonnestraal', 'Artists': ['De Hofnar'], 'Duration': 256.99}
 {'ID': '575urseJcD6iGioNWuQy3H', 'Title': '¡Viva La Gloria!', 'Artists': ['Green Day'], 'Duration': 210.506}
