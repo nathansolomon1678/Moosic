@@ -153,6 +153,7 @@
 {'ID': '2dgxZM98rGyN2cI357Npeq', 'Title': 'Hot Air Balloon', 'Artists': ['Owl City'], 'Duration': 213.106}
 {'ID': '4xxz2SWsCCvYokNTLri78c', 'Title': "Howl's Moving Castle Theme (From 'Howl's Moving Castle')", 'Artists': ['Anime Kei'], 'Duration': 306.843}
 {'ID': '409jd9pxQ75yis0oG51YA6', 'Title': 'Hungarian Dance #5', 'Artists': ['Johannes Brahms'], 'Duration': 70.688}
+{'ID': '4dH2VUbgWbj4NKFsLFwiiW', 'Title': 'Hurt', 'Artists': ['Sleeping At Last'], 'Duration': 225.053}
 {'ID': '77vAuUDLRCp4pa5FBfx9F6', 'Title': 'Hymn to the Sea', 'Artists': ['James Horner'], 'Duration': 385.733}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
 {'ID': '6FLkf9qaDpyqkwfHnG3us1', 'Title': 'I\'m Gonna Fly (From "Kiki\'s Delivery Service")', 'Artists': ['Phil Larson'], 'Duration': 225.858}
@@ -185,6 +186,7 @@
 {'ID': '1YSRUv0d0F1ZNbstipq8Pf', 'Title': 'Le carnaval des animaux: V. The Elephant', 'Artists': ['Anonymous', 'Camille Saint-Saëns', 'Ferhan Önder', 'Ferzan Önder', 'Zurich Chamber Orchestra', 'Howard Griffiths'], 'Duration': 79.986}
 {'ID': '3M8FzayQWtkvOhqMn2V4T2', 'Title': 'Lean on Me', 'Artists': ['Bill Withers'], 'Duration': 258.834}
 {'ID': '6bvxtoiGMI7DmtvcF40BsI', 'Title': 'Leaves from the Vine', 'Artists': ['Samuel Kim'], 'Duration': 192.023}
+{'ID': '15yScQGLH5QOuXm9XbhnPb', 'Title': 'Leaving Hogwarts', 'Artists': ['John Williams'], 'Duration': 133.573}
 {'ID': '3D8dwH690MXQRhtIZTSS9c', 'Title': 'Leaving, On a Jet Plane - "Greatest Hits" Version', 'Artists': ['John Denver'], 'Duration': 245.533}
 {'ID': '3ClpV8AvFubxA29J3VsoQq', 'Title': 'Les Fées', 'Artists': ['Lindsey Stirling'], 'Duration': 218.013}
 {'ID': '3QOelbDFgwXiagpUHBxARi', 'Title': 'Let It Go', 'Artists': ['Antonio Vivaldi', 'Kristen Anderson', 'Robert Lopez', 'The Piano Guys'], 'Duration': 243.76}
@@ -214,6 +216,7 @@
 {'ID': '7LAJWSKK8JMIZAcblgUMS6', 'Title': 'May It Be', 'Artists': ['Enya'], 'Duration': 257.76}
 {'ID': '4LrlsO9cnnNjxBiHeRedjF', 'Title': 'Memory', 'Artists': ['Toby Fox'], 'Duration': 75.0}
 {'ID': '4uQDCRyQGUnX4U6BuIgHAd', 'Title': 'Memory of Fanelia', 'Artists': ['Laurence Manning'], 'Duration': 194.25}
+{'ID': '4wxaEgPlUbEUwiAnThBUkw', 'Title': 'Mhysa', 'Artists': ['Ramin Djawadi'], 'Duration': 234.933}
 {'ID': '22sHRjhrIs8o9a8yKHEpIz', 'Title': 'Milk and Honey', 'Artists': ['Shlomi Kendel'], 'Duration': 292.96}
 {'ID': '6xwhCiWXREsAIQVZqHswVw', 'Title': 'Minecraft', 'Artists': ['C418'], 'Duration': 254.0}
 {'ID': '4JOEMgLkrHp8K1XNmyNffH', 'Title': "Miroirs: III. Une barque sur l'océan", 'Artists': ['Maurice Ravel', 'André Laplante'], 'Duration': 428.152}
@@ -275,6 +278,7 @@
 {'ID': '3vcrPfoTYmqrARCwgabvJi', 'Title': 'Requiem for a Thousand Dreams', 'Artists': ['Gianmarco Leone'], 'Duration': 219.608}
 {'ID': '1eEqg0aPf3BoaBl0I4Tuln', 'Title': 'Retro Funky - Sundance Remix', 'Artists': ['Perséphone'], 'Duration': 213.391}
 {'ID': '3euEdJ2LOoD1WjCNIYfwrZ', 'Title': 'Return To Now', 'Artists': ['Duran Duran'], 'Duration': 96.093}
+{'ID': '5wsHtmFHWntJzcN6n8ivjd', 'Title': "Rey's Theme", 'Artists': ['John Williams'], 'Duration': 191.066}
 {'ID': '2Xb6wJYGi0QXwURw5WWvI5', 'Title': 'Right Down the Line', 'Artists': ['Gerry Rafferty'], 'Duration': 267.773}
 {'ID': '2hzINlUQk8wQhFdWmnEXNg', 'Title': 'Rio and Miles', 'Artists': ['Daniel Pemberton'], 'Duration': 264.893}
 {'ID': '47ZWr1Nb0PUgmKgyg5JkgO', 'Title': 'River Flows In You - Original', 'Artists': ['Yiruma'], 'Duration': 185.527}
@@ -293,6 +297,7 @@
 {'ID': '4ISiGSgCAFYtgIftioZS3J', 'Title': 'Senbonzakura(純音樂)', 'Artists': ['Lindsey Stirling'], 'Duration': 193.593}
 {'ID': '0hyNfSzLjbpwoBdL128vJO', 'Title': 'Send Me a Peach', 'Artists': ['The Blasting Company'], 'Duration': 122.626}
 {'ID': '77Ly4ZjsYvmWUPRtxZIIPK', 'Title': 'Sepia Effect', 'Artists': ['Hiromi'], 'Duration': 401.186}
+{'ID': '0l8vD5rCnSFW4FBal4l0tR', 'Title': 'Serenity Found', 'Artists': ['Lindsey Stirling'], 'Duration': 263.8}
 {'ID': '4N7Xei2GGiwaTE37PIbdKV', 'Title': 'Shadow Of The Moon', 'Artists': ["Blackmore's Night"], 'Duration': 306.826}
 {'ID': '53p7FbJl1LlUO4XEqcdXkO', 'Title': 'Shady Rest', 'Artists': ['David Arkenstone'], 'Duration': 169.36}
 {'ID': '1BWsQm7kOBjK2aSFYg5HQZ', 'Title': 'Shofukan', 'Artists': ['Snarky Puppy'], 'Duration': 393.053}
@@ -398,6 +403,7 @@
 {'ID': '0fOTCN0To4R49FDEHCQ6iC', 'Title': 'The Office (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 35.552}
 {'ID': '3vJ9pe1kE3aEVro4Z4NR3Q', 'Title': 'The Office Theme (from The Office)', 'Artists': ['Southern Creek Players'], 'Duration': 64.557}
 {'ID': '691isjSlqyxPfC2VPbhdrf', 'Title': 'The Olympic Spirit', 'Artists': ['John Williams', 'Boston Pops Orchestra'], 'Duration': 247.04}
+{'ID': '6y7sjUNQuvSMQ5xddOktfP', 'Title': 'The Phoenix', 'Artists': ['Lindsey Stirling'], 'Duration': 244.648}
 {'ID': '59Id4KrBWiizuq53doxWtp', 'Title': 'The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity', 'Artists': ['Gustav Holst', 'Berliner Philharmoniker', 'Herbert von Karajan'], 'Duration': 456.0}
 {'ID': '5CxkIhyfolPmz7uWJUwonN', 'Title': 'The Right to Remain Silent', 'Artists': ['Daniel Pemberton'], 'Duration': 253.653}
 {'ID': '2WFlUh3vI3duc27xe7miox', 'Title': 'The Road Goes Ever On..., Pt. 2 / "In Dreams" (feat. Edward Ross)', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 221.226}
@@ -452,9 +458,11 @@
 {'ID': '6dU7upUDqJasYhxB4zliT5', 'Title': 'Whatever It Takes', 'Artists': ['Hans Zimmer', 'Kara Talve'], 'Duration': 232.25}
 {'ID': '2o0bNqX8RnohqB1w2ufofZ', 'Title': 'When in Rome', 'Artists': ['Damjan Mravunac'], 'Duration': 147.0}
 {'ID': '6qpy8DE7KnkNCozXSPTYCR', 'Title': 'When the Birds Start Singing', 'Artists': ['Uppermost'], 'Duration': 280.857}
+{'ID': '12fswMqDtfZdcZfnP9pdx9', 'Title': 'While Your Lips Are Still Red', 'Artists': ['Nightwish'], 'Duration': 258.693}
 {'ID': '4BXkf6yww23Vdju7E1fUrn', 'Title': 'Whiskey Lullaby (feat. Alison Krauss)', 'Artists': ['Brad Paisley', 'Alison Krauss'], 'Duration': 259.453}
 {'ID': '7w5AOd6HrDIHewHfpABEss', 'Title': 'Wicked Game', 'Artists': ['Chris Isaak'], 'Duration': 289.066}
 {'ID': '5K6HZ4t7rUb2VbZqmBPPfY', 'Title': 'Wind Guide You', 'Artists': ['Jeremy Soule'], 'Duration': 545.268}
+{'ID': '6NTKYkRWHOMZz4O8N3NMZS', 'Title': 'Winterfell - From The "Game Of Thrones: Season 2" Soundtrack', 'Artists': ['Ramin Djawadi'], 'Duration': 163.733}
 {'ID': '5n4dHCWjvGJtuFSZIyeqWp', 'Title': 'Winterspell', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 200.392}
 {'ID': '1QMUxV9i7qPDKwVt6p0xSe', 'Title': 'Wish You Were Here', 'Artists': ['Gamazda'], 'Duration': 256.328}
 {'ID': '53ZtYTszCIJxCAEdy03xGc', 'Title': 'Wolf Blood', 'Artists': ['Adrian Von Ziegler'], 'Duration': 185.815}
