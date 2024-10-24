@@ -33,6 +33,7 @@
 {'ID': '0SfTyou0A4AykI1ESuuebT', 'Title': 'A Better Me', 'Artists': ['Heavenly'], 'Duration': 367.744}
 {'ID': '57p9wSFmJMaWNCVYakV6OZ', 'Title': 'A Complete History of the Soviet Union, Through the Eyes of a Humble Worker', 'Artists': ['Pig with the Face of a Boy'], 'Duration': 389.813}
 {'ID': '0hKRSZhUGEhKU6aNSPBACZ', 'Title': 'A Day In The Life - Remastered 2009', 'Artists': ['The Beatles'], 'Duration': 337.413}
+{'ID': '0y6DSMwFO6cLKN1XB85cGV', 'Title': 'A Day Without Rain', 'Artists': ['Enya'], 'Duration': 156.88}
 {'ID': '129lYDVKnWtlJc2PZJviuA', 'Title': 'A Dios Le Pido', 'Artists': ['Juanes'], 'Duration': 205.373}
 {'ID': '6XOINCZBv8Q7RXgNNiTwIN', 'Title': 'A Girl Like You', 'Artists': ['Edwyn Collins'], 'Duration': 236.583}
 {'ID': '3z4hLskqGLtLEYcetdtxqe', 'Title': 'A gritos de esperanza', 'Artists': ['Alex Ubago'], 'Duration': 273.293}
@@ -223,6 +224,7 @@
 {'ID': '20OFwXhEXf12DzwXmaV7fj', 'Title': 'Bad Moon Rising', 'Artists': ['Creedence Clearwater Revival'], 'Duration': 141.6}
 {'ID': '1KNHA3c1gUtdRthpAUjSvE', 'Title': 'Bad News', 'Artists': ['Ghost Hounds'], 'Duration': 214.536}
 {'ID': '0SiywuOBRcynK0uKGWdCnn', 'Title': 'Bad Romance', 'Artists': ['Lady Gaga'], 'Duration': 294.573}
+{'ID': '6s0NHplywwr1IjnQpUpWJk', 'Title': 'Bad To The Bone', 'Artists': ['George Thorogood & The Destroyers'], 'Duration': 292.173}
 {'ID': '2bbeNsFmjZqdoDhjLsKNWe', 'Title': 'Bailamos', 'Artists': ['Enrique Iglesias'], 'Duration': 214.066}
 {'ID': '32lm3769IRfcnrQV11LO4E', 'Title': 'Bailando - Spanish Version', 'Artists': ['Enrique Iglesias', 'Descemer Bueno', 'Gente De Zona'], 'Duration': 243.413}
 {'ID': '5TYuMfkcfBVvNM13B4D24o', 'Title': 'Baka Mitai', 'Artists': ['Seventh Sage'], 'Duration': 157.5}
@@ -442,7 +444,7 @@
 {'ID': '22VdIZQfgXJea34mQxlt81', 'Title': "Can't Feel My Face", 'Artists': ['The Weeknd'], 'Duration': 213.52}
 {'ID': '5WwqdeavrQrbeAMDxGawse', 'Title': "Can't Fight This Feeling", 'Artists': ['REO Speedwagon'], 'Duration': 294.773}
 {'ID': '44AyOl4qVkzS48vBsbNXaC', 'Title': "Can't Help Falling in Love", 'Artists': ['Elvis Presley'], 'Duration': 182.36}
-{'ID': '3bidbhpOYeV4knp8AIu8Xn', 'Title': "Can't Hold Us (feat. Ray Dalton)", 'Artists': ['Macklemore & Ryan Lewis', 'Macklemore', 'Ryan Lewis', 'Ray Dalton'], 'Duration': 258.342}
+{'ID': '3bidbhpOYeV4knp8AIu8Xn', 'Title': "Can't Hold Us (feat. Ray Dalton)", 'Artists': ['Macklemore', 'Ryan Lewis', 'Macklemore & Ryan Lewis', 'Ray Dalton'], 'Duration': 258.342}
 {'ID': '5NetSTs4dgiR6GLrZOQcwJ', 'Title': "Can't Stop Dancin'", 'Artists': ['Becky G'], 'Duration': 198.852}
 {'ID': '2W6PNGCN4PGwPMf1jYazL4', 'Title': "Can't Stop Loving You - 2016 Remaster", 'Artists': ['Phil Collins'], 'Duration': 256.453}
 {'ID': '1WkMMavIMc4JZ8cfMmxHkI', 'Title': 'CAN\'T STOP THE FEELING! (from DreamWorks Animation\'s "TROLLS")', 'Artists': ['Justin Timberlake'], 'Duration': 237.546}
@@ -615,7 +617,7 @@
 {'ID': '41d2Q6DHcM20OdzynkRtvf', 'Title': 'Daft Pretty Boys', 'Artists': ['Bad Suns'], 'Duration': 187.013}
 {'ID': '4d2hD63oUGU3s7L66JD0BE', 'Title': 'Dance Again (feat. Pitbull)', 'Artists': ['Jennifer Lopez', 'Pitbull'], 'Duration': 237.266}
 {'ID': '3ssPyLeyas6y97X32Hv7lx', 'Title': 'Dance Alone', 'Artists': ['Sia', 'Kylie Minogue'], 'Duration': 172.321}
-{'ID': '6Qh10T7u43YciJsJa99R3v', 'Title': 'Dance In The Dark', 'Artists': ['Lady Gaga'], 'Duration': 288.96}
+{'ID': '6Qh10T7u43YciJsJa99R3v', 'Title': 'dANCE IN THE DARK', 'Artists': ['Lady Gaga'], 'Duration': 288.96}
 {'ID': '2XU0oxnq2qxCpomAAuJY8K', 'Title': 'Dance Monkey', 'Artists': ['Tones And I'], 'Duration': 209.438}
 {'ID': '0nRMMp8EqbfAY4xbomYk81', 'Title': 'Dance of the Young (Qing Chun Wu Qu)', 'Artists': ['Wang Luobin', 'Various Artists'], 'Duration': 173.973}
 {'ID': '2MeOVjn9Cg7jj9Gwi9cacl', 'Title': 'Dancer from New York', 'Artists': ['NVDES'], 'Duration': 192.508}
@@ -741,6 +743,7 @@
 {'ID': '2gaZJDgE71VL9PzzUUlpMg', 'Title': 'Dragonborn', 'Artists': ['Jeremy Soule'], 'Duration': 235.636}
 {'ID': '1W9QER6RZ0NEZhWc8jGez7', 'Title': 'Dragonland', 'Artists': ['Thomas Bergersen'], 'Duration': 311.669}
 {'ID': '4nnHlGaBwJHb1rBetqj0Yl', 'Title': 'Dragostea Din Tei', 'Artists': ['O-Zone'], 'Duration': 213.92}
+{'ID': '52Zr0sinhWTCRrQhRRY4EP', 'Title': 'Dragostea din tei', 'Artists': ['O-Zone'], 'Duration': 215.386}
 {'ID': '78MI7mu1LV1k4IA2HzKmHe', 'Title': 'Dream A Little Dream Of Me - Single Version', 'Artists': ['Ella Fitzgerald', 'Louis Armstrong'], 'Duration': 185.16}
 {'ID': '5SEvxpu5ImOFOcXyeM8fbx', 'Title': 'Dream of You (with R3HAB)', 'Artists': ['CHUNG HA', 'R3HAB'], 'Duration': 192.735}
 {'ID': '1xsYj84j7hUDDnTTerGWlH', 'Title': 'Dream On', 'Artists': ['Aerosmith'], 'Duration': 267.596}
@@ -1226,7 +1229,7 @@
 {'ID': '6ciLLh4TkPYDUfNxn2Z0KO', 'Title': 'Hit The Lights', 'Artists': ['Selena Gomez & The Scene'], 'Duration': 194.426}
 {'ID': '3xYJScVfxByb61dYHTwiby', 'Title': 'Hits Different', 'Artists': ['Taylor Swift'], 'Duration': 234.466}
 {'ID': '5BSndweF91KDqyxANsZcQH', 'Title': 'Ho Hey', 'Artists': ['The Lumineers'], 'Duration': 163.133}
-{'ID': '6osGEhJCyLbneXgpcpKlUW', 'Title': 'Hoist the Colours - Bass Singers Version', 'Artists': ['Bobby Bass', 'Daniel Brevik', 'Eric Hollaway', 'Ebucs'], 'Duration': 278.442}
+{'ID': '6osGEhJCyLbneXgpcpKlUW', 'Title': 'Hoist the Colours - Bass Singers Version', 'Artists': ['Bobby Bass', 'Big Brev', 'Eric Hollaway', 'Ebucs'], 'Duration': 278.442}
 {'ID': '697bFWgzBRm6bmnYWd8GyD', 'Title': 'Hold Me Closer', 'Artists': ['Cornelia Jakobs'], 'Duration': 199.426}
 {'ID': '0BJU4rYOfj43xHw6gvTIwE', 'Title': 'Hold Me Now', 'Artists': ['Thompson Twins'], 'Duration': 286.666}
 {'ID': '1c2hJSwcCfoPEw1su83Sw0', 'Title': 'Hold My Hand', 'Artists': ['Lady Gaga'], 'Duration': 225.28}
@@ -1342,7 +1345,7 @@
 {'ID': '2f0GI2ZLUtbGqFx8t2Gk6A', 'Title': "I Know Places (Taylor's Version)", 'Artists': ['Taylor Swift'], 'Duration': 195.7}
 {'ID': '4nVyHATevhl5RC6Qmoko5H', 'Title': 'I Like It', 'Artists': ['Enrique Iglesias', 'Pitbull'], 'Duration': 231.786}
 {'ID': '1c5KZhtOAOH7eFOlBekNhS', 'Title': 'I Like It', 'Artists': ['DeBarge'], 'Duration': 279.4}
-{'ID': '7leOAkslHi6lQZCzsiLZst', 'Title': 'I Like It Rough', 'Artists': ['Lady Gaga'], 'Duration': 202.493}
+{'ID': '7leOAkslHi6lQZCzsiLZst', 'Title': 'i LIKE IT ROUGH', 'Artists': ['Lady Gaga'], 'Duration': 202.493}
 {'ID': '2GxrNKugF82CnoRFbQfzPf', 'Title': 'i like the way you kiss me', 'Artists': ['Artemas'], 'Duration': 142.514}
 {'ID': '4bAFo6r2ODMDoqM5YHV2gM', 'Title': 'I Like To Move It', 'Artists': ['will.i.am'], 'Duration': 221.466}
 {'ID': '7D49Iig0avHre9RFSUMkd2', 'Title': 'I Lived', 'Artists': ['OneRepublic'], 'Duration': 234.546}
@@ -1399,6 +1402,7 @@
 {'ID': '7795WJLVKJoAyVoOtCWqXN', 'Title': "I'm Not The Only One", 'Artists': ['Sam Smith'], 'Duration': 239.316}
 {'ID': '3PzsbWSQdLCKDLxn7YZfkM', 'Title': "I'm On Fire", 'Artists': ['Bruce Springsteen'], 'Duration': 155.88}
 {'ID': '3iag81mU7BylirRwRYXd8E', 'Title': "I'm Only Joking", 'Artists': ['KONGOS'], 'Duration': 224.76}
+{'ID': '2ylCrFiBu98SC0vFfaCent', 'Title': "I'm Only Sleeping - Remastered 2009", 'Artists': ['The Beatles'], 'Duration': 180.32}
 {'ID': '1ot6jEe4w4hYnsOPjd3xKQ', 'Title': "I'm So Excited", 'Artists': ['The Pointer Sisters'], 'Duration': 230.64}
 {'ID': '6BfOhpHADzrvKN2kMPTMPv', 'Title': 'I\'m Still Here (Jim\'s Theme) - From "Treasure Planet"/Soundtrack Version', 'Artists': ['John Rzeznik'], 'Duration': 251.466}
 {'ID': '1jDJFeK9x3OZboIAHsY9k2', 'Title': "I'm Still Standing", 'Artists': ['Elton John'], 'Duration': 183.44}
@@ -2819,7 +2823,6 @@
 {'ID': '2lXjul57SNUV388AsQ8Cdi', 'Title': 'The Crow, the Owl and the Dove', 'Artists': ['Nightwish'], 'Duration': 250.4}
 {'ID': '3x4378ztiLvFmm2nuzEI0C', 'Title': "The Cruel Angel's Thesis (Director's Edit Version)", 'Artists': ['Yoko Takahashi'], 'Duration': 245.093}
 {'ID': '4zg2zMNSI0W8ipGA32kKp5', 'Title': 'The Cult of Dionysus', 'Artists': ['The Orion Experience'], 'Duration': 185.306}
-{'ID': '2YFjDyaJerhB4q4NO2sJlq', 'Title': 'The Dark Dresses Lightly', 'Artists': ['AURORA'], 'Duration': 214.8}
 {'ID': '0dMYPDqcI4ca4cjqlmp9mE', 'Title': 'The Dark Side', 'Artists': ['Muse'], 'Duration': 227.213}
 {'ID': '6akLeq6U23zf7rTFNj0khd', 'Title': 'The Debate Is Over (If You Want It)', 'Artists': ['Anti-Flag'], 'Duration': 197.24}
 {'ID': '79M3Eq1q61lkeQJ1OCVEdZ', 'Title': "The Devil's Bleeding Crown", 'Artists': ['Volbeat'], 'Duration': 238.653}
@@ -3062,6 +3065,7 @@
 {'ID': '4fpxnJGDWFxjGvLJOqPPt8', 'Title': 'True Faith', 'Artists': ['New Order'], 'Duration': 355.066}
 {'ID': '2ntpyUU3itxHWcJnOJmVic', 'Title': 'Truly Madly Deeply', 'Artists': ['Savage Garden'], 'Duration': 276.289}
 {'ID': '54j7EaJPDmSZYcNYvLSJ78', 'Title': 'Trust Fund Baby', 'Artists': ["Why Don't We"], 'Duration': 184.46}
+{'ID': '1ksZu2u56ut93LAuLGxUXD', 'Title': 'TRUTH', 'Artists': ['Katy Perry'], 'Duration': 177.391}
 {'ID': '6buXDkw3Gv4fQC1OZKUhnR', 'Title': 'Try', 'Artists': ['Colbie Caillat'], 'Duration': 224.573}
 {'ID': '1jF7IL57ayN4Ity3jQqGu0', 'Title': 'Try', 'Artists': ['P!nk'], 'Duration': 247.906}
 {'ID': '1N3dZ7TTWO6VcD4Y3hHYLZ', 'Title': 'Try Everything', 'Artists': ['Shakira'], 'Duration': 196.853}
@@ -3484,6 +3488,7 @@
 {'ID': '6pOO0me9fJ0nqXAVNJXypU', 'Title': '心雨', 'Artists': ['毛寧', '杨钰莹'], 'Duration': 273.08}
 {'ID': '3Vk5iJOtG6ny2L5uAIzcoj', 'Title': '愛江山更愛美人', 'Artists': ['李麗芬'], 'Duration': 319.666}
 {'ID': '502oVRqbvjsMlrT4hthQuJ', 'Title': '星星點燈', 'Artists': ['鄭智化', 'Weng Wei-Ming'], 'Duration': 302.986}
+{'ID': '3Srw8isgDzmYsgwDi4MtbD', 'Title': '月亮代表我的心', 'Artists': ['Teresa Teng'], 'Duration': 206.293}
 {'ID': '3iSJKB4yhf5nR6grmkP9VO', 'Title': '極楽浄土', 'Artists': ['GARNiDELiA'], 'Duration': 218.92}
 {'ID': '3xRNwjF4BkUxQmrBAXes6g', 'Title': '水手', 'Artists': ['鄭智化', 'Lin Zheng-Zhong (Jerry)', 'Lou Ji-Zhen'], 'Duration': 292.866}
 {'ID': '77uktQePd9IdeMPVWlu1cO', 'Title': '海闊天空', 'Artists': ['Beyond'], 'Duration': 239.506}
@@ -3493,6 +3498,7 @@
 {'ID': '5Kp6Uq0f2cozsXTuTLJkA6', 'Title': '真心真意過一生', 'Artists': ['Sally Yeh', 'Unknown'], 'Duration': 276.173}
 {'ID': '58XI7GWbSNjhltlsrUz6pt', 'Title': '知否知否 - "知否知否应是绿肥红瘦" 电视剧主题曲', 'Artists': ['Hu Xia', 'Yisa Yu'], 'Duration': 276.0}
 {'ID': '7ajpbW6tBpqUI9foCtwlLw', 'Title': '祝福', 'Artists': ['YOASOBI'], 'Duration': 196.235}
+{'ID': '6NCylXeJcHOI908PjZDFcg', 'Title': '童話', 'Artists': ['Michael Wong'], 'Duration': 246.0}
 {'ID': '6Ecv8KRIQRgONdjLoyzJeZ', 'Title': '縴夫的愛', 'Artists': ['於文華', '尹相傑'], 'Duration': 259.186}
 {'ID': '2koNNCdwAOdCdKtuNDJKWY', 'Title': '耶利亞女郎', 'Artists': ['童安格'], 'Duration': 274.76}
 {'ID': '0qow1ioAiifBQrPOOxYyUE', 'Title': '花心', 'Artists': ['Wakin Chau'], 'Duration': 230.173}
