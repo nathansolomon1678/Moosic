@@ -8,7 +8,7 @@
 {'ID': '4K8iKmXj0vfT41wEMFmWzy', 'Title': 'Caradhras', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 252.692}
 {'ID': '0u4rkpmNtgcFxYHepnVF4v', 'Title': 'Carry You', 'Artists': ['Novo Amor'], 'Duration': 273.106}
 {'ID': '0qyL8hkdidffZYjYH8Qxvh', 'Title': 'Chi Mai', 'Artists': ['Gamazda'], 'Duration': 152.358}
-{'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 262.623}
+{'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell', 'Merethe Soltvedt'], 'Duration': 262.623}
 {'ID': '644es5aYPJghtZLjM1rmSP', 'Title': 'Concerning Hobbits', 'Artists': ['Howard Shore'], 'Duration': 175.04}
 {'ID': '5pDUMdIiW0rNLzFryqpC9j', 'Title': 'Diamonds', 'Artists': ['Rihanna'], 'Duration': 225.146}
 {'ID': '6TcxxINfeaBEQ35sHMldTD', 'Title': 'Dreams Tonite', 'Artists': ['Alvvays'], 'Duration': 196.026}
@@ -48,6 +48,8 @@
 {'ID': '0XDitVRGOZEdTuoIItU9Q1', 'Title': 'Son of Nyx', 'Artists': ['Hozier'], 'Duration': 199.013}
 {'ID': '5ijSUALHfNot7KSafyLI4E', 'Title': 'Star', 'Artists': ['Mitski'], 'Duration': 179.346}
 {'ID': '33F4l7xj1cEeiqyUCfHlvw', 'Title': 'Tallulah', 'Artists': ['Sonata Arctica'], 'Duration': 320.466}
+{'ID': '3G80CgLA7ziD8i40s6uKQN', 'Title': 'Tallulah', 'Artists': ['Sonata Arctica'], 'Duration': 320.466}
+{'ID': '4Zayz7dbduel3h0zyYk3qZ', 'Title': 'That You Are', 'Artists': ['Hozier', 'Bedouine'], 'Duration': 256.519}
 {'ID': '3P3fymPrC9KgV2Kf5oMnx0', 'Title': 'The Air That I Breathe - 2008 Remaster', 'Artists': ['The Hollies'], 'Duration': 257.105}
 {'ID': '4rsqx0pmutBNt3TQQtLyKL', 'Title': 'The Heart Asks Pleasure First', 'Artists': ['Nightwish'], 'Duration': 261.173}
 {'ID': '2T3jgoAMbBXiMMD8pSc6QL', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
@@ -55,7 +57,6 @@
 {'ID': '6Q5MJJbSuSUkopYDtH0gO8', 'Title': 'Tonight My Sleep Will Be Restless', 'Artists': ['Alasdair Fraser', 'Paul Machlis'], 'Duration': 174.373}
 {'ID': '6qRmb4uhIUaWE5LySgSfQS', 'Title': 'Train Song', 'Artists': ['Vashti Bunyan'], 'Duration': 137.36}
 {'ID': '2BiIv3bXtrWuPKswndveIm', 'Title': 'Trials', 'Artists': ['Damjan Mravunac'], 'Duration': 228.0}
-{'ID': '7oKMHBjWMt3CbUMb9rd7EG', 'Title': 'Vargsången', 'Artists': ['Johanna Grüssner', 'Wegeliuskvartetten', 'Patrick Wingren'], 'Duration': 242.04}
 {'ID': '0KFjTOGE68i5iz0IMVKJR4', 'Title': 'Varkala', 'Artists': ['Maribou State'], 'Duration': 204.023}
 {'ID': '1tinoQpYXzpZDrb0BjK1e7', 'Title': 'Wet Hands', 'Artists': ['C418'], 'Duration': 90.0}
 {'ID': '3adnLFXKO5rC1lhUNSeg3N', 'Title': 'White Flag', 'Artists': ['Dido'], 'Duration': 240.6}

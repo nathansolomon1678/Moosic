@@ -38,6 +38,7 @@
 {'ID': '24tvj1KEUFJE37AHDf4YIS', 'Title': 'Everything You Ever', 'Artists': ['Neil Patrick Harris'], 'Duration': 215.693}
 {'ID': '70zMHoDB8RIy3jc0DZprNC', 'Title': 'Fell in a Well', 'Artists': ['Songwriter X and the Skeleton Band'], 'Duration': 237.053}
 {'ID': '0WJTdVboKc2KI1DzzAWyYM', 'Title': 'Foil', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 142.946}
+{'ID': '4f3NHOxgC8Bg21IJBg4cZ3', 'Title': 'Freaks - Radio Edit', 'Artists': ['Timmy Trumpet', 'Savage'], 'Duration': 169.16}
 {'ID': '6ghnKwHcGX1RLPWjJYKbGd', 'Title': "From God's Perspective", 'Artists': ['Bo Burnham'], 'Duration': 261.221}
 {'ID': '7dHtqKT0mjWEPcASrJpcaW', 'Title': 'Furries', 'Artists': ['Eli Yasui'], 'Duration': 150.26}
 {'ID': '1yHXUDFaAtxty9N3eklIHY', 'Title': 'Galactic mermaid', 'Artists': ['マーメイド・シスターズ(Vo.クリヤマユウリ)'], 'Duration': 123.533}
@@ -121,7 +122,7 @@
 {'ID': '7r99RxtSnML9oZ6imPXOid', 'Title': 'The Wild Life', 'Artists': ['Outasight'], 'Duration': 200.71}
 {'ID': '5yCg7vV4xBZTjhJrBTSQ1o', 'Title': 'There You Go', 'Artists': ['Eli Yasui'], 'Duration': 175.581}
 {'ID': '7AhLwyi4n0N9lYoINonLZ6', 'Title': 'Through the Fire and Flames', 'Artists': ['8 Bit Era'], 'Duration': 287.576}
-{'ID': '0uHcQsnJNgNcGEKn3Zwun8', 'Title': 'To Die On Halloween (feat. Nick Phoenix)', 'Artists': ['Two Steps from Hell'], 'Duration': 192.319}
+{'ID': '0uHcQsnJNgNcGEKn3Zwun8', 'Title': 'To Die On Halloween', 'Artists': ['Two Steps from Hell', 'Nick Phoenix'], 'Duration': 192.319}
 {'ID': '5DI3euiLQ9NYCZKYW5oYZk', 'Title': 'Tripaloski', 'Artists': ['Zlampa'], 'Duration': 78.561}
 {'ID': '131yybV7A3TmC34a0qE8u8', 'Title': 'Tunak Tunak Tun', 'Artists': ['Daler Mehndi'], 'Duration': 303.133}
 {'ID': '71k9trCB8lZlbgFJSqhpX4', 'Title': 'Ultimate Frisbee', 'Artists': ['Parry Gripp'], 'Duration': 88.09}

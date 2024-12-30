@@ -1,6 +1,7 @@
 {'ID': '1HQHz5IibXxKczmTiN4Iv2', 'Title': '(Alone in) Brussels', 'Artists': ['Crumb'], 'Duration': 198.386}
 {'ID': '7ouW02587AzIaGnK0gh8St', 'Title': '16 Waltzes, Op. 39: No. 15 In A Flat Major', 'Artists': ['Johannes Brahms', 'Idil Biret'], 'Duration': 94.333}
 {'ID': '6oWacAPUt8LMXqRkEk2MNg', 'Title': '1812 Overture', 'Artists': ['Pyotr Ilyich Tchaikovsky', 'Royal Philharmonic Orchestra', 'Philip Ellis'], 'Duration': 955.0}
+{'ID': '5DMwgDaVaOuLnuiK9C6kEB', 'Title': 'A Celtic Lore', 'Artists': ['Adrian Von Ziegler'], 'Duration': 199.941}
 {'ID': '0y6DSMwFO6cLKN1XB85cGV', 'Title': 'A Day Without Rain', 'Artists': ['Enya'], 'Duration': 156.88}
 {'ID': '68CJnBB7uuKkVrH4zkcnQp', 'Title': 'A Elbereth Gilthoniel', 'Artists': ['Clamavi De Profundis'], 'Duration': 425.196}
 {'ID': '3Y9hKhFyg5BrSS8dMU075B', 'Title': 'A Huge Tree in the Tsukamori Forest', 'Artists': ['Joe Hisaishi'], 'Duration': 135.093}
@@ -69,9 +70,10 @@
 {'ID': '6UhcflIf0TT3Rg2JBU5E5W', 'Title': 'Chrysopoeia', 'Artists': ['Lena Raine', 'Minecraft'], 'Duration': 303.424}
 {'ID': '0P4TBgExJNP8CeYzYpvGMt', 'Title': 'City of the Dead', 'Artists': ['Eurielle'], 'Duration': 307.026}
 {'ID': '2eTwaHnlfPHVsnhtlFtUNp', 'Title': 'Clairvoyant', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 128.8}
-{'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 262.623}
+{'ID': '4iSo50AYaXc7C3XR1VRvHD', 'Title': 'Compass (Bonus Track)', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell', 'Merethe Soltvedt'], 'Duration': 262.623}
 {'ID': '4O2N861eOnF9q8EtpH8IJu', 'Title': "Comptine d'un autre été, l'après-midi", 'Artists': ['Yann Tiersen'], 'Duration': 140.733}
 {'ID': '644es5aYPJghtZLjM1rmSP', 'Title': 'Concerning Hobbits', 'Artists': ['Howard Shore'], 'Duration': 175.04}
+{'ID': '1L4NadMj3Jj7YgGaikyhfr', 'Title': 'Consolations, S. 172: No. 3 in D-Flat Major. Lento, placido', 'Artists': ['Franz Liszt', 'Daniel Barenboim'], 'Duration': 254.0}
 {'ID': '6pWgRkpqVfxnj3WuIcJ7WP', 'Title': 'Cornfield Chase', 'Artists': ['Hans Zimmer'], 'Duration': 126.959}
 {'ID': '7iKnwGAMdY6LYLILGnsGhT', 'Title': 'Crayon Angels', 'Artists': ['Judee Sill'], 'Duration': 165.48}
 {'ID': '66bK78V5FvJcxdLncAwZ8Q', 'Title': 'Crybaby', 'Artists': ['Kensuke Ushio'], 'Duration': 249.333}
@@ -141,6 +143,7 @@
 {'ID': '4xbrgqQF8bzy22K8JhtFM9', 'Title': 'Halo', 'Artists': ["Martin O'Donnell", 'Michael Salvatori'], 'Duration': 262.16}
 {'ID': '3x6aFQvsFyKF2wSCSlrzeG', 'Title': 'Halo Main Theme (From "Halo: Combat Evolved")', 'Artists': ['Laura Platt'], 'Duration': 216.35}
 {'ID': '4lg0h4AJhPMxbO3VMpbUqS', 'Title': "Harry's Wondrous World - Extended Version", 'Artists': ['John Williams'], 'Duration': 321.066}
+{'ID': '1NhDv99nTtRm37rZpoH7Ix', 'Title': 'Harvest Dawn', 'Artists': ['Jeremy Soule'], 'Duration': 171.441}
 {'ID': '7fv8w55N7T95xtX72TycwQ', 'Title': 'Hate You Like I Love You', 'Artists': ['Granger Smith'], 'Duration': 173.826}
 {'ID': '08QaHlMPWuO5PUxjl61bXn', 'Title': "He's a Pirate", 'Artists': ['Klaus Badelt'], 'Duration': 90.426}
 {'ID': '4JtvyWkWQTPVcroZf8JJkp', 'Title': 'Heart of Courage', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 117.394}
@@ -193,6 +196,7 @@
 {'ID': '3ClpV8AvFubxA29J3VsoQq', 'Title': 'Les Fées', 'Artists': ['Lindsey Stirling'], 'Duration': 218.013}
 {'ID': '3QOelbDFgwXiagpUHBxARi', 'Title': 'Let It Go', 'Artists': ['Antonio Vivaldi', 'Kristen Anderson', 'Robert Lopez', 'The Piano Guys'], 'Duration': 243.76}
 {'ID': '2X485T9Z5Ly0xyaghN73ed', 'Title': 'Let It Happen', 'Artists': ['Tame Impala'], 'Duration': 467.586}
+{'ID': '2u9VGZmVz7Rm01SfDgzcfA', 'Title': 'Liebestraum No. 3 in A-Flat Major, S. 541 / 3', 'Artists': ['Franz Liszt', 'Lang Lang'], 'Duration': 293.146}
 {'ID': '1SbsbLsUMnAKWHx1zAV6ER', 'Title': 'Light of the Seven', 'Artists': ['Ramin Djawadi'], 'Duration': 589.094}
 {'ID': '0HtbwUrJdVgt2RUEW14XCN', 'Title': 'Like a Brother', 'Artists': ['Zolik'], 'Duration': 94.693}
 {'ID': '2kM8Hz9rLsG5sR0p43jAqq', 'Title': 'Listen to Your Heart', 'Artists': ['Gamazda'], 'Duration': 251.093}
@@ -244,7 +248,7 @@
 {'ID': '3U901vTsG4a3JcLF3aVDQr', 'Title': 'Nocturne in C minor, Op. 48, No. 1', 'Artists': ['Frédéric Chopin', 'Janusz Olejniczak'], 'Duration': 349.693}
 {'ID': '1VNvsvEsUpuUCbHpVop1vo', 'Title': 'Nocturne No. 2 in E-Flat Major, Op. 9 No. 2', 'Artists': ['Frédéric Chopin', 'Daniel Barenboim'], 'Duration': 273.666}
 {'ID': '2bdFN2I6zEUsjjqSV3t4kI', 'Title': 'Nop', 'Artists': ['ChenYueLong'], 'Duration': 103.205}
-{'ID': '0KMcHh8Npw6a3atnnHoYXK', 'Title': 'Northern Pastures', 'Artists': ['Two Steps from Hell', 'Thomas Bergersen'], 'Duration': 130.865}
+{'ID': '0KMcHh8Npw6a3atnnHoYXK', 'Title': 'Northern Pastures', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 130.865}
 {'ID': '6smvPsR6xx5iocptnrwH6K', 'Title': 'Norwegian Pirate', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 179.759}
 {'ID': '5QBnwYx4gb1lTnaHjKqwRV', 'Title': 'Nothing Else Matters', 'Artists': ['Gamazda'], 'Duration': 337.631}
 {'ID': '3uErbNGaNIPJkRlMrLxR9Z', 'Title': 'Nothing Else Matters', 'Artists': ['Apocalyptica'], 'Duration': 285.533}
@@ -263,6 +267,7 @@
 {'ID': '2GEsMmaLMqIA0trCyrAeoa', 'Title': 'Opstigning', 'Artists': ['Bremer/McCoy'], 'Duration': 120.5}
 {'ID': '7yf745Koj9ts1L318LzKzw', 'Title': 'Out There', 'Artists': ['Damjan Mravunac'], 'Duration': 169.111}
 {'ID': '1PjFagI3HqtqHbQ71vYdY2', 'Title': 'Overworld (From "The Legend of Zelda") [Orchestral Remix]', 'Artists': ['Raymusique'], 'Duration': 184.633}
+{'ID': '4Q0zEhNwXsiwuCGbX8pFDj', 'Title': 'Part 4 To The Evening Child', 'Artists': ['Stephan Micus'], 'Duration': 570.24}
 {'ID': '6MUvXrzrIDmOGp4WPe7RhN', 'Title': 'Patton: Main Title - From Patton', 'Artists': ['Jerry Goldsmith', 'Royal Scottish National Orchestra'], 'Duration': 148.666}
 {'ID': '5zhuWncJsBKrQ1HhmAKNAg', 'Title': 'Peer Gynt, Op. 23: IV. In the Hall of the Mountain King', 'Artists': ['Edvard Grieg', 'Andrew Davis', 'Philharmonia Orchestra'], 'Duration': 144.733}
 {'ID': '4Xis9Vme0tzd4dGbBgwCnX', 'Title': 'Peer Gynt, Op. 23: Morning Mood', 'Artists': ['Edvard Grieg', 'Yuri Temirkanov', 'Royal Philharmonic Orchestra'], 'Duration': 280.08}
