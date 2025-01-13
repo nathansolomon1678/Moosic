@@ -381,8 +381,8 @@
 {'ID': '1ovu8lOVW8uD5FjWICAxpy', 'Title': 'The Air That I Breathe', 'Artists': ['The Hollies'], 'Duration': 244.18}
 {'ID': '1FepLDpvY7aLrWP2fCKnol', 'Title': 'The Ash Grove', 'Artists': ['Traditional', 'Laura Wright', 'Barry Wordsworth', 'Royal Philharmonic Orchestra'], 'Duration': 271.266}
 {'ID': '6BG6rbPZp6lEXy7KN2mCDg', 'Title': 'The Bannered Mare', 'Artists': ['Jeremy Soule'], 'Duration': 148.06}
-{'ID': '56P8zbMtfKLlmpUWW3xAzf', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 602.226}
-{'ID': '4mHv2ujBeoqhwZxgVhoPJy', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra'], 'Duration': 602.226}
+{'ID': '56P8zbMtfKLlmpUWW3xAzf', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra', 'Lisa Gerrard'], 'Duration': 602.226}
+{'ID': '4mHv2ujBeoqhwZxgVhoPJy', 'Title': 'The Battle', 'Artists': ['Hans Zimmer', 'Gavin Greenaway', 'The Lyndhurst Orchestra', 'Lisa Gerrard'], 'Duration': 602.226}
 {'ID': '5zcB3Tcl60SD85Tc4D7UsK', 'Title': 'The Blood Of Cu Chulainn 2010', 'Artists': ['Mychael Danna & Jeff Danna'], 'Duration': 249.24}
 {'ID': '1ykbtFnlIjmIFnZ8j6wg6i', 'Title': 'The Breaking of the Fellowship (feat. "In Dreams")', 'Artists': ['Howard Shore', 'Edward Ross'], 'Duration': 440.8}
 {'ID': '0jOnZhF75V68VsBObWx2XO', 'Title': 'The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)', 'Artists': ['Camille Saint-Saëns', 'Yo-Yo Ma', 'Kathryn Stott'], 'Duration': 174.266}
@@ -480,6 +480,7 @@
 {'ID': '5n4dHCWjvGJtuFSZIyeqWp', 'Title': 'Winterspell', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 200.392}
 {'ID': '1QMUxV9i7qPDKwVt6p0xSe', 'Title': 'Wish You Were Here', 'Artists': ['Gamazda'], 'Duration': 256.328}
 {'ID': '53ZtYTszCIJxCAEdy03xGc', 'Title': 'Wolf Blood', 'Artists': ['Adrian Von Ziegler'], 'Duration': 185.815}
+{'ID': '45PRcjOnvjz6VMl7tI3O3c', 'Title': 'You Could Start A Cult (with Lizzy McAlpine)', 'Artists': ['Niall Horan', 'Lizzy McAlpine'], 'Duration': 194.869}
 {'ID': '3Lsdp3mbD27MjxvTeFm0v3', 'Title': "You're in Love", 'Artists': ['Joe Hisaishi'], 'Duration': 71.8}
 {'ID': '3hoG7hPzghw7U08sz18kIe', 'Title': 'Your Wisdom Grows', 'Artists': ['Damjan Mravunac'], 'Duration': 129.909}
 {'ID': '4u4t9R8Iky417ZasENaKXX', 'Title': 'Yuri on ICE', 'Artists': ['Taro Umebayashi'], 'Duration': 220.998}
