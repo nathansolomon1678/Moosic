@@ -4,6 +4,7 @@
 {'ID': '51EMSRpNm9Rg5rGViVCczv', 'Title': 'Andromeda', 'Artists': ['Weyes Blood'], 'Duration': 280.186}
 {'ID': '4PwWESSlTwzvw9B7bmtTLS', 'Title': 'anything', 'Artists': ['Adrianne Lenker'], 'Duration': 202.047}
 {'ID': '7LosK92bbUaBb6dTHLESRv', 'Title': 'Bewitched', 'Artists': ['Laufey'], 'Duration': 246.693}
+{'ID': '1HixhSqY6x7wH364XSjgTI', 'Title': 'Bloom', 'Artists': ['East Forest'], 'Duration': 1547.44}
 {'ID': '5VP1yXviUwA0KA0ewit5pe', 'Title': 'California and Me', 'Artists': ['Laufey', 'Philharmonia Orchestra'], 'Duration': 216.306}
 {'ID': '4K8iKmXj0vfT41wEMFmWzy', 'Title': 'Caradhras', 'Artists': ['Nick Phoenix', 'Two Steps from Hell'], 'Duration': 252.692}
 {'ID': '0u4rkpmNtgcFxYHepnVF4v', 'Title': 'Carry You', 'Artists': ['Novo Amor'], 'Duration': 273.106}
@@ -13,6 +14,7 @@
 {'ID': '5pDUMdIiW0rNLzFryqpC9j', 'Title': 'Diamonds', 'Artists': ['Rihanna'], 'Duration': 225.146}
 {'ID': '6TcxxINfeaBEQ35sHMldTD', 'Title': 'Dreams Tonite', 'Artists': ['Alvvays'], 'Duration': 196.026}
 {'ID': '3AnYGQ8PB3lYrA6ToVUXa3', 'Title': 'Empire of Angels', 'Artists': ['Thomas Bergersen'], 'Duration': 314.537}
+{'ID': '1LzNfuep1bnAUR9skqdHCK', 'Title': 'Fade Into You', 'Artists': ['Mazzy Star'], 'Duration': 295.6}
 {'ID': '1e3hPMCGrwPXYZ1DQhsiCE', 'Title': 'Fairytale', 'Artists': ['Harry Gregson-Williams', 'John Powell'], 'Duration': 86.693}
 {'ID': '788TnofNwynmapnwRZWOI3', 'Title': 'Firefly Alley', 'Artists': ['Lindsey Stirling'], 'Duration': 200.133}
 {'ID': '0qCqz7oecY7QqS8lhW62XI', 'Title': 'Ghost Towns', 'Artists': ['Radical Face'], 'Duration': 233.506}
@@ -25,6 +27,7 @@
 {'ID': '3I2Hd6ocYAzxFS9VMEMEKJ', 'Title': 'Hello, shooting-star', 'Artists': ['moumoon'], 'Duration': 277.64}
 {'ID': '1ijrMIqQvZNsnoqGukPzFD', 'Title': "I'm Forrest... Forrest Gump", 'Artists': ['Alan Silvestri'], 'Duration': 159.666}
 {'ID': '1uxgAlSrXK5Xlo59HHsOPW', 'Title': 'Into The Unknown', 'Artists': ['The Blasting Company'], 'Duration': 87.92}
+{'ID': '2UzLSbOijiuGH0en4uVTaW', 'Title': 'Isotope (Interlude)', 'Artists': ['Wasia Project'], 'Duration': 66.478}
 {'ID': '0zhzkkSXFj60Y5fzb2j9hU', 'Title': 'King', 'Artists': ['Lauren Aquilina'], 'Duration': 238.0}
 {'ID': '6kJurPKGg7X7De52CPpLAu', 'Title': 'Lothlórien', 'Artists': ['Enya'], 'Duration': 127.666}
 {'ID': '2wx5Wpss70wOpYA6MM7goQ', 'Title': 'Mardröm (feat. Smith & Thell)', 'Artists': ['Darin', 'Smith & Thell'], 'Duration': 189.826}
@@ -34,8 +37,9 @@
 {'ID': '20LsXSYrH1M3mk1COyPVrg', 'Title': "Newt Says Goodbye to Tina / Jacob's Bakery", 'Artists': ['James Newton Howard'], 'Duration': 206.722}
 {'ID': '11hEwcy9LMEvzAlOYAFhkK', 'Title': 'not a lot, just forever', 'Artists': ['Adrianne Lenker'], 'Duration': 250.198}
 {'ID': '2MHFnAw5nAjTXnBFO0Y8s9', 'Title': 'O Forse Sei Tu', 'Artists': ['Elisa'], 'Duration': 233.577}
-{'ID': '6mQTdDhf0FKvFPUa1n0a31', 'Title': 'Ocean Princess (feat. Merethe Soltvedt)', 'Artists': ['Thomas Bergersen'], 'Duration': 171.53}
+{'ID': '6mQTdDhf0FKvFPUa1n0a31', 'Title': 'Ocean Princess (feat. Merethe Soltvedt)', 'Artists': ['Thomas Bergersen', 'Merethe Soltvedt'], 'Duration': 171.53}
 {'ID': '6FLwmdmW77N1Pxb1aWsZmO', 'Title': 'Only Time', 'Artists': ['Enya'], 'Duration': 218.546}
+{'ID': '2xhsmmwIvDprAjdhabsvyK', 'Title': 'Passage', 'Artists': ['East Forest'], 'Duration': 1567.013}
 {'ID': '3Ot8c1sAmARXl31ZckeMDR', 'Title': 'Persephone', 'Artists': ['Tamino'], 'Duration': 305.373}
 {'ID': '3BmaFHt6q91CmMrA7fLLRC', 'Title': 'Petals on the Moon', 'Artists': ['Wasia Project'], 'Duration': 256.945}
 {'ID': '5wsHtmFHWntJzcN6n8ivjd', 'Title': "Rey's Theme", 'Artists': ['John Williams'], 'Duration': 191.066}
@@ -48,7 +52,6 @@
 {'ID': '0XDitVRGOZEdTuoIItU9Q1', 'Title': 'Son of Nyx', 'Artists': ['Hozier'], 'Duration': 199.013}
 {'ID': '5ijSUALHfNot7KSafyLI4E', 'Title': 'Star', 'Artists': ['Mitski'], 'Duration': 179.346}
 {'ID': '33F4l7xj1cEeiqyUCfHlvw', 'Title': 'Tallulah', 'Artists': ['Sonata Arctica'], 'Duration': 320.466}
-{'ID': '3G80CgLA7ziD8i40s6uKQN', 'Title': 'Tallulah', 'Artists': ['Sonata Arctica'], 'Duration': 320.466}
 {'ID': '4Zayz7dbduel3h0zyYk3qZ', 'Title': 'That You Are', 'Artists': ['Hozier', 'Bedouine'], 'Duration': 256.519}
 {'ID': '3P3fymPrC9KgV2Kf5oMnx0', 'Title': 'The Air That I Breathe - 2008 Remaster', 'Artists': ['The Hollies'], 'Duration': 257.105}
 {'ID': '4rsqx0pmutBNt3TQQtLyKL', 'Title': 'The Heart Asks Pleasure First', 'Artists': ['Nightwish'], 'Duration': 261.173}
@@ -62,4 +65,5 @@
 {'ID': '3adnLFXKO5rC1lhUNSeg3N', 'Title': 'White Flag', 'Artists': ['Dido'], 'Duration': 240.6}
 {'ID': '5EDBVVqd2ogoG89XVQOvsn', 'Title': 'yellow is the color of her eyes', 'Artists': ['Soccer Mommy'], 'Duration': 435.08}
 {'ID': '1T4iwEA2ySieXjWxjiMVWs', 'Title': 'Your Wildest Dreams', 'Artists': ['The Moody Blues'], 'Duration': 291.0}
+{'ID': '1HE7wX4mDTHRiThgbRIDcr', 'Title': '兰花草', 'Artists': ['陈占美'], 'Duration': 92.986}
 {'ID': '02mUWqf1gvuVKQT64SUxXo', 'Title': '蘭花草', 'Artists': ['Albert Au'], 'Duration': 249.16}
