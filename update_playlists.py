@@ -37,6 +37,7 @@ playlists_to_version_control = {
     '4PUiJEVFZoBpouVuKcJ5GR',
     '736Es5MNOObGsEYWbJ5XYy',
     '4g2fm0Vbp0f6c0A08zGL2Z',
+    '6PUbvtl4L1YqXginld0oJF',
 }
 
 os.system('rm -rf playlists')
