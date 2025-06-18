@@ -8,9 +8,11 @@
 {'ID': '2uqYupMHANxnwgeiXTZXzd', 'Title': "Austin (Boots Stop Workin')", 'Artists': ['Dasha'], 'Duration': 171.782}
 {'ID': '3qiyyUfYe7CRYLucrPmulD', 'Title': "Baba O'Riley", 'Artists': ['The Who'], 'Duration': 300.4}
 {'ID': '5W7YROOF6bFfBexY81LFjt', 'Title': 'Babe', 'Artists': ['Styx'], 'Duration': 265.973}
+{'ID': '3OzCF9i6Ey7EkkAYJztmKp', 'Title': 'Bad At Love', 'Artists': ['Halsey'], 'Duration': 181.279}
 {'ID': '3AzfXSz7wBlTCHovkU8uCk', 'Title': 'Be With U (feat. DETO BLACK)', 'Artists': ['Coco & Clair Clair', 'DETO BLACK'], 'Duration': 189.09}
 {'ID': '0lIoY4ZQsdn5QzhraM9o9u', 'Title': 'Because the Night', 'Artists': ['Patti Smith'], 'Duration': 204.8}
 {'ID': '0AKAxdNkwq9ZxRdW1DN9zW', 'Title': 'Behind These Hazel Eyes', 'Artists': ['Kelly Clarkson'], 'Duration': 198.973}
+{'ID': '6qCNaRRr5xJALfNJvh0NAw', 'Title': 'Bom Diggy Diggy', 'Artists': ['Zack Knight', 'Jasmin Walia'], 'Duration': 238.53}
 {'ID': '1X2Zd5wKGbY1oKzb8dzJRy', 'Title': 'Break Free', 'Artists': ['Ariana Grande', 'Zedd'], 'Duration': 214.84}
 {'ID': '4HcDu9IGRCvSTJE4yW5Ugv', 'Title': 'Breaking the Habit', 'Artists': ['Linkin Park'], 'Duration': 196.133}
 {'ID': '6n8TMVyFKoUmDc4apxceRD', 'Title': 'Breaking the Habit', 'Artists': ['Linkin Park'], 'Duration': 196.133}
@@ -92,6 +94,7 @@
 {'ID': '1z3ugFmUKoCzGsI6jdY4Ci', 'Title': 'Like a Prayer', 'Artists': ['Madonna'], 'Duration': 342.68}
 {'ID': '40LQiUUUKXVGyNs09lHVjW', 'Title': 'Lips Of An Angel', 'Artists': ['Hinder'], 'Duration': 261.853}
 {'ID': '3w3y8KPTfNeOKPiqUTakBh', 'Title': 'Locked out of Heaven', 'Artists': ['Bruno Mars'], 'Duration': 233.478}
+{'ID': '1wnq9TwifJ9ipLUFsm8vKx', 'Title': 'Lola Montez', 'Artists': ['Volbeat'], 'Duration': 267.68}
 {'ID': '6XDBA3QWX51lDJ0oZbaJJN', 'Title': 'Long Live', 'Artists': ['Taylor Swift'], 'Duration': 317.946}
 {'ID': '15JINEqzVMv3SvJTAXAKED', 'Title': 'Love The Way You Lie', 'Artists': ['Eminem', 'Rihanna'], 'Duration': 263.373}
 {'ID': '1H1O1nhwG9DlOk83mb1Ak8', 'Title': 'Madár', 'Artists': ['Leander Kills'], 'Duration': 214.0}
@@ -152,6 +155,7 @@
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
 {'ID': '6HTVZeVQ9J6Uiq6tHESxU9', 'Title': 'Welcome Home, Son', 'Artists': ['Radical Face'], 'Duration': 287.634}
 {'ID': '18lR4BzEs7e3qzc0KVkTpU', 'Title': "What I've Done", 'Artists': ['Linkin Park'], 'Duration': 205.226}
+{'ID': '1CcLA0eaauck34YEIrvAAq', 'Title': 'When We Were Young (The Logical Song)', 'Artists': ['David Guetta', 'Kim Petras'], 'Duration': 147.432}
 {'ID': '745sNpjWbAxo2MA2zSYbyD', 'Title': 'Wherever I May Roam (Remastered)', 'Artists': ['Metallica'], 'Duration': 404.333}
 {'ID': '5YL553x8sHderRBDlm3NM3', 'Title': 'White Horse (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 234.515}
 {'ID': '3ovjw5HZZv43SxTwApooCM', 'Title': 'Wind Of Change', 'Artists': ['Scorpions'], 'Duration': 312.36}

@@ -56,6 +56,7 @@
 {'ID': '2jn89xTHIVsy167uOmAewt', 'Title': 'Blackheart', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 266.365}
 {'ID': '5DIFAFm7VteT2fqytXJzjP', 'Title': 'Blessed and Beloved', 'Artists': ['Damjan Mravunac'], 'Duration': 109.775}
 {'ID': '78ntGe4xyecZHg9exQWwK6', 'Title': 'Blue And Sentimental', 'Artists': ['Oscar Peterson'], 'Duration': 146.093}
+{'ID': '4ViSfNMCeZwW3TC37q5Swc', 'Title': 'Blue Spanish Sky', 'Artists': ['Chris Isaak'], 'Duration': 238.4}
 {'ID': '1pjATX7sbd6Y4jMVqIvzHk', 'Title': 'Both Sides Now', 'Artists': ['Joni Mitchell'], 'Duration': 345.4}
 {'ID': '2mLBU9iDyNXXCFpHcuMal9', 'Title': 'Brain Damage', 'Artists': ['Ramin Djawadi'], 'Duration': 235.096}
 {'ID': '5gHwf3DYciXuoFWstFswKj', 'Title': 'Breathe', 'Artists': ['Jonny Diaz'], 'Duration': 213.08}
@@ -235,7 +236,7 @@
 {'ID': '0VfcYOujgf9JDAgwlgu1qm', 'Title': 'Many Meetings', 'Artists': ['Howard Shore'], 'Duration': 185.426}
 {'ID': '2wx5Wpss70wOpYA6MM7goQ', 'Title': 'Mardröm (feat. Smith & Thell)', 'Artists': ['Darin', 'Smith & Thell'], 'Duration': 189.826}
 {'ID': '196skioy5snNKHiJrcD7D8', 'Title': 'Mario Takes A Walk', 'Artists': ['Jesse Cook'], 'Duration': 229.826}
-{'ID': '2y3s9d5xLQ7CZOuaPoIWhj', 'Title': 'Master of Tides', 'Artists': ['Lindsey Stirling'], 'Duration': 261.719}
+{'ID': '2y3s9d5xLQ7CZOuaPoIWhj', 'Title': 'Master of Tides', 'Artists': ['Lindsey Stirling'], 'Duration': 261.72}
 {'ID': '7LAJWSKK8JMIZAcblgUMS6', 'Title': 'May It Be', 'Artists': ['Enya'], 'Duration': 257.76}
 {'ID': '4LrlsO9cnnNjxBiHeRedjF', 'Title': 'Memory', 'Artists': ['Toby Fox'], 'Duration': 75.0}
 {'ID': '4uQDCRyQGUnX4U6BuIgHAd', 'Title': 'Memory of Fanelia', 'Artists': ['Laurence Manning'], 'Duration': 194.25}
@@ -315,8 +316,9 @@
 {'ID': '47ZWr1Nb0PUgmKgyg5JkgO', 'Title': 'River Flows In You - Original', 'Artists': ['Yiruma'], 'Duration': 185.527}
 {'ID': '2PzvoSlcC8W9wBoy6S8fXb', 'Title': 'Roads Go Ever On', 'Artists': ['Clamavi De Profundis'], 'Duration': 247.512}
 {'ID': '5r00wpsojd4mBYaQFDvni7', 'Title': 'Roller Coaster', 'Artists': ['Luke Bryan'], 'Duration': 259.079}
-{'ID': '7fLOFRCRe1c4kyoLJkNW1w', 'Title': 'Roundtable Rival', 'Artists': ['Lindsey Stirling'], 'Duration': 203.279}
+{'ID': '7fLOFRCRe1c4kyoLJkNW1w', 'Title': 'Roundtable Rival', 'Artists': ['Lindsey Stirling'], 'Duration': 203.28}
 {'ID': '7ySUcLPVX7KudhnmNcgY2D', 'Title': 'S&M', 'Artists': ['Rihanna'], 'Duration': 243.6}
+{'ID': '54tekp88I1KeDZFycYFCQ0', 'Title': 'Sage - Alternate Version', 'Artists': ['Yumi Zouma'], 'Duration': 227.086}
 {'ID': '4Wbp6fqdB2DBHiNp3I6jmC', 'Title': 'Salinas Dance', 'Artists': ['Stephan Micus'], 'Duration': 327.586}
 {'ID': '6C3bOXLEMfDPBakBDItpAl', 'Title': 'Same Heart', 'Artists': ['Hailey Somphone'], 'Duration': 295.077}
 {'ID': '1ylQ1wAkNZ3DC55WcpK95k', 'Title': 'Sanctuary', 'Artists': ['Damjan Mravunac'], 'Duration': 114.0}
@@ -402,6 +404,7 @@
 {'ID': '0s39oFQ4PLIiecJaI0qRfV', 'Title': 'Tell Me Lies (fin)', 'Artists': ['Wasia Project'], 'Duration': 121.578}
 {'ID': '7eQ0aPT9q1HEHsetRPLuNw', 'Title': 'Temple of My Father', 'Artists': ['Damjan Mravunac'], 'Duration': 168.0}
 {'ID': '2QTDuJIGKUjR7E2Q6KupIh', 'Title': 'Test Drive - From How To Train Your Dragon Music From The Motion Picture', 'Artists': ['John Powell'], 'Duration': 156.306}
+{'ID': '4Zayz7dbduel3h0zyYk3qZ', 'Title': 'That You Are', 'Artists': ['Hozier', 'Bedouine'], 'Duration': 256.519}
 {'ID': '1ovu8lOVW8uD5FjWICAxpy', 'Title': 'The Air That I Breathe', 'Artists': ['The Hollies'], 'Duration': 244.18}
 {'ID': '1FepLDpvY7aLrWP2fCKnol', 'Title': 'The Ash Grove', 'Artists': ['Traditional', 'Laura Wright', 'Barry Wordsworth', 'Royal Philharmonic Orchestra'], 'Duration': 271.266}
 {'ID': '6BG6rbPZp6lEXy7KN2mCDg', 'Title': 'The Bannered Mare', 'Artists': ['Jeremy Soule'], 'Duration': 148.06}
