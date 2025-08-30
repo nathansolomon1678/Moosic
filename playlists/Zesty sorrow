@@ -13,7 +13,7 @@
 {'ID': '2tznHmp70DxMyr2XhWLOW0', 'Title': 'Cigarette Daydreams', 'Artists': ['Cage The Elephant'], 'Duration': 208.76}
 {'ID': '5HNCy40Ni5BZJFw1TKzRsC', 'Title': 'Comfortably Numb', 'Artists': ['Pink Floyd'], 'Duration': 382.296}
 {'ID': '644es5aYPJghtZLjM1rmSP', 'Title': 'Concerning Hobbits', 'Artists': ['Howard Shore'], 'Duration': 175.04}
-{'ID': '66bK78V5FvJcxdLncAwZ8Q', 'Title': 'Crybaby', 'Artists': ['Kensuke Ushio'], 'Duration': 249.333}
+{'ID': '66bK78V5FvJcxdLncAwZ8Q', 'Title': 'Crybaby', 'Artists': ['kensuke ushio'], 'Duration': 249.333}
 {'ID': '2daZovie6pc2ZK7StayD1K', 'Title': 'Dead Inside', 'Artists': ['Muse'], 'Duration': 262.947}
 {'ID': '0g8H61FNXHHhMVHB0jwdzH', 'Title': 'Do You Hear The People Sing?', 'Artists': ['Aaron Tveit', 'Eddie Redmayne', 'Students', 'Les Misérables Cast'], 'Duration': 123.16}
 {'ID': '6zeE5tKyr8Nu882DQhhSQI', 'Title': 'Dust in the Wind', 'Artists': ['Kansas'], 'Duration': 206.266}
@@ -78,6 +78,7 @@
 {'ID': '4UzVcXufOhGUwF56HT7b8M', 'Title': 'My Immortal', 'Artists': ['Evanescence'], 'Duration': 262.533}
 {'ID': '4dJvi7zRoXFW9FuyzOLlOQ', 'Title': 'My Lie', 'Artists': ['Zolik'], 'Duration': 176.039}
 {'ID': '17K665BsGXSSFzpT0LgcUj', 'Title': 'Na Vaqueros', 'Artists': ['Kuana Torres Kahele'], 'Duration': 196.692}
+{'ID': '477CG7xkwRPKYzWjktSbgg', 'Title': 'New Classic', 'Artists': ['Drew Seeley', 'Selena Gomez'], 'Duration': 189.333}
 {'ID': '2zSKv1vA08xkdYlSEpYe1L', 'Title': 'Nice Guys', 'Artists': ['Chester See', 'Kevjumba', 'Ryan Higa'], 'Duration': 154.303}
 {'ID': '6NriykdkRrjQMZo1sfVYUo', 'Title': 'no body, no crime (feat. HAIM)', 'Artists': ['Taylor Swift', 'HAIM'], 'Duration': 215.626}
 {'ID': '0Dv4DdNy1xnhNcCd9YVoiH', 'Title': 'No Good in Goodbye', 'Artists': ['The Script'], 'Duration': 307.68}
