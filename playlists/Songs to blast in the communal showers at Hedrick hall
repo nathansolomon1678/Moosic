@@ -34,6 +34,7 @@
 {'ID': '4qEoqyPbLYnLOii6mKlIjI', 'Title': 'Determinate - From "Lemonade Mouth"', 'Artists': ['Adam Hicks', 'Bridgit Mendler', 'Naomi Scott', 'Hayley Kiyoko'], 'Duration': 198.106}
 {'ID': '53h1ZSLWi8hVWF9DWKNXVh', 'Title': 'Die By The Blade', 'Artists': ['Beast In Black'], 'Duration': 194.838}
 {'ID': '2LELFaNglE9B5xlcmd4qtQ', 'Title': 'Ding Dong Song - Radio Edit', 'Artists': ['Günther'], 'Duration': 245.159}
+{'ID': '0T3Hw3kPj9T2E4UoaSXmfn', 'Title': 'Disease', 'Artists': ['Lady Gaga'], 'Duration': 229.997}
 {'ID': '6cmm1LMvZdB5zsCwX5BjqE', 'Title': 'Down', 'Artists': ['Jay Sean', 'Lil Wayne'], 'Duration': 212.506}
 {'ID': '1d8Arh7PushRWWJRs41rSa', 'Title': 'Dream of You (with R3HAB)', 'Artists': ['CHUNG HA', 'R3HAB'], 'Duration': 192.735}
 {'ID': '4NUmZ5svM1Bbmaz5udqUeJ', 'Title': 'Dreaming', 'Artists': ['Marshmello', 'P!nk', 'Sting'], 'Duration': 170.261}
@@ -64,6 +65,7 @@
 {'ID': '5syPnENi9HIKVpZ6gz96TN', 'Title': 'Gremlins- Main Theme', 'Artists': ['Geek Music'], 'Duration': 192.125}
 {'ID': '2tJulUYLDKOg9XrtVkMgcJ', 'Title': 'Grenade', 'Artists': ['Bruno Mars'], 'Duration': 222.091}
 {'ID': '3nDfx9WqSNOfbuCP4yonzj', 'Title': 'Gyöngyhajú lány', 'Artists': ['Omega'], 'Duration': 349.413}
+{'ID': '3lGogNtjAv1C0PHCxe3oyj', 'Title': 'Had Me @ Hello - From "Girl vs. Monster"', 'Artists': ['Olivia Holt'], 'Duration': 189.52}
 {'ID': '5USZyz6dnBEn1oLsKcAKQy', 'Title': 'Hallelujah', 'Artists': ['Rufus Wainwright'], 'Duration': 248.8}
 {'ID': '4JehYebiI9JE8sR8MisGVb', 'Title': 'Halo', 'Artists': ['Beyoncé'], 'Duration': 261.64}
 {'ID': '7HqKaTgHVUrjHfdgtWxG3Q', 'Title': 'Halo', 'Artists': ['Deep Blue Something'], 'Duration': 164.76}
@@ -75,6 +77,7 @@
 {'ID': '1x80xTzSL7pok3M5JC3oJz', 'Title': 'human', 'Artists': ['Christina Perri'], 'Duration': 250.706}
 {'ID': '1LiQ5XZjMUF81hHBAOIBnY', 'Title': "I Don't Think I Love You", 'Artists': ['Hoobastank'], 'Duration': 220.053}
 {'ID': '6lEuFGrUqR9Yc6hSsHPnYP', 'Title': 'I Don\'t Want to Miss a Thing - From "Armageddon" Soundtrack', 'Artists': ['Aerosmith'], 'Duration': 299.76}
+{'ID': '3WLLJzllBEgPiSA0qd3BN3', 'Title': 'I Just Wanna Run', 'Artists': ['The Downtown Fiction'], 'Duration': 199.959}
 {'ID': '1JLn8RhQzHz3qDqsChcmBl', 'Title': 'I Want to Know What Love Is - 1999 Remaster', 'Artists': ['Foreigner'], 'Duration': 304.786}
 {'ID': '6lCvDWgQQsuV90oGutxcoA', 'Title': 'I Would Die for You', 'Artists': ['In This Moment'], 'Duration': 279.066}
 {'ID': '3cQGb2POE359G9WH81bF60', 'Title': "I'LL BE GONE", 'Artists': ['Linkin Park'], 'Duration': 211.093}
@@ -86,6 +89,7 @@
 {'ID': '421eObjg0DTm2qajJl5OJm', 'Title': 'Into the Unknown - Panic! At The Disco Version', 'Artists': ['Panic! At The Disco'], 'Duration': 189.132}
 {'ID': '2EAvOY1uymm5ZAd0ZbnnPW', 'Title': 'introvertált dal', 'Artists': ['Azahriah'], 'Duration': 169.841}
 {'ID': '6Qyc6fS4DsZjB2mRW9DsQs', 'Title': 'Iris', 'Artists': ['The Goo Goo Dolls'], 'Duration': 289.533}
+{'ID': '0QkWikH5Z3U0f79T9iuF6c', 'Title': 'Judas', 'Artists': ['Lady Gaga'], 'Duration': 249.066}
 {'ID': '6cnJNLZoOYaMX9ZK4x5MPM', 'Title': 'Jump!', 'Artists': ['Thomas Bergersen', 'Two Steps from Hell'], 'Duration': 278.506}
 {'ID': '0q2e5jdjxFaaYRf49b1vLj', 'Title': 'Just My Type', 'Artists': ['The Vamps'], 'Duration': 211.36}
 {'ID': '5TLe0pvHJ9M3aemysRpogS', 'Title': 'Kiss the Sky (from The Wild Robot)', 'Artists': ['Maren Morris'], 'Duration': 215.716}
@@ -148,10 +152,10 @@
 {'ID': '6ON9UuIq49xXY9GPmHIYRp', 'Title': 'The Best Day (Taylor’s Version)', 'Artists': ['Taylor Swift'], 'Duration': 245.29}
 {'ID': '3S9dosMKnGE6vv1ONBnUki', 'Title': 'The Bliss', 'Artists': ['Volbeat'], 'Duration': 283.366}
 {'ID': '6PrKZUXJPmBiobMN44yR8Y', 'Title': 'The Ecstasy Of Gold - 2004 Remaster', 'Artists': ['Ennio Morricone'], 'Duration': 203.226}
-{'ID': '2Yjv7MOdst5y6fFsq4cKOL', 'Title': 'The Heart Asks Pleasure First / The Promise - Edit', 'Artists': ['Michael Nyman'], 'Duration': 191.866}
 {'ID': '0MrZG1nTNQVzeSJKi6gFVF', 'Title': 'The Last Resort - 2013 Remaster', 'Artists': ['Eagles'], 'Duration': 444.911}
 {'ID': '2kMjk14RmYyYhhSbipoa9U', 'Title': 'The Sharpest Lives', 'Artists': ['My Chemical Romance'], 'Duration': 200.88}
 {'ID': '0HoaLXRp7jJtdQFunUyUGc', 'Title': 'The Sun Always Shines on T.V.', 'Artists': ['a-ha'], 'Duration': 302.4}
+{'ID': '22wWxHGHRH8gZXNDXRgSqY', 'Title': 'These Dreams', 'Artists': ['Heart'], 'Duration': 254.476}
 {'ID': '2T3jgoAMbBXiMMD8pSc6QL', 'Title': 'This Is The Life', 'Artists': ['Amy Macdonald'], 'Duration': 184.413}
 {'ID': '20efeySIfZoiSaISGLBbNs', 'Title': 'Thriller - Single Version', 'Artists': ['Michael Jackson'], 'Duration': 312.413}
 {'ID': '0vCTQcxSGAgjHaiAsIANKn', 'Title': 'Vanilla Twilight', 'Artists': ['Owl City'], 'Duration': 231.706}
