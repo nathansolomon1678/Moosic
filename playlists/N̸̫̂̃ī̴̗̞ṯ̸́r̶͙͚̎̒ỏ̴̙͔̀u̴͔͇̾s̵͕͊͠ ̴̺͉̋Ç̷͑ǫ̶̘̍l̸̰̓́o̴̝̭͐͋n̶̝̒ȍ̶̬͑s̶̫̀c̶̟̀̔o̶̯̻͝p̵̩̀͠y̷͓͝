@@ -1,10 +1,10 @@
 {'ID': '1HOlb9rdNOmy9b1Fakicjo', 'Title': '#SELFIE', 'Artists': ['The Chainsmokers'], 'Duration': 183.75}
 {'ID': '1cu5PHumWAqQf9M6BHQ8b7', 'Title': '4 Chords', 'Artists': ['The Axis of Awesome'], 'Duration': 348.533}
 {'ID': '57p9wSFmJMaWNCVYakV6OZ', 'Title': 'A Complete History of the Soviet Union, Through the Eyes of a Humble Worker', 'Artists': ['Pig with the Face of a Boy'], 'Duration': 389.813}
-{'ID': '2374M0fQpWi3dLnB54qaLX', 'Title': 'Africa', 'Artists': ['TOTO'], 'Duration': 295.893}
+{'ID': '2374M0fQpWi3dLnB54qaLX', 'Title': 'Africa', 'Artists': ['TOTO'], 'Duration': 295.282}
 {'ID': '3cfOd4CMv2snFaKAnMdnvK', 'Title': 'All Star', 'Artists': ['Smash Mouth'], 'Duration': 200.373}
 {'ID': '4DEcdqqKokU7UAE4wCGQEy', 'Title': 'Always Look On The Bright Side Of Life', 'Artists': ['Monty Python'], 'Duration': 215.333}
-{'ID': '5r96TaQquRrlo3Ym3ZlSL2', 'Title': 'Amish Paradise (Parody of "Gangsta\'s Paradise" by Coolio)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 202.92}
+{'ID': '5r96TaQquRrlo3Ym3ZlSL2', 'Title': 'Amish Paradise (Parody of "Gangsta\'s Paradise" by Coolio)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 202.93}
 {'ID': '3YYBnuys8eJSbEXs2thIfl', 'Title': 'Anime Boi', 'Artists': ['Eli Yasui'], 'Duration': 199.731}
 {'ID': '3QxgOiZSkuyq7hALKV3fJa', 'Title': 'Another Irish Drinking Song', 'Artists': ["Da Vinci's Notebook"], 'Duration': 237.053}
 {'ID': '0pwYLVXVknPSGUQb39cePC', 'Title': 'As Long As You Love Me', 'Artists': ['Justin Bieber', 'Big Sean'], 'Duration': 229.466}
@@ -22,7 +22,7 @@
 {'ID': '2u2McJSgHM5iHyOLSwWySb', 'Title': 'Brand New Day', 'Artists': ['Neil Patrick Harris'], 'Duration': 109.704}
 {'ID': '1SGnWl33MUNd9QHYAoqJtW', 'Title': 'Captain Underpants Theme Song', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 134.373}
 {'ID': '4jDmJ51x1o9NZB5Nxxc7gY', 'Title': 'Careless Whisper', 'Artists': ['George Michael'], 'Duration': 300.106}
-{'ID': '7v1858htfU0srTDwhxeka8', 'Title': 'Chain Gang', 'Artists': ['Sam Cooke'], 'Duration': 155.173}
+{'ID': '7v1858htfU0srTDwhxeka8', 'Title': 'Chain Gang', 'Artists': ['Sam Cooke'], 'Duration': 156.231}
 {'ID': '6QK6RVVD9unPZaWuxFlZrM', 'Title': 'Cine mi-a-mpuscat maimuta', 'Artists': ['Fara Zahar'], 'Duration': 197.132}
 {'ID': '3cLqK3LPVrTIzfENVmYLoU', 'Title': 'Code Monkey', 'Artists': ['Jonathan Coulton'], 'Duration': 189.28}
 {'ID': '4qDHt2ClApBBzDAvhNGWFd', 'Title': 'Crab Rave', 'Artists': ['Noisestorm'], 'Duration': 161.28}
@@ -33,11 +33,11 @@
 {'ID': '4hObp5bmIJ3PP3cKA9K9GY', 'Title': "Don't Worry Be Happy", 'Artists': ['Bobby McFerrin'], 'Duration': 294.4}
 {'ID': '5Su5ILFp6U83cnIXwfmlC5', 'Title': 'Drunken Sailor', 'Artists': ['The Irish Rovers'], 'Duration': 176.853}
 {'ID': '180MVaidIYWpB1MSYEv5BI', 'Title': 'Dumb Ways to Die', 'Artists': ['Tangerine Kitty'], 'Duration': 180.022}
-{'ID': '4vHb50VkxDzHYwLiHfWczK', 'Title': 'Ebay (Parody of "I Want It That Way" by the Backstreet Boys)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 216.786}
+{'ID': '4vHb50VkxDzHYwLiHfWczK', 'Title': 'Ebay (Parody of "I Want It That Way" by the Backstreet Boys)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 216.784}
 {'ID': '7dUCFnaGSWLH6SdDP08NLP', 'Title': 'Enormous Penis', 'Artists': ["Da Vinci's Notebook"], 'Duration': 164.933}
 {'ID': '24tvj1KEUFJE37AHDf4YIS', 'Title': 'Everything You Ever', 'Artists': ['Neil Patrick Harris'], 'Duration': 215.693}
 {'ID': '70zMHoDB8RIy3jc0DZprNC', 'Title': 'Fell in a Well', 'Artists': ['Songwriter X and the Skeleton Band'], 'Duration': 237.053}
-{'ID': '0WJTdVboKc2KI1DzzAWyYM', 'Title': 'Foil', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 142.946}
+{'ID': '0WJTdVboKc2KI1DzzAWyYM', 'Title': 'Foil', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 142.951}
 {'ID': '4f3NHOxgC8Bg21IJBg4cZ3', 'Title': 'Freaks - Radio Edit', 'Artists': ['Timmy Trumpet', 'Savage'], 'Duration': 169.16}
 {'ID': '6ghnKwHcGX1RLPWjJYKbGd', 'Title': "From God's Perspective", 'Artists': ['Bo Burnham'], 'Duration': 261.221}
 {'ID': '7dHtqKT0mjWEPcASrJpcaW', 'Title': 'Furries', 'Artists': ['Eli Yasui'], 'Duration': 150.26}
@@ -57,9 +57,10 @@
 {'ID': '0ZXGOStVWCi8rtALNyxrqQ', 'Title': 'I Beat My Meat', 'Artists': ['Kingmichaelbeats'], 'Duration': 207.635}
 {'ID': '6a2MMhyy5LqoDfap5OFz6K', 'Title': "I'm British", 'Artists': ['Professor Elemental'], 'Duration': 178.496}
 {'ID': '7bG6SQBGZthPDG5QJL5Gf7', 'Title': 'In Summer - From "Frozen"/Soundtrack Version', 'Artists': ['Josh Gad'], 'Duration': 110.986}
-{'ID': '6UtYhM8FwONx3G4C413WIp', 'Title': 'Inactive', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.28}
+{'ID': '6UtYhM8FwONx3G4C413WIp', 'Title': 'Inactive', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.282}
 {'ID': '0Z26JRY2Bdc8EJiulIZaXD', 'Title': 'Inside Out - Nightcore Edit', 'Artists': ['ItaloBrothers'], 'Duration': 149.969}
 {'ID': '7GyGUC8QFMS9NoHJsgNqh1', 'Title': 'Jeopardy (Theme)', 'Artists': ['Mount Royal Orchestra'], 'Duration': 31.947}
+{'ID': '1YR9iNGXtsbrd8deR9ULDD', 'Title': 'Jesus Is The One (I Got Depression)', 'Artists': ['Zack Fox', 'Kenny Beats'], 'Duration': 112.8}
 {'ID': '7GcAy6yqJZ7h3BUvazANeR', 'Title': 'LADWP Hold', 'Artists': ['Thee Oh Sees', 'Osees'], 'Duration': 121.813}
 {'ID': '1Knctxx9vGZxpZfF66BIEa', 'Title': 'Legends', 'Artists': ['Juice WRLD'], 'Duration': 191.84}
 {'ID': '5OKZ7kv3j92TwvNrQir5Jg', 'Title': 'Lesz, lesz, lesz', 'Artists': ['Szacsvay László', 'Kardos-Horváth János', 'Géczi Erika', 'Varga Viktor', 'Kautzky Armand', 'Kalapács József', 'Varga Miklós', 'Sárdy Barbara', 'Vadkerti Imre', 'Pataky Attila', 'MÁV Szimfonikus Zenekar', 'Magyar Állami Operaház Gyermekkara', 'Heit Lóránd'], 'Duration': 121.306}
@@ -81,8 +82,9 @@
 {'ID': '3NHXj1DBuoxA7HL0xfQAZC', 'Title': 'Not Fair', 'Artists': ['Lily Allen'], 'Duration': 202.546}
 {'ID': '6AI3ezQ4o3HUoP6Dhudph3', 'Title': 'Not Like Us', 'Artists': ['Kendrick Lamar'], 'Duration': 274.192}
 {'ID': '5VOoT3AIIStTSN8cSMrSD4', 'Title': 'Nyan Cat Theme', 'Artists': ['Nyan Cat'], 'Duration': 226.0}
+{'ID': '62iZpedLxDwRNS7n3RMTvq', 'Title': 'Ode to Dennis', 'Artists': ['Jack Black'], 'Duration': 44.333}
 {'ID': '53CJANUxooaqGOtdsBTh7O', 'Title': 'Old Town Road', 'Artists': ['Lil Nas X'], 'Duration': 113.013}
-{'ID': '5eZaT21ZVGyGHJ8kcwaNxA', 'Title': 'Party In the CIA (Parody of "Party In The U.S.A." by Miley Cyrus)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.8}
+{'ID': '5eZaT21ZVGyGHJ8kcwaNxA', 'Title': 'Party In the CIA (Parody of "Party In The U.S.A." by Miley Cyrus)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 176.789}
 {'ID': '0IkKz2J93C94Ei4BvDop7P', 'Title': 'Party Rock Anthem', 'Artists': ['LMFAO', 'Lauren Bennett', 'GoonRock'], 'Duration': 262.173}
 {'ID': '27GQ8DtFhNyaoh7wrxtDBz', 'Title': 'Picket Line Song', 'Artists': ["The Langer's Ball"], 'Duration': 184.373}
 {'ID': '7raciFPVU5VuHmqVbw2c1h', 'Title': 'Puff, the Magic Dragon - 2004 Remaster', 'Artists': ['Peter, Paul and Mary'], 'Duration': 208.56}
@@ -119,7 +121,7 @@
 {'ID': '4O6ZaZrRCFfiZZKjnrXqlk', 'Title': 'That Thing You Do!', 'Artists': ['The Wonders'], 'Duration': 166.773}
 {'ID': '5EYdTPdJD74r9EVZBztqGG', 'Title': 'The Bad Touch', 'Artists': ['Bloodhound Gang'], 'Duration': 260.506}
 {'ID': '1x6alm04xlIuzxTVucyItN', 'Title': 'The Belfast Brigade', 'Artists': ['Go Lucky Four'], 'Duration': 109.88}
-{'ID': '3i3HEXZRAQ4d7SQeB0098V', 'Title': 'The Biggest Ball of Twine In Minnesota', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 408.013}
+{'ID': '3i3HEXZRAQ4d7SQeB0098V', 'Title': 'The Biggest Ball of Twine In Minnesota', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 407.931}
 {'ID': '3E9byN5yXXYcUKfhr3p2tN', 'Title': 'The Bitch Song', 'Artists': ['Bowling For Soup'], 'Duration': 203.0}
 {'ID': '4sEQ0qTPa9dOkHz9rzucI8', 'Title': 'The Bourbaki Conjecture', 'Artists': ['Kim Cascone'], 'Duration': 178.866}
 {'ID': '14Tco8rexorbaMzkTVfKOr', 'Title': 'The Duck Song - Party Dance Mix', 'Artists': ['Rik Gaynor'], 'Duration': 252.734}
@@ -132,10 +134,11 @@
 {'ID': '131yybV7A3TmC34a0qE8u8', 'Title': 'Tunak Tunak Tun', 'Artists': ['Daler Mehndi'], 'Duration': 303.133}
 {'ID': '71k9trCB8lZlbgFJSqhpX4', 'Title': 'Ultimate Frisbee', 'Artists': ['Parry Gripp'], 'Duration': 88.09}
 {'ID': '1Je1IMUlBXcx1Fz0WE7oPT', 'Title': 'Wannabe', 'Artists': ['Spice Girls'], 'Duration': 173.026}
+{'ID': '1VTEoni0vuY5eRjPKD3aqo', 'Title': 'We Are Charlie Kirk', 'Artists': ['Spalexma'], 'Duration': 224.479}
 {'ID': '3CNoyx7QAu6Tx7h6ssiVpH', 'Title': 'We Are Number One (From "LazyTown")', 'Artists': ['Mr Dooves'], 'Duration': 163.61}
 {'ID': '0IzOLJVaqwaQR5zBad9iWn', 'Title': 'We Are Number One - Instrumental Version', 'Artists': ['4Fate'], 'Duration': 142.732}
 {'ID': '4v6jydWBTAIqnyPVNyOAdc', 'Title': 'What Is Love', 'Artists': ['Haddaway'], 'Duration': 269.373}
-{'ID': '60R2v9lheAu3lwZwAFxMZK', 'Title': 'White & Nerdy (Parody of "Ridin\'" by Chamillionaire feat. Krayzie Bone)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 170.64}
+{'ID': '60R2v9lheAu3lwZwAFxMZK', 'Title': 'White & Nerdy (Parody of "Ridin\'" by Chamillionaire feat. Krayzie Bone)', 'Artists': ['"Weird Al" Yankovic'], 'Duration': 170.651}
 {'ID': '3rCbgZ8FgdUZdKzsphhzaE', 'Title': 'Wii Sports Theme', 'Artists': ['FamilyJules', 'ArtificialFear'], 'Duration': 184.0}
 {'ID': '4RNwcYuvlMi1msShXCUfzC', 'Title': 'Wii Theme but Its September', 'Artists': ['Mr Rock'], 'Duration': 154.096}
 {'ID': '5wj4E6IsrVtn8IBJQOd0Cl', 'Title': 'Wonderwall (Remastered)', 'Artists': ['Oasis'], 'Duration': 258.732}
