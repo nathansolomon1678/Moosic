@@ -27,3 +27,6 @@ This repository actually has saved me before. If I wasn't version-controlling my
 
 ## My playlists
 See all my playlists [here](https://github.com/nathansolomon1678/Moosic/tree/main/playlists) or [follow me on Spotify](https://open.spotify.com/user/1knaig961apydoe6jjdhwyiq6).
+
+## Refresh token revoked
+If you get the error `spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token revoked`, create a new client secret from the Spotify developer page and put that in `api_key_stuff.json`. Then run `rm .cache*` and try again.

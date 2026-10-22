@@ -46,6 +46,7 @@
 {'ID': '53tfEupEzQRtVFOeZvk7xq', 'Title': 'DESPECHÁ', 'Artists': ['ROSALÍA'], 'Duration': 156.787}
 {'ID': '4uQcgpptWmL2TrIqYMLat5', 'Title': 'Despre Tine', 'Artists': ['O-Zone'], 'Duration': 227.68}
 {'ID': '3nWYPT891FrWJTpdxLG4Xj', 'Title': 'Despues De Tanto', 'Artists': ['José Maria Napoleón'], 'Duration': 205.56}
+{'ID': '2JJSGhPpATm8lXeYjD95fw', 'Title': 'Desvelado', 'Artists': ['Bobby Pulido'], 'Duration': 221.226}
 {'ID': '4eQLdiFdT3FCbtMafhEBuj', 'Title': 'dingyldai', 'Artists': ['Yat-Kha'], 'Duration': 309.0}
 {'ID': '4hD4Q2BNH50ryovUWNzXKe', 'Title': 'Dopamine (Split Brain Version)', 'Artists': ['Madelline'], 'Duration': 165.461}
 {'ID': '73FM7OWCDMLwTgBHZzWBpJ', 'Title': "Dorime (Ameno's Hybrid Orchestra)", 'Artists': ['Peiroten'], 'Duration': 219.742}
@@ -58,6 +59,7 @@
 {'ID': '15XYdD283tK9iyJzL738bn', 'Title': 'Désenchantée', 'Artists': ['Mylène Farmer'], 'Duration': 322.76}
 {'ID': '0SzNJxel0NMpA4xM2COhO4', 'Title': 'Dímelo', 'Artists': ['Marc Anthony'], 'Duration': 228.066}
 {'ID': '7qCAVkHWZkF44OzOUKf8Cr', 'Title': 'El Perdón (with Enrique Iglesias)', 'Artists': ['Nicky Jam', 'Enrique Iglesias'], 'Duration': 205.906}
+{'ID': '3ozuHMral4k7ALNOgPdxQ8', 'Title': 'El Primer Día del Resto de Mi Vida - Directo Primera Fila', 'Artists': ['La Oreja de Van Gogh'], 'Duration': 262.84}
 {'ID': '0tzixmHNQfE6S6SirSToxW', 'Title': 'El Ultimo Adiós - Varios Artistas Version', 'Artists': ['Ricky Martin', 'Alejandro Sanz', 'Thalia', 'Juan Luis Guerra 4.40', 'Gloria Estefan', 'Celia Cruz', 'Olga Tañón', 'Ricardo Montaner', 'Ana Gabriel', 'Jorge Hernández', 'Los Tigres Del Norte', 'Alicia Villarreal', 'Alejandro Fernández', 'Carlos Vives', 'Jaci Velasquez', 'Marco Antonio Solís', 'José José', 'Lucía Méndez', 'Jennifer Lopez', 'Emmanuel'], 'Duration': 237.466}
 {'ID': '5pjwFYtPfSnqRuvPsFwGNr', 'Title': 'En säng av rosor', 'Artists': ['Darin'], 'Duration': 222.138}
 {'ID': '6bdpj89aYEBjhpsenXAsmO', 'Title': 'Enna Sona', 'Artists': ['A.R. Rahman', 'Arijit Singh'], 'Duration': 213.646}
@@ -67,6 +69,7 @@
 {'ID': '6I86RF3odBlcuZA9Vfjzeq', 'Title': 'Eres Mía', 'Artists': ['Romeo Santos'], 'Duration': 250.64}
 {'ID': '3b1IQflSLrgzYQPGFzI9cl', 'Title': 'Es Por Ti', 'Artists': ['Juanes'], 'Duration': 250.693}
 {'ID': '5Pl4OxV9RGWNMO8MGmAoDP', 'Title': "Et même après je t'aimerai", 'Artists': ['Hoshi'], 'Duration': 195.986}
+{'ID': '5PPnufmkHvvciblclyVoD4', 'Title': 'Ey Joonam', 'Artists': ['Sami Beigi'], 'Duration': 216.137}
 {'ID': '5Q61yNbqsnJdAAsrPxxL3Q', 'Title': 'Fekete pillangó', 'Artists': ['Omega'], 'Duration': 247.4}
 {'ID': '1tAyEL10PQDcIvEL2o75wt', 'Title': 'figyelj', 'Artists': ['Azahriah'], 'Duration': 164.29}
 {'ID': '7zdJTO4JWFwQSJlkQ87Pk2', 'Title': 'Ghen Co Vy (Vietnamese Version) (feat. Erik & Khắc Hưng)', 'Artists': ['MIN', 'ERIK', 'Khắc Hưng'], 'Duration': 189.6}
@@ -100,7 +103,7 @@
 {'ID': '1Hg2egRryMkCdXqXmXki3A', 'Title': 'Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]', 'Artists': ['Linkin Park', 'Aaron Lewis'], 'Duration': 340.253}
 {'ID': '0mR1bExLKqy9Uzzp51NQSm', 'Title': 'Kulning', 'Artists': ['voho', 'Jonna Jinton'], 'Duration': 183.289}
 {'ID': '7MNF4bxEp4UhPBSVdTEl43', 'Title': 'Kérdés', 'Artists': ['Generál'], 'Duration': 154.666}
-{'ID': '52LJ3hyknOijCrE5gCD0rE', 'Title': "L'Amour Toujours", 'Artists': ["Gigi D'Agostino"], 'Duration': 242.053}
+{'ID': '52LJ3hyknOijCrE5gCD0rE', 'Title': "L'Amour Toujours", 'Artists': ["GIGI D'AGOSTINO"], 'Duration': 242.053}
 {'ID': '2aEeghgUcnu75tzcolFMfs', 'Title': 'La Bamba - Single Version', 'Artists': ['Ritchie Valens'], 'Duration': 126.96}
 {'ID': '0Gx4VrHzS7pZOEAGrmXXBH', 'Title': 'La Bicicleta', 'Artists': ['Carlos Vives', 'Shakira'], 'Duration': 229.509}
 {'ID': '2EM9zpAc7PVeoAydmbfVIL', 'Title': 'La Camisa Negra', 'Artists': ['Juanes'], 'Duration': 216.706}
@@ -109,6 +112,7 @@
 {'ID': '0OMRAvrtLWE2TvcXorRiB9', 'Title': 'La Gozadera (feat. Marc Anthony)', 'Artists': ['Gente De Zona', 'Marc Anthony'], 'Duration': 203.049}
 {'ID': '2DNyZP4Py6f4zMASLBnIu6', 'Title': 'La Playa', 'Artists': ['La Oreja de Van Gogh'], 'Duration': 247.693}
 {'ID': '1zpgP4DV86YJSPoG1FWZV3', 'Title': 'La Vecina', 'Artists': ['Kewin Cosmos'], 'Duration': 193.375}
+{'ID': '5ycn8M0WNGedabDuaH9mQT', 'Title': 'Labios Mordidos (with KAROL G)', 'Artists': ['Kali Uchis', 'KAROL G'], 'Duration': 195.373}
 {'ID': '6xepovPqjvrkEw9Y5AMmTm', 'Title': 'Lambada - Original Version 1989', 'Artists': ['Kaoma'], 'Duration': 207.466}
 {'ID': '6Pur3hWy6Nzc27ilmsp5HA', 'Title': 'Lamento Boliviano', 'Artists': ['Los Enanitos Verdes'], 'Duration': 222.226}
 {'ID': '7FERDnffKGQKul3P32Sm37', 'Title': "Lao' a Lao'", 'Artists': ['Prince Royce'], 'Duration': 184.341}
@@ -118,11 +122,12 @@
 {'ID': '4oaj36KzXRgDg4McgcTsZK', 'Title': 'Macarena', 'Artists': ['Los Del Rio'], 'Duration': 249.506}
 {'ID': '1H1O1nhwG9DlOk83mb1Ak8', 'Title': 'Madár', 'Artists': ['Leander Kills'], 'Duration': 214.0}
 {'ID': '4ScGhodziBwOzfcT5GNMYP', 'Title': 'Maijodler - Live at GORS, Rēzekne, 2019', 'Artists': ['Auli', 'Batzorig Vaanchig', 'Kai Somby', 'Edgars Lipors', 'Albin Paulus'], 'Duration': 224.735}
-{'ID': '7BjQqiOJio4RdPL33yALKE', 'Title': 'Makhna - From "Drive"', 'Artists': ['Yasser Desai', 'Tanishk Bagchi', 'Asees Kaur'], 'Duration': 183.0}
+{'ID': '7BjQqiOJio4RdPL33yALKE', 'Title': 'Makhna - From "Drive"', 'Artists': ['Tanishk Bagchi', 'Yasser Desai', 'Asees Kaur'], 'Duration': 183.0}
 {'ID': '73K33p4Vyz9koXGqmL5eFs', 'Title': 'Malang Sajna', 'Artists': ['Sachet Tandon', 'Parampara Tandon', 'Kumaar', 'Sachet-Parampara'], 'Duration': 159.108}
 {'ID': '3uBzbyufWh6bJxc4Xr1NW2', 'Title': 'Mardeh Tanhayeh Shab', 'Artists': ['Habib'], 'Duration': 216.266}
 {'ID': '2wx5Wpss70wOpYA6MM7goQ', 'Title': 'Mardröm (feat. Smith & Thell)', 'Artists': ['Darin', 'Smith & Thell'], 'Duration': 189.826}
 {'ID': '0fBK1og2qGc1vSdEln0sFs', 'Title': 'mariana.árok', 'Artists': ['Azahriah'], 'Duration': 244.66}
+{'ID': '3WD2cic9S2VrGIb6h114MM', 'Title': 'Mariposa', 'Artists': ['Peach Tree Rascals'], 'Duration': 210.0}
 {'ID': '6cUOiOY5qh2FpIQWIYAd2h', 'Title': 'Mehrama', 'Artists': ['Pritam', 'Darshan Raval', 'Antara Mitra'], 'Duration': 249.415}
 {'ID': '6lbFviODOVoS12aTK9uO6k', 'Title': 'Muchana - Zouk Love', 'Artists': ['Kanda Bongo Man'], 'Duration': 302.856}
 {'ID': '6dK1HEHZcQlh24bSU7pTaZ', 'Title': 'Mundian to Bach Ke', 'Artists': ['Panjabi MC'], 'Duration': 244.666}
@@ -136,7 +141,7 @@
 {'ID': '4pMyhL7qpkgIquLtn8ukUa', 'Title': 'Nunca digas', 'Artists': ['Los Solitarios'], 'Duration': 168.866}
 {'ID': '0GlDisMmaHlE24GdZzxgif', 'Title': 'Nélküled', 'Artists': ['Ismerős Arcok'], 'Duration': 218.186}
 {'ID': '2MHFnAw5nAjTXnBFO0Y8s9', 'Title': 'O Forse Sei Tu', 'Artists': ['Elisa'], 'Duration': 233.577}
-{'ID': '4cFwhwH5ydnHgB0Tv3lZsm', 'Title': 'O Saki Saki (From "Batla House")', 'Artists': ['Vishal-Shekhar', 'Neha Kakkar', 'Tulsi Kumar', 'B Praak'], 'Duration': 191.089}
+{'ID': '4cFwhwH5ydnHgB0Tv3lZsm', 'Title': 'O Saki Saki (From "Batla House")', 'Artists': ['Vishal-Shekhar', 'Tulsi Kumar', 'Neha Kakkar', 'B Praak', 'Tanishk Bagchi', 'Dev Kohli'], 'Duration': 191.089}
 {'ID': '0iddCWjFnIc2pENyQWIIn2', 'Title': 'Olyan Ő', 'Artists': ['Bagossy Brothers Company'], 'Duration': 226.25}
 {'ID': '2MGzJVW4N1SuPGdTlH0fSr', 'Title': 'Orange (Shigatsu Wa Kimi No Uso) [Ending]', 'Artists': ['Berioska'], 'Duration': 349.96}
 {'ID': '3Nuwv0OCUO3TFYQjxAtRnC', 'Title': 'Pokarekare Ana', 'Artists': ['Traditional', 'Hayley Westenra', 'Ian Dean', 'Royal Philharmonic Orchestra'], 'Duration': 198.813}
@@ -146,6 +151,7 @@
 {'ID': '4txQPJDlvU72lC6EMhT7m9', 'Title': 'Qué Tienes Tú (feat. Jesús de Reik & Mau y Ricky)', 'Artists': ['Dvicio', 'Jesús Reik', 'Mau y Ricky'], 'Duration': 212.348}
 {'ID': '0cMaMqufVDYahIgLUUfbe5', 'Title': 'Rais Lebled', 'Artists': ['El General'], 'Duration': 226.115}
 {'ID': '4uK0M8AI6gyFmyzUneQpbi', 'Title': 'Rait Zara Si (From "Atrangi Re")', 'Artists': ['A.R. Rahman', 'Arijit Singh', 'Shashaa Tirupati'], 'Duration': 291.462}
+{'ID': '07p0kLnvfQQ2bLujHyzSGK', 'Title': 'Rechazame', 'Artists': ['Prince Royce'], 'Duration': 223.2}
 {'ID': '4ORvXsPK9AJmDzm36BYcdy', 'Title': 'Reliquia', 'Artists': ['ROSALÍA'], 'Duration': 230.24}
 {'ID': '70fA3vjK2r6kpHrN6adr9q', 'Title': 'Ride It (Kya Yehi Pyaar Hai) - Hindi Version', 'Artists': ['Jay Sean'], 'Duration': 193.706}
 {'ID': '06p2Ij0lXD45LODQDCov0u', 'Title': 'Rosas', 'Artists': ['La Oreja de Van Gogh'], 'Duration': 237.026}
@@ -153,12 +159,14 @@
 {'ID': '5PJEi2dbSm2iQalWiV7NjZ', 'Title': "S.O.S d'un terrien en détresse", 'Artists': ['Dimash Qudaibergen'], 'Duration': 246.543}
 {'ID': '6NlJtxTYtt0b8tY2IAZDAV', 'Title': 'S91', 'Artists': ['KAROL G'], 'Duration': 173.005}
 {'ID': '2QWlBxtRxaMGRrKlwFFxLn', 'Title': 'Sabor a Almendras', 'Artists': ['Los Del Suquía', 'La Sonora Cordobesa'], 'Duration': 174.453}
+{'ID': '2qHfea5DPLpxCd84kyBa3L', 'Title': 'Safety Net (feat. Sarah Toscano)', 'Artists': ['Bea', 'Sarah Toscano'], 'Duration': 202.877}
 {'ID': '2OFNudaD0TiwN4PAjLudtm', 'Title': 'Samba De Janeiro - Radio Edit', 'Artists': ['Bellini'], 'Duration': 168.447}
 {'ID': '2znIV62IxtbY9gSEPdIAho', 'Title': 'Sawan Aaya Hai', 'Artists': ['Tony Kakkar', 'Arijit Singh'], 'Duration': 288.176}
 {'ID': '761bh1KRwaZg8IsORW03Fq', 'Title': 'Se Acabó El Abuso', 'Artists': ['Anthony Santos'], 'Duration': 248.5}
 {'ID': '5uraJqtCBvLpwt3VeomZdq', 'Title': 'Shinzo wo Sasageyo !', 'Artists': ['Linked Horizon'], 'Duration': 341.413}
 {'ID': '02bKaAG61tMw9c63fzKXal', 'Title': 'Sin miedo a nada (feat. Amaia Montero)', 'Artists': ['Alex Ubago', 'Amaia Montero'], 'Duration': 310.866}
 {'ID': '6dkHl76eMPmh6BhiZLMWCW', 'Title': 'So Many Ways (feat. POiSON GiRL FRiEND)', 'Artists': ['Kiss Facility', 'POiSON GiRL FRiEND'], 'Duration': 210.0}
+{'ID': '1OZ2eE4InmLDhl5KVG002w', 'Title': 'Song of Women (feat. Lzzy Hale of Halestorm)', 'Artists': ['The HU', 'Halestorm', 'Lzzy Hale'], 'Duration': 349.27}
 {'ID': '5HcBFhFQEtqKrsRkr95XYu', 'Title': 'Sooraj Dooba Hain (From "Roy")', 'Artists': ['Arijit Singh', 'Aditi Singh Sharma'], 'Duration': 264.854}
 {'ID': '0mnAmQX1pciMncT2qFCNmK', 'Title': 'SUBEME LA RADIO', 'Artists': ['Enrique Iglesias', 'Descemer Bueno', 'Zion & Lennox'], 'Duration': 207.68}
 {'ID': '3TY1PFZXmYeiLcXygB74My', 'Title': 'Suerte (Whenever, Wherever)', 'Artists': ['Shakira'], 'Duration': 194.106}
@@ -177,6 +185,7 @@
 {'ID': '6obm5ubZCFaxTw44EonarI', 'Title': 'Tír na nÓg', 'Artists': ['Celtic Woman', 'Oonagh'], 'Duration': 188.724}
 {'ID': '3df4fSoW5zsdNi5Wf3K5RP', 'Title': 'Tú No Eres Para Mi', 'Artists': ['Fanny Lu'], 'Duration': 205.666}
 {'ID': '1fQIgahm5olYZiqKRiV6xV', 'Title': 'Ulveham', 'Artists': ['Gåte'], 'Duration': 180.0}
+{'ID': '6j5LtifAnuTjTYvml61yFZ', 'Title': 'Un Millón de Primaveras', 'Artists': ['Vicente Fernández'], 'Duration': 173.08}
 {'ID': '7oKMHBjWMt3CbUMb9rd7EG', 'Title': 'Vargsången', 'Artists': ['Johanna Grüssner', 'Wegeliuskvartetten', 'Patrick Wingren'], 'Duration': 242.04}
 {'ID': '5OYTYU9NklzFgpUhSbtrTk', 'Title': 'Virgo Serena', 'Artists': ['Damjan Mravunac'], 'Duration': 91.876}
 {'ID': '4YTsQ1axezXF9S6DmX45LS', 'Title': 'Vive', 'Artists': ['José Maria Napoleón'], 'Duration': 184.813}
@@ -191,6 +200,7 @@
 {'ID': '7EPJjok3L601bqGoHoB5GY', 'Title': 'Vur Yüreğim', 'Artists': ['Sertab Erener'], 'Duration': 271.533}
 {'ID': '5sDUUmJHkWEY95PBipnQNV', 'Title': 'Waikahuli', 'Artists': ['Kuana Torres Kahele'], 'Duration': 251.639}
 {'ID': '15WG2oe2Ao2qqwD4VLyzYx', 'Title': 'Y Desde Entonces', 'Artists': ['Fernando del Río'], 'Duration': 232.789}
+{'ID': '5lqrDIEQy8YORSY8MoW37I', 'Title': 'Ya No Vuelvas', 'Artists': ['Lupita Infante'], 'Duration': 174.033}
 {'ID': '0edWjtiyrT31785vfCnXgc', 'Title': 'Yerushalayim - Live Version', 'Artists': ['Yerachmiel Begun & The Miami Boys Choir'], 'Duration': 251.088}
 {'ID': '7dH9Qnbb7pwDahy1Vb9ZQa', 'Title': 'Yuve Yuve Yu', 'Artists': ['The HU'], 'Duration': 282.92}
 {'ID': '46byx3nwRDZwZ0dxPZNs0G', 'Title': 'Ángel - Once in Your Lifetime', 'Artists': ['Belinda'], 'Duration': 220.253}
